@@ -1,5 +1,5 @@
 import { beatsPerBar, countInBeatsFor, noteEvents, resolveChordBeats, type ParsedSong } from './abc'
-import { chordMidi } from './chords'
+import { chordMidi, tonicChordMidi } from './chords'
 import type { ChordEvent } from './schema'
 import type { Key, Mode } from './solfa'
 import { toMidi } from './pitch'
@@ -91,6 +91,40 @@ function planChords(
     // 次の和音まで伸ばす。最後の和音は曲の終わりまで
     durationBeats: Math.max(0.25, (resolved[i + 1]?.startBeat ?? musicEnd) - c.startBeat),
   }))
+}
+
+export interface TonicCueEvent {
+  midis: number[]
+  startBeat: number
+  durationBeats: number
+}
+
+/**
+ * Step 0 の調の提示。
+ *
+ * まず主和音を **アルペジオで1音ずつ**（長調なら do-mi-so、短調なら
+ * la-do-mi）鳴らして各音の高さを聞かせ、**1拍おいてから三音を同時に**
+ * 鳴らして和音として響かせる。分解して聞かせてから重ねることで、
+ * 調のセンターが音程としても響きとしても掴める。
+ */
+export function buildTonicCue(tonicMidi: number, mode: Mode): TonicCueEvent[] {
+  const chord = tonicChordMidi(tonicMidi, mode)
+  const arpeggio = chord.map((midi, i) => ({
+    midis: [midi],
+    startBeat: i,
+    // 次の音との間に僅かな切れ目を作る
+    durationBeats: 0.9,
+  }))
+  return [
+    ...arpeggio,
+    // アルペジオの最後の音が終わる拍のさらに1拍後
+    { midis: chord, startBeat: chord.length + 1, durationBeats: 2 },
+  ]
+}
+
+/** 調の提示が鳴り終わるまでの拍数 */
+export function tonicCueLengthBeats(cue: readonly TonicCueEvent[]): number {
+  return cue.reduce((max, e) => Math.max(max, e.startBeat + e.durationBeats), 0)
 }
 
 /**

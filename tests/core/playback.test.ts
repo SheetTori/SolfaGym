@@ -1,6 +1,11 @@
 import { describe, expect, it } from 'vitest'
 import { beatsPerBar, parseAbc, pickupBeats } from '../../src/core/abc'
-import { buildPlaybackPlan, isDownbeat } from '../../src/core/playback'
+import {
+  buildPlaybackPlan,
+  buildTonicCue,
+  isDownbeat,
+  tonicCueLengthBeats,
+} from '../../src/core/playback'
 import { parsePitch, toMidi } from '../../src/core/pitch'
 import type { Key } from '../../src/core/solfa'
 
@@ -140,5 +145,55 @@ describe('終了位置', () => {
     expect(plan.melody).toHaveLength(4)
     expect(plan.melody[3]).toMatchObject({ startBeat: 7, durationBeats: 4 })
     expect(plan.endBeat).toBe(11)
+  })
+})
+
+describe('Step 0 の調の提示', () => {
+  it('長調は do-mi-so を1拍ずつアルペジオしてから三音同時', () => {
+    const cue = buildTonicCue(60, 'major') // do = C4
+    expect(cue).toEqual([
+      { midis: [48], startBeat: 0, durationBeats: 0.9 },
+      { midis: [52], startBeat: 1, durationBeats: 0.9 },
+      { midis: [55], startBeat: 2, durationBeats: 0.9 },
+      { midis: [48, 52, 55], startBeat: 4, durationBeats: 2 },
+    ])
+  })
+
+  it('アルペジオの後に必ず1拍の空きがある', () => {
+    for (const mode of ['major', 'minor'] as const) {
+      const cue = buildTonicCue(60, mode)
+      const single = cue.filter((e) => e.midis.length === 1)
+      const chord = cue.find((e) => e.midis.length > 1)!
+      const lastArpeggioBeat = single[single.length - 1].startBeat
+      // 最後の単音は1拍を占め、その次の1拍は空ける
+      expect(chord.startBeat - (lastArpeggioBeat + 1), mode).toBe(1)
+    }
+  })
+
+  it('アルペジオの音が和音の構成音と一致する', () => {
+    const cue = buildTonicCue(60, 'major')
+    const single = cue.filter((e) => e.midis.length === 1).flatMap((e) => e.midis)
+    const chord = cue.find((e) => e.midis.length > 1)!.midis
+    expect(single).toEqual(chord)
+  })
+
+  it('短調は la-do-mi（短三和音）になる', () => {
+    const cue = buildTonicCue(69, 'minor') // la = A4
+    const chord = cue.find((e) => e.midis.length > 1)!.midis
+    const intervals = chord.map((m) => m - chord[0])
+    expect(intervals).toEqual([0, 3, 7])
+  })
+
+  it('提示の長さは 6 拍（アルペジオ3 + 空き1 + 和音2）', () => {
+    expect(tonicCueLengthBeats(buildTonicCue(60, 'major'))).toBe(6)
+  })
+
+  it('移調してもアルペジオと和音の形は保たれる', () => {
+    for (let tonic = 55; tonic <= 72; tonic++) {
+      const cue = buildTonicCue(tonic, 'major')
+      const chord = cue.find((e) => e.midis.length > 1)!.midis
+      expect(chord.map((m) => m - chord[0]), `tonic=${tonic}`).toEqual([0, 4, 7])
+      expect(cue.map((e) => e.startBeat)).toEqual([0, 1, 2, 4])
+    }
   })
 })

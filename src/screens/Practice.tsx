@@ -40,7 +40,7 @@ interface StepDef {
 const STEPS: StepDef[] = [
   {
     title: '調を聴く',
-    hint: '主和音のあと主音が鳴る。この高さを do（短調なら la）として覚える。',
+    hint: 'do-mi-so が1音ずつ鳴り、1拍おいて三音同時に響く（短調は la-do-mi）。この高さと響きを調のセンターとして掴む。',
     variant: 'rhythm',
     melody: false,
     accompaniment: false,
@@ -198,7 +198,11 @@ export function Practice() {
       const engine = await getEngine()
 
       if (step === 0) {
-        await engine.playTonicChord(derived.targetTonicMidi, analyzed.meta.mode)
+        await engine.playTonicChord(
+          derived.targetTonicMidi,
+          analyzed.meta.mode,
+          analyzed.meta.baseBpm * tempoRatio,
+        )
         setPlaying(false)
         return
       }

@@ -1,6 +1,10 @@
 import type * as ToneNS from 'tone'
-import { tonicChordMidi } from '../core/chords'
-import { isDownbeat, type PlaybackPlan } from '../core/playback'
+import {
+  buildTonicCue,
+  isDownbeat,
+  tonicCueLengthBeats,
+  type PlaybackPlan,
+} from '../core/playback'
 import type { Mode } from '../core/solfa'
 
 /**
@@ -117,16 +121,40 @@ class AudioEngine {
     this.click.volume.value = -12
   }
 
-  /** Step 0: 主和音 → 主音。調のセンターを耳に置くための提示 */
-  async playTonicChord(tonicMidi: number, mode: Mode): Promise<void> {
+  /**
+   * Step 0: 調のセンターを耳に置くための提示。
+   *
+   * 主和音をアルペジオで1音ずつ鳴らし、1拍おいてから三音を同時に鳴らす
+   * （何を・いつ鳴らすかは core/playback.ts が決める）。
+   */
+  async playTonicChord(tonicMidi: number, mode: Mode, bpm: number): Promise<void> {
     this.stop()
-    const now = this.tone.now()
-    const chord = tonicChordMidi(tonicMidi, mode).map((m) => this.freq(m))
-    this.accompaniment.volume.value = -10
-    this.accompaniment.triggerAttackRelease(chord, 1.4, now)
-    this.melody.triggerAttackRelease(this.freq(tonicMidi), 1.0, now + 1.6)
-    this.accompaniment.volume.value = -18
-    await new Promise((resolve) => setTimeout(resolve, 2800))
+
+    const cue = buildTonicCue(tonicMidi, mode)
+    const beat = 60 / bpm
+    const start = this.tone.now() + 0.1
+
+    // 提示の間だけ和音を前に出す。復帰は必ず finally で行う
+    this.accompaniment.volume.value = -8
+
+    try {
+      for (const event of cue) {
+        const at = start + event.startBeat * beat
+        const length = event.durationBeats * beat
+        // 単音は旋律の音色で高さを明瞭に、三音同時は和音の音色で響かせる
+        const synth = event.midis.length === 1 ? this.melody : this.accompaniment
+        synth.triggerAttackRelease(
+          event.midis.map((m) => this.freq(m)),
+          length,
+          at,
+        )
+      }
+
+      const totalSeconds = tonicCueLengthBeats(cue) * beat + 0.4
+      await new Promise((resolve) => setTimeout(resolve, totalSeconds * 1000))
+    } finally {
+      this.accompaniment.volume.value = -18
+    }
   }
 
   playScore(opts: PlayScoreOptions): PlaybackHandle {
