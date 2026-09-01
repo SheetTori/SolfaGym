@@ -1,0 +1,21 @@
+{
+  "id": "frere-jacques",
+  "title": "フレール・ジャック",
+  "titleEn": "Frère Jacques",
+  "source": "French traditional (public domain)",
+  "mode": "major",
+  "tonicMidi": 60,
+  "baseBpm": 104,
+  "unit": "kodaly",
+  "chords": [
+    { "bar": 1, "beat": 0, "degree": "I" },
+    { "bar": 2, "beat": 0, "degree": "I" },
+    { "bar": 3, "beat": 0, "degree": "I" },
+    { "bar": 4, "beat": 0, "degree": "I" },
+    { "bar": 5, "beat": 0, "degree": "I" },
+    { "bar": 6, "beat": 0, "degree": "I" },
+    { "bar": 7, "beat": 0, "degree": "I" },
+    { "bar": 8, "beat": 0, "degree": "I" }
+  ],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:C\nC2 D2 E2 C2 | C2 D2 E2 C2 | E2 F2 G4 | E2 F2 G4 | G A G F E2 C2 | G A G F E2 C2 | C2 G,2 C4 | C2 G,2 C4 |]\n"
+}

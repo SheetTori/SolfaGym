@@ -1,0 +1,17 @@
+{
+  "id": "furusato",
+  "title": "ふるさと（冒頭）",
+  "source": "岡野貞一 (d.1941) — 旧法50年で1991年末に著作権消滅",
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 88,
+  "unit": "kodaly",
+  "chords": [
+    { "bar": 1, "beat": 0, "degree": "I" },
+    { "bar": 2, "beat": 0, "degree": "I" },
+    { "bar": 3, "beat": 0, "degree": "V" },
+    { "bar": 3, "beat": 2, "degree": "I" },
+    { "bar": 4, "beat": 0, "degree": "I" }
+  ],
+  "abc": "X:1\nM:3/4\nL:1/4\nK:F\nC | F F G | A2 A | G G A | F3 |]\n"
+}

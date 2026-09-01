@@ -1,0 +1,21 @@
+{
+  "id": "mary-had-a-little-lamb",
+  "title": "メリーさんのひつじ",
+  "titleEn": "Mary Had a Little Lamb",
+  "source": "American traditional (public domain)",
+  "mode": "major",
+  "tonicMidi": 60,
+  "baseBpm": 108,
+  "unit": "kodaly",
+  "chords": [
+    { "bar": 1, "beat": 0, "degree": "I" },
+    { "bar": 2, "beat": 0, "degree": "I" },
+    { "bar": 3, "beat": 0, "degree": "V" },
+    { "bar": 4, "beat": 0, "degree": "I" },
+    { "bar": 5, "beat": 0, "degree": "I" },
+    { "bar": 6, "beat": 0, "degree": "I" },
+    { "bar": 7, "beat": 0, "degree": "V" },
+    { "bar": 8, "beat": 0, "degree": "I" }
+  ],
+  "abc": "X:1\nM:4/4\nL:1/4\nK:C\nE D C D | E E E2 | D D D2 | E G G2 | E D C D | E E E E | D D E D | C4 |]\n"
+}

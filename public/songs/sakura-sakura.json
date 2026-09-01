@@ -1,0 +1,11 @@
+{
+  "id": "sakura-sakura",
+  "title": "さくらさくら（冒頭）",
+  "source": "日本古謡・作曲者不詳（パブリックドメイン）",
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 72,
+  "unit": "japanese",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/4\nK:Am\nA A B2 | A A B2 | A B c B | A B A F | E4 |]\n"
+}

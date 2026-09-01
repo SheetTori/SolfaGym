@@ -1,0 +1,18 @@
+{
+  "id": "hot-cross-buns",
+  "title": "ホット・クロス・バンズ",
+  "titleEn": "Hot Cross Buns",
+  "source": "English traditional (public domain)",
+  "mode": "major",
+  "tonicMidi": 60,
+  "baseBpm": 100,
+  "unit": "kodaly",
+  "chords": [
+    { "bar": 1, "beat": 0, "degree": "I" },
+    { "bar": 2, "beat": 0, "degree": "I" },
+    { "bar": 3, "beat": 0, "degree": "I" },
+    { "bar": 3, "beat": 2, "degree": "V" },
+    { "bar": 4, "beat": 0, "degree": "I" }
+  ],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:C\nE2 D2 C4 | E2 D2 C4 | C C C C D D D D | E2 D2 C4 |]\n"
+}

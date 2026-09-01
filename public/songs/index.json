@@ -1,0 +1,156 @@
+{
+  "generatedAt": "2026-09-01T10:42:42.229Z",
+  "songs": [
+    {
+      "id": "rain-rain-go-away",
+      "title": "レイン・レイン・ゴー・アウェイ",
+      "titleEn": "Rain, Rain, Go Away",
+      "source": "English traditional (public domain)",
+      "mode": "major",
+      "unit": "kodaly",
+      "level": 1,
+      "syllables": [
+        "so",
+        "mi"
+      ]
+    },
+    {
+      "id": "au-clair-de-la-lune",
+      "title": "月の光に",
+      "titleEn": "Au clair de la lune",
+      "source": "French traditional (public domain)",
+      "mode": "major",
+      "unit": "kodaly",
+      "level": 4,
+      "syllables": [
+        "do",
+        "re",
+        "mi"
+      ]
+    },
+    {
+      "id": "hot-cross-buns",
+      "title": "ホット・クロス・バンズ",
+      "titleEn": "Hot Cross Buns",
+      "source": "English traditional (public domain)",
+      "mode": "major",
+      "unit": "kodaly",
+      "level": 4,
+      "syllables": [
+        "mi",
+        "re",
+        "do"
+      ]
+    },
+    {
+      "id": "mary-had-a-little-lamb",
+      "title": "メリーさんのひつじ",
+      "titleEn": "Mary Had a Little Lamb",
+      "source": "American traditional (public domain)",
+      "mode": "major",
+      "unit": "kodaly",
+      "level": 4,
+      "syllables": [
+        "mi",
+        "re",
+        "do",
+        "so"
+      ]
+    },
+    {
+      "id": "furusato",
+      "title": "ふるさと（冒頭）",
+      "source": "岡野貞一 (d.1941) — 旧法50年で1991年末に著作権消滅",
+      "mode": "major",
+      "unit": "kodaly",
+      "level": 5,
+      "syllables": [
+        "so",
+        "do",
+        "re",
+        "mi"
+      ]
+    },
+    {
+      "id": "frere-jacques",
+      "title": "フレール・ジャック",
+      "titleEn": "Frère Jacques",
+      "source": "French traditional (public domain)",
+      "mode": "major",
+      "unit": "kodaly",
+      "level": 6,
+      "syllables": [
+        "do",
+        "re",
+        "mi",
+        "fa",
+        "so",
+        "la"
+      ]
+    },
+    {
+      "id": "lightly-row",
+      "title": "ちょうちょう",
+      "titleEn": "Lightly Row",
+      "source": "German traditional (public domain)",
+      "mode": "major",
+      "unit": "kodaly",
+      "level": 6,
+      "syllables": [
+        "so",
+        "mi",
+        "fa",
+        "re",
+        "do"
+      ]
+    },
+    {
+      "id": "ode-to-joy",
+      "title": "歓喜の歌（交響曲第9番 第4楽章）",
+      "titleEn": "Ode to Joy",
+      "source": "Ludwig van Beethoven (d.1827, public domain)",
+      "mode": "major",
+      "unit": "kodaly",
+      "level": 6,
+      "syllables": [
+        "mi",
+        "fa",
+        "so",
+        "re",
+        "do"
+      ]
+    },
+    {
+      "id": "twinkle-twinkle",
+      "title": "きらきら星",
+      "titleEn": "Twinkle, Twinkle, Little Star",
+      "source": "French traditional \"Ah! vous dirai-je, maman\" (public domain)",
+      "mode": "major",
+      "unit": "kodaly",
+      "level": 6,
+      "syllables": [
+        "do",
+        "so",
+        "la",
+        "fa",
+        "mi",
+        "re"
+      ]
+    },
+    {
+      "id": "sakura-sakura",
+      "title": "さくらさくら（冒頭）",
+      "source": "日本古謡・作曲者不詳（パブリックドメイン）",
+      "mode": "minor",
+      "unit": "japanese",
+      "level": 7,
+      "syllables": [
+        "la",
+        "ti",
+        "do",
+        "fa",
+        "mi"
+      ]
+    }
+  ]
+}

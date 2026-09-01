@@ -1,0 +1,55 @@
+@import 'tailwindcss';
+
+/*
+ * Tailwind v4 は tailwind.config.js を持たない。カスタマイズはここで @theme。
+ * 楽譜は abcjs が SVG を吐くので、色だけこちらで currentColor に寄せて
+ * ダークモードに追従させる。
+ */
+
+.score {
+  color: #0f172a;
+}
+
+@media (prefers-color-scheme: dark) {
+  .score {
+    color: #e2e8f0;
+  }
+}
+
+.score svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* 五線・符頭・符尾・休符・調号 — abcjs は全部 path で描く */
+.score svg path {
+  fill: currentColor;
+}
+
+.score svg text,
+.score svg tspan {
+  fill: currentColor;
+}
+
+/* 階名（w: の歌詞行） */
+.score .abcjs-lyric {
+  font-weight: 600;
+}
+
+/* 再生カーソル。Tone.js の Draw が付け外しする */
+.score .abcjs-note.playing path,
+.score .abcjs-rest.playing path,
+.score .abcjs-note.playing text,
+.score .abcjs-rest.playing text {
+  fill: #0284c7;
+}
+
+@media (prefers-color-scheme: dark) {
+  .score .abcjs-note.playing path,
+  .score .abcjs-rest.playing path,
+  .score .abcjs-note.playing text,
+  .score .abcjs-rest.playing text {
+    fill: #38bdf8;
+  }
+}
