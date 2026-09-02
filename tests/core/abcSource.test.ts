@@ -5,6 +5,7 @@ import {
   importedKey,
   importedSongSchema,
   toParsedSong,
+  trimTrailingSilence,
   type ImportedSong,
 } from '../../src/core/abcSource'
 import { pitchName, toMidi } from '../../src/core/pitch'
@@ -254,5 +255,50 @@ describe('スキーマ', () => {
 
   it('音符が無ければ例外', () => {
     expect(() => toParsedSong(song({ elements: [BAR('final')] }))).toThrow(/音符が1つも無い/)
+  })
+})
+
+describe('曲末の無音を落とす', () => {
+  it('末尾の休符と空小節を落として終止線で閉じる', () => {
+    const result = trimTrailingSilence([
+      N(0, 0, 4, 1),
+      { kind: 'bar', type: 'normal' },
+      R(4),
+      { kind: 'bar', type: 'final' },
+    ])
+    expect(result).toEqual([N(0, 0, 4, 1), { kind: 'bar', type: 'final' }])
+  })
+
+  it('音符で終わっていたら終止線を足す', () => {
+    expect(trimTrailingSilence([N(0, 0, 4, 1)])).toEqual([
+      N(0, 0, 4, 1),
+      { kind: 'bar', type: 'final' },
+    ])
+  })
+
+  it('繰り返し記号は落とさない（落とすと繰り返しが消える）', () => {
+    const elements = [
+      { kind: 'bar', type: 'repeat-start' } as const,
+      N(0, 0, 4, 1),
+      { kind: 'bar', type: 'repeat-end' } as const,
+    ]
+    expect(trimTrailingSilence(elements)).toEqual(elements)
+  })
+
+  it('既に整っている曲は変わらない', () => {
+    const elements = [N(0, 0, 4, 1), N(1, 0, 4, 1), { kind: 'bar', type: 'final' } as const]
+    expect(trimTrailingSilence(elements)).toEqual(elements)
+  })
+
+  it('落とした結果が実際に ABC から消える', () => {
+    const s = song({
+      elements: [
+        N(0, 0, 4, 2), N(1, 0, 4, 2), BAR(),
+        R(4), BAR('final'),
+      ],
+    })
+    const trimmed = { ...s, elements: trimTrailingSilence(s.elements) }
+    expect(emitAbc(trimmed)).not.toContain('z')
+    expect(emitAbc(s)).toContain('z')
   })
 })

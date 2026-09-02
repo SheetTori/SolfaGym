@@ -232,6 +232,7 @@ def extract(path: Path, source: str, license_name: str, source_url: str | None) 
     if not sounding:
         raise Unsupported("音符が無い")
 
+
     guess = guess_key(sounding, score)
     title = (score.metadata.title if score.metadata else None) or path.stem
 

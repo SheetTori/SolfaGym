@@ -1,6 +1,11 @@
 import { readFileSync, readdirSync, writeFileSync, mkdirSync } from 'node:fs'
 import { join } from 'node:path'
-import { emitAbc, importedSongSchema, type ImportedSong } from '../src/core/abcSource'
+import {
+  emitAbc,
+  importedSongSchema,
+  trimTrailingSilence,
+  type ImportedSong,
+} from '../src/core/abcSource'
 import { analyzeSong } from '../src/core/song'
 import { validateImported, type ValidationResult } from '../src/core/validate'
 import type { Song } from '../src/core/schema'
@@ -58,7 +63,11 @@ function main() {
       continue
     }
 
-    const imported: ImportedSong = parsed.data
+    // 曲末の無音を落としてから検証する。出典によって付いたり付かなかったりする
+    const imported: ImportedSong = {
+      ...parsed.data,
+      elements: trimTrailingSilence(parsed.data.elements),
+    }
     let result: ValidationResult
     try {
       result = validateImported(imported)

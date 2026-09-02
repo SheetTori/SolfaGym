@@ -67,6 +67,34 @@ export const importedSongSchema = z.object({
 export type ImportedSong = z.infer<typeof importedSongSchema>
 export type ImportedElement = z.infer<typeof importedElementSchema>
 
+/**
+ * 曲末の休符と空小節を落とす。
+ *
+ * 出典によっては最後に空の小節が付いており、そのまま取り込むと毎回
+ * 数拍の無音が入って再生の終わりが間延びする。ただし `:|` で終わる曲の
+ * 繰り返し記号は落とさない（落とすと繰り返しが消える）。
+ */
+export function trimTrailingSilence(elements: readonly ImportedElement[]): ImportedElement[] {
+  const droppable = new Set(['normal', 'double', 'final'])
+  const trimmed = [...elements]
+
+  while (trimmed.length > 0) {
+    const last = trimmed[trimmed.length - 1]
+    if (last.kind === 'rest' || (last.kind === 'bar' && droppable.has(last.type))) {
+      trimmed.pop()
+      continue
+    }
+    break
+  }
+
+  // 音符で終わっていたら終止線で閉じる。`:|` で終わる曲はそのまま
+  const last = trimmed[trimmed.length - 1]
+  if (!last || last.kind !== 'bar') {
+    trimmed.push({ kind: 'bar', type: 'final' })
+  }
+  return trimmed
+}
+
 /** 取り込んだ音符列 → アプリ内部の解析済み表現 */
 export function toParsedSong(imported: ImportedSong): ParsedSong {
   const elements: ParsedElement[] = []
