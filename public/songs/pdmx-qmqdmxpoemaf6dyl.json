@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqdmxpoemaf6dyl",
+  "title": "Ca Ira (New French Schottishe 2)",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQdMxPoeMAF6DyLSeM1PqpfDdUcyCSEGSjraRya5c8SjH",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:Dm clef=treble\nD2 F A D2 F A | B2 A G A4 | B c d c B A G A | F2 F A E4 |\nD2 F A D2 F A | B2 A G A4 | B c d c B A G F | E D F E D4 |\nD2 F A D2 F A | B2 A G A4 | B c d c B A G A | F2 F A E4 |\nD2 F A D2 F A | B2 A G A4 | B c d c B A G F | E D F E D4 |\nd2 e f e2 d2 | c d c d A4 | B c d c B A G A | F2 F A E4 |\nd2 e f e2 d2 | c d c d A4 | B c d c B A G F | E D F E D4 |\nd2 e f e2 d2 | c d c d A4 | B c d c B A G A | F2 F A E4 |\nd2 e f e2 d2 | c d c d A4 | B c d c B A G F | E D F E D4 |]\n"
+}

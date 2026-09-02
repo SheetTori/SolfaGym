@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmv8cmyoidreuvap",
+  "title": "A night at the fair",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmV8CMyoiDReUVAPGt1vwU2YnAYq4frDCCRGp1KNRkfdPX",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nA | B2 A G E D | E G G G2 A | B G G d G G |\nB A A A B c | B2 A G E D | E G G G2 A | B G B A d c |\nB G G G2 | A | B2 A G E D | E G G G2 A |\nB G G d G G | B A A A B c | B2 A G E D | E G G G2 A |\nB G B A d c | B G G G2 | d | e g g e a a |\ne g g g e d | e d B A G A | B A A A2 d | e g g e a a |\ne g g g e d | c e d c B A | B G G G2 | d |\ne g g e a a | e g g g e d | e d B A G A | B A A A2 d |\ne g g e a a | e g g g e d | c e d c B A | B G G G2 |]\n"
+}

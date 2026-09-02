@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbv43fgkqvx41df",
+  "title": "Kate Dalrymple 2",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmbv43FGkqVX41DFqzhbrK9paubJ5YYjfY7wpUHFGkfaWy",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:A clef=treble\nA2 A c B2 B c | A2 A c B2 B c | A2 a g f e d c | B2 e2 c2 A2 |\nA2 A c B2 B c | A2 A c B2 B c | A2 a g f e d c | B2 e2 c2 A2 |\ne2 e f e d c d | e2 a2 e2 c d | e2 e f e d c d | e2 a g f e d c |\nd2 f d c2 e c | B2 B c d2 c B | A2 a g f e d c | B2 e2 c2 A2 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbc19i4yjaax16b",
+  "title": "Feller from Fortune",
+  "source": "PDMX — cc-zero",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmbc19i4yJAaX16BLN3rapanWKrQi77PxpvztsHkAiDUiX",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "cc-zero",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:G clef=treble\nd3 d2 d | G2 B d2 d | d e d B2 G | G2 c e2 e |\ne f g d3 | G2 B d2 d | d e d B2 G | g2 e d2 B |\nA B A G3 | c6 | G G B d2 d | d e d B2 G |\nG G c e2 e | e f g d3 | G G B d2 d | d e d B2 G |\ng g e d2 B | A B A G3 | d3 d2 d | G2 B d2 d |\nd e d B2 G | G2 c e2 e | e f g d3 | G2 B d2 d |\nd e d B2 G | g2 e d2 B | A B A G3 | c6 |\nG G B d2 d | d e d B2 G | G G c e2 e | e f g d3 |\nG G B d2 d | d e d B2 G | g g e d2 B | A B A G3 |\nd6 | G2 B d2 d | d e d B2 G | G G c e2 e |\ne f g d3 | g g g f2 d | e e e d2 B | G2 A B2 G |\nE E F G3 |]\n"
+}

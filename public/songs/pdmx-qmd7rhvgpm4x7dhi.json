@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmd7rhvgpm4x7dhi",
+  "title": "British Grenadiers",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmd7rhvgPm4X7DHi5HFVwuLjncuAfVZYhbJd2qPGgD1a4e",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nD2 | G2 D2 G2 A2 | B4 A2 B c | d2 G2 B A G F |\nG6 D2 | G2 D2 G2 A2 | B4 A2 B c | d2 G2 B A G F |\nG6 | B c | d3 e d2 c2 | B2 c2 d2 d2 |\ne2 e2 d c B A | G4 F2 D D | G2 F G A2 G A | B2 A B c2 B c |\nd2 G2 B A G F | G6 |]\n"
+}

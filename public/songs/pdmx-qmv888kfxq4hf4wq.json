@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmv888kfxq4hf4wq",
+  "title": "the Burning of the Piper's Hut",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmV888KFXq4Hf4WQbniipUK6pAsBzrecjiR4CKZ7M1rvvL",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:Am clef=treble\nE4 | A3 B c3 d e4 e4 | e3 d e g3 e4 d2 c2 | B4 G4 d4 G4 |\nB3 c d e3 d4 c3 B | A3 B c3 d e4 e4 | e3 d e g3 e4 d2 c2 | B4 G4 e4 d3 c |\nB4 A4 A4 | E4 | A3 B c3 d e4 e4 | e3 d e g3 e4 d2 c2 |\nB4 G4 d4 G4 | B3 c d e3 d4 c3 B | A3 B c3 d e4 e4 | e3 d e g3 e4 d2 c2 |\nB4 G4 e4 d3 c | B4 A4 A4 | E4 | e4 A4 g4 A4 |\ne4 A4 g4 d2 c2 | B4 G4 d4 G4 | B3 c d e3 d4 c3 B | e4 A4 g4 A4 |\ne4 A4 g4 d2 c2 | B4 G4 e4 d3 c | B4 A4 A4 | E4 |\ne4 A4 g4 A4 | e4 A4 g4 d2 c2 | B4 G4 d4 G4 | B3 c d e3 d4 c3 B |\ne4 A4 g4 A4 | e4 A4 g4 d2 c2 | B4 G4 e4 d3 c | B4 A4 A4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqfqc3fphwe8bgx",
+  "title": "L'arlequine",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQfqC3FPHWE8BgxrE3ZNHHcjh7rSptRudGkenCXeVWyxd",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/16\nK:C clef=treble\nc4 e4 c4 e4 | d3 e f3 g f3 e d3 c | B4 d4 B4 d4 | B3 c d3 e f3 e d3 c |\ne4 g4 e4 g4 | a3 g a3 b c'4 a4 | g3 c' b3 a g3 f e3 d | c4 e4 c4 |\nz4 g4 g4 g6 a b | c'3 b a3 g c'4 g4 | f4 f3 d e4 e3 c | d3 c d3 e d8 |\ng4 g4 g6 a b | c'3 b a3 g c'4 g4 | f4 f3 d e4 e3 c | d3 c d3 e c8 |]\n"
+}

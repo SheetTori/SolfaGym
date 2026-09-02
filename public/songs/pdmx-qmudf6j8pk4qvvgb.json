@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmudf6j8pk4qvvgb",
+  "title": "Spanish Minuet (1)",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmUDf6J8pk4qVvGbqDjxPdJm2sKbfQsTjoTkKQG31pQcVj",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nA | d2 A d2 e | d f2 f2 d | g2 f e2 d |\nc e c A2 A | d2 A d2 e | d f2 f2 a | g f d f2 e |\nd3 d2 | A | d2 A d2 e | d f2 f2 d |\ng2 f e2 d | c e c A2 A | d2 A d2 e | d f2 f2 a |\ng f d f2 e | d3 d2 | f | a2 g f2 d |\ng f g e2 e | f2 f d2 d | c e c A2 e | a2 g f2 d |\ng f g e2 g | f e d A2 c | d3 d2 | A |\nd2 A d2 e | d f2 f2 d | g2 f e2 d | c e c A2 A |\nd2 A d2 e | d f2 f2 a | g f d f2 e | d3 d2 |\nf | a2 g f2 d | g f g e2 e | f2 f d2 d |\nc e c A2 e | a2 g f2 d | g f g e2 g | f e d A2 c |\nd3 d2 |]\n"
+}

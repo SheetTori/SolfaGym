@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qma22c5lgwnqmohi",
+  "title": "Bourree a Jenzat",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qma22C5LGwnqmoHiHQLCf32a2jGn9u49QLgsbRMjYz7bKD",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Gm clef=treble\nD2 | G4 A4 | d6 c2 | A3 B c2 A2 |\nB4 A2 D2 | G4 A4 | d6 c2 | A3 B c2 A2 |\nB4 A2 D2 | G4 A4 | d6 c2 | A3 B c2 A2 |\nB4 A2 D2 | G4 A4 | d6 c2 | A3 B c2 A2 |\nB4 A4 | A3 =B c2 A2 | G3 A =B2 G2 | ^F3 G A2 F2 |\nD4 D4 | A3 =B c2 A2 | =B2 d2 B2 G2 | A3 c A2 ^F2 |\nG8 | A3 =B c2 A2 | G3 A =B2 G2 | ^F3 G A2 F2 |\nD4 D4 | A3 =B c2 A2 | =B2 d2 B2 G2 | A3 c A2 ^F2 |\nG8 |]\n"
+}

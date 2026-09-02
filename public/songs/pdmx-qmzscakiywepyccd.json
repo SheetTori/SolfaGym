@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmzscakiywepyccd",
+  "title": "Dwy Bleth o'i Gwallt Melyngoch",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmZscakiYWEPyCcdNHJ6RyKBfqBvZMD1AREjpCLNxtTmRB",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:Em clef=treble\nG2 F2 | E4 E2 G4 B2 | A2 F4 F2 G2 F2 | E4 E2 G4 A2 |\nB6 B4 E2 | B4 B2 B2 A2 G2 | A2 B4 B4 ^c2 | d4 B2 G4 E2 |\nF6 F3 G F2 | E4 E2 E3 D c2 | B6 B3 G A2 | B4 B2 A2 G2 F2 |\nE6 E2 |]\n"
+}

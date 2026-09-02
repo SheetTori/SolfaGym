@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmssb4tujfx7qs5z",
+  "title": "Blaydon Races",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmSSB4TujFx7qS5zr7u45Q3UxKGpbaNT1Bs1Mcs2wpLxY7",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nD | G2 G G2 G | G2 G G2 G | A2 A A2 A |\nB3 G3 | c c c c2 c | B2 B B2 B | A2 B A2 G |\nF3 D3 | G2 G G2 G | G2 G G2 G | A2 A A2 A |\nB3 G3 | c c c c2 c | B2 c d2 d | d2 c B2 A |\nG2 A B2 c | d3 d2 B | G3 G2 G | A2 A A2 A |\nB3 G3 | c2 c c2 c | B2 B B2 B | A2 B A2 G |\nF3 D3 | G2 G G2 G | G3 G2 G | A2 A A2 A |\nB3 G3 | c2 c c2 c | B2 c d2 d | d2 c B2 A |\nG3 G2 |]\n"
+}

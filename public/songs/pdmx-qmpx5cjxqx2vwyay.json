@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpx5cjxqx2vwyay",
+  "title": "Zemir Atik",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPx5CjXqX2vwYAyLBjQMERkzTj684qiRuJLoPGA389YJw",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Cm clef=treble\n=B c A B c d B c | d8 | d e f g f e d c | d8 |\nd g g f f e e d | c2 d2 =B4 | =B c A B c d c A | G4 |\nz4 g4 g4 | f g f e f2 d2 | e4 e2 d c | d2 g2 d2 G2 |\ng4 g4 | f g f e f2 d2 | c d e c d e =B d | c8 |\n=B c A B c d B c | d8 | d e f g f e d c | d8 |\nd g g f f e e d | c2 d2 =B4 | =B c A B c d c A | G4 |\nz4 g4 g4 | f g f e f2 d2 | e4 e2 d c | d2 g2 d2 G2 |\ng4 g4 | f g f e f2 d2 | c d e c d e =B d | c8 |]\n"
+}

@@ -28,6 +28,13 @@ const CORPORA: Corpus[] = [
     note: 'LilyPond で組まれた楽譜。曲ごとにライセンスが明示されている。本アプリでは Public Domain と CC BY のもののみを取り込み、ShareAlike のものは除外している。',
   },
   {
+    name: 'PDMX',
+    url: 'https://zenodo.org/records/14648209',
+    license: 'CC BY 4.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by/4.0/',
+    note: 'MuseScore の投稿から公有部分を集めたデータセット（Long et al.）。ライセンスは投稿者の自己申告なので、本アプリでは作曲者が伝承・匿名のものだけを採り、さらに単旋律であること・音域・跳躍などの自動検証を通したものだけを収録している。',
+  },
+  {
     name: '自前エンコード',
     url: 'https://github.com/SheetTori/SolfaGym',
     license: 'Public Domain の楽曲',

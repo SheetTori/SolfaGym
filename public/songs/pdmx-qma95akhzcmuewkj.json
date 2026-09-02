@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qma95akhzcmuewkj",
+  "title": "Bonnie at Morn",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qma95aKHZcmuEwKj3Dw8zFV7dnLCGM4ypiXHhoqQhF9634",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:Am clef=treble\nA2 | e3 f e d | e2 A2 B c | d3 c B A |\nG2 A2 B2 | e3 f e d | e2 A2 B c | d2 B2 G2 |\nA3 B c d | e3 f e d | e2 A2 B c | d3 c B A |\nG2 A2 B2 | A G A B c d | e2 a2 g2 | d g3 B2 |\nA4 | c B | A2 a2 a2 | A3 B c2 |\nB2 g2 g2 | G3 A B2 | A G A B c d | e2 a2 g2 |\nd g3 B2 | A4 | c B | A2 a2 a2 |\nA3 B c2 | B2 g2 g2 | G3 A B2 | A G A B c d |\ne2 a2 g2 | d g3 B2 | A4 |]\n"
+}

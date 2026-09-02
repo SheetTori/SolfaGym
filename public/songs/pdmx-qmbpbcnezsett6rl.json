@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbpbcnezsett6rl",
+  "title": "La fille dans la tour",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbPBcnEzSETt6rLPuArHRneteQ6xb1tN54upvbpzv4p4t",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Am clef=treble\nA c d | e3 d e g | e3 d g g | e3 d c d |\ne2 z e e e | e2 d e c B | A3 A B B | e2 B d c B |\nA6 |]\n"
+}

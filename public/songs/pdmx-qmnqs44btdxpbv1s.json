@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmnqs44btdxpbv1s",
+  "title": "Blodau'r Drain",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNQS44bTdXPbV1sWs2St1v9Tw42FLUrvcjedMHsMfZtEe",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:Am clef=treble\nE2 | A4 B2 | c2 B2 A2 | e2 d c B A |\nB4 E2 | A2 A c B d | c2 B2 A2 | ^G2 G B A c |\nB4 | E2 | A4 B2 | c2 B2 A2 |\ne2 d c B A | B4 E2 | A2 A c B d | c2 B2 A2 |\n^G2 G B A c | B4 | B2 | c4 c2 |\nd4 d2 | e2 e2 f2 | e4 d2 | c B c d c2 |\nd c d e d2 | e d e f e f | g3 f e d | c B c d e c |\nd ^c d e f d | e2 e2 a2 | ^g4 b2 | a2 e2 c2 |\nf2 e2 d2 | c2 d c B c | A4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcjihjhhqr4gpr7",
+  "title": "?",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcJiHJhhQr4GpR7pCzKb14LZV1ymrpqvNZeApxn82Cy5r",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 79,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nB c | d2 B d d g | b2 g d B d | c2 A c c f |\na2 f c A c | d2 B d d g | b2 g d g b | a b a g f e |\nd e d c B A | d2 B d d g | b2 g d B d | c2 A c c f |\na2 f c A c | d2 B d d g | b2 g d g b | a b a g f a |\ng4 | d2 B d d g | b2 g d B d | c2 A c c f |\na2 f c A c | d2 B d d g | b2 g d g b | g4 |]\n"
+}

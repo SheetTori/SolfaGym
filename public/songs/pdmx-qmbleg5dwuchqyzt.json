@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbleg5dwuchqyzt",
+  "title": "Nu lider dagen",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbLeG5dwucHQYzTgZ3DCjPYay3hbkLDXqJ5iSjbeCU2Jx",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:F clef=treble\nA2 | A2 G2 F2 E2 | F4 D2 E2 | F4 G4 |\nA6 A2 | A2 G2 F2 E2 | D2 ^C2 D2 E2 | F3 G E3 F |\nD4 | z4 C4 C2 C2 | F4 F4 | G2 A2 B2 G2 |\nc4 A2 F2 | C4 D2 E2 | F4 G2 A2 | c2 B2 G2 A2 |\nF4 | z4 f4 e2 d2 | c4 B2 A2 | G4 A4 |\nB6 | z2 d4 d2 d2 | c2 f2 F2 G2 | A4 G4 |\nF4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpgnvueqzvhsf8r",
+  "title": "Before I was married",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPGNVueqZvhSf8RxUkMY7HkYd32RAeq3jUB7tq2e8dG5N",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 71,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:Bm clef=treble\nA G | F2 G2 A2 A2 f2 e2 | d2 B2 B2 B4 A G | F2 G2 A2 A2 d2 e2 |\nf2 d2 d2 d4 A G | F2 G2 A2 A2 f2 e2 | d2 B2 B2 B4 A G | F2 G2 A2 A2 a2 g2 |\nf2 d2 d2 d4 | A G | F2 G2 A2 A2 f2 e2 | d2 B2 B2 B4 A G |\nF2 G2 A2 A2 d2 e2 | f2 d2 d2 d4 A G | F2 G2 A2 A2 f2 e2 | d2 B2 B2 B4 A G |\nF2 G2 A2 A2 a2 g2 | f2 d2 d2 d4 | d e | f2 e2 f2 a2 f2 e2 |\nd2 B2 c2 d4 d e | f2 g2 f2 e2 d2 e2 | f2 d2 B2 B4 d e | f2 e2 f2 a2 f2 e2 |\nd2 B2 c2 d4 d e | f2 a2 f2 e2 d2 e2 | f2 d2 B2 B4 | d e |\nf2 e2 f2 a2 f2 e2 | d2 B2 c2 d4 d e | f2 g2 f2 e2 d2 e2 | f2 d2 B2 B4 d e |\nf2 e2 f2 a2 f2 e2 | d2 B2 c2 d4 d e | f2 a2 f2 e2 d2 e2 | f2 d2 B2 B4 |]\n"
+}

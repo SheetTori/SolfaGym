@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdaql2usu6f3pzb",
+  "title": "Eg heiter Anne Knutsdotter",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdAQL2UsU6f3pzbTgpuHT2vLbQa9mfz6qz8DE9i72VhDH",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:D clef=treble\nA2 | d c d f a2 a b | a b a f d2 f2 | e2 d2 c2 d2 |\ne4 z2 A2 | d c d f a2 a b | a b a f d2 d e | f2 f2 e2 e2 |\nd4 z2 A2 | d e f g a3 f | a3 f b2 b2 | a3 f a3 f |\na3 f e2 e2 | d4 |]\n"
+}

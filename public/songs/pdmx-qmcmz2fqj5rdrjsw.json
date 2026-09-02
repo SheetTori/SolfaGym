@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcmz2fqj5rdrjsw",
+  "title": "La rondinini -1779-",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcMz2fqj5rDRJsWQ6jhruzXNooWzoyQ7FQ8hfTeH34vYY",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 76,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:E clef=treble\ne | e f e f2 g | a3 g2 a | b g e f g f |\ne d c B2 e | e f e f2 g | a3 g2 a | b g e f g f |\ne3 | z2 g | g ^a b g a b | b ^a g f2 f |\nf g ^a f g a | a g f e2 e | d e d c d c | B d f b2 B |\nc d e d e f | e3 |]\n"
+}

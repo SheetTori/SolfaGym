@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpmzjdtxyjptth9",
+  "title": "The gentle maiden",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPMZjDTXyJPTTH9PcEQLtah8fc7rEiPGm8iiMFbAH8WJd",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:G clef=treble\nD2 | G3 A G2 F2 E2 D2 | d6 e2 f2 g2 | d3 c B2 A4 G2 |\nE6 E4 D2 | G3 A G2 F2 E2 D2 | d6 e2 f2 g2 | d2 c2 B2 A4 G2 |\nG6 G4 d2 | d2 e2 f2 g4 g2 | g6 g2 f2 e2 | d3 c B2 A4 G2 |\nE6 E4 F2 | G3 A G2 F2 E2 D2 | d6 e2 f2 g2 | d3 c B2 A4 G2 |\nG6 G4 |]\n"
+}

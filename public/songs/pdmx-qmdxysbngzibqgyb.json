@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdxysbngzibqgyb",
+  "title": "Klang mina vackra bj\\allra",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdXYSbnGZibQGYBgDVTBRVNRpPH5cGSsTBccXLqP7xv8a",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/16\nK:C clef=treble\na3 f c2 c2 _B2 B2 | A2 A2 c _B A B c4 | a3 f c2 c2 _B2 B2 | A2 A2 c _B A B c4 |\nd3 _B f3 d B3 d | c3 _B A3 B c4 | d2 d _B f2 f d B2 B d | c3 _B A G A B c4 |\nd3 _B _b2 a2 g2 f2 | e f g a g4 f4 | e3 f g2 g a g2 g a | g2 f2 e2 d2 c4 |\ne3 f g2 g a g2 g a | g2 f2 e2 d2 c4 | a3 f c2 c2 _B2 B2 | A2 A2 c _B A B c4 |\na3 f c2 c2 _B2 B2 | A2 A2 c _B A B c4 | d3 _B f3 d B3 d | c3 _B A3 B c4 |\nd2 d _B f2 f d B2 B d | c3 _B A G A B c4 | d3 _B _b2 a2 g2 f2 | e f g a g4 f4 |\ne3 f g2 g a g2 g a | g2 f2 e2 d2 c4 | e3 f g2 g a g2 g a | g2 f2 e2 d2 c4 |]\n"
+}

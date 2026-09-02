@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmewakk9bvvmm28a",
+  "title": "Ni-og-nitti \\ol",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmewakk9bVVmM28AtyRhcGzHa8T2Eu3VCxW4pna7Buc2sX",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\nD D | G G G G G2 F G | A2 A2 z2 D D | A A A A A2 G A |\nB2 B2 z2 B B | c c c c E2 c c | B B B B D2 B B | A A A A G F E F |\nG2 G2 |]\n"
+}

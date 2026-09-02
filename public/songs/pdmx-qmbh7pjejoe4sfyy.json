@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbh7pjejoe4sfyy",
+  "title": "First Noel",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbH7PjeJoE4sFYy6AmuaWooZinqkEmdmM7CV1Fk8FDrQb",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 66,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:F#m clef=treble\nF E | D3 E F =G | A4 B c | d2 c2 B2 |\nA4 B c | d2 c2 B2 | A2 B2 c2 | d2 A2 =G2 |\nF4 F E | D3 E F =G | A4 B c | d2 c2 B2 |\nA4 B c | d2 c2 B2 | A2 B2 c2 | d2 A2 =G2 |\nF4 | F E | D3 E F =G | A4 d c |\nB4 B2 | A6 | d2 c2 B2 | A2 B2 c2 |\nd2 A2 =G2 | F4 |]\n"
+}

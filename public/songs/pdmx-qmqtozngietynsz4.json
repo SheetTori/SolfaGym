@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqtozngietynsz4",
+  "title": "Till \\Osterland vill jag fara",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQtoZNGiEtYNSZ4YV6VcqFZR4LP5Lzpsz6ZxE1D1hWYMj",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:Am clef=treble\nE4 | A6 B2 c4 B3 A | B8 E4 E4 | e4 d3 d c4 c3 A |\nB8 z4 B3 B | c4 c4 d4 d4 | e6 d2 c4 c3 B | A4 A3 c B4 E3 ^G |\nA12 |]\n"
+}

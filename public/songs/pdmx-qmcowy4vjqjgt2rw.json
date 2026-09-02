@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcowy4vjqjgt2rw",
+  "title": "Unknown Begin Of Danish Folk Tune",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmcowy4VJQJgT2Rwfwm5cy94uZ5VzcHLxKSAoouAJTRU2j",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:C clef=treble\nB2 c2 | d ^c d e c B c d | B2 b2 b2 B d | c2 a2 a2 A c |\nB2 g2 g2 B c | d ^c d e c B c d | B2 b2 b2 B d | c2 a2 a ^g a b |\ng2 g2 g2 | z2 a ^g a b a =g ^f e | d ^c d ^f e d c B | A B ^c d e ^f g e |\nd ^c d e ^f2 | z2 a ^g a b a =g ^f e | d ^c d ^f e d c B | A B ^c d e ^f g e |\nd2 d2 d c B c | d ^c d e c B c d | B2 b2 b2 B d | c2 a2 a2 A c |\nB2 g2 g2 B c | d ^c d e c B c d | B2 b2 b2 B d | c2 a2 a ^g a b |\ng2 g2 g2 | z2 a ^g a b a =g ^f e | d ^c d ^f e d c B | A B ^c d e ^f g e |\nd ^c d e ^f2 | z2 a ^g a b a =g ^f e | d ^c d ^f e d c B | A B ^c d e ^f g e |\nd2 d2 d c B c |]\n"
+}

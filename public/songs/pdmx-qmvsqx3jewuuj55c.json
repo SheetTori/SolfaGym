@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmvsqx3jewuuj55c",
+  "title": "Behind the haystack",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmVsqx3jEWuuJ55c6r2QPwAhAaE9UvEQbUNKzEiJRkcS4A",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nd | e f e e d B | d e f g f e | d B A A B A |\nd B A A B d | e f e e d B | d e f g f e | d B G G A G |\nd B G G2 | d | e f e e d B | d e f g f e |\nd B A A B A | d B A A B d | e f e e d B | d e f g f e |\nd B G G A G | d B G G2 | d | g b g f a f |\ne g e d B G | d B A A B A | d B A A B d | g b g f a f |\ne g e d B G | d B G G A G | d B G G2 | d |\ng b g f a f | e g e d B G | d B A A B A | d B A A B d |\ng b g f a f | e g e d B G | d B G G A G | d B G G2 |\nd | g2 a b g e | g2 a b g e | d B A A B A |\nd B A A B d | g2 a b g e | g2 a b g e | d B G G A G |\nd B G G2 | d | g2 a b g e | g2 a b g e |\nd B A A B A | d B A A B d | g2 a b g e | g2 a b g e |\nd B G G A G | d B G G2 |]\n"
+}

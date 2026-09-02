@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmweiqfbm4knbdp2",
+  "title": "Kadril van Kampenhout",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWeiqfBM4KNbDP2DYaqhkPMNyBnrSXHkYXVcni3J341ZA",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:F clef=treble\nF2 C2 A2 F2 | c2 =B2 _B2 A2 | G2 c2 d2 e2 | d4 c2 |\nz2 F2 C2 A2 F2 | c2 =B2 _B2 A2 | G2 c2 d2 e2 | f2 z2 F2 |\nz2 A6 G2 | E2 G2 F2 D2 | C8 | C2 C2 D2 E2 |\nF6 A2 | c2 =B2 _B2 A2 | G8 | D4 |\nz4 B6 A2 | G2 F2 E2 D2 | C8 | C2 z2 d4 |\nc6 B2 | A2 G2 D2 E2 | F2 G A B c d e | f2 z2 F2 |\nz2 F2 C2 A2 F2 | c2 =B2 _B2 A2 | G2 c2 d2 e2 | d4 c2 |\nz2 F2 C2 A2 F2 | c2 =B2 _B2 A2 | G2 c2 d2 e2 | f2 z2 F2 |\nz2 A6 G2 | E2 G2 F2 D2 | C8 | C2 C2 D2 E2 |\nF6 A2 | c2 =B2 _B2 A2 | G8 | D4 |\nz4 B6 A2 | G2 F2 E2 D2 | C8 | C2 z2 d4 |\nc6 B2 | A2 G2 D2 E2 | F2 G A B c d e | f2 z2 F2 |]\n"
+}

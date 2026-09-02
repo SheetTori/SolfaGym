@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmnuoqmgn8u5sz95",
+  "title": "Jeg kan se p\\aa dine \\ojne",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNUoqMGN8u5SZ95mJMBVapdH8vZxT9YNW9wyU8bkAjrYf",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:Em clef=treble\nB B | B3 c d e | e d B2 c B | A3 B c d |\nB2 | z2 B B | B3 c d e | e d B2 c B |\nA3 B c d | B2 | z2 B c | d3 B c A |\nB2 G2 E F | G3 A F G | E2 |]\n"
+}

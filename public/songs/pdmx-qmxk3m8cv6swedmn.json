@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxk3m8cv6swedmn",
+  "title": "Captain Horne",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXk3M8CV6SWedmnnKQ7c1UhsXrB4orWXkCqj9VnGm96Kd",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:D clef=treble\nd3 | e | f3 A A A A2 B G3 d3 e | f3 A A A A2 B d3 d3 e |\nf3 A A A A2 B G3 g4 | f a3 e3 d B d3 d3 | e | f3 A A A A2 B G3 d3 e |\nf3 A A A A2 B d3 d3 e | f3 A A A A2 B G3 g4 | f a3 e3 d B d3 d3 | e |\nf4 f d3 f4 f a3 | f4 f d3 e3 f a4 | f3 g f3 d e3 f g3 e | a3 f e3 d B d3 d3 |\ne | f4 f d3 f4 f a3 | f4 f d3 e3 f a4 | f3 g f3 d e3 f g3 e |\na3 f e3 d B d3 d3 |]\n"
+}

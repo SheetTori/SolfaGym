@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmnt2nbnpw8vyo3j",
+  "title": "The banks of Lough Gowna",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNt2nbnPW8vyo3JxSwj7PhMqRWz1788tb49nntnofML1J",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Am clef=treble\nA B A A G E | E D E G3 | A B A A G E | c2 d e c A |\nA B A A G E | E D E G3 | c d e g e d | c A A A3 |\nA B A A G E | E D E G3 | A B A A G E | c2 d e c A |\nA B A A G E | E D E G3 | c d e g e d | c A A A3 |\nz6 c d e g2 a | g e a g e d | c d e g2 a | g e g a3 |\nc d e g2 a | g e a g e d | c d e f e d | e c A A3 |\nA B A A G E | E D E G3 | A B A A G E | c2 d e c A |\nA B A A G E | E D E G3 | c d e g e d | c A A A3 |\nz6 c d e g2 a | g e a g e d | c d e g2 a | g e g a3 |\nc d e g2 a | g e a g e d | c d e f e d | e c A A3 |]\n"
+}

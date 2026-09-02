@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmx5njez76nj4b5k",
+  "title": "The Star Of The County Down",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmX5njez76Nj4b5Kbp8wKmD5ep1MdACgDdvDTe2WWhmCKH",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 76,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Em clef=treble\nB d | e2 e2 e2 d e | g2 g2 a2 g a | b2 a g e2 d B |\nd6 B d | e2 e2 e2 d e | g2 g2 a2 g a | b2 a g e2 d2 |\ne6 d d | e2 e2 e2 d e | g2 g2 a2 g a | b2 a g e2 d B |\nd6 B d | e2 e2 e2 d e | g2 g2 a2 g a | b2 a g e2 d2 |\ne6 b b | d'2 b2 b2 a g | a2 a2 a2 g a | b2 a g e2 d B |\nd6 B d | e2 e2 e2 d e | g2 g2 a2 g a | b2 a g e2 d2 |\ne6 |]\n"
+}

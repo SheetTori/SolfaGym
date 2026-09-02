@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmazrax9n7yse942",
+  "title": "Tie the petticoat tighter",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmazraX9n7yse942LjAYcQQiHKqoYuvpBgFqM4q8oMZH1A",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:Am clef=treble\nB2 | c4 A2 B2 G2 E2 | c4 A2 B2 G2 E2 | G4 G2 G4 d2 |\nG4 G2 G4 B2 | c4 A2 B2 G2 E2 | c4 A2 B2 G2 E2 | A4 A2 A4 e2 |\nA4 A2 A4 | B2 | c4 A2 B2 G2 E2 | c4 A2 B2 G2 E2 |\nG4 G2 G4 d2 | G4 G2 G4 B2 | c4 A2 B2 G2 E2 | c4 A2 B2 G2 E2 |\nA4 A2 A4 e2 | A4 A2 A4 | B2 | c2 d2 e2 d2 c2 B2 |\nc2 B2 A2 B2 G2 E2 | g3 a g2 g2 d2 B2 | g3 a g2 g2 d2 B2 | c2 d2 e2 d2 c2 B2 |\nc2 B2 A2 B2 G2 E2 | a2 b2 a2 a2 e2 c2 | a2 b2 a2 a2 e2 c2 | B2 |\nc4 A2 B2 G2 E2 | c4 A2 B2 G2 E2 | G4 G2 G4 d2 | G4 G2 G4 B2 |\nc4 A2 B2 G2 E2 | c4 A2 B2 G2 E2 | A4 A2 A4 e2 | A4 A2 A4 |\nB2 | c2 d2 e2 d2 c2 B2 | c2 B2 A2 B2 G2 E2 | g3 a g2 g2 d2 B2 |\ng3 a g2 g2 d2 B2 | c2 d2 e2 d2 e2 f2 | e2 d2 c2 B2 A2 G2 | A4 A2 A4 e2 |\nA4 A2 A4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdfkyutgfjrgzjh",
+  "title": "John Henry",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdfkyUTgFJRGzJH9qqTpiHA8AcVzC5iFF6jjFJQn18ejF",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:G clef=treble\nG E | D D2 E | G2 G E | G G2 E |\nG3 G | B2 B2 | G E D E | G6 |\nG E | D D2 E | G2 G E | G G2 E |\nG3 d | e d2 c | B G E D | B2 B2 |\nG3 d | e d2 c | B G E D | G6 |]\n"
+}

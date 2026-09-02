@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpfgwhhxpcgb3tz",
+  "title": "Mopsy's Tune (the old way)",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPFgWhhxPcgB3tzVz2QfEy7ACF3uz5Xn1FB83Lp1Z38BQ",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nc d e e2 f | e2 d e c A | d e d f g f | d e d f g f |\nc d e e2 f | e2 d c2 c | d e f g2 f | e d c d3 |\na f a g e g | f d f e c A | d2 d f e d | c2 d e3 |\na f a g e g | f d f e c A | f e d b a g | f g e d3 |\na f a g e g | f d f e c A | d2 d f e d | c2 d e3 |\na f a g e g | f d f e c A | f e d b a g | f g e d3 |]\n"
+}

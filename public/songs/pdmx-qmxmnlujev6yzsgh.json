@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxmnlujev6yzsgh",
+  "title": "Plinn ton simple 2",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXmNLUJEv6YZSghqGjSv8v8QM2iBigbCYJcuYP1uapBAh",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:C clef=treble\nc e c e e f e2 | d c c e e2 d2 | c e c e e f e2 | d c c e e2 d2 |\nc e c e e g e2 | d c B c d d c2 | c e c e e g e2 | d c B c d d c2 |]\n"
+}

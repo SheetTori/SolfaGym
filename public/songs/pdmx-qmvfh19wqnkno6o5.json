@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmvfh19wqnkno6o5",
+  "title": "B\\aansull",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmVfh19wqnKno6o57Gib6thgCGqnS224YsEpPtmHW69hER",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:D clef=treble\nD F | A2 A2 B2 | A2 A2 G G | F2 F2 E E |\nD4 D F | A2 A2 A G | =c2 c2 c B | A2 A2 A G |\nA4 A G | F2 F2 E E | D2 D2 F F | E2 E2 F G |\nF2 E2 F G | A2 A A B B | A A A A G G | F2 F2 E E |\nD4 |]\n"
+}

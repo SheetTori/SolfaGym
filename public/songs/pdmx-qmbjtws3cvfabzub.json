@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbjtws3cvfabzub",
+  "title": "P\\aa en gr\\on bakketop",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbjTWs3CVFabzUbE8yrMiBWV11NozbzR8w3zJneYJr5Ar",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 60,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:C clef=treble\nC E | G2 G2 G2 c2 | G A G F E2 E2 | G2 F2 F2 D2 |\nA4 G2 C E | G2 G2 G2 c2 | G A G F E2 E2 | G2 F2 F2 B,2 |\nD4 C2 |]\n"
+}

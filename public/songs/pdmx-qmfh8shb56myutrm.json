@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmfh8shb56myutrm",
+  "title": "Greatham Sword Dance",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmfH8ShB56MyUtRM3iUcApCBnvjKTD5kL5agLD9Ek9n91a",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nG2 B B2 G | A2 e e2 d | G2 B B2 G | A2 e e2 g |\nf3 d3 | c B c B3 | G2 B B2 G | A3 G3 |\nG2 B B2 G | A2 e e2 d | G2 B B2 G | A2 e e2 g |\nf3 d3 | c B c B3 | G2 B B2 G | A3 G3 |\nz6 d2 z d c B | A3 G3 | E2 A A2 G | F2 E D3 |\nd2 z d c B | A3 G3 | E2 A G2 F | G6 |\nz6 d2 z d c B | A3 G3 | E2 A A2 G | F2 E D3 |\nd2 z d c B | A3 G3 | E2 A G2 F | G3 G2 A |\nz6 B2 A G F E | D3 D E F | G3 G A B | A3 A G A |\nB2 A G F E | D3 D E F | G2 B A2 F | G3 G2 A |\nz6 B2 A G F E | D3 D E F | G3 G A B | A3 A G A |\nB2 A G F E | D3 D E F | G2 B A2 F | G6 |]\n"
+}

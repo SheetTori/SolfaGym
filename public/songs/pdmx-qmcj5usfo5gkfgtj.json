@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcj5usfo5gkfgtj",
+  "title": "The Old Grey Gander",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcJ5uSFo5GkFgtjHHnqu38CsGbsePryyeLA5TX1AbRjub",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:Am clef=treble\nE A A B c2 B A | B G G A B c d B | A E A B c d e ^f | g e d B c2 B A |\nE A A B c2 B A | B G G A B c d B | A E A B c d e ^f | g e d B B A A2 |\na2 e a a2 g e | d2 B G B d d2 | a2 e a a2 b a | g e d B B A A2 |\na2 e a a2 g e | d2 B G B d d2 | E A A B c d e ^f | g e d B B A A2 |]\n"
+}

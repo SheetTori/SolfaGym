@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmvsyh4gjtkydpgx",
+  "title": "La moisson",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmVSyH4GjTKYDpgX3Rx8Pd1FMZwEoG5GPED7UcxrsiNbwh",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 70,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/32\nK:Bb clef=treble\nF4 | B4 f4 d4 f4 | d4 B4 B4 f4 | f3 e d3 c B3 A B3 d |\nc4 A4 F4 F4 | B4 f4 d4 f4 | d4 B4 B4 f4 | f3 e d3 c B3 A B3 d |\nc4 A4 B8 | f3 =e f3 d2 B4 d4 | e3 d e3 c A8 | f3 =e f3 d2 B3 A B3 d |\nc4 A4 F8 | f3 =e f3 d2 B4 d4 | e3 d e3 c A8 | f3 =e f3 d2 B3 A B3 d |\nc4 A4 B4 |]\n"
+}

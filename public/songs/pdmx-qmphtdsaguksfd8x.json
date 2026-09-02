@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmphtdsaguksfd8x",
+  "title": "Jenny Dang the Weaver",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPhtDsAgUKSFd8XYA99yFmxzUf8MuBTXS7zD4r76bxRFs",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 76,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/16\nK:Em clef=treble\ng2 | f2 A2 A A A2 A2 B2 A2 B2 | d2 A2 A A A2 f4 e2 d2 | f2 B2 B B B2 B2 A2 B2 d2 |\nA2 B2 d2 e2 f4 e2 | g2 | f2 A2 A A A2 A2 B2 A2 B2 | d2 A2 A A A2 f4 e2 d2 |\nf2 B2 B B B2 B2 A2 B2 d2 | A2 B2 d2 e2 f4 e2 | f2 | d2 e2 f2 d2 e2 f2 g2 e2 |\nd2 e2 f2 d2 e4 d2 B2 | d2 e2 f2 d2 e2 B2 g2 B2 a2 A2 A A A2 f4 e2 | f2 | d2 e2 f2 d2 e2 f2 g2 e2 |\nd2 e2 f2 d2 e4 d2 B2 | d2 e2 f2 d2 e2 B2 g2 B2 a2 A2 A A A2 f4 e2 |]\n"
+}

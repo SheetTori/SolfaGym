@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmuevcc9iwkqun5f",
+  "title": "Berwick Johnnie",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmUeVCc9iWKqUn5fW1pijKcgimFTgC6y1sNz2EiKHAnsUe",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:G clef=treble\nD2 | D2 E2 G2 G4 G2 | B2 A2 G2 E4 G2 | D2 E2 G2 G d3 B2 |\nB2 A2 G2 G4 E2 | D2 E2 G2 G4 G2 | B2 A2 G2 E4 e2 | d4 e2 d2 B2 G2 |\nB2 A2 G2 G4 | B2 | d4 e2 d2 B2 G2 | B2 A2 G2 E4 e2 |\nd4 e2 d2 B2 G2 | B2 A2 G2 G4 B2 | d4 e2 d2 B2 G2 | B2 A2 G2 E4 G2 |\nD2 E2 G2 G d3 B2 | B2 A2 G2 G4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qms1jn61ydvwawmo",
+  "title": "Davy's Locker",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmS1jn61yDvWaWmoZaJUvxvEeVCyko1GoaFk5aAa6Neqd8",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:F clef=treble\nF | A2 c2 c3 d | c2 f2 g f e d | c2 A2 G3 F |\nG6 F2 | A2 c2 c3 d | c2 f2 g f e d | c2 A2 G3 A |\nF6 | c2 | f2 c2 c2 d e | f2 c2 c2 f2 |\nd3 c d2 f2 | g6 e2 | f2 a2 d3 f | c3 f c2 A2 |\nG3 F G2 A2 | F6 | c2 | f2 c2 c2 d e |\nf2 c2 c2 f2 | d3 c d2 f2 | g6 e2 | f2 a2 d3 f |\nc3 f c2 A2 | G3 F G2 A2 | F6 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmd9uuosd7rs5auy",
+  "title": "The Tenpenny Bit",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmd9UUoSD7Rs5auyHt86sAooLJnEFQWbwktchyBjy9bFG7",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 9,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:A clef=treble\ne A A e A A | B A B =G B d | e A A e A A | d e f =g f g |\ne A A e A A | B A B =G A B | d e f =g e d | B A =G A3 |\ne A A e A A | B A B =G B d | e A A e A A | d e f =g f g |\ne A A e A A | B A B =G A B | d e f =g e d | B A =G A3 |\ne a a a =g a | b a =g g e d | e a a a =g a | b a =g a3 |\ne a a a =g a | b a =g g e d | d e f =g e d | B A =G A3 |\ne a a a =g a | b a =g g e d | e a a a =g a | b a =g a3 |\ne a a a =g a | b a =g g e d | d e f =g e d | B A =G A3 |]\n"
+}

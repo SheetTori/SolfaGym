@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qms9fs2jjzdgez2z",
+  "title": "Old Joe Clark",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmS9FS2jjZdGEz2zZbbz8r2kjw62Dnsjq8YsaMHBpDZscb",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:D clef=treble\nA2 B2 =c3 B | A2 G2 F4 | A2 B2 =c c B2 | A6 A2 |\nA2 B2 =c2 B2 | A2 G2 F3 F | D2 F2 E2 =C C | D8 |\nD2 D D D4 | A2 G2 F4 | D2 D D D2 F2 | E6 E2 |\nD2 D2 D2 D2 | A2 G2 F3 F | D2 F2 E2 =C2 | D8 |]\n"
+}

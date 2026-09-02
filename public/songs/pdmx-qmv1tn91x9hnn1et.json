@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmv1tn91x9hnn1et",
+  "title": "Chicken Reel",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmV1tN91x9hnn1eTvsXmx1v6fM4BTJh3YPdATP57ZZB6Se",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Dm clef=treble\nf2 | ^f d A ^F D F =B F | A ^F =B F A2 f2 | ^f d A ^F D F =B F |\nA d2 ^c d2 f2 | ^f d A ^F D F =B F | A ^F =B F A2 f2 | ^f d A ^F D F =B F |\nA d2 ^c d4 | ^f2 a f d2 f d | A d e d ^f d e d | ^f2 a f d2 f d |\nA d2 ^c d4 | ^f2 a f d2 f d | A d e d ^f d e d | ^f2 a f d2 f d |\nA d2 ^c d4 |]\n"
+}

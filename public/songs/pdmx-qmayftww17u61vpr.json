@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmayftww17u61vpr",
+  "title": "L\\aenge nok har jeg bondepige v\\aeret",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmaYftww17u61VpRwy6fmHYkbpViwCMdYT37TeNRDku1BC",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:A clef=treble\ne2 e2 | c A c e | c A c e | e d B2 |\ne2 e2 | c A c e | e d B G | A2 |\nz2 e2 e2 | c A c e | c A c e | e d B2 |\ne2 e2 | c A c e | e d B G | A2 |\nz2 c2 c c | A4 | d2 d d | B4 |\ne2 e2 | c A c e | e d B G | A2 |\nz2 c2 c c | A4 | d2 d d | B4 |\ne2 e2 | c A c e | e d B G | A2 |]\n"
+}

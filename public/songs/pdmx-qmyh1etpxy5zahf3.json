@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmyh1etpxy5zahf3",
+  "title": "The Queen's Delight",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmYh1EtpXy5zAhf31811hPpKiMcjnNeVpdJ5Bt7QRr5jEm",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nd2 G d c B | c B c A B c | d2 G d2 c | B c A G B c |\nd2 G d c B | c B c A B c | d2 G d2 c | B c A G3 |\nc B c c B c | A B c d e f | g f g e a g | g f e d e f |\ng2 g g f e | d e c A B c | d2 G d2 c | B c A G3 |\nc B c c B c | A B c d e f | g f g e a g | g f e d e f |\ng2 g g f e | d e c A B c | d2 G d2 c | B c A G3 |]\n"
+}

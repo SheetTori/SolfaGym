@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmufwhbpgtbofq19",
+  "title": "Picking prunes",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmUFwHBpgtboFQ19MCaLswsArd3xMBXfmrdC1w2n9275CX",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:Am clef=treble\nA A a a | g a2 a | d d g f | e e2 A |\nd2 g f | e d c G | c c d c | A2 A |\nz A A a a | g a2 a | d d g f | e e2 A |\nd2 g f | e d c G | c c d c | A2 A |]\n"
+}

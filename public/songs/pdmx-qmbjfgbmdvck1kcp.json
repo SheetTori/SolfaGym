@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbjfgbmdvck1kcp",
+  "title": "Scottishe su\\'edoise",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbJfGBmDvCk1kCPeZk1MeSrPtxGLMoCxm5moNb3jzqes2",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Am clef=treble\nE2 A c e f e c | d2 d B d4 | d2 e f e d c B | c d c B c B A c |\nE2 A c e f e c | d2 d B d4 | d2 e f e d c B | c2 B2 A4 |\nE2 A c e f e c | d2 d B d4 | d2 e f e d c B | c d c B c B A c |\nE2 A c e f e c | d2 d B d4 | d2 e f e d c B | c2 B2 A4 |\na2 a g f4 | e f e d c4 | B2 B B e d c B | A B c d e A c e |\na2 a g f4 | e g e d c4 | B2 B B e d c B | A c e c A4 |\na2 a g f4 | e f e d c4 | B2 B B e d c B | A B c d e A c e |\na2 a g f4 | e g e d c4 | B2 B B e d c B | A c e c A4 |]\n"
+}

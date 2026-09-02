@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmd8djaconddhrfp",
+  "title": "Eirigh Suas a Stórín",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmd8djACoNDdHRFpMDrwrkcficoZ2B2vdSYPTi8JJ27tcB",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 9,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:D clef=treble\nA A A2 B A | G2 B2 A G | E2 D2 D2 | D6 |\nD2 D2 D2 | d2 d2 e d | =c2 B A G B | A6 |\nD2 D2 D2 | d2 d2 e d | =c2 B A G B | A4 B =c |\nd2 A2 G E | G2 B2 A G | E2 D2 D2 | D6 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbqzexacemdhmah",
+  "title": "Igelkottaskinnet",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbqZExacemdHmAh2RSm4c5ysHX7A562MPSS3if1Q234Xc",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/16\nK:F clef=treble\nC2 | F4 F3 F F4 G3 F | F4 E4 E4 C3 E | G4 G4 G4 c3 B |\nA4 F4 F4 F3 E | D4 D4 D4 F3 D | D4 C4 C4 | z4 C4 E3 G B3 G E3 G |\nF4 F4 F4 |]\n"
+}

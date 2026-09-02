@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmp6gypemhyjyybf",
+  "title": "Sleep Soond Ida Moarnin'",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmP6GYPeMhYjyybF9NKLqeMcVDXRtYKq8DQ9y7pUtoC8Xq",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Am clef=treble\ne a2 ^g a2 e ^f | g e d B G A B G | e a2 ^g a2 e ^f | g e d B A2 B G |\ne a2 ^g a2 e ^f | g e d B G A B G | e a2 ^g a2 e ^f | g e d B A3 B |\nc A e A c A e A | B c d B G3 B | c A e A c A e A | B A G B A3 B |\nc A e A c A e A | B c d B G3 B | A B c d e ^f g a | g e d B A2 |]\n"
+}

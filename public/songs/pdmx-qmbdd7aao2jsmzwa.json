@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbdd7aao2jsmzwa",
+  "title": "P\\aal sine h\\oner",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbDD7aAo2JsmZWaveTGLPMNno6BWZc2GVDW28XDUqfjAc",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nG2 G B d2 d B | e2 e c d2 d2 | c2 c A B2 B G | A2 A F G2 |\nz2 G2 G B d2 d B | e2 e c d2 d2 | c2 c A B2 B G | A2 A F G2 |\nz2 d3 B G2 G B | A2 A G F2 D2 | d3 B G2 G B | A2 A G F2 D2 |\nG2 G B d2 d B | e2 e c d2 d2 | c2 c A B2 B G | A2 A F G2 |]\n"
+}

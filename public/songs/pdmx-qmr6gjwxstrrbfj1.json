@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmr6gjwxstrrbfj1",
+  "title": "Hungarian folk dance",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmR6GJWxstrRbFj1rYZJhhYpGR6RRBPZMXF8RYanEDVLru",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 55,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:Gm clef=treble\nD F =E D | D F =E D | D F =E D | D2 D2 |\nD F =E D | D F =E D | D F =E D | D2 D2 |\nD C C C | D B, B, B, | D F =E D | D2 D2 |\nD C C C | D B, B, B, | D A, A, A, | G,2 G,2 |]\n"
+}

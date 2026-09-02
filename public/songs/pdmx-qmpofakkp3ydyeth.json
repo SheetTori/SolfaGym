@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpofakkp3ydyeth",
+  "title": "The night we made the match",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPofAKKp3yDYEtHFXgMfrSbtxfB15WQ1kRBn9wsVQ7KE8",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:A clef=treble\na2 | a2 A B c B A B | c d e c A2 e f | =g2 =G A B A G A |\nB c d B =G B d =g | a2 A B c B c d | e d e f =g e d B | c d e g a e f d |\nc A B G A2 | a2 | a2 A B c B A B | c d e c A2 e f |\n=g2 =G A B A G A | B c d B =G B d =g | a2 A B c B c d | e d e f =g e d B |\nc d e g a e f d | c A B G A2 | A B | c e e f e d c A |\nc e e f e2 d c | B d d e d c B d | B c d e d c B d | c e e c B d d B |\nc a B G A B c B | A c e g a e f d | c A B G A2 | A B |\nc e e f e d c A | c e e f e2 d c | B d d e d c B d | B c d e d c B d |\nc e e c B d d B | c a B G A B c B | A c e g a e f d | c A B G A2 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmajqgwxy3aecbgl",
+  "title": "Fourpence Halpenny Farthing",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmajqGWxY3aECBGLX18LWksZP244MyovWeizT1K5BoodL6",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nA | d2 e f2 d | g2 e f2 d | d2 e f e d |\nc3 e3 | d2 e f2 d | g2 e f2 d | f g a g e c |\nd3 d2 | A | d2 e f2 d | g2 e f2 d |\nd2 e f e d | c3 e3 | d2 e f2 d | g2 e f2 d |\nf g a g e c | d3 d2 | g | f e d c2 A |\nA B A A2 g | f e d c2 A | B3 g3 | f e d c2 A |\nA B A A2 g | f g a g e c | d3 d2 | g |\nf e d c2 A | A B A A2 g | f e d c2 A | B3 g3 |\nf e d c2 A | A B A A2 g | f g a g e c | d3 d2 |]\n"
+}

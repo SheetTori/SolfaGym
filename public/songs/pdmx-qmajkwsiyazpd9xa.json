@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmajkwsiyazpd9xa",
+  "title": "Cleveland Park",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmajkwSiyazPd9xaZyjkFteK35BJdapCATu11sdTiRtVj4",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Em clef=treble\nB, E F G F E | C E F G F E | ^C E F G F E | F A F D F A |\nB, E F G F E | C E F G F E | F A F D F A | A G F E D C |\nB, E F G F E | C E F G F E | ^C E F G F E | F A F D F A |\nB, E F G F E | C E F G F E | F A F D F A | A G F E2 B, |\nE G B e B G | A B c B G E | C E G B, E G | G F E ^D E F |\nE G B e B G | A B c B G E | C E G B, E G | F E ^D E2 B, |\nE G B e B G | A B c B G E | C E G B, E G | G F E ^D E F |\nB, E F G F E | C E F G F E | F A F D F A | A G F E3 |]\n"
+}

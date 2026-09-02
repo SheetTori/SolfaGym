@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmnwbaclvqa6fb7n",
+  "title": "Miss Walsh's fancy",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNWbAcLVQa6fb7ntULhv6smZzUUWznbDiz7uwyjjWfVyE",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:A clef=treble\nE A A c A A | e A A c A A | E A A c A A | G A B B G E |\nE A A c A A | e A A c A A | a g a e c A | B A A A3 |\nE A A c A A | e A A c A A | E A A c A A | G A B B G E |\nE A A c A A | e A A c A A | a g a e c A | B A A A3 |\na g a e c A | c A c e f g | a g a e c A | B A F A c e |\na g a e c A | c A c e f g | a g a e c A | B A A A3 |\na g a e c A | c A c e f g | a g a e c A | B A F A c e |\na g a e c A | c A c e f g | a g a e c A | B A A A3 |\nE A A c e e | d f f c e e | E A A c e e | B A F A F E |\nE A A c e e | d f f c e e | a g a e c A | B A A A3 |\nE A A c e e | d f f c e e | E A A c e e | B A F A F E |\nE A A c e e | d f f c e e | a g a e c A | B A A A3 |]\n"
+}

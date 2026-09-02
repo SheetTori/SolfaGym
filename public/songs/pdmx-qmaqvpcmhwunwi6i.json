@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmaqvpcmhwunwi6i",
+  "title": "Jig",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmaqVpcmhwunwi6iCcJGsUkeS66ddAPb1PH3HRK2C7ujHW",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 9,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nd2 G G2 A | d2 c A2 c | d2 G G2 A | =F2 G A2 c |\nd2 G G2 A | d2 c A2 c | d2 c =f2 A | G3 G2 |\nz d2 G G2 A | d2 c A2 c | d2 G G2 A | =F2 G A2 c |\nd2 G G2 A | d2 c A2 c | d2 c =f2 A | G3 G2 |\nz d2 c d e =f | g2 a =f2 d | c2 A c2 d | c2 A c2 =f |\nd2 c d e =f | g2 a =f2 d | c2 A =f2 A | G3 G2 |\nz d2 c d e =f | g2 a =f2 d | c2 A c2 d | c2 A c2 =f |\nd2 c d e =f | g2 a =f2 d | c2 A =f2 A | G3 G2 |]\n"
+}

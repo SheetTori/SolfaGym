@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpkouswatrz2yfo",
+  "title": "Paddy Carey",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPKousWAtRz2yFo9UCeLVKSdzh4xB5bkmy2bzuTg39daz",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nD2 G G F G | B2 G G F G | E2 A A2 B | c2 A F2 E |\nD2 G G F G | B2 G G F G | F E D D E F | G A B A2 G |\nD2 G G F G | B2 G G F G | E2 A A2 B | c2 A F2 E |\nD2 G G F G | B2 G G F G | F E D D E F | G A B A2 G |\nG2 B c2 e | d2 e d c B | G2 B c2 e | d c B A3 |\nG2 B c2 e | d2 e d c B | G F G B A G | F E F G3 |\nG2 B c2 e | d2 e d c B | G2 B c2 e | d c B A3 |\nG2 B c2 e | d2 e d c B | G F G B A G | F E F G3 |\nc2 A A G A | B2 G G F G | F2 G A2 B | c2 E F E D |\nc2 A A G A | B2 G G F G | F E D D E F | G A B A2 G |\nc2 A A G A | B2 G G F G | F2 G A2 B | c2 E F E D |\nc2 A A G A | B2 G G F G | F E D D E F | G A B A2 G |]\n"
+}

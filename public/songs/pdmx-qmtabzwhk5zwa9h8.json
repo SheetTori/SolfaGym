@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtabzwhk5zwa9h8",
+  "title": "da Auld Stoer's Back Again",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTabzwHk5Zwa9h8hHt9BpanNaSVPCLa3HeMF5RnWc2ood",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:G clef=treble\nD | G2 d G B d c A | =F2 c F A F F d | G2 d G B c d e |\nc B c A G3 | D | G2 d G B d c A | =F2 c F A F F d |\nG2 d G B c d e | c B c A G3 | d | g f g a g d d e |\n=f e f g f c c d | g f g a g d d e | c B c A G3 | d |\ng f g a g d d e | =f e f g f c f g | a f g e f d e c | c B c A G3 |]\n"
+}

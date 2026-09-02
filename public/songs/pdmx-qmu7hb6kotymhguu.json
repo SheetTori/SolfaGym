@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmu7hb6kotymhguu",
+  "title": "Lady Mary Menzies Reel",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmU7Hb6koTymhguUwBqaxv3YQxSAwhF6wAJTQ1vi5J4yti",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:F clef=treble\nf2 | c2 F2 A2 F2 c2 F2 f2 d2 | c2 F2 A2 F2 d2 G2 G2 A2 | c2 F2 A2 F2 c2 F2 a2 g2 |\nf2 d2 c2 A2 c2 F2 F2 | f2 | c2 F2 A2 F2 c2 F2 f2 d2 | c2 F2 A2 F2 d2 G2 G2 A2 |\nc2 F2 A2 F2 c2 F2 a2 g2 | f2 d2 c2 A2 c2 F2 F2 | e2 | f2 c2 c2 e2 f3 g a2 g2 |\nf2 d2 c2 A2 g2 d2 d2 e2 | f2 d2 c2 A2 f e f g a2 g2 | f2 d2 c2 A2 c2 F2 F2 | e2 |\nf2 c2 c2 e2 f3 g a2 g2 | f2 d2 c2 A2 g2 d2 d2 e2 | f2 d2 c2 A2 f e f g a2 g2 | f2 d2 c2 A2 c2 F2 F2 |]\n"
+}

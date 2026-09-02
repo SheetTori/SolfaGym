@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmnyt1dprkeyzzsp",
+  "title": "Down the Brae",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNYT1dPRKeyzzSPuzWYPhhqJgbVKzkZnzG6SMwYJbeV9Y",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Em clef=treble\nB,2 | E3 D E2 F2 | G3 F G2 A2 | B4 e4 |\nd2 B4 A2 | G3 F G2 B2 | A2 F2 D2 E2 | F4 E4 |\nD2 B,4 | B,2 | E3 D E2 F2 | G3 F G2 A2 |\nB4 e4 | d2 B4 A2 | G3 F G2 B2 | A2 F2 D2 E2 |\nF4 E4 | E4 e2 d2 | z8 B4 e4 | e4 d2 e2 |\nf4 e4 | d2 B4 B2 | A3 G A2 B2 | d3 B d2 e2 |\nd2 B2 A2 B2 | d4 B2 A2 | B4 e4 | e4 d2 e2 |\nf4 e4 | d2 B4 A2 | G3 F G2 B2 | A2 F2 D2 E2 |\nF4 E4 | E4 |]\n"
+}

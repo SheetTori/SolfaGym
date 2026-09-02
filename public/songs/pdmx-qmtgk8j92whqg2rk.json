@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtgk8j92whqg2rk",
+  "title": "The dimple",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTgK8j92wHqg2rkyS7h5dhJnjJNQApG5G3CmuTmqt6mCu",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nA | d2 f d e c A c | B G E B A F D A | d2 f d e a g f |\ne d c B A3 | A | d2 f d e c A c | B G E B A F D A |\nd2 f d e a g f | e d c B A3 | A | B2 G B A2 F A |\nG2 E G F2 D A | B2 G B A d c B | A G F E D3 | A |\nB2 G B A2 F A | G2 E G F2 D A | B2 G B A d c B | A G F E D3 |]\n"
+}

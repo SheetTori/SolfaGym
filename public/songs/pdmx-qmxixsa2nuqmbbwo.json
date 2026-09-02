@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxixsa2nuqmbbwo",
+  "title": "Dark eyes",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXixsA2NUqmBbWoTZoq3navM1h9yLQfVaXjXcchg62hKf",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:Gm clef=treble\n^C2 D2 | E3 D D2 | z2 ^C2 D2 | E3 D D2 |\nz2 D2 G2 | G3 ^F G2 | z2 A2 B2 | A3 G G2 |\nz2 B2 c2 | B3 A A2 | z2 A2 B2 | A3 G G2 G2 |\nz2 ^C2 D2 | E3 D D2 | z2 A,2 D2 | C3 =B, _B,4 |\n^C2 D2 | E3 D D2 | z2 ^C2 D2 | E3 D D2 |\nz2 D2 G2 | G3 ^F G2 | z2 A2 B2 | A3 G G2 |\nz2 B2 c2 | B3 A A2 | z2 A2 B2 | A3 G G2 G2 |\nz2 ^C2 D2 | E3 D D2 | z2 A2 B B | A3 G G4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpnuxvbqyiakmsd",
+  "title": "Over the Moor to Maggie",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPnuXVBqYiakMSDgLJxE8nKKL4qpj7L56pEZDDuXpTvY2",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nB A | G2 G A B G B d | e g g e d B A G | E A A G A B A G |\nE A A G A c B A | G3 A B G B d | e2 g e d B A G | E G G G B G A G |\nE G F A G2 | B A | G2 G A B G B d | e g g e d B A G |\nE A A G A B A G | E A A G A c B A | G3 A B G B d | e2 g e d B A G |\nE G G G B G A G | E G F A G2 | g a | b g g2 a g e f |\ng3 e d2 B d | e a a g a b a g | e a a g a2 g a | b3 g a g e f |\ng3 e d2 B d | e g g2 b g a g | e g g f g2 | g a |\nb g g2 a g e f | g3 e d2 B d | e a a g a b a g | e a a g a2 g a |\nb3 g a g e f | g3 e d2 B d | e g g2 b g a g | e g g f g2 |\nB d | e3 c d2 B d | c A A2 B2 A G | E A A G A B A G |\nE A A G A B c d | e c c e d B B2 | c A A2 B G A G | E G G2 B G A G |\nE G G F G2 | B d | e3 c d2 B d | c A A2 B2 A G |\nE A A G A B A G | E A A G A B c d | e c c e d B B2 | c A A2 B G A G |\nE G G2 B G A G | E G G F G2 |]\n"
+}

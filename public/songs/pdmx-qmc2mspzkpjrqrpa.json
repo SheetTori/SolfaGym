@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmc2mspzkpjrqrpa",
+  "title": "Pange lingua - Mozarabic chantcreate page",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmc2msPZkpJrQRpapnrFeMVzi2BVjdKVgwKMuUmzzWtQRV",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/1\nL:1/4\nK:F clef=treble\nF8 G4 | A8 A4 | A8 G4 | B12 |\nA8 G4 | A8 G4 | F12 | F8 G4 |\nA8 G4 | F8 E4 | F12 | F8 A4 |\nc8 c4 | d8 d4 | c8 =B4 | c12 |\nc8 d4 | f8 e4 | d8 f4 | e8 d4 |\nc12 | F8 G4 | A8 A4 | A8 G4 |\nB12 | A8 G4 | A8 G4 | F12 |\nF8 G4 | A8 G4 | F8 E4 | F12 |]\n"
+}

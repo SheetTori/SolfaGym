@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmugvhnsgdfypc7y",
+  "title": "Lord of Caernarfon's Jig",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmUGVhnsgdfyPc7YhGDNi7NNYh9uPgigdhBg4sYbfKyTKf",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:D clef=treble\nB2 G2 B =c d2 | =c2 A2 A B c d | B2 G2 d2 e f | g4 d4 |\nB2 G2 B =c d2 | =c2 A2 A B c d | B2 G2 d2 e f | g4 d4 |\ng f e d g3 B | A2 A2 =c2 d c | B2 G2 b3 a | g4 d4 |\nB2 G2 B =c d2 | =c2 A2 A B c d | B2 G2 d2 e f | g4 d4 |\ng f e d g3 B | A2 A2 =c2 d c | B2 G2 b3 a | g4 d4 |]\n"
+}

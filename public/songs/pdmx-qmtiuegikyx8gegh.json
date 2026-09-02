@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtiuegikyx8gegh",
+  "title": "Cana Verde (Green Sugar-Cane)",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTiuEgikYX8GeGhm2XGiBqcjmGK4aHBjz1dc3JNTzxaiX",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\nB2 B2 | B2 d2 c2 B2 | A4 c2 c2 | c2 e2 e2 d2 |\nB4 B2 B2 | B2 d2 c2 B2 | A4 c2 c2 | c2 e2 e2 d2 |\nB4 d2 d2 | g3 f e2 d2 | f3 f f2 e2 | d2 c2 B2 A2 |\nG8 | z2 d2 c2 B2 | A8 | z2 e2 e2 d2 |\nB8 | z2 d2 c2 B2 | A8 | z2 e2 e2 d2 |\nB4 B2 c2 | d3 d d2 e2 | f3 f f2 e2 | d2 c2 B2 A2 |\nG8 | z2 d2 c2 B2 | A8 | z2 e2 e2 d2 |\nB8 | z2 d2 c2 B2 | A8 | z2 e2 e2 d2 |\nB4 B2 c2 | d3 d d2 e2 | f3 f f2 e2 | d2 c2 B2 A2 |\nG8 |]\n"
+}

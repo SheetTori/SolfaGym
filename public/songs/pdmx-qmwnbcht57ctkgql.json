@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwnbcht57ctkgql",
+  "title": "Den skyldige",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWNBCHt57CTKGQLhE5o5ov3wfM3kwzZqxQcSzkfijGH2u",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:Dm clef=treble\nA, D F | A2 B A G B | A2 G F G A | F F E D E F |\nD2 z A, D F | A2 A G A G | A2 ^c c d d | c2 A A G G |\nA2 z A A G | A2 ^c c d d | c2 A A c d | B B A F A A |\nG2 z F D F | A2 B A G B | A2 G F G A | F2 E D E E |\nD2 |]\n"
+}

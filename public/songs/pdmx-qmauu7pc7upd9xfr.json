@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmauu7pc7upd9xfr",
+  "title": "Parsons farewell",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmaUu7Pc7uPd9XFRSHGPNp6Kv4Y779pr6SfLtPBedfLwx3",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Am clef=treble\nA2 | c2 A2 A2 B c | d2 G2 G3 G | A B c2 B2 A2 |\nG2 E2 E2 | A2 | c2 A2 A2 B c | d2 G2 G3 G |\nA B c2 B2 A2 | G2 E2 E2 | e2 | c4 c2 e2 |\nc4 c2 e2 | c d e2 c d e2 | d2 B2 B4 | B c d2 B c d2 |\nc2 A2 A B c d | e2 d c B A B2 | A6 | e2 |\nc4 c2 e2 | c4 c2 e2 | c d e2 c d e2 | d2 B2 B4 |\nB c d2 B c d2 | c2 A2 A B c d | e2 d c B A B2 | A6 |]\n"
+}

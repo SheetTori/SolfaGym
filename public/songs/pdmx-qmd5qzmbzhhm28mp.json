@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmd5qzmbzhhm28mp",
+  "title": "The flitch of Bacon",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmd5QZMbzhhm28MpUgDmXe94grUxoRFPAqJxA87LHvvnPF",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nD G G B A B | c A G F G A | D G G B A B | c A F G2 G |\nD G G B A B | c A G F G A | f e d f2 d | c A F G2 |\nz D G G B A B | c A G F G A | D G G B A B | c A F G2 G |\nD G G B A B | c A G F G A | f e d f2 d | c A F G2 |\nz d e f g a g | f e d g2 B | d e f g a g | f e d c A F |\nd e f g a g | f e d g2 d | f e d f2 d | c A F G2 |\nz d e f g a g | f e d g2 B | d e f g a g | f e d c A F |\nd e f g a g | f e d g2 d | f e d f2 d | c A F G2 |]\n"
+}

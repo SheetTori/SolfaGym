@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmymzfs5znmvbfru",
+  "title": "Eg gjekk meg opp til seterli",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmYMZFS5znMvBFrua6tVSBH7hf6RMkFHtzXTopmY3vKBiP",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 79,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\nE2 | A3 A A3 A | ^G3 A B3 c | A3 A A3 ^G |\nA2 B c E2 | E2 | A3 A A3 A | ^G3 A B3 c |\nA3 A A3 ^G | A2 B c E2 | B2 | c2 c c c3 d |\nB2 B B B3 c | A2 A A A2 ^G A | B2 B c A2 | B2 |\nc2 c c c3 d | B2 B B B3 c | A2 A A A2 ^G A | B2 B c A2 |\na2 e2 e2 e2 g2 |]\n"
+}

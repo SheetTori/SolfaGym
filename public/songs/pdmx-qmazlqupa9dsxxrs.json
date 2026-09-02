@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmazlqupa9dsxxrs",
+  "title": "Robinson's Reel",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmazLQupA9dsxxRsqhpH4QV45cFCpYzUQvHu1kdzw2k4T7",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:A clef=treble\nA a a e c A A c | B b b a g e f g | a g a e f e d c | d f e d c A A2 |\nA a a e c A A c | B b b a g e f g | a g a e f e d c | d f e d c A A2 |\nc A G A F A E A | G A B c d f e d | c A G A F A E A | d f e d c A A2 |\nc A G A F A E A | G A B c d f e d | c A G A F A E A | d f e d c A A2 |]\n"
+}

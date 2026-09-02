@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcjgvtdswy1jyj5",
+  "title": "Robin Ddiog",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcJGVtDsWY1JYJ5Ugd87jGMtHsNM1VWbNQaKbuo3oJZVD",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Em clef=treble\nE | G2 G F F F | E2 E G2 G | F2 F E2 E |\nB2 B E2 B | E2 E E2 F | G2 A B2 A | G F E F2 G |\nE3 E3 | B3 B2 G | E3 E2 G | B2 c B2 G |\nE3 A3 | G F E F2 G | E3 E2 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmng53ojimnm7kij",
+  "title": "Tok JÃns",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNg53oJimnm7KiJoTHBaAANbMHwfeVTgmV2qgGBCopnpW",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/16\nK:Gm clef=treble\nD2 G2 G2 A G F G F E | D2 G2 G2 ^F G A4 | D2 B2 B2 A G B2 A2 | G2 ^F G A B A G F2 D2 |\nD2 G2 G2 A G F G F E | D2 G2 G2 ^F G A4 | D2 B2 B2 A G B d B G | A c A ^F G8 |\nD2 d2 d2 =e d c d c A | B A B c d c d ^F G2 A2 | A2 B2 B2 A G B2 A2 | G2 ^F G A B A G F2 D2 |\nD2 d2 d2 =e d c d c A | B A B c d c d ^F G2 A2 | A2 B2 B2 A G B d B G | A c A ^F G8 |\nD2 d2 d2 =e d c d c A | B A B c d c d ^F G2 A2 | A2 B2 B2 A G B2 A2 | G2 ^F G A B A G F2 D2 |\nD2 d2 d2 =e d c d c A | B A B c d c d ^F G2 A2 | A2 B2 B2 A G B d B G | A c A ^F G8 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmrrkqw2yafkv83r",
+  "title": "White House Blues",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmRRKQw2yaFKV83r6T4ED3LyLcsv65o7baWkPB6M7V62SK",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Am clef=treble\nA2 e4 c2 | d2 d4 | z2 B B2 B B2 G2 | A4 z e e2 |\ne e2 e e2 c2 | d d d2 z3 d | f f2 f f2 f g | e3 z e g3 |\na10 | z2 e d c2 | d2 c A A4 | z6 c2 |\nA6 |]\n"
+}

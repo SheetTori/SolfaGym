@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmviphkg3gue39rh",
+  "title": "Romance",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmViPHKg3Gue39Rhyk3vV6EgRypfiKrXFF1T8XyTnpvc76",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/4\nK:Em clef=treble\nB B B | B A G | G F E | E G B |\ne e e | e d c | c B A | A B c |\nB c B | ^d c B | B A G | G F E |\nF F F | F G F | E5 | z B B B |\nB A G | G F E | E G B | e e e |\ne d c | c B A | A B c | B c B |\n^d c B | B A G | G F E | F F F |\nF G F | E5 | z ^G G G | ^G F E |\nE ^D D | ^D F A | ^c c c | ^c ^d c |\n^c B B | B ^c ^d | e e e | ^c c c |\n^c B A | ^G G G | ^G A F | E5 |]\n"
+}

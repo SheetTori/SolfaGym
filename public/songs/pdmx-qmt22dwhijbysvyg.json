@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmt22dwhijbysvyg",
+  "title": "The redhaired hag",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmT22dWHiJbySVyg1M6Fcx27aanMB4y71KwwUQZteziBU3",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:A clef=treble\nf | e c A a e A | c d e =g f g | B =G G d G G |\nB c d d2 f | e c A a e A | c d e f g a | d e f =g d B |\ne c A A2 | f | e c A a e A | c d e =g f g |\nB =G G d G G | B c d d2 f | e c A a e A | c d e f g a |\nd e f =g d B | e c A A2 | e | a g f e c A |\nc d e f g a | B =G B d B G | B c d d2 e | a g f e c A |\nc d e a3 | d e f =g d B | e c A A2 | f |\ne c A a e A | c d e =g f g | B =G G d G G | B c d d2 f |\ne c A a e A | c d e f g a | d e f =g d B | e c A A2 |\ne | a g f e c A | c d e f g a | B =G B d B G |\nB c d d2 e | a g f e c A | c d e a3 | d e f =g d B |\ne c A A2 |]\n"
+}

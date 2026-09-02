@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmahduaz8bmndcoj",
+  "title": "Ack h\\ogsta himmel och fallande jord",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmahdUAZ8BMndcoJuczvMnVLJMNc3EH92WQLKNDwqL7qWm",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Gm clef=treble\nd | g e c e d B G A | B G A ^F G2 z =F | F B B d d f f e |\nc e g f d2 z B | d B d ^f g a b a | g f d =e f2 z ^f | g f d e d B G A |\nB G A ^F G4 |]\n"
+}

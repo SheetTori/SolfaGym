@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdpj1w6bhslvvpr",
+  "title": "Deck The Halls",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdPJ1W6BHsLVvpraDQowPJUcrD6qZ45EUgRgc3HEY2xkr",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nA3 G F2 E2 | D2 E2 F2 D2 | E F G E F3 E | D2 C2 D4 |\nA3 G F2 E2 | D2 E2 F2 D2 | E F G E F3 E | D2 C2 D4 |\nE3 F G2 E2 | F3 G A2 E2 | F G A2 B c d2 | c2 B2 A4 |\nA3 G F2 E2 | D2 E2 F2 D2 | B B B B A3 G | F2 E2 D4 |]\n"
+}

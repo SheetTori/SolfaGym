@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtmz5fhyv3oykne",
+  "title": "Westering Home",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTmZ5FHyV3oyKnexRuXr3GFKQe6WpJAF5UnLkaf7Ry2Z2",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 71,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:Bm clef=treble\nA3 B A2 | A2 F2 A2 | d2 d2 e2 | f6 |\ng3 f e2 | f2 e2 d2 | B2 B2 A2 | A6 |\nA3 B A2 | A2 F2 A2 | d2 d2 e2 | f4 g2 |\na3 f d2 | f4 e2 | d6 | d6 |\na3 f d2 | d2 e2 f2 | e3 d e2 | A6 |\nA3 B c2 | d3 e f2 | g3 f g2 | e6 |\na3 f d2 | d2 e2 f2 | e3 d e2 | A4 g2 |\nf3 e d2 | f2 f2 e2 | d6 | d2 c2 B2 |]\n"
+}

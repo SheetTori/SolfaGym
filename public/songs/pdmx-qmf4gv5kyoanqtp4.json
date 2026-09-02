@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmf4gv5kyoanqtp4",
+  "title": "Bwlch Llanberis - Llanberis Pass",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmf4gv5kYoaNqtp43t5oP3Sc4WGr2PDRtM1s9SQWZnn9aQ",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:G clef=treble\nG A | B2 d B A B | G2 D2 E F | G2 d B G B |\nA4 G A | B c B A G F | E2 D2 G A | B2 c B A B |\nG4 | G A | B2 d B A B | G2 D2 E F |\nG2 d B G B | A4 G A | B c B A G F | E2 D2 G A |\nB2 c B A B | G4 | B c | d2 B d c B |\nB2 A2 G F | G2 B G E G | F4 G A | B c B A G F |\nE2 D2 G A | B2 c B A B | G4 | B c |\nd2 B d c B | B2 A2 G F | G2 B G E G | F4 G A |\nB c B A G F | E2 D2 G A | B2 c B A B | G4 |]\n"
+}

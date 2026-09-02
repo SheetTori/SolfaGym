@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwmxydbnqq8b45p",
+  "title": "The Sailors Are All At The Bar",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWMXydBNqQ8b45PLHhocyLUEeffkub2SAYcEBjt4QkoKM",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\ng | d B G G A B | c e c B2 G | c e c d B G |\nF A A A2 g | d B G G A B | c e c B2 G | B c d e f g |\nd B G G2 | g | d B G G A B | c e c B2 G |\nc e c d B G | F A A A2 g | d B G G A B | c e c B2 G |\nB c d e f g | d B G G2 | g | b g b a f a |\ng e c B2 G | c e c d B G | F A A A2 g | b g b a f a |\ng e c B2 G | B c d e f g | d B G G2 | g |\nb g b a f a | g e c B2 G | c e c d B G | F A A A2 g |\nb g b a f a | g e c B2 G | B c d e f g | d B G G2 |]\n"
+}

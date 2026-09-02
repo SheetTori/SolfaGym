@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdaz8st8lpf7pqs",
+  "title": "My brother Tom",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdAz8st8LPf7pqsZvMs4SyZnREuRMpesDAbmNw7wcYEq8",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Dm clef=treble\nD | D E D A G E | G A =B c B c | D E D A G E |\nG c A G E C | D E D A G E | G A =B c B c | e d c d c A |\nG c A G E D | D E D A G E | G A =B c B c | D E D A G E |\nG c A G E C | D E D A G E | G A =B c B c | e d c d c A |\nG c A G E D | A =B c d c d | e d c d2 c | A =B c d2 e |\nf e d c A G | A =B c d c d | e d c d2 c | G A =B c B c |\nG c A G E C | A =B c d c d | e d c d2 c | A =B c d2 e |\nf e d c A G | f e d e d c | d c A c2 A | G A =B c2 A |\nG c A G E D |]\n"
+}

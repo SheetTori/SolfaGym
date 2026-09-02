@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmecvd2jikp2nwa3",
+  "title": "Orielton House",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeCvd2JikP2NWA3Ti8S7UUMVbu3jxHVCVXLD1w9TaAnBa",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/16\nK:D clef=treble\nB2 c2 | d4 A4 A4 d4 | c4 A4 A4 d4 | e4 f4 g4 a2 g2 |\nf2 g2 e2 f2 d4 A B c2 | d4 A4 A4 d4 | c4 A4 A4 d4 | e4 f4 g2 f2 e2 f2 |\nd12 | B2 c2 | d4 A4 A4 d4 | c4 A4 A4 d4 |\ne4 f4 g4 a2 g2 | f2 g2 e2 f2 d4 A B c2 | d4 A4 A4 d4 | c4 A4 A4 d4 |\ne4 f4 g2 f2 e2 f2 | d12 | f2 g2 | a4 e4 e4 f4 |\ne6 d2 c4 e4 | d4 c4 B4 A4 | ^G12 E4 | A6 B2 c4 d4 |\ne4 d4 d2 f2 e4 | d4 c4 B6 A2 | A12 A4 | d4 A4 A4 d2 c2 |\nB4 B4 B4 c2 d2 | e2 f2 e2 f2 g2 f2 e2 d2 | c4 c6 e2 f2 g2 | a2 g2 f2 e2 d4 f4 |\ne2 d2 c2 B2 A4 f2 g2 | a4 e2 f2 g2 f2 e2 f2 | d12 | f2 g2 |\na4 e4 e4 f4 | e6 d2 c4 e4 | d4 c4 B4 A4 | ^G12 E4 |\nA6 B2 c4 d4 | e4 d4 d2 f2 e4 | d4 c4 B6 A2 | A12 A4 |\nd4 A4 A4 d2 c2 | B4 B4 B4 c2 d2 | e2 f2 e2 f2 g2 f2 e2 d2 | c4 c6 e2 f2 g2 |\na2 g2 f2 e2 d4 f4 | e2 d2 c2 B2 A4 f2 g2 | a4 e2 f2 g2 f2 e2 f2 | d12 |]\n"
+}

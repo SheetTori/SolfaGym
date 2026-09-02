@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbpehmrtdaayjmm",
+  "title": "A Girl's Best Friend",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbpehMRtDaaYjmmqV386Kn3kqRSeYu6ok1FAr5NMYSzZP",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 76,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:Em clef=treble\nd3 c B A | G3 A G2 | A2 G2 A2 | B2 e4 |\nd3 c B A | G3 A B2 | B2 ^A2 B2 | E6 |\nd3 c B A | G3 A G2 | A2 G2 A2 | B2 e4 |\nd3 c B A | G3 A B2 | B2 ^A2 B2 | E6 |\nB2 e2 ^d2 | e3 f g2 | d3 e d c | B2 d4 |\nB2 e2 ^d2 | e3 f g2 | B2 ^A2 B2 | E6 |\nB2 e2 ^d2 | e3 f g2 | d3 e d c | B2 d4 |\nB2 e2 f2 | g3 a b2 | B2 ^A2 B2 | e6 |]\n"
+}

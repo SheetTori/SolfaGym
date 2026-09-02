@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtwtfszxwy97yma",
+  "title": "Gavotte ton simple",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTwtfszXWY97yMabm4GsVrghVuGwVzHdxCid2HPt6PygG",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Am clef=treble\ne2 d e2 d | c2 B A3 | c2 A B2 c | B3 B3 |\ne2 d e2 d | c2 B A3 | c2 A B2 c | B3 B3 |\ne2 d e2 d | c2 B A3 | c2 A B c B | A3 A3 |\ne2 d e2 d | c2 B A3 | c2 A B c B | A3 A3 |]\n"
+}

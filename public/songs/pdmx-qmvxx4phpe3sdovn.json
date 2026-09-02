@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmvxx4phpe3sdovn",
+  "title": "Golden Slippers",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmVxx4phPE3sDovnoMpm7S5aRe66RzxFG2c6yV1ayBdPDi",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nd e | f2 f2 f e d e | f2 f2 f2 d e | f2 f2 f e d e |\nf2 e2 e2 c d | e2 e2 e d c d | e2 e2 e2 c d | e2 g2 f2 e2 |\ne2 d2 d2 d e | f2 f2 f e d e | f2 f2 f2 d e | f2 f2 f e d e |\nf2 e2 e2 c d | e2 e2 e d c d | e2 e2 e2 c d | e2 g2 f2 e2 |\ne2 d2 d2 c B | A6 d2 | f2 e2 d2 A2 | B6 e2 |\ng2 f2 e2 d2 | c2 c2 c B c d | e4 A4 | d3 c d2 e2 |\nf4 a4 | A6 d2 | f2 e2 d2 A2 | B6 e2 |\ng2 f2 e2 d2 | c2 c2 c B c d | e4 A4 | d3 c d2 e2 |\nf4 a4 | e4 g4 | f3 g f2 e2 | d8 |]\n"
+}

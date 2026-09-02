@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmaf5e6duy3yxbs3",
+  "title": "Tros y Gareg",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmaF5E6DUY3yxbS3HX1Q965YZBwAPT7SzHdoDpgYTckBXB",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Gm clef=treble\nG2 G ^F =E D | G A G A3 | B2 B A G F | B c B c3 |\nd2 d d e d | c2 c c d B | g e d c d B | A G ^F G3 |\nG2 G ^F =E D | G A G A3 | B2 B A G F | B c B c3 |\nd2 d d e d | c2 c c d B | g e d c d B | A G ^F G3 |\nd c d B c d | c2 B A3 | B A B G A B | A3 D3 |\nG2 G ^F =E D | G A G A3 | B2 B A G F | B c B c3 |\nd2 d d e d | c2 c c d ^f | g2 d e d c | B c A G3 |]\n"
+}

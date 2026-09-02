@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmeemnzmrwjvlbb4",
+  "title": "Crusader's march",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeemnZmrWjvLBB4vquVEFFVXNsS6FvYrfrTovsjqzoD5S",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 70,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/4\nK:Bb clef=treble\nB2 B B | c A B2 | d2 d d | e c d2 |\nf2 g g | f2 f e | d2 c2 | B3 |\nz B2 B B | c A B2 | d2 d d | e c d2 |\nf2 g g | f2 f e | d2 c2 | B3 |]\n"
+}

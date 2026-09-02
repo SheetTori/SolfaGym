@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmz7bshhvxqor1nu",
+  "title": "Pays de Haut",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmZ7BshHVxQor1nu4Vdy7Ce2bvSBBvixuURbcpMWrHRACy",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:A clef=treble\nf =g | a f a f d2 e f | =g f g e c2 e f | =g f e d c A B c |\nd e f =g a2 f g | a f a f d2 e f | =g f g e c2 e f | =g f e d c A B c |\nd2 f2 d2 f =g | a f a f d2 e f | =g f g e c2 e f | =g f e d c A B c |\nd e f =g a2 f g | a f a f d2 e f | =g f g e c2 e f | =g f e d c A B c |\nd2 f2 d2 A2 | F A d A F A d A | =G B d B G B d B | A B c d e f e c |\nd e f =g a2 A2 | F A d A F A d A | =G B d B G B d B | A B c d e f e c |\nd2 f2 d2 A2 | F A d A F A d A | =G B d B G B d B | A B c d e f e c |\nd e f =g a2 A2 | F A d A F A d A | =G B d B G B d B | A B c d e f e c |\nd2 f2 d2 A2 |]\n"
+}

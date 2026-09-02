@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmnshafxvvhzzaob",
+  "title": "Falkvor Lomansson",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNshAfxvVhZZaoBkwQVczuaZfA6TJZhT9hvvy85kTJfCZ",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:D clef=treble\nF4 D2 C2 D2 E2 | E4 D2 D6 | A3 G F2 G2 A2 B2 | A6 A6 |\nF4 D2 C2 D2 E2 | E4 D2 D6 | A3 G F2 G2 A2 B2 | A6 A6 |\nF2 E2 D2 C2 D2 E2 | F2 G2 F2 E2 D2 C2 | D6 D6 |]\n"
+}

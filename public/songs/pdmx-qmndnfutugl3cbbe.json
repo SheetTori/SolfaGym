@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmndnfutugl3cbbe",
+  "title": "Gobby-O or Jefferson and Liberty",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNdNfUTUGL3CBbeA4b6W8fm22EfpPCU6DMpk1AFzVRzoD",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 71,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Bm clef=treble\nB | =c2 A A ^G A | E2 A A2 =c | B2 G G B =c |\nd B G G A B | =c2 A A ^G A | E2 A A2 e | e d =c B A B |\n=c2 A A2 B | =c2 A A ^G A | E2 A A2 =c | B2 G G B =c |\nd B G G A B | =c2 A A ^G A | E2 A A2 e | e d =c B A B |\n=c2 A A2 B | A2 B =c2 d | e2 f g3 | e2 f g2 e |\nd B G G2 B | A2 B =c2 d | e f g a3 | e d =c B A B |\n=c2 A A2 B | A2 B =c2 d | e2 f g3 | e2 f g2 e |\nd B G G2 B | A2 B =c2 d | e f g a3 | e d =c B A B |\n=c2 A A2 B |]\n"
+}

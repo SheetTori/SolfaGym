@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmnct97ebg17gkt3",
+  "title": "Belly Wassail",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNcT97eBG17GkT3d4e8nfsFQ9PkLFqo1mbfP2weqthygk",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/16\nK:D clef=treble\nD3 E | F4 D3 E F3 G | A4 A4 A3 A | B4 B4 B4 |\nA8 A3 A | B6 c2 d2 B2 | A4 F4 A3 A | G2 G2 F4 E2 |\nD8 F4 | E8 G4 | F8 A4 | A4 d4 B4 |\nA8 A3 A | B6 c2 d2 B2 | A4 F4 A4 | G4 F4 E4 |\nD8 |]\n"
+}

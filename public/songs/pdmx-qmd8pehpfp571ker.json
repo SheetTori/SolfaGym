@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmd8pehpfp571ker",
+  "title": "Lei Cascavèu",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmd8PEHPFP571KeR4MK6xis9zz8TrPjZzaMg3kgJxmNNAN",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Cm clef=treble\nd c | B2 c d2 e | f3 f d e | f2 f f g f |\ne2 d c d c | B2 c d2 e | f3 f d e | f2 f f g f |\ne2 d c2 B | c2 B c2 d | e2 d c3 | B c d B c d |\nc d B c d c | B2 c d2 e | f3 g3 | f g f e d c |\nB3 B d c | B2 c d2 e | f3 f d e | f2 f f g f |\ne2 d c d c | B2 c d2 e | f3 f d e | f2 f f g f |\ne2 d c2 B | c2 B c2 d | e2 d c3 | B c d B c d |\nc d B c d c | B2 c d2 e | f3 g3 | f g f e d c |\nB3 B d c |]\n"
+}

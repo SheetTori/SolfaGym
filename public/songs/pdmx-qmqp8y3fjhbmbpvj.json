@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqp8y3fjhbmbpvj",
+  "title": "Plinn ton double",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQp8y3FjHbmBpvjVovwNmmv9JNpArv2J4i3qm4kS93dN4",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Am clef=treble\nc A B e e d B2 | c A B B A2 A2 | c A B e e d B2 | c A B B A2 A2 |\nc A B e e d B2 | e g e d e2 e g | e d c e d c B2 | c2 A c B B A2 |\nc A B e e d B2 | e g e d e2 e g | e d c e d c B2 | c2 A c B B A2 |]\n"
+}

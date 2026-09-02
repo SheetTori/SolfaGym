@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpcdp8zeozwdseq",
+  "title": "Johnny Jump Up",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPcDp8ZEoZwDseQWWuxXWjoX1hCWtpSz4Vd7DVFumLP5o",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:Em clef=treble\nE2 | E2 B2 B2 | B2 A2 B2 | G E3 E2 |\nE4 F2 | D2 E2 F2 | A2 B2 A2 | A2 F2 E2 |\nD4 d2 | e2 d2 B2 | B2 A2 B2 | B2 ^c2 d2 |\ne4 d2 | e2 d2 e2 | B2 A2 B2 | G3 E E2 |\nE4 | E2 | E2 B2 B2 | B2 A2 B2 |\nG E3 E2 | E4 F2 | D2 E2 F2 | A2 B2 A2 |\nA2 F2 E2 | D4 d2 | e2 d2 B2 | B2 A2 B2 |\nB2 ^c2 d2 | e4 d2 | e2 d2 e2 | B2 A2 B2 |\nG3 E E2 | E4 | E2 | E2 B2 B2 |\nB2 A2 B2 | G E3 E2 | E4 F F | D3 E F F |\nA2 B2 A A | A2 F2 E2 | D4 d2 | e2 d2 B2 |\nB2 A2 B2 | B2 ^c2 d2 | e4 d d | e2 d2 e2 |\nB2 A2 B2 | G E3 E2 | E4 |]\n"
+}

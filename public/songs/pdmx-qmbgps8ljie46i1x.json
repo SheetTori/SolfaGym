@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbgps8ljie46i1x",
+  "title": "The Old Pipe Reel",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbGPS8LjiE46i1XhSXdi4CMXvm6oM9Cn3h3yfeewVqMba",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Am clef=treble\nA2 A2 G A A d | e2 d e g e d e | a2 e a g e d B | A2 A2 B G G B |\nA B A G A2 A B | e2 d e g e d e | a2 e a g e d B | A2 A2 G A A2 |\nA2 A2 G A A d | e2 d e g e d e | a2 e a g e d B | A2 A2 B G G B |\nA B A G A2 A B | e2 d e g e d e | a2 e a g e d B | A2 A2 G A A2 |\na2 e a g e d e | a2 e a g e d e | a2 e a g e d B | A2 A2 B G G B |\nA B A G A2 A B | e2 d e g e d e | a2 e a g e d B | A2 A2 G A A2 |\na2 e a g e d e | a2 e a g e d e | a2 e a g e d B | A2 A2 B G G B |\nA B A G A2 A B | e2 d e g e d e | a2 e a g e d B | A2 A2 G A A2 |\nA2 A2 G A A d | e2 d e g e d B | A2 A2 G A e g | e2 d A B G G B |\nA B A G A2 A B | e2 d e g e d e | a2 e a g e d B | A2 A2 G A A2 |\nA2 A2 G A A d | e2 d e g e d B | A2 A2 G A e g | e2 d A B G G B |\nA B A G A2 A B | e2 d e g e d e | a2 e a g e d B | A2 A2 G A A2 |\na2 a2 g e d e | a2 a2 g e d e | a2 a2 g e d B | A G A c B G G A |\nA B A G A2 A B | e2 d e g e d e | a2 e a g e d B | A2 A2 G A A2 |\na2 a2 g e d e | a2 a2 g e d e | a2 a2 g e d B | A G A c B G G A |\nA B A G A2 A B | e2 d e g e d e | a2 e a g e d B | A2 A2 G A A2 |]\n"
+}

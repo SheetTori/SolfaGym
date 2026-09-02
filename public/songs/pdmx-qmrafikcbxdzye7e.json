@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmrafikcbxdzye7e",
+  "title": "La Belle Jardiniere",
+  "source": "PDMX — cc-zero",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmRAFiKcbXdZYE7ErbTnbFohedJ7BJrNQPLJnh95Rr6gcF",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "cc-zero",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Em clef=treble\nG F D | E2 G F2 A | G2 E G F D | E2 G F2 D |\nE6 | G F D | E2 G F2 A | G2 E G F D |\nE2 G F2 D | E6 | F G A | B3 A2 G |\nF E F G F D | E2 G F2 A | G2 E F G A | B3 A2 G |\nF E F G F D | E6 |]\n"
+}

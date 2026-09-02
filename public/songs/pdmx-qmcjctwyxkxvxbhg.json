@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcjctwyxkxvxbhg",
+  "title": "God Bless the Prince of Wales",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcjctwYXkxvXBHGQ3ekcu6da3kYxkhU9LNjixMfW8Q35p",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nD2 | B3 d c2 B2 | B4 A2 A2 | G3 B A2 G2 |\nF6 D2 | d3 B G2 F2 | E2 E4 c2 | B3 G A3 G |\nG6 B2 | A3 E E2 G2 | F2 A4 F2 | E2 A2 d3 ^c |\n^c6 c2 | d3 ^c B2 A2 | F2 A4 D2 | D3 F E3 D |\nD6 D2 | B3 d c2 B2 | B4 A2 A2 | G3 B A2 G2 |\nF6 D2 | d3 B G3 F | E2 E4 c2 | B3 G A3 G |\nG8 |]\n"
+}

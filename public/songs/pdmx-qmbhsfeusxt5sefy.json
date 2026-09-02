@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbhsfeusxt5sefy",
+  "title": "Loch Lomond",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbhsfeusXT5sEfycs2PzZ9KaDF7NzNztCS5Bi8sJcN75M",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/4\nK:G clef=treble\nD E | G2 G A | B2 B A | G2 G E |\nD2 D E | G2 G2 | G2 B d | e4 |\nd2 d2 | e2 e d | B2 B d | c B A G |\nE2 D E | G2 B d | e2 d B | A4 |\nG2 | z4 D E | G2 G A | B2 B A |\nG2 G E | D2 D E | G2 G G | G2 B d |\ne4 | d2 d2 | e2 e d | B2 B d |\nc B A G | E2 D E | G G B d | e2 d B |\nA4 | G2 |]\n"
+}

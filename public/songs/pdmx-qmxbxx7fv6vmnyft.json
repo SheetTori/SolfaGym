@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxbxx7fv6vmnyft",
+  "title": "Long long ago",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXbxX7Fv6vMnYFTkFuS96Ayqmp3AkfQLHwDnCL9gn5KPg",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:F clef=treble\nF2 F G A2 A B | c2 d c A4 | c2 B A G4 | B2 A G F4 |\nF2 F G A2 A B | c2 d c A4 | c2 B A G2 A G | F4 |]\n"
+}

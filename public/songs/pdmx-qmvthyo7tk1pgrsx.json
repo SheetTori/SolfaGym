@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmvthyo7tk1pgrsx",
+  "title": "The ladies of Carrick",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmVTHyo7TK1PGRsxrEG41aG2evX22Urjc71y7jZBgWim3c",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 78,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:F#m clef=treble\ne A A e d c | e A A A a f | e A A e d c | f B B B a f |\ne A A e d c | e A A e f =g | f e d e d c | f B B B a f |\ne A A e d c | e A A A a f | e A A e d c | f B B B a f |\ne A A e d c | e A A e f =g | f e d e d c | f B B B a f |\ne c c a c c | e c c e f =g | e c c a c c | f B B B a f |\ne c c a c c | e c c e f =g | f e d e d c | f B B B a f |\ne c c a c c | e c c e f =g | e c c a c c | f B B B a f |\ne c c a c c | e c c e f =g | f e d e d c | f B B B a f |]\n"
+}

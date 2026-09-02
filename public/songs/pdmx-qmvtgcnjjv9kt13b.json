@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmvtgcnjjv9kt13b",
+  "title": "Herr Ole",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmVTGcNjjV9Kt13byjDao6FSuSDvVzhqrZf6phPoRLpdQB",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:Am clef=treble\nE2 | E4 c2 B2 A4 G2 F2 | E2 E2 F2 E2 D6 D2 | E3 E E3 F G2 G2 A2 G2 |\nF8 E6 E2 | E4 A2 c2 e4 d2 c2 | c4 B2 A2 ^G4 A2 B2 | c2 B2 A2 G2 E2 E2 c2 B2 |\n^G8 A4 |]\n"
+}

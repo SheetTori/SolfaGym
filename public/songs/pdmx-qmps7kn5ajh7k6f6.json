@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmps7kn5ajh7k6f6",
+  "title": "East Neuk of Fife",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPs7KN5ajH7k6f6X8MciLCk8YvZnve4mJGXzStf5bmebr",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Em clef=treble\nD2 | G2 G2 G2 B c | d B G B d B G B | A2 A2 A2 g f |\ne2 e d e f g e | d c B A G2 B c | d B G B d2 c B | A B c d B c A B |\nG2 E2 E2 | D2 | G2 G2 G2 B c | d B G B d B G B |\nA2 A2 A2 g f | e2 e d e f g e | d c B A G2 B c | d B G B d2 c B |\nA B c d B c A B | G2 E2 E2 | d c | B2 G2 G2 d c |\nB2 G2 G2 e d | c2 A2 A2 f g | a2 A2 A2 B c | d2 G2 B2 G2 |\ng f g e d2 c B | A B c d B c A B | G2 E2 E2 | d c |\nB2 G2 G2 d c | B2 G2 G2 e d | c2 A2 A2 f g | a2 A2 A2 B c |\nd2 G2 B2 G2 | g f g e d2 c B | A B c d B c A B | G2 E2 E2 |]\n"
+}

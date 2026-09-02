@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmck9oz4oiupcsfj",
+  "title": "Schoon lief",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcK9oz4oiUPCsFJSG7MtSdMhxhE3SHuwzzmqp3wFdJmy1",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/16\nK:Am clef=treble\nA2 | A2 E2 A6 B2 | B2 c2 A6 c2 | c2 d c B6 A2 |\nA4 B4 z2 B2 | B2 B2 B6 B2 | c2 A2 ^G6 E2 | A2 B2 c6 B A |\n^G4 A4 |]\n"
+}

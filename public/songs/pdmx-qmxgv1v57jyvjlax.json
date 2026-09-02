@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxgv1v57jyvjlax",
+  "title": "Air de la gaillarde appellee I'aymerois mieulx dormir seulette.",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXgv1V57jYVjLaXftCQUxa9WStEVKFKFgttJwgHcaX8xG",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/2\nL:1/4\nK:Gm clef=treble\nF2 F2 F2 F2 F2 F2 | G2 G2 G2 A2 z2 A2 | B2 B2 B2 A2 A2 A2 | A2 G2 G2 ^F2 z2 F2 |\nF2 G2 A2 B2 B2 A2 | A2 G2 G2 ^F2 z2 F2 | F2 G2 A2 B2 B2 A2 | G2 G2 ^F2 G2 z2 G2 |]\n"
+}

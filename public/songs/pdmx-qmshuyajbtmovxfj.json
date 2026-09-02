@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmshuyajbtmovxfj",
+  "title": "The return from Fingal",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmSHuYAJBtMovXFjjcER2iWsSRw6sjS1ikkQfMrobZnatu",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Em clef=treble\nB A G F E F G A | B A G F E3 B | A G F A d2 A2 | B2 A2 B ^c d2 |\nB A G F E F G A | B A G F E3 B | A G F A d2 A2 | F2 E2 E4 |\nB A G F E F G A | B A G F E3 B | A G F A d2 A2 | B2 A2 B ^c d2 |\nB A G F E F G A | B A G F E3 B | A G F A d2 A2 | F2 E2 E4 |\nf2 e2 e2 d ^c | B2 A2 d3 A | B2 A2 d2 A2 | B2 A2 B ^c d e |\nf2 e2 e2 d ^c | B2 A2 d3 B | A G F A d2 A2 | F2 E2 E4 |\nf2 e2 e2 d ^c | B2 A2 d3 A | B2 A2 d2 A2 | B2 A2 B ^c d e |\nf2 e2 e2 d ^c | B2 A2 d3 B | A G F A d2 A2 | F2 E2 E4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmst7wqjexy7ttqx",
+  "title": "Det sitter en f\\aagel",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmST7wQJExY7TTqXwCE7xCEE6togGeSSnV43LDCrjXJciU",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:F clef=treble\nC2 | F4 A2 F2 | c4 d2 e2 | f4 d2 d2 |\nB4 z2 d2 | f2 c2 c2 d2 | c3 B A2 F2 | B3 A G2 F2 |\nE4 z2 C2 | F4 A2 c2 | c4 B A G F | E6 D E |\nF6 |]\n"
+}

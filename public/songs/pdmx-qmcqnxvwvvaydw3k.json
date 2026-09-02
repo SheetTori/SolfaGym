@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcqnxvwvvaydw3k",
+  "title": "Esmeralda",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcqNxvwVVAyDW3kQte1gaxrRBD5GS14kouEop8Y9UULjT",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:G clef=treble\nG4 G3 A B2 G2 B2 d2 | g4 g3 g g2 d2 B2 G2 | c4 e3 c B2 d2 B2 G2 | B4 d3 d d2 c2 B2 A2 |\nG4 G3 A B2 G2 B2 d2 | g4 g3 g g2 d2 B2 G2 | c4 e3 c B2 d2 B2 G2 | A4 G3 F G8 |\na4 a3 a a2 f2 d4 | g4 b3 a g2 e2 d4 | g4 g4 f4 g3 f | e2 g2 f2 e2 d2 c2 B2 A2 |\nG4 G3 A B2 G2 B2 d2 | g4 g3 g g2 d2 B2 G2 | c4 e3 c B2 d2 B2 G2 | A4 G3 F G8 |]\n"
+}

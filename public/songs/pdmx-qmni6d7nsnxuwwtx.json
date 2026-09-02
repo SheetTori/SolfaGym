@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmni6d7nsnxuwwtx",
+  "title": "Keklik",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNi6d7nsnxUwwtxcDwRTTwBLx34CyuSvgVcfQuzGTQdaX",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 8,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:Dm clef=treble\nc4 c2 B2 c2 c2 c2 B2 | A4 A4 D4 | z4 c4 c2 B2 c2 c2 c2 B2 | A4 A4 D4 |\nz4 c B c d c2 B2 c B c d c2 B2 | A4 A4 D4 | z4 d4 c2 =B2 c2 d2 c2 B2 | A4 A4 D4 |\nz4 c2 c2 c2 =B2 c2 c2 c2 B2 | A4 A4 D4 | z4 c =B c d c d B2 c B c d c d B2 | A4 A4 D4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qme3trcqnxjrbphh",
+  "title": "Tripping Up Stairs",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qme3trcqNxjRBPHhABXQkwT6FCzy7MH9wP3D7DnBdFBMTq",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nF A A G B B | A d e f e d | c B c A B c | d f e d A G |\nF A A G B B | A d e f e d | c B c A B c | d f e d3 |\nF A A G B B | A d e f e d | c B c A B c | d f e d A G |\nF A A G B B | A d e f e d | c B c A B c | d f e d3 |\nd B B f B B | d B B f e d | c A A e A A | c A c e d c |\nd B B f B B | d B d f e d | c B c A B c | d f e d3 |\nd B B f B B | d B B f e d | c A A e A A | c A c e d c |\nd B B f B B | d B d f e d | c B c A B c | d f e d3 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwafa7vu72xnxog",
+  "title": "Chestnut",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWAfa7vu72xnxoGLiunUazJZZJKPq68ru5wQWGiKxsciB",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:Am clef=treble\nA2 e2 d2 c2 | B3 A ^G2 E2 | A2 B2 c2 c2 | d2 c d e4 |\nA2 e2 d2 c2 | B3 A ^G2 E2 | A2 B2 c2 c2 | d2 c d e4 |\ne2 e f g2 f e | d2 d e f2 e d | e2 e2 e2 d c | d3 c c4 |\ne2 f e f e d c | d2 e d e d c B | c2 A2 A2 d2 | B3 c A4 |\ne2 e f g2 f e | d2 d e f2 e d | e2 e2 e2 d c | d3 c c4 |\ne2 f e f e d c | d2 e d e d c B | c2 A2 A2 d2 | B3 c A4 |]\n"
+}

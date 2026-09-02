@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmv8nqagkh5xtbzr",
+  "title": "Y Pren ar y Bryn",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmV8nQAGKh5xTbZRuwik227pkcwUcqoDdds4zU5DpHBdbp",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 66,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/16\nK:F#m clef=treble\nE3 E | =G8 F4 | E12 | =G8 F4 |\nE4 E6 E2 | B2 B B A2 A2 | =G2 G G F F F2 | E E E2 B4 =G3 A |\nB8 A3 =G | F6 E2 =G G F2 | E8 | E2 =G2 F2 F2 |]\n"
+}

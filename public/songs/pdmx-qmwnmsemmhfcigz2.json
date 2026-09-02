@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwnmsemmhfcigz2",
+  "title": "As I Went Down In The Valley To Pray",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWNmSEmMhFCiGZ2d9yjxL3MGV1VD4TraJCAFK7QHsF7Dh",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 9,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nD | D2 E2 G2 G G | G G E2 G4 | B B A B A2 G2 |\nB2 A2 G2 z E | D2 B,2 D3 B, | D2 B,2 D2 B2 | G4 G G2 E |\nD6 | z2 A4 B2 A2 | B2 d2 B A G2 | G2 B2 G2 G E |\nG G G2 E D D2 | A4 B2 A2 | B2 d2 B A G2 | G2 B B G G E2 |\nD6 |]\n"
+}

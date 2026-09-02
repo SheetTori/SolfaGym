@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmagyw9hwhkwtnt1",
+  "title": "Da Caald Nights O Winter",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmaGYw9HWHkWTnT1Z1sJS7TsziHtYGbeTbD1uZhNFEdsRk",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 76,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Em clef=treble\ne | e a a f g e f d | B B g e d2 d d | e a a f g a f d |\ne f d f e2 e | e | e a a f g e f d | B B g e d2 d d |\ne a a f g a f d | e f d f e2 e | A | A A ^c A e A c A |\nB B g e d2 d f | e A ^c A e A c e | e f d f e2 e | A |\nA A ^c A e A c A | B B g e d2 d f | e A ^c A e A c e | e f d f e2 e |]\n"
+}

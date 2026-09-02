@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwmjpnjtkdbxexb",
+  "title": "the Drunken Sailor",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWmJpnJtkdbxExbPP88vRPMzgBL4BLgfFUjFpGEAhGw1z",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Dm clef=treble\nA2 A A A2 A A | A2 D2 F2 A2 | G2 G G G2 G G | G2 C2 E2 G2 |\nA2 A A A2 A A | A2 =B2 c2 d2 | c2 A2 G2 E2 | D4 D4 |\nA4 A3 A | A2 D2 F2 A2 | G4 G3 G | G2 C2 E2 G2 |\nA4 A3 A | A2 =B2 c2 c2 | c2 A2 G2 E2 | D4 D4 |]\n"
+}

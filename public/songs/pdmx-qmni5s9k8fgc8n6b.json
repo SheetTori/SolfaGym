@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmni5s9k8fgc8n6b",
+  "title": "La Gracieuse",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNi5s9K8FGC8N6Bgxw1xotMt251ZVPgHDwaZ4rM3eEbnR",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:G clef=treble\nG2 A2 | B2 B e d B | d2 d2 G A | B B B e d B |\nc4 A B | c c c f e d | f2 f e e d | d e d c A c |\nB2 G G G A | B2 B e d B | d2 d2 G A | B B B e d B |\nc4 A B | c c c f e d | f2 f e e d | d e d c A F |\nG2 G4 | B2 B e d B | d2 d2 G A | B B B e d B |\nc4 A B | c c c f e d | f2 f e e d | c2 A2 F A |\nG B D4 | c A F A E F | G B d4 | c2 A2 F A |\nG B D4 | c A F A E F | G2 g G g G | c2 A2 F A |\nG B D4 | c A F A E F | G B d e d B | c2 A2 F A |\nG B D4 | c A F A E F | G2 G2 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdqsy8q4iv6hbeu",
+  "title": "All Praise to Saint Patrick",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdQSy8Q4iv6hBEUnQJ7QDWpiDbebabCUjrkpiEeZQ1So6",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 63,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:Eb clef=treble\nB, B, | E3 F E2 E2 G2 A2 | B3 c B2 B2 G2 E E | F2 E2 F2 G2 E2 B,2 |\nC3 D C2 C4 B, B, | E3 F E2 E2 F2 G2 | B3 e c2 B2 G2 E E | F2 E2 F2 G2 E2 B,2 |\nC2 C2 D2 E4 B2 | B2 c2 d2 e4 c2 | d2 d2 c2 B2 c2 B2 | B2 c2 d2 e2 f2 e2 |\nd2 c2 B2 c2 B2 B2 | B2 c2 d2 e4 c2 | d2 c2 B2 c2 d3 e | B, B, |\nE3 F E2 E2 G2 A2 | B3 c2 B2 B2 G2 E E | F2 E2 F2 G2 E2 B,2 | C3 D C2 C4 B, B, |\nE2 F2 E2 E2 F2 G2 | B3 e c2 B2 G2 E E | F2 E2 F2 G2 E2 B,2 | C2 C2 D2 E4 |]\n"
+}

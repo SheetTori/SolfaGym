@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmfkagc5unucsx48",
+  "title": "La Barbentanaise",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmfKagC5UNUcSX48mgkqvnYgEjmqa8Lc6mj2Au4aD1bjAd",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 75,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Eb clef=treble\nd e | f2 d B2 G | F3 F =A B | c2 f g2 f |\nf3 d d e | f2 d B2 G | F3 F B =A | G c B =A d c |\nB3 B2 | z F3 F =A B | c3 c c f | =e G e e G e |\nc3 d c =A | F3 F G B | c3 c B =A | G =e d c B G |\nF3 f | z2 e3 G B e | d3 d d c | B2 c A2 B |\nG3 B c d | e3 G B e | d3 f e c | B =A B =B c d |\ne3 e |]\n"
+}

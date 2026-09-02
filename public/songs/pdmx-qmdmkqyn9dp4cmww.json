@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdmkqyn9dp4cmww",
+  "title": "Al die willen te kaap'ren varen",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdmkqYN9dp4CMwwbtAhdSy5cFA5M7seC2qbKQRKnu3V1v",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Am clef=treble\nA2 c B c d | c2 B A2 E | A2 c B c d | c2 B A3 |\nA2 c B c d | c2 B A2 E | A2 c B c d | c2 B A3 |\nc2 d e2 d | c2 d e3 | A B c B2 B | B c d c2 A |\nc2 d e2 d | c2 d e3 | A B c B c d | c2 B A3 |]\n"
+}

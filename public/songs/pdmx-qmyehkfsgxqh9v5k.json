@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmyehkfsgxqh9v5k",
+  "title": "A Child this Day is Born",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmYEhKfsGxqh9v5KPFsovzh2fvKeaYyJq6e3wyjS3feotw",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:A clef=treble\nA2 | A2 d2 c2 A B | c6 e2 | d2 c2 d c B2 |\nA6 A2 | A2 D2 B2 d2 | A3 B A2 =G2 | F2 d2 F2 E2 |\nD6 A2 | A2 d2 c2 A B | c6 e2 | d2 c2 d c B2 |\nA6 A2 | A2 D2 B2 d2 | A3 B A2 =G2 | F2 d2 F2 E2 |\nD6 A2 |]\n"
+}

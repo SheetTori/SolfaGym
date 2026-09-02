@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmp8hqnej3ndktta",
+  "title": "I will give my love an apple",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmP8HqNeJ3NdKTTahM6Tw7YNzVfJ5w7jhvETmAvjKJKaaC",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:Am clef=treble\nE E | A2 A2 A B | c2 B2 A2 | A G E2 D2 |\nE4 E F | G2 G2 A A | E2 D2 C2 | D2 c2 B2 |\nA4 c d | e2 c2 e e | e d e2 e2 | e d A2 A2 |\nF2 E2 D2 | G2 G2 A2 | E2 D2 C2 | D2 c2 B2 |\nA4 |]\n"
+}

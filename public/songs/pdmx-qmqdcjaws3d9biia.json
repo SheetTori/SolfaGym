@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqdcjaws3d9biia",
+  "title": "Sinner man",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQdCJawS3D9biiaiESJeJCVzgGwN1YRxBuuXp5phup7Sg",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Em clef=treble\nB2 G F E4 | B B B A B2 d2 | A2 F E D4 | A A A G A2 d2 |\nB2 G F E4 | B B B A B2 d2 | B4 A2 F2 | E8 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwvqydabbiejczy",
+  "title": "The snow on the hills",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWVqYDAbbieJcZy8w2CcYP1emFDM7mPscGNPxabWYjwB3",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:Am clef=treble\nG2 d G B G d G | G A B d c A ^F A | G2 d G B c d e | ^f d c B c A ^F A |\nG2 d G B G d G | G A B d c A ^F A | G A B c d ^f e g | ^f d c A G A B c |\nd g g a b g a ^f | d g g ^f d2 c A | d g g a b g a g | ^f d c B G A B c |\nd g g a b g a g | d g g ^f d e f g | a b a g ^f g f e | d e ^f d c A ^F A |]\n"
+}

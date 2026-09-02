@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmupviqnztvrf5xd",
+  "title": "Korobeiniki",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmUpViQnztvrf5XD9kMZFNH9UAuwxhj5hdGVeHyTw88bsa",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Am clef=treble\nE3 ^G B2 G E | A3 c e2 d c | B3 c d2 e2 | c2 A2 A4 |\nf3 g a2 g f | e3 f e2 d c | B3 c d2 e2 | c2 A2 A4 |\nf3 g a2 g f | e3 f e2 d c | B3 c d2 e2 | c2 A2 A4 |]\n"
+}

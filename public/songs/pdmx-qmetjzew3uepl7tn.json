@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmetjzew3uepl7tn",
+  "title": "Difyrrwch Arglwyddes Owen",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmetJZeW3UEpL7tNfVkeyTU3YKwkPrfQdt1qe2KQiEy3F9",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/16\nK:A clef=treble\ne2 d2 | c6 d2 e4 | F4 G4 A4 | B4 c4 A4 |\nG8 e4 | c4 A4 d4 | B4 G4 c4 | A4 B4 G4 |\nA8 | e2 d2 | c6 d2 e4 | F4 G4 A4 |\nB4 c4 A4 | G8 e4 | c4 A4 d4 | B4 G4 c4 |\nA4 B4 G4 | A8 | e2 d2 | c4 d4 e4 |\nf8 e4 | f4 B4 A4 | G8 e2 d2 | c4 d4 e4 |\nf4 B4 e4 | a4 f4 ^d4 | e8 d4 | c4 d4 e4 |\nf3 g a4 e4 | f4 B4 A4 | G8 e4 | c4 A4 d4 |\nB4 G4 c4 | A4 B4 G4 | A8 |]\n"
+}

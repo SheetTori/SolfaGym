@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbukr35texu49du",
+  "title": "Aly Grogan",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbuKR35Texu49DUjpD52UgqtwR7gHgcDkPV7s8g9Ra9Qn",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:G clef=treble\nd2 B2 G2 d2 B2 G2 | c2 A2 F2 c2 A2 F2 | B c d2 B2 c3 A F2 | G4 G2 G6 |\nd2 B2 G2 d2 B2 G2 | c2 A2 F2 c2 A2 F2 | B c d2 B2 c3 A F2 | G4 G2 G6 |\ng2 a2 g2 g2 f2 e2 | d2 e2 d2 d2 B2 G2 | g2 a2 g2 e2 f2 g2 | A4 A2 A6 |\ng2 a2 g2 g2 f2 e2 | d2 e2 d2 d2 B2 G2 | B c d2 B2 c3 A F2 | G4 G2 G6 |\ng2 a2 g2 g2 f2 e2 | d2 e2 d2 d2 B2 G2 | g2 a2 g2 e2 f2 g2 | A4 A2 A6 |\ng2 a2 g2 g2 f2 e2 | d2 e2 d2 d2 B2 G2 | B c d2 B2 c3 A F2 | G4 G2 G6 |]\n"
+}

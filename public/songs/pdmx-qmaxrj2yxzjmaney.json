@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmaxrj2yxzjmaney",
+  "title": "Old as the hills",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmaxrj2YXzjmAnEYyCzLHgBVdj83KaYg9uhPyocR16rktd",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:A clef=treble\na | A B A c B A | d2 e f g a | A B A c2 A |\nd B G B c d | e c A A c e | d2 e f g a | e c e d B G |\nA c e a2 | a | A B A c B A | d2 e f g a |\nA B A c2 A | d B G B c d | e c A A c e | d2 e f g a |\ne c e d B G | A c e a2 | e | A2 B c2 d |\ne f e e3 | d2 B B c d | e2 d c B A | f2 g a g f |\ne2 d c2 a | c2 A B G B A3 A2 | e | A2 B c2 d |\ne f e e3 | d2 B B c d | e2 d c B A | f2 g a g f |\ne2 d c2 a | c2 A B G B A3 A2 |]\n"
+}

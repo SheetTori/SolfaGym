@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmck6aszzlvvbbrk",
+  "title": "Clementine",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmck6aSzzLvVbBrKWVnBtSanyWM9rHY5VcpP9Fty8pa3gZ",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/16\nK:D clef=treble\nd3 d | d4 A4 f3 f | f4 d4 d3 f | a4 a4 g3 f |\ne8 e3 f | g4 g4 f3 e | f4 d4 d3 f | e4 A4 c3 e |\nd8 d3 d | d4 A4 f3 f | f4 d4 d3 f | a4 a4 g3 f |\ne8 e3 f | g4 g4 f3 e | f4 d4 d3 f | e4 A4 c3 e |\nd8 a3 g | a3 f d4 a3 g | a3 f d4 e3 f | g3 e c4 A4 |\nf3 e d4 a3 g | a3 f d4 a3 g | a3 f d4 e3 f | g3 e c4 f3 e |\nd8 | z4 a3 f d4 a3 g | a3 f d4 e3 f | g3 e c4 A4 |\nf3 e d4 a3 g | a3 f d4 a3 g | a3 f d4 e3 f | g3 e c4 f3 e |\nd8 |]\n"
+}

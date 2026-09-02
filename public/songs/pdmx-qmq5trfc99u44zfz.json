@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmq5trfc99u44zfz",
+  "title": "Kuppari Eeva",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQ5tRFc99U44zfzYqqpCVLfjh74ewvQx8SQGMcDhpXZwj",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Em clef=treble\nE3 F E2 F2 | G2 E2 E2 G2 | F2 D2 D2 F2 | G F E D E2 B,2 |\nE3 F E2 F2 | G2 E2 E4 | A4 G2 F2 | E2 D2 E4 |\nE3 F E2 F2 | G2 E2 E2 G2 | F2 D2 D2 F2 | G F E D E2 B,2 |\nE3 F E2 F2 | G2 E2 E4 | A4 G2 F2 | E2 D2 E4 |\nB3 G G2 B2 | A2 F2 F2 G2 | A2 B A G2 F2 | E2 F2 G2 E2 |\nB3 G G2 B2 | A2 F2 F2 G2 | A2 B A G2 F2 | E2 D2 E4 |\nE3 F E2 F2 | G2 E2 E2 G2 | F2 D2 D2 F2 | G F E D E2 B,2 |\nE3 F E2 F2 | G2 E2 E4 | A4 G2 F2 | E2 D2 E4 |\nB3 G G2 B2 | A2 F2 F2 G2 | A2 B A G2 F2 | E2 F2 G2 E2 |\nB3 G G2 B2 | A2 F2 F2 G2 | A2 B A G2 F2 | E2 D2 E4 |]\n"
+}

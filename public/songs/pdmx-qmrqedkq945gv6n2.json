@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmrqedkq945gv6n2",
+  "title": "Anonymous - Did You Ever See A Lassie",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmRQEDkQ945gv6N2sUhVcjV6MmjktGk14t4cUAPezB8AFH",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:D clef=treble\nD F | A3 B A G | F2 D2 D2 | E2 A,2 A,2 |\nF2 D2 D F | A3 B A G | F2 D2 D2 | E2 A,2 A,2 |\nD2 z2 D2 | E2 A,2 A,2 | F2 D2 D2 | E2 A,2 A,2 |\nF2 D2 D F | A3 B A G | F2 D2 D2 | E2 A,2 A,2 |\nD4 |]\n"
+}

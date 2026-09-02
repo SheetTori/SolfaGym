@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmugk8asc4fp43ka",
+  "title": "French tune",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmUgk8asC4fP43Kar8ZZPP1mfmPG5m49REmAghNhDdeN78",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Am clef=treble\nE2 | A2 B2 c2 d2 | e6 e2 | d2 e2 f2 d2 |\ne6 e2 | d2 e2 f2 d2 | e2 f e d2 c2 | B7 A |\nA6 E2 | A2 B2 c2 d2 | e6 e2 | d2 e2 f2 d2 |\ne6 e2 | d2 e2 f2 d2 | e2 f e d2 c2 | B7 A |\nA6 |]\n"
+}

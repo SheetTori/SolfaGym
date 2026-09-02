@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxz7flxwkf6gwwy",
+  "title": "Bour\\'ee de la Chapelotte",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXZ7fLXWkf6gwWyfNn6XuazMDrYacmT9jdTSJ3WnntUKc",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 79,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/8\nL:1/8\nK:G clef=treble\nB4 c2 | d4 d2 | e d e2 f2 | e2 d2 g2 |\ng4 g2 | f4 e2 | d e d2 c2 | B4 G2 |\nB4 c2 | d4 d2 | e d e2 f2 | e2 d2 g2 |\ng4 g2 | f4 e2 | d2 a2 f2 | g6 |\nb b b2 b2 | e6 | a a a2 a2 | d6 |\ng4 g2 | f4 e2 | d e d2 c2 | B6 |\nb b b2 b2 | e6 | a a a2 a2 | d6 |\ng4 g2 | f4 e2 | d2 a2 f2 | g6 |]\n"
+}

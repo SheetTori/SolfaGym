@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmrxybg7xkanzn65",
+  "title": "Condon's frolics",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmRXyBg7xKanZN65mhBELAwBHFddUiksnykPSBq4wBqaih",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Am clef=treble\ng | e c A c2 d | e d c B A G | A B A c2 d |\ne d e e ^f g | e c A c2 d | e d c B A G | A B A g ^f g |\ne c A A2 | g | e c A c2 d | e d c B A G |\nA B A c2 d | e d e e ^f g | e c A c2 d | e d c B A G |\nA B A g ^f g | e c A A2 | e | e a a e ^f g |\nd e c B A G | c B c d c d | e ^f e e z d | e a a e ^f g |\nd e c B A G | A B A g ^f g | e c A A2 | e |\ne a a e ^f g | d e c B A G | c B c d c d | e ^f e e z d |\ne a a e ^f g | d e c B A G | A B A g ^f g | e c A A2 |]\n"
+}

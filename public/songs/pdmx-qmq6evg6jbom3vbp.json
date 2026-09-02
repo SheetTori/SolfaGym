@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmq6evg6jbom3vbp",
+  "title": "Plukka plukka bj\\orneb\\aer",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQ6evG6Jbom3vbp5mPHFo9dN78y3e7vGQybrT7VKLgVmm",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:D clef=treble\nA2 A2 A2 A2 | B2 B2 B4 | A2 B2 A2 G G | F4 D4 |\nG2 E2 E2 F2 | G2 F2 E2 B2 | A2 G2 F2 E2 | D2 D2 D4 |]\n"
+}

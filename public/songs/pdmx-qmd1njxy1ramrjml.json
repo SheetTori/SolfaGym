@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmd1njxy1ramrjml",
+  "title": "The field of flowers",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmd1nJXY1RamRjMLoxtvoot8XVaexAUWBPodycsifugo1d",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:F clef=treble\ng2 | f2 e2 d2 c2 A2 F2 | B2 A2 A2 A4 g2 | f2 e2 d2 c2 A2 F2 |\nA2 G2 G2 G4 g2 | f2 e2 d2 c2 A2 G2 | A2 d2 e2 f2 a2 g2 | f2 e2 d2 c2 A2 G2 |\nA2 F2 F2 F4 | g2 | f2 e2 d2 c2 A2 F2 | B2 A2 A2 A4 g2 |\nf2 e2 d2 c2 A2 F2 | A2 G2 G2 G4 g2 | f2 e2 d2 c2 A2 G2 | A2 d2 e2 f2 a2 g2 |\nf2 e2 d2 c2 A2 G2 | A2 F2 F2 F4 | z12 c2 | f g a2 g2 f2 c2 B2 |\nA2 c2 c2 c4 d2 | f g a2 g2 f2 e2 d c | d2 g2 f2 g4 c2 | f g a2 f2 g2 c2 B2 |\nA2 d2 e2 f2 a2 g2 | f2 e2 d2 c2 A2 G2 | A2 F2 F2 F4 | g2 |\nf2 e2 d2 c2 A2 F2 | B2 A2 A2 A4 g2 | f2 e2 d2 c2 A2 F2 | A2 G2 G2 G4 g2 |\nf2 e2 d2 c2 A2 G2 | A2 d2 e2 f2 a2 g2 | f2 e2 d2 c2 A2 G2 | A2 F2 F2 F4 |\nz12 c2 | f g a2 g2 f2 c2 B2 | A2 c2 c2 c4 d2 | f g a2 g2 f2 e2 d c |\nd2 g2 f2 g4 c2 | f g a2 f2 g2 c2 B2 | A2 d2 e2 f2 a2 g2 | f2 e2 d2 c2 A2 G2 |\nA2 F2 F2 F4 |]\n"
+}

@@ -90,6 +90,15 @@ export function validateImported(
     add('volta', 'ヴォルタ（1番/2番括弧）を含む')
   }
 
+  // ABC は音価を単位長の整数倍でしか書けない。連符はこの範囲に入らない。
+  // 単位長は最小 1/64（全音符基準）なので、4分音符を 1 とすると 1/16 刻み
+  const odd = imported.elements.find(
+    (e) => e.kind !== 'bar' && Math.abs(e.ql * 16 - Math.round(e.ql * 16)) > 1e-9,
+  )
+  if (odd && odd.kind !== 'bar') {
+    add('tuplet', `音価 ${odd.ql} を ABC で表せない（連符）`)
+  }
+
   // --- 規模 ---
   const bars = new Set(barOccurrences(parsed).map((o) => o.bar)).size
   if (bars < limits.minBars) add('too-short', `${bars} 小節（下限 ${limits.minBars}）`)

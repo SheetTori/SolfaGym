@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmebycdkwtu2txzp",
+  "title": "Drink to Me Only with Thine Eyes",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeBYCDkWTU2txZPkhQsi9Mp2HcZUDMrXuuo7CmGsjW6iF",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 60,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/4\nK:C clef=treble\nE E E | F2 F | G F E | D E F |\nG C F | E2 D | C8 | z E E E |\nF2 F | G F E | D E F | G C F |\nE2 D | C8 | G | G E G |\nc2 G | G E G | G2 G | A2 G |\nG F E | E6 | D2 D | E E E |\nF2 F | G F E | D E F | G C F |\nE2 D | C7 |]\n"
+}

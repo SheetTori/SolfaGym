@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmp9hvcw47my9o4p",
+  "title": "Julia Delaney",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmP9HvcW47My9o4psrWzkyNtjkTMUJoqsaaig1TYdTKfSA",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Dm clef=treble\nA c | d c A G F3 D | E2 G E F2 F A | d c A G F2 D F |\nA d d c d2 A c | d c A G F2 D F | E2 G E F E F A | d c A G F2 D F |\nA d d c d2 | A c | d c A G F3 D | E2 G E F2 F A |\nd c A G F2 D F | A d d c d2 A c | d c A G F2 D F | E2 G E F E F A |\nd c A G F2 D F | A d d c d2 | d e | f2 A c f a g f |\ne c g c a c g c | f e d e f a g f | e d c A d c d e | f2 d e f a g f |\ne c g c a c g c | f e d f e d c B | A d d c d2 | d e |\nf2 A c f a g f | e c g c a c g c | f e d e f a g f | e d c A d c d e |\nf2 d e f a g f | e c g c a c g c | f e d f e d c B | A d d c d2 |]\n"
+}

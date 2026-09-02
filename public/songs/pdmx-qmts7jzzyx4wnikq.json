@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmts7jzzyx4wnikq",
+  "title": "Molly put the kettle on",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTs7JZzYX4wNikQWQbxP11BXcgPxfrrw6wMJbz5vVGsVS",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Am clef=treble\nc d e d c A A c | B c d c B G G2 | c e e d c B A G | E D E ^G A2 A2 |\nc d e d c A A c | B c d c B G G2 | c B c A B2 A G | E D E ^G A2 A2 |\nc d e ^f g2 f g | a g e d c A A2 | c d e ^f g2 f g | a g e ^g a2 a2 |\nc d e ^f g2 f g | a g e d c A A2 | c d e d c A A G | E D E ^G A2 A2 |]\n"
+}

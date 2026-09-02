@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcpnr6psrnithfk",
+  "title": "Schottish in Em",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcpnR6PsrniThFKRWovxEyyaHo5XB9xZ4q3iDq9UMnn7i",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Em clef=treble\nE2 E E E F G E | F G F E D2 B,2 | B4 A3 G | F E D E F A G F |\nE2 E E E F G E | F G F E D2 B,2 | B A G B A G F D | E2 E D E4 |\nE2 E E E F G E | F G F E D2 B,2 | B4 A3 G | F E D E F A G F |\nE2 E E E F G E | F G F E D2 B,2 | B A G B A G F D | E2 E D E4 |\nB G E G B2 B B | A F D F A2 A A | G F E F G F E G | F E F G A2 D2 |\nB G D G B2 B B | A F D F A2 A A | G F E G F E D F | E2 E D E4 |\nB G E G B2 B B | A F D F A2 A A | G F E F G F E G | F E F G A2 D2 |\nB G D G B2 B B | A F D F A2 A A | G F E G F E D F | E2 E D E4 |]\n"
+}

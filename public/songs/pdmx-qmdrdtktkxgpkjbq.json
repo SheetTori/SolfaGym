@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdrdtktkxgpkjbq",
+  "title": "Russian folk song",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdRdtKTKXGpkjBQvvuCGAhqzvQwfcoHHMM4RSuDGBxKBt",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:A clef=treble\nE2 c2 c2 B2 | A2 G F E2 F G | A2 c2 d3 c | B4 F4 |\nF2 d2 d2 c2 | c2 B2 A2 F2 | E2 A2 B3 c | A6 |\nz2 A2 A2 G2 F2 | e4 d4 | G2 G2 c3 B | B4 A4 |\nc2 c2 B2 A2 | A4 G4 | C2 F2 A3 G | F4 |\nz4 B2 B2 c2 d2 | f2 e2 d2 B2 | E2 c2 c3 B | A6 |]\n"
+}

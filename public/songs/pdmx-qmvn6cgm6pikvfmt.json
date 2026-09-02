@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmvn6cgm6pikvfmt",
+  "title": "untitled",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmVN6cGm6PikVfmtGcrF8WmgGfyRCNycNgCkt5j3bnLzyb",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nD | G2 G G2 B | d3 d2 B | A A A A2 A |\nB3 G2 D | G2 G G A B | d3 d2 B | A2 A A G A |\nB3 G3 | c2 B c d e | d2 B d3 | c2 d e2 e |\nd3 d3 | c2 B A2 B | G3 G2 | D |\nG2 G G2 B | d3 d2 B | A A A A2 A | B3 G2 D |\nG2 G G A B | d3 d2 B | A2 A A G A | B3 G3 |\nc2 B c d e | d2 B d3 | c2 d e2 e | d3 d3 |\nc2 B A2 B | G3 G2 |]\n"
+}

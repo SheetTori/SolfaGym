@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmx1uru6dhrugp1d",
+  "title": "Tanz r\\uber tanz n\\uber",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmX1Uru6DHRuGP1DKdxs8sVDeZvUdzHYJCVCWsJSyW7yTX",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/8\nL:1/16\nK:A clef=treble\nA2 | G2 B2 B2 | A2 c2 c2 | B3 c d2 |\nc4 A2 | G2 B2 B2 | A2 c2 e2 | d2 B2 G2 |\nA4 e2 | e2 d2 d2 | c2 c2 e2 | e2 d2 d2 |\nc4 A2 | G2 B2 B2 | A2 c2 e2 | d2 B2 G2 |\nA4 |]\n"
+}

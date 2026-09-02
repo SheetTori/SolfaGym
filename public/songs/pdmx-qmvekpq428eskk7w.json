@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmvekpq428eskk7w",
+  "title": "Eilandsvreugd",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmVeKpQ428ESkk7wBgsbnXcDQDQMgfTUHwnvSyKHQi8zeT",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\nD2 | G2 G A B2 A G | A2 A B c2 B A | G2 G B d2 B G |\nF2 A D F2 A D | G2 G A B2 A G | A2 A B c2 B A | B d B G A c A F |\nG2 G2 G2 | B c | d2 d c B2 c d | c2 c B A2 B c |\nB2 B A G2 A B | A G F E D c B A | B2 B A G2 A B | c2 c B A2 B c |\nB A G B A G F A | G2 G2 G2 |]\n"
+}

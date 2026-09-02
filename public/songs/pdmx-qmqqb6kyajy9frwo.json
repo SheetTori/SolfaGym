@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqqb6kyajy9frwo",
+  "title": "Frisch auf ins weite Field",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQQB6KYAjY9fRwobBs6k8uXeTTXJgf1RJMB7bDzHxeMQ7",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nB2 | G2 D2 G2 A2 | B4 z2 G A | B3 B B2 d2 |\nc2 B2 A2 G2 | c2 B2 A2 G2 | A4 z2 A2 | A2 A2 B2 G2 |\nF3 G A2 A2 | A2 A2 B2 G2 | F3 G A2 B2 | c2 A2 B2 A2 |\nG4 |]\n"
+}

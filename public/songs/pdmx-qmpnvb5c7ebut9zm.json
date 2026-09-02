@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpnvb5c7ebut9zm",
+  "title": "Willie Is A Bonnie Lad",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPnvb5C7ebUt9zMs72ZMwgU7QHv1gMwY2pXSfFDbJe19o",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\ng | f d f d c e e g | f d f d g2 b g | f d f d c e e g |\na f g e d2 d | g | f d f d c e e g | f d f d g2 b g |\nf d f d c e e g | a f g e d2 d | d | A2 A F G E E B |\nA B A F d2 c B | A2 A F G E E g | a f g e d2 d | d |\nA2 A F G E E B | A B A F d2 c B | A2 A F G E E g | a f g e d2 d |]\n"
+}

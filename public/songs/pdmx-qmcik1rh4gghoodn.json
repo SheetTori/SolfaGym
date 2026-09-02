@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcik1rh4gghoodn",
+  "title": "Rullande Gubben",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmcik1RH4gGHooDn2KwaPD8JrMBUSGwbkRFvR7jKqgGWgr",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/16\nK:Am clef=treble\nA2 c2 c2 d c B2 G2 | G2 B2 B2 c B A4 | A2 c2 c2 d c B2 G2 | G2 B2 B2 c B A4 |\ne4 e2 e f e2 c2 | e2 g2 g2 g a g2 e2 | e4 e2 e f e2 c2 | c2 d c B2 c B A4 |\nA2 c2 c2 d c B2 G2 | G2 B2 B2 c B A4 | e4 e2 e f e2 c2 | e2 g2 g2 g a g2 e2 |\ne4 e2 e f e2 c2 | c2 d c B2 c B A4 |]\n"
+}

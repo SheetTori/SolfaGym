@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmajflycavrtxrpa",
+  "title": "Mr Warwick's Mask",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmajfLYcavrtXrPa7Z1oa56dev7CAnYF4S2mEFjZGnR8Mu",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:Gm clef=treble\nd6 d2 B6 B2 | A2 B2 G2 A2 ^F2 G2 A2 D2 | d4 c2 d2 B2 c2 d4 | d4 c4 d8 |\nd6 d2 B6 B2 | A2 B2 G2 A2 ^F2 G2 A2 D2 | d4 c2 d2 B2 c2 d4 | d4 c4 d8 |\nd4 d4 f6 e2 | d2 d2 c2 B2 c6 c2 | d2 c2 B2 A B c2 G2 A2 B2 | c2 d2 B2 c2 A6 A2 |\n^F2 G2 A4 D2 =E2 F4 | G2 A2 B2 c2 A6 A2 | G2 A2 B4 c2 d2 e4 | B2 c2 A3 G G8 |]\n"
+}

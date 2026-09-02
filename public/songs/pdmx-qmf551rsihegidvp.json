@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmf551rsihegidvp",
+  "title": "The Sprite's tune",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmf551RSiHEGiDvpdQGGpoDA9WRYsKWyx4mPYf8SapSZ27",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 60,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:C clef=treble\nc6 c2 c2 _B2 A2 G2 | F6 G2 A2 G2 F2 E2 | D6 E F G2 F2 E2 D2 | E8 E8 |\nc6 c2 c2 _B2 A2 G2 | F6 G2 A2 G2 F2 E2 | D6 E F G2 F2 E2 D2 | E8 E8 |\nF6 G2 E2 D2 E4 | D8 D8 | F3 G A4 A3 G E4 | D8 D8 |\nF3 G A4 G4 A4 | G2 G2 c4 c2 G2 G4 | D4 E2 F2 G3 F E2 D2 | C8 C8 |\nF6 G2 E2 D2 E4 | D8 D8 | F3 G A4 A3 G E4 | D8 D8 |\nF3 G A4 G4 A4 | G2 G2 c4 c2 G2 G4 | D4 E2 F2 G3 F E2 D2 | C8 C8 |]\n"
+}

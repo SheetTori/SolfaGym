@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmew7ek79eob95ny",
+  "title": "Down with the French",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeW7Ek79eoB95nys1qPHPFrAHYZYZfaLmbgLGSxvJoQua",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\na2 f a2 f | d e d f3 | g2 f g2 f | e f d c B A |\na2 f a2 f | d e d f3 | e g f e d c | d3 D3 |\na2 f a2 f | d e d f3 | g2 f g2 f | e f d c B A |\na2 f a2 f | d e d f3 | e g f e d c | d3 D3 |\ne2 e f2 d | c d B A3 | d A d f d f | a2 f e3 |\ne2 e f2 d | c d B A3 | B c d e d c | d3 D3 |\ne2 e f2 d | c d B A3 | d A d f d f | a2 f e3 |\ne2 e f2 d | c d B A3 | B c d e d c | d3 D3 |]\n"
+}

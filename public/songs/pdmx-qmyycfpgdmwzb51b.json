@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmyycfpgdmwzb51b",
+  "title": "La Bastringue",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmYycFpgdmWzB51bUAqaWdf4iWfisEQJyVm8cRDbtfPwSc",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Dm clef=treble\n^f2 f f f2 g f | e2 ^c2 d2 d2 | ^c =B c d e2 c2 | d ^c d e ^f2 c2 |\n^f2 f f f2 g f | e2 ^c2 d2 e ^f | g2 ^f2 e2 e d | ^c A =B c d4 |\n^f2 f f f2 g f | e2 ^c2 d2 d2 | ^c =B c d e2 c2 | d ^c d e ^f2 c2 |\n^f2 f f f2 g f | e2 ^c2 d2 e ^f | g2 ^f2 e2 e d | ^c A =B c d4 |\nd e ^f g a f d =B | c d e f g e c e | d e ^f g a f d f | g e a g ^f d d2 |\nd e ^f g a f d =B | c d e f g e c e | d e ^f g a3 g | ^f d e g f d d2 f d e g f d d2 |]\n"
+}

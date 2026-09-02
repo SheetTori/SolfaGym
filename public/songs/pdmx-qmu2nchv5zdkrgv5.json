@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmu2nchv5zdkrgv5",
+  "title": "Russian March",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmU2NCHv5ZDkRgv5WsvRdUz4a43zC2UtuBngm3VY7NWVeY",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:C clef=treble\nG3 G | c4 e3 c G4 G3 G | d4 f3 d B4 G4 | g3 f e3 g f3 e d3 f |\ne3 d c3 e d4 G3 G | c4 e3 c G4 G3 G | d4 f3 d B4 G4 | c3 d e3 f g3 e f2 d2 |\nc4 c3 c c4 | G3 G | c4 e3 c G4 G3 G | d4 f3 d B4 G4 |\ng3 f e3 g f3 e d3 f | e3 d c3 e d4 G3 G | c4 e3 c G4 G3 G | d4 f3 d B4 G4 |\nc3 d e3 f g3 e f2 d2 | c4 c3 c c4 | e4 | d3 B G3 G G4 f4 |\ne3 c G3 G G4 g4 | f3 e d3 f e3 d c3 e | d3 c B3 A G3 G A3 B | c4 e3 f g4 _B4 |\nA4 f3 g a4 f4 | e3 f g3 f e3 f d3 e | c4 c3 c c4 | e4 |\nd3 B G3 G G4 f4 | e3 c G3 G G4 g4 | f3 e d3 f e3 d c3 e | d3 c B3 A G3 G A3 B |\nc4 e3 f g4 _B4 | A4 f3 g a4 f4 | e3 f g3 f e3 f d3 e | c4 c3 c c4 |]\n"
+}

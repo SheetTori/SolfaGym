@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbfeaetzlpah1yc",
+  "title": "Roxborough Castle",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbfEAETZLPAh1YCtjuoBB9o6H2Ggi4bCT9eQ3dFD4AxeD",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nD2 | G2 G B d B G B | c B c e d B G B | c2 e c B2 d B |\nc2 A2 A c B A | G F G B d B G B | c B c e d B G B | d g f e d c B A |\nB2 G2 G2 | D2 | G2 G B d B G B | c B c e d B G B |\nc2 e c B2 d B | c2 A2 A c B A | G F G B d B G B | c B c e d B G B |\nd g f e d c B A | B2 G2 G2 | d2 | g d B d e d B d |\ng d B d e d B d | c2 e c B2 d B | c2 A2 A c B A | G F G B d B G B |\nc B c e d B G B | d g f e d c B A | B2 G2 G2 | d2 |\ng d B d e d B d | g d B d e d B d | c2 e c B2 d B | c2 A2 A c B A |\nG F G B d B G B | c B c e d B G B | d g f e d c B A | B2 G2 G2 |]\n"
+}

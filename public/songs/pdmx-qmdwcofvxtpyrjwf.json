@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdwcofvxtpyrjwf",
+  "title": "Mungo Kelly",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdwCoFVxTpyRjWFWaC5bTiGisW1mJFdUDHFCyZd5kTZbx",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 71,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:Bm clef=treble\nB3 A | G E B E G E D E | G E B E G2 B A | G E B E G2 B d |\ne f g e d2 B A | G E B E G E D E | G E B E G2 B A | G E B E G2 B d |\ne f g e d2 B A | B d e f g2 f g | e a a f g f e d | B d e f g2 f g |\na f g e d2 B A | B d e f g2 f g | e a a f g2 f g | a f g e d e f g |\na f g e d B A B |]\n"
+}

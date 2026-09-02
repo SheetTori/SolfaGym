@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmfrcpfgnavqfddt",
+  "title": "The first of May",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmfRCPfgnaVQfddTGNMjBhTeL9r5q1LwMNLiTqcVo7jgqH",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Am clef=treble\nA G | E A A B c B c A | d c d e ^f2 e f | g e d c d ^f e d |\nc A G ^F G2 G2 | E A A B c B c A | d c d e ^f2 e f | g e d c d ^f e c |\nA2 A A A2 | A G | E A A B c B c A | d c d e ^f2 e f |\ng e d c d ^f e d | c A G ^F G2 G2 | E A A B c B c A | d c d e ^f2 e f |\ng e d c d ^f e c | A2 A A A2 | ^f g | a2 a ^f g2 g e |\n^f g f d e2 e d | c d e ^f g f e d | c A G ^F G2 G2 | E A A B c B c A |\nd c d e ^f2 e f | g e d c d ^f e A | A2 A A A2 | ^f g |\na2 a ^f g2 g e | ^f g f d e2 e d | c d e ^f g f e d | c A G ^F G2 G2 |\nE A A B c B c A | d c d e ^f2 e f | g e d c d ^f e A | A2 A A A2 |]\n"
+}

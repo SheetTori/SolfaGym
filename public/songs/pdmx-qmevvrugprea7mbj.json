@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmevvrugprea7mbj",
+  "title": "Bon voyage Monsieur Dumollet",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeVVruGpRea7mBJSzvXAoMzQKJqGMVEcrqkHgN5dzAzH9",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:C clef=treble\nf2 c | A2 c c d e | f3 f e d | c d c _B A G |\nA2 F f2 c | A2 c c d e | f3 f e d | c d c c d e |\nf3 | F2 A c c c c d c | A2 F d d d | d c d f e d |\nc3 F2 A | c c c c d c | A2 F f e d | c d c _B A G |\nF3 f2 c |]\n"
+}

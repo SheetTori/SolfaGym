@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmu6dz7awf6bjned",
+  "title": "Jetzt kommt die fr\\ohliche Sommerzeit",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmU6DZ7AWf6bjNeDZDXmawKBtrKNEz37KHEo7VEzj7jd7G",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:G clef=treble\nD2 | G4 A4 B4 B2 G2 | A4 A4 G4 z2 A2 | B3 A B2 c2 d4 d4 |\nc4 d2 e2 d4 z2 d2 | g2 d2 d2 c2 B6 e2 | e2 d2 c2 B2 A4 d4 | G4 A4 B2 c2 d2 c2 |\nB4 A4 G4 |]\n"
+}

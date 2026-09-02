@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbm2ckfcfzcgtk4",
+  "title": "N\\oringen",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmbm2CkfCfZcGTK4vmrHBVqXFNAPkmd5DksJeiPsifTdhp",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 70,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Bb clef=treble\nF | B3 B2 A | G3 G G A | c c c c2 A |\nF3 F2 F | B3 B2 A | G3 G G A | B c d B c A |\nB3 B2 F | B3 B2 A | G3 G G A | c c c c2 A |\nF3 F2 F | B3 B2 A | G3 G G A | B c d B c A |\nB3 B2 F | B c d d c d | c B d F2 F | B c d d c A |\nB c d F2 F | B B B B2 A | G3 G2 A | c3 c2 A |\nF3 F2 F | B B B B2 A | A2 G G2 A | B c d B c A |\nB3 B2 |]\n"
+}

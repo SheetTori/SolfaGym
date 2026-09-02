@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmee8tykuiva8r5m",
+  "title": "The rakes of Sollohod",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmee8TYkUiva8R5mjuWUAHqez2jyLpGXTqiDbKVEcvuf81",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 76,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:9/8\nL:1/8\nK:Em clef=treble\nd2 c A2 G F2 D | D2 G G2 A B2 c | d2 c A2 G F2 D | G2 B A2 F G2 B |\nd2 c A2 G F2 D | D2 G G2 A B2 c | d2 c A2 G F2 D | G2 B A2 F G2 A |\nz9 G2 B d2 B c2 A | G2 B d2 c B3 | G2 B d2 B c2 A | G2 F G2 A B3 |\nG2 B d2 B c2 A | G2 B d2 c B3 | d e f g2 e d2 B | A2 G A2 B c2 e |]\n"
+}

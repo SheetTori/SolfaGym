@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdv3emfrsfnqsrc",
+  "title": "Saut de Cadichou",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdV3eMFRsfnqSrcQERCU7twthJ1w4yxPR7mmEuKKWd1cr",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\nG3 B d2 d2 | e2 e2 d4 | g3 d d2 d2 | e4 d4 |\nG3 B d2 d2 | e2 e2 d4 | g3 d d2 d2 | e4 d4 |\nc2 A c B2 G B | A2 F A B2 G2 | c2 A c B2 G B | A2 A2 G4 |\nc2 A c B2 G B | A2 F A B2 G2 | c2 A c B2 G B | A2 A2 G4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmfuw99z4aspwo72",
+  "title": "Brose and Butter",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmfUw99Z4ASpWo72aJiMVEXNsDK2AvGLK6UJbgppt8nXrZ",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:9/8\nL:1/8\nK:G clef=treble\nc d e A c A A c A | c d e A c A B2 G | c d e A c A A B c | B2 G G g e d B G |\nc d e A c A A c A | c d e A c A B2 G | c d e A c A A B c | B2 G G g e d B G |\nc d e e g e e g e | c d e e g e d B G | c d e e g e e f g | f2 d d g e d B G |\nc d e e g e e g e | c d e e g e d B G | c d e e g e e f g | f2 d d g e d B G |]\n"
+}

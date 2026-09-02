@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmby19vctzjpkyce",
+  "title": "Y Ceiliog Gwyn",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbY19VCtZJPKyceoRk9nxaRrfkDq21XgWgBSms2CVRcq4",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/16\nK:D clef=treble\nF3 A d3 e d4 d3 c | e3 d c3 B A6 | z2 F3 A d3 e d4 d3 c | e3 d c3 B A6 d e |\nf4 e4 d6 z e | f4 e4 d6 z c | B3 A d3 c B3 A d3 e | f4 e4 d8 |\nF3 A d3 e d4 d3 c | e3 d c3 B A6 | z2 F3 A d3 e d4 d3 c | e3 d c3 B A6 d e |\nf4 e4 d6 z e | f4 e4 d6 z c | B3 A d3 c B3 A d3 e | f4 e4 d8 |]\n"
+}

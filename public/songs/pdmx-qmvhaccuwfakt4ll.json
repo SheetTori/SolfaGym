@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmvhaccuwfakt4ll",
+  "title": "Hoboi Tiwn Cymraeg - Welsh Oboe Tune",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmVhaCCuWfakt4LLy4o4kFiM7S7rZKW94j9RjWC5NsD4uF",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Em clef=treble\nB2 ^c d c B | A B G F G A | B2 ^c d c B | A B G F3 |\nB2 ^c d c B | A B G F G A | B2 ^c d c B | A B G F3 |\nF2 B G A B | A G A F G A | F2 B G A B | A G F E3 |\nF2 B G A B | A G A F G A | F2 B G A B | A G F E3 |]\n"
+}

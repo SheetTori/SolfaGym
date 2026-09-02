@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqofn6rzpejwjpv",
+  "title": "The Northern Lass",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQofN6rzPEjwjPvWiiywpPs7ug5mPYbeaXABBGCwxU7Pu",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:Am clef=treble\nA4 B2 c4 d2 | e3 d e2 g6 | d4 e2 g4 e2 | d3 B A2 G6 |\nA4 B2 c4 d2 | e3 f g2 a2 _b2 a2 | g2 e4 g e d B c2 | A6 A6 |\nA4 B2 c4 d2 | e3 d e2 g6 | d4 e2 g4 e2 | d3 B A2 G6 |\nA4 B2 c4 d2 | e3 f g2 a2 _b2 a2 | g2 e4 g e d B c2 | A6 A6 |\ng4 a2 _b4 a2 | g2 e4 g6 | d4 e2 g4 e2 | d3 B A2 G6 |\ng4 a2 _b4 a2 | g2 e4 g6 | e4 d2 e2 f g a2 | g6 g6 |\na6 _b4 a2 | g2 e4 g6 | d4 e2 g4 e2 | d3 B A2 G6 |\nA4 B2 c4 d2 | e3 f g2 a2 _b2 a2 | g2 e4 g e d B c2 | A6 A6 |]\n"
+}

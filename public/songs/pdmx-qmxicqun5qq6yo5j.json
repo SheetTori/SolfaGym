@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxicqun5qq6yo5j",
+  "title": "Rakes of Mallow",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXicqun5QQ6Yo5J6daRufErwL81h8ZD5wHyQh6cG85oMa",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nG2 B2 G2 B2 | G2 B2 c B A G | F2 A2 F2 A2 | F2 A2 d c B A |\nG2 B2 G2 B2 | G2 B2 d3 B | c B A G F G A c | B2 G2 G4 |\nG2 B2 G2 B2 | G2 B2 c B A G | F2 A2 F2 A2 | F2 A2 d c B A |\nG2 B2 G2 B2 | G2 B2 d3 B | c B A G F G A c | B2 G2 G4 |\ng2 f e d2 c2 | B2 c2 d4 | g2 f e d2 c2 | B2 d2 A4 |\ng2 f e d2 c2 | B2 c2 d4 | c B A G F G A c | B2 G2 G4 |\nG2 B2 G2 B2 | G2 B2 c B A G | F2 A2 F2 A2 | F2 A2 d c B A |\nG2 B2 G2 B2 | G2 B2 d3 B | c B A G F G A c | B2 G2 G4 |\ng2 f e d2 c2 | B2 c2 d4 | g2 f e d2 c2 | B2 d2 A4 |\ng2 f e d2 c2 | B2 c2 d4 | c B A G F G A c | B2 G2 G4 |]\n"
+}

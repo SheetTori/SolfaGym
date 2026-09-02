@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpj2g5afjh99izt",
+  "title": "The Marchioness",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPj2G5AFJh99iztaX31jmfJRyPtm8TAejCcEHK8LJsGuT",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:A clef=treble\nE | A2 A A G A | B2 B e2 d | c2 A A G A |\nG B G E F G | A2 A A G A | B2 B e2 d | c B A B A G |\nA2 A A2 | E | A2 A A G A | B2 B e2 d |\nc2 A A G A | G B G E F G | A2 A A G A | B2 B e2 d |\nc B A B A G | A2 A A2 | z e2 e c d e | f2 f f3 |\ng2 g e f g | a b g a3 | e2 e c d e | f g a a g f |\ne d c B A G | A2 A A2 | z e2 e c d e | f2 f f3 |\ng2 g e f g | a b g a3 | e2 e c d e | f g a a g f |\ne d c B A G | A2 A A2 |]\n"
+}

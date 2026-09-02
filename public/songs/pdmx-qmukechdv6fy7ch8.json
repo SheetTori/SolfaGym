@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmukechdv6fy7ch8",
+  "title": "We Form One Church",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmUKEchDv6FY7ch88BNyVocdYrXeQMo3f93xDrdxhDLo1N",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:A clef=treble\nA, C | E3 F E2 A2 | A3 F E2 A, C | E3 E E D C A, |\nB,6 A, C | E3 F E2 A2 | A3 F E2 A, C | c3 A B2 c2 |\nA6 A B | c3 A B2 A2 | A3 F A2 F2 | E3 E F E C A, |\nB,6 A, C | E3 F E2 A2 | A3 F E2 A B | c3 A B2 c2 |\nA6 |]\n"
+}

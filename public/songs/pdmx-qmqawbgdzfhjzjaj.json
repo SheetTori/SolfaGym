@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqawbgdzfhjzjaj",
+  "title": "Dans voor drie",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQaWbgDzfhjzjajdsUwr88kJ8sJLe3DoJTdUyWMP5A6sc",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Am clef=treble\nD2 E2 F2 G2 | A3 G A G F2 | G2 E2 D4 | D2 E2 F2 G2 |\nA3 G A G F2 | G3 F G F E2 | D2 E2 F2 G2 | A3 G A G F2 |\nG2 E2 D4 | D2 E2 F2 G2 | A3 G A G F2 | G2 E2 D4 |\nD2 E2 F2 G2 | A3 G A G F2 | G3 F G F E2 | D2 E2 F2 G2 |\nA3 G A G F2 | G2 E2 D4 | A2 B2 c2 d2 | e3 d c B A2 |\nd2 c2 B2 A2 | B3 A ^G F E2 | A2 c2 B2 ^G2 | A8 |\nD2 E2 F2 G2 | A3 G A G F2 | G2 E2 D4 | D2 E2 F2 G2 |\nA3 G A G F2 | G3 F G F E2 | D2 E2 F2 G2 | A3 G A G F2 |\nG2 E2 D4 | A2 B2 c2 d2 | e3 d c B A2 | d2 c2 B2 A2 |\nB3 A ^G F E2 | A2 c2 B2 ^G2 | A8 |]\n"
+}

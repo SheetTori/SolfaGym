@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmr2zuz7rmd8w2tk",
+  "title": "Nos Galan (Mon) - New Years Eve",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmR2zuz7rmD8w2tK7aHoMbH14Afe83MczQ3pE39QNUw9tQ",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:D clef=treble\nE F G A | E F F E | D E F E | F E D2 |\nE F G A | E F F E | D E F E | D2 D2 |\nE F G A | E F F E | D E F E | F E D2 |\nE F G A | E F F E | D E F E | D2 D2 |\nF2 G2 | A2 E2 | F2 G2 | A2 E2 |\nF G A2 | G A B2 | =c2 B2 | A F D F |\nE F G A | E F F E | D E F E | F E D2 |\nE F G A | E F F E | D E F E | D2 D2 |]\n"
+}

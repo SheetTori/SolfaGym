@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qme9fl4jpnwzwjtv",
+  "title": "John Dwyer of the Glens",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qme9FL4jpnwZwjTvaY2Wo1xovNqb97miNACy1oW8MGvvXA",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:A clef=treble\nd e | f e f =g a b a g | f =g e c d c d e | f d e d c B A B |\nc B c d e d c e | d c A F =G2 G B | A2 A2 A2 | d e |\nf e f =g a b a g | f =g e c d c d e | f d e d c B A B | c B c d e d c e |\nd c A F =G2 G B | A2 A2 A2 | A B | c B A B c d e f |\n=g2 f g a2 a g | a b a =g f2 e d | f e f =g a b a g | f =g e c d e d c |\nA2 A2 A2 d e | f e f =g a b a g | f =g e c d e d c | A B A =G A2 A B |\nc B c d e d c e | d c A F =G2 G B | A2 A2 A2 | A B |\nc B A B c d e f | =g2 f g a2 a g | a b a =g f2 e d | f e f =g a b a g |\nf =g e c d e d c | A2 A2 A2 d e | f e f =g a b a g | f =g e c d e d c |\nA B A =G A2 A B | c B c d e d c e | d c A F =G2 G B | A2 A2 A2 |]\n"
+}

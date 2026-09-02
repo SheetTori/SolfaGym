@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qme2htrpr2huucy3",
+  "title": "Buffalo Gals",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qme2htrPR2HuuCY3LeV4ukzzswJqYw3LSHwbobmuKwTap8",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 75,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Eb clef=treble\ne2 g2 b2 b b | c' b2 b g4 | b a2 a f4 | c' b2 b g4 |\ne2 g2 b2 b b | c' b2 b g3 g | b2 b b a g f2 | e6 |\nz2 e2 g2 b2 b b | c' b2 b g4 | b a2 a f4 | c' b2 b g4 |\ne2 g2 b2 b b | c' b2 b g3 g | b2 b b a g f2 | e6 |\nz2 e'2 d'2 c'2 b b | c' b2 b g4 | b a2 a f4 | c' b2 b g4 |\ne'2 d'2 c'2 b b | c' b2 b g3 g | b2 b b a g f2 | e6 |\nz2 e'2 d'2 c'2 b b | c' b2 b g4 | b a2 a f4 | c' b2 b g4 |\ne'2 d'2 c'2 b b | c' b2 b g3 g | b2 b b a g f2 | e6 |]\n"
+}

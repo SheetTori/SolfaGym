@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqiwtfsuharsiqk",
+  "title": "N\\aa er v\\aaren her",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQiWTfSUhARsiQKq19wGpZcz1YMh2CD5CeSspGjrnyTam",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/4\nK:F clef=treble\nF2 G A | B B B2 | B2 A G | A A A2 |\nA2 G F | G G G2 | G2 A G | F F F2 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqdpmas3xobx4jx",
+  "title": "Die M\\uhle die braucht Wind",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQDpmaS3Xobx4JxKAPGW65oqZwmuZnriYQPXxLnmy2GwW",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/4\nK:C clef=treble\nG | G e e f | e d d G | G d d e |\nd c c G | G e e f | e d d d | e d e d |\nc |]\n"
+}

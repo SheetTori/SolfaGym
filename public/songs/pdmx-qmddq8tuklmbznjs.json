@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmddq8tuklmbznjs",
+  "title": "Cuzle together",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmddQ8tUkLMBzNJSrZ5seMp9E4vpksAiFg7n2TMAQAxEtz",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 71,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:9/8\nL:1/8\nK:Bm clef=treble\nc2 e e c f e2 A | c2 e e c e g2 B | c2 e e c e a e g | f d f e c e g2 B |\nc2 e e c f e2 A | c2 e e c e g2 B | c2 e e c e a e g | f d f e c e g2 B |\na2 a a e c a2 e | a2 a a e c g2 B | a2 a a e c a e g | f d f e c e g2 B |\na2 a a e c a2 e | a2 a a e c g2 B | a2 a a e c a e g | f d f e c e g2 B |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmzzv75hj8axwulx",
+  "title": "Förutan vind",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmZZv75hj8AxwULxgXzBBTWjcerJxW5pxeDMwsXUs9Jg3v",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:Am clef=treble\nA4 B2 | c3 B A2 | e4 e2 | e6 |\nf4 g2 | a3 g f2 | e6 | e6 |\nd4 d2 | f2 e2 d2 | c4 c2 | A6 |\nB3 B B2 | E4 ^G2 | A6 | A6 |\nA4 B2 | c3 B A2 | e4 e2 | e6 |\nf4 g2 | a3 g f2 | e6 | e6 |\nd4 d2 | f2 e2 d2 | c4 c2 | A6 |\nB3 B B2 | E4 ^G2 | A6 | A6 |]\n"
+}

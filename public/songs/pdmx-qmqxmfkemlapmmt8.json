@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqxmfkemlapmmt8",
+  "title": "Scottiche des Causses",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQxmfkEmLAPMmt8dMdGyD314nKbRBWruYio8r219VY73S",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:G clef=treble\nD3 E F3 G A4 A4 | G3 F G3 B D4 D4 | D3 E F3 G A3 c B3 A | G3 F D3 F G4 D4 |\nD3 E F3 G A4 A4 | G3 F G3 B D4 D4 | D3 E F3 G A3 c B3 A | G3 F D3 F G8 |\nB3 d e3 d B3 d c3 B | A3 c B3 A B4 G4 | B3 d e3 d B3 d c3 B | A3 c B3 A G8 |\nB3 d e3 d B3 d c3 B | A3 c B3 A B4 G4 | B3 d e3 d B3 d c3 B | A3 c B3 A G8 |]\n"
+}

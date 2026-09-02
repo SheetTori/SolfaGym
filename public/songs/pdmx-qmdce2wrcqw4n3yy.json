@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdce2wrcqw4n3yy",
+  "title": "Brothen i'r Buarth",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmdce2WRCqw4N3yYLmJHyaQRexynrkH3CuUx47Xu9xehLc",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/4\nK:G clef=treble\nG A | B3 | A B G | F D3 |\nG A | B3 | A B G | A G3 |\nB c | d3 | d B G | A F D4 |\nG A B | A B c | B c d4 | d B G |\nA G2 | d B G | A G2 | G A B |\nA B c | B c d4 | d B G | A G2 |\nd B G | A G2 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdkvpqbs5fs3wmz",
+  "title": "The fairhaired boy",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdKvpqbS5fS3wMZVyXroQwj46tHdRTnaD5ohFTz5vbw4K",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 10,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Am clef=treble\nE A A A G A | B d d d B d | e g e d B A | B A B G E D |\nE A A A G A | B d d d B d | e g e d B G | B A A A3 |\nE A A A G A | B d d d B d | e g e d B A | B A B G E D |\nE A A A G A | B d d d B d | e g e d B G | B A A A3 |\ne a a e a a | e g g g e d | e g e d B A | B A B G E D |\ne a a e a a | e g g g e d | e g e d B G | B A A A2 |\nz E A A A G A | B d d d B d | e g e d B A | B A B G E D |\nE A A A G A | B d d d B d | e g e d B G | B A A A3 |\ne a a e a a | e g g g e d | e g e d B A | B A B G E D |\nE A A A G A | B d d d B d | e g e d B G | B A A A2 |]\n"
+}

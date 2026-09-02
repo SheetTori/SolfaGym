@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmq2b8tszxqw5jmw",
+  "title": "Arap Ati",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQ2b8tszXqw5jMw93vbwp6L5sm4buSt6iiVryPG1TKxju",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Dm clef=treble\ng g g2 g2 | g2 g2 g2 g2 | g2 g2 g3 f | f _e g f f4 |\nz2 g g g2 g2 | g2 g2 g2 g2 | g2 g2 g3 f | f _e g f f4 |\nz2 b b b b2 a | a a2 g g g2 f | f _e g f f e e d | d3 B d _e f2 |\nf _e g f f e e d | d8 | f _e g f f e e d | d3 B d _e f2 |\nf _e g f f e e d | d8 | f _e g f f e e d | d3 B d _e f2 |\nf _e g f f e e d | d8 | f _e g f f e e d | d3 B d _e f2 |\nf _e g f f e e d | d8 |]\n"
+}

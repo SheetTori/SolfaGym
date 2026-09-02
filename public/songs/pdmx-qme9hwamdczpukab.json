@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qme9hwamdczpukab",
+  "title": "Roman Wall",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qme9hwaMDCZpuKaBm1ALoHuDSVJiMPCqGAiXrWQMVfGb6K",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nD | G2 G B A G | B d g d B G | c2 e d B G |\nF A A A2 D | G2 G B A G | B d g d B G | c d e d B G |\nA G F G2 | D | G2 G B A G | B d g d B G |\nc2 e d B G | F A A A2 D | G2 G B A G | B d g d B G |\nc d e d B G | A G F G2 | z g2 g f e d | e f g d B G |\nc d e d B G | F2 A A2 d | g2 g f e d | e f g d B G |\nc d e d B G | A G F G2 | z g2 g f e d | e f g d B G |\nc d e d B G | F2 A A2 d | g2 g f e d | e f g d B G |\nc d e d B G | A G F G2 |]\n"
+}

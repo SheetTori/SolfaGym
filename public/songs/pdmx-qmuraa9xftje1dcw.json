@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmuraa9xftje1dcw",
+  "title": "Appenzeller Ländlerli",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmUrAa9xftjE1DcWc6BbSxSgkbbdsVb64ZvARyij5L46PR",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:G clef=treble\nB c | B G B d A c | B G B d d2 | A F A d d2 |\nB G B d d2 | B G B d A c | B G B d d2 | c B A G F A |\nG4 | B c | B G B d A c | B G B d d2 |\nA F A d d2 | B G B d d2 | B G B d A c | B G B d d2 |\nc B A G F A | G4 | G2 | G A A c c e |\ne d d g g f | f e e d d c | c B B A G2 | A B c B A c |\nB d A c B d | c B A G F A | G4 | G2 |\nG A A c c e | e d d g g f | f e e d d c | c B B A G2 |\nA B c B A c | B d A c B d | c B A G F A | G4 |]\n"
+}

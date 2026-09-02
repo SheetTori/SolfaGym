@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbqexd9gqwwzalf",
+  "title": "Georgia Railroad",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbqEXD9GQwwZALFYs4G6HVt29wEwSZyjD84PR3DJJnrM7",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:A clef=treble\nB2 | c3 c c2 A B | c2 B2 A2 F2 | B3 B B2 A B |\nc B A2 B4 | c3 c c2 A B | c2 B2 A2 F2 | A2 A B A2 F2 |\nE F A2 A4 | B2 | c3 c c2 A B | c2 B2 A2 F2 |\nB3 B B2 A B | c B A2 B4 | c3 c c2 A B | c2 B2 A2 F2 |\nA2 A B A2 F2 | E F A2 A4 | a2 g2 f2 e2 | f2 e c B2 A2 |\na2 g2 f2 e2 | f d f2 g4 | a2 g2 f2 e2 | f2 e c B2 A F |\nA2 A B A2 F2 | E F A2 A4 | a2 g2 f2 e2 | f2 e c B2 A2 |\na2 g2 f2 e2 | f d f2 g4 | a2 g2 f2 e2 | f2 e c B2 A F |\nA2 A B A2 F2 | E F A2 A4 |]\n"
+}

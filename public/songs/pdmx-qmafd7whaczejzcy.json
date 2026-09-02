@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmafd7whaczejzcy",
+  "title": "Gammelmostri",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmaFD7wHAcZeJZcyyR6ygGUsyKqSPAkKFH3p3m4NQdNRdq",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:D clef=treble\nd2 d A d e | f e f g f2 | d2 d A d e | f6 |\nd2 d A d e | f e f g f2 | d2 d A d e | f6 |\ng2 g f g a | b2 a g f2 | g2 g f g a | b2 a g f2 |\nd2 f a e f | d3 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqh3stpwxazdg9n",
+  "title": "Svea kanal",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQH3STpwXAZDG9NeZA8nQTJPHcsMGWT8E9SpouDgbnbrU",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:F clef=treble\nF F2 A | c4 | d d2 c | B4 |\nE E2 F | G4 | c c2 B | A4 |\nF F2 A | c4 | d d2 c | B4 |\nE E2 F | G2 A2 | G2 F2 | F4 |]\n"
+}

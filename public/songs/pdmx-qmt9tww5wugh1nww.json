@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmt9tww5wugh1nww",
+  "title": "Lullaby",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmT9tww5WUgH1nWw2d3n47MjcLtdw3eCNcCwqa9DTUZSB8",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:Dm clef=treble\nD E F E | F2 D2 | F G A G | A4 |\nA G F E | F2 D2 | G F E F | D4 |]\n"
+}

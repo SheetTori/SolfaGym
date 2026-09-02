@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmrrkc2bwbrvlpek",
+  "title": "Auld lang syne",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmRRKc2BWBrVLpEkoFgRcnyhK4vQFeXPqo8zFyo4gVgg2R",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:F clef=treble\nC2 | F3 F F2 A2 | C3 F C2 A2 | F3 F A2 c2 |\nd6 d2 | c3 A A2 F2 | G3 F G2 A2 | F3 D D2 C2 |\nF6 d2 | c3 A A2 F2 | G3 F G2 d2 | c3 A A2 c2 |\nd6 d2 | c3 A A2 F2 | G3 F G2 A2 | F3 D D2 C2 |\nF6 |]\n"
+}

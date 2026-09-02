@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdegvfquhxlwnxa",
+  "title": "Roddy McCorley",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdeGVFquHxLWnxaxc8YvPYGGWnkL5Z6C54Z636vEA3oue",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nG A | B2 A B D2 G A | B3 A G3 D | E2 G2 G2 A2 |\nG4 G2 B c | d2 d2 d2 B d | e2 e2 d3 B | G2 E2 c2 B2 |\nA4 A2 B c | d2 d2 d2 B d | e2 e2 d3 B | G2 E2 c2 B2 |\nA4 A2 G A | B2 A B D2 G A | B3 A G2 D D | E2 G2 G2 G A |\nG4 G2 | G A | B2 A B D2 G A | B3 A G3 D |\nE2 G2 G2 A2 | G4 G2 B c | d2 d2 d2 B d | e2 e2 d3 B |\nG2 E2 c2 B2 | A4 A2 B c | d2 d2 d2 B d | e2 e2 d3 B |\nG2 E2 c2 B2 | A4 A2 G A | B2 A B D2 G A | B3 A G2 D D |\nE2 G2 G2 G A | G4 G2 |]\n"
+}

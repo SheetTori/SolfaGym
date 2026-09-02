@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdgcmsrpmgb11sv",
+  "title": "BourrÃe Aurore Sand",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdgcmsRPmgb11SVLQXP9iYCvMTf4MRsLTq3J4y4ZZjxBo",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Am clef=treble\nA2 | D3 E F2 G2 | A6 A2 | A2 d2 c2 d2 |\nA6 G A | _B3 A G2 E2 | F3 E D2 F2 | E3 D E2 F2 |\nD6 A2 | D3 E F2 G2 | A6 A2 | A2 d2 c2 d2 |\nA6 G A | _B3 A G2 E2 | F3 E D2 F2 | E3 D E2 F2 |\nD6 A2 | A3 G F2 G2 | A3 G F2 G2 | A3 G A2 _B2 |\nA3 G F2 G2 | A3 G A2 _B2 | A3 G F2 G2 | A3 G F2 E2 |\nD6 A2 | A3 G F2 G2 | A3 G F2 G2 | A3 G A2 _B2 |\nA3 G F2 G2 | A3 G A2 _B2 | A3 G F2 G2 | A3 G F2 E2 |\nD6 A2 |]\n"
+}

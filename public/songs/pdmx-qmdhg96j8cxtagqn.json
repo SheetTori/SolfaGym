@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdhg96j8cxtagqn",
+  "title": "All Through The Night (G) - Bb trumpet sop sax etc",
+  "source": "PDMX — cc-zero",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdHg96j8cxTagqNSTsx9Ntaf5biGbkUBjhyWUHzzE5uR9",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "cc-zero",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nG3 F E2 G2 | A2 G2 F2 D2 | E4 F3 F | G8 |\nG3 F E2 G2 | A2 G2 F2 D2 | E4 F3 F | G8 |\nc2 B2 c2 d2 | e2 d2 c2 B2 | c2 B2 A2 G2 | B3 A G2 F2 |\nG3 F E2 G2 | A2 G2 F2 D2 | E4 F3 F | G8 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwwnkukgpqrp3oq",
+  "title": "Four Seasons",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWwNKukGPQRp3oqyNH6mXx7KdUwhrHYwSaei3wmiUhwxB",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nd3 B G B | d =c B A2 D | G2 D A2 D | d =c B A3 |\nd3 B G B | d =c B A2 D | G2 D A2 D | B =c A G3 |\nd3 B G B | d =c B A2 D | G2 D A2 D | d =c B A3 |\nd3 B G B | d =c B A2 D | G2 D A2 D | B =c A G3 |\nF G F E F G | G F E F2 D | F G F E F G | G F E F2 A |\nF G F E F G | G F E F2 D | F G F E F G | G F E D3 |\nF G F E F G | G F E F2 D | F G F E F G | G F E F2 A |\nF G F E F G | G F E F2 D | F G F E F G | G F E D3 |\nA B A d3 | A B A F3 | A B A G A G | E F G F2 D |\nA B A d3 | A B A F3 | A B A G A G | E F E D3 |\nA B A d3 | A B A F3 | A B A G A G | E F G F2 D |\nA B A d3 | A B A F3 | A B A G A G | E F E D3 |]\n"
+}

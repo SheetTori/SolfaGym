@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxzo91n1dlhgusx",
+  "title": "Air des Bouffons",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXZo91N1DLhgusXazJ2id89R39pNB7Wte4zvGo1h28Xjx",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:8/2\nL:1/4\nK:F clef=treble\nF2 G2 A2 A2 B8 | A2 G2 A2 F2 G8 | F2 G2 A2 A2 B8 | A2 F2 G2 G2 F8 |\nc4 d2 c2 B8 | A2 G2 A2 B2 c8 | c4 d2 c2 B8 | A2 F2 G2 G2 F8 |]\n"
+}

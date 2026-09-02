@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmaatn7y8n3nmjjj",
+  "title": "The boys of Comanore",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmaaTn7Y8N3NmjJJ9KqxW95Ec87VLVHxuLrSu1vP991hBv",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:D clef=treble\nA G | F4 E2 F2 D2 D2 | D2 d2 c2 d2 A2 G2 | F4 E2 F2 D2 D2 |\nF2 A2 F2 G2 F2 E2 | F2 E2 G2 F2 E2 D2 | D2 d2 c2 d2 A2 G2 | F2 A2 G2 F2 G2 E2 |\nF2 D2 D2 D4 | A G | F4 E2 F2 D2 D2 | D2 d2 c2 d2 A2 G2 |\nF4 E2 F2 D2 D2 | F2 A2 F2 G2 F2 E2 | F2 E2 G2 F2 E2 D2 | D2 d2 c2 d2 A2 G2 |\nF2 A2 G2 F2 G2 E2 | F2 D2 D2 D4 | z12 F G | A2 B2 c2 d4 e2 |\nf2 d2 f2 e2 c2 A2 | A2 B2 d2 e2 f2 g2 | f2 a2 f2 g2 f2 e2 | A2 B2 c2 d4 e2 |\nf2 d2 f2 e2 c2 A2 | A2 G2 F2 E2 A2 G2 | F2 D2 D2 D4 | A G |\nF4 E2 F2 D2 D2 | D2 d2 c2 d2 A2 G2 | F4 E2 F2 D2 D2 | F2 A2 F2 G2 F2 E2 |\nF2 E2 G2 F2 E2 D2 | D2 d2 c2 d2 A2 G2 | F2 A2 G2 F2 G2 E2 | F2 D2 D2 D4 |\nz12 F G | A2 B2 c2 d4 e2 | f2 d2 f2 e2 c2 A2 | A2 B2 d2 e2 f2 g2 |\nf2 a2 f2 g2 f2 e2 | A2 B2 c2 d4 e2 | f2 d2 f2 e2 c2 A2 | A2 G2 F2 E2 A2 G2 |\nF2 D2 D2 D4 |]\n"
+}

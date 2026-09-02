@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqggedrlabu5zgb",
+  "title": "Aredje d'Ottrez",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQgGEdRLabu5ZgBdPLCUf8N5BKuvqDuQutLe5G61VBehw",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nF3 A3 | G F E F2 D | F2 F A2 A | G F E E3 |\nF3 A3 | G F E F2 D | F2 F A2 A | G F E E3 |\nA G F A G F | B2 B A2 A | B c d A B A | G F E F2 D |\nA G F A G F | B2 B A2 A | B c d A B A | G F E D3 |\nA G F A G F | B2 B A2 A | B c d A B A | G F E F2 D |\nA G F A G F | B2 B A2 A | B c d A B A | G F E D3 |]\n"
+}

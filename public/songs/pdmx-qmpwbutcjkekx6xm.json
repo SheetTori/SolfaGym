@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpwbutcjkekx6xm",
+  "title": "The South Wind",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPWBUtCjKekx6XMoaiHRLfPxHdVTE9foKdUw6VAXhFZhM",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:G clef=treble\nc2 | B3 A G2 | B3 c d2 | A4 A2 |\nA4 c2 | B3 A G2 | E3 D E2 | G4 G2 |\nG4 | c2 | B3 A G2 | B3 c d2 |\nA4 A2 | A4 c2 | B3 A G2 | E3 D E2 |\nG4 G2 | G4 | d2 | g4 g2 |\ng3 f e2 | d4 d2 | d4 c2 | B3 A G2 |\nB3 c d2 | A4 A2 | A4 d2 | g4 g2 |\ng3 f e2 | d4 d2 | d4 c2 | B3 A G2 |\nA c3 F2 | G10 | c2 | B3 A G2 |\nB3 c d2 | A4 A2 | A4 c2 | B3 A G2 |\nE3 D E2 | G4 G2 | G4 | d2 |\ng4 g2 | g3 f e2 | d4 d2 | d4 c2 |\nB3 A G2 | B3 c d2 | A4 A2 | A4 d2 |\ng4 g2 | g3 f e2 | d4 d2 | d4 c2 |\nB3 A G2 | A c3 F2 | G10 |]\n"
+}

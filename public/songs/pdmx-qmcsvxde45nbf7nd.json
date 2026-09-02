@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcsvxde45nbf7nd",
+  "title": "Gentils galans de France",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcSVXDE45Nbf7ndKwrnyozqgGVU8z5YnMvSm4281Pm9RL",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Dm clef=treble\nD2 | F3 E D2 C2 | F4 G4 | F4 z2 F2 |\nA4 A2 A2 | A4 B4 | A3 G F2 A2 | G2 F2 E2 D2 |\nF4 G4 | F4 z2 F2 | G4 G2 A2 | G F E D E2 E2 |\nD4 |]\n"
+}

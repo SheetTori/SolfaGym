@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtn7wdlsbvrtuy2",
+  "title": "Hunsdon House",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTN7WdLSBVRtuy2qAUKEzpQEqUzCkgVipYBtMe63DJrkD",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nD2 A F2 B | A F2 E2 D | d2 f e c2 | B3 A3 |\nD2 A F2 B | A F2 E2 D | d2 f e c2 | B3 A3 |\na2 g f c2 | d2 c B e f | g2 f e c2 | B3 A B c |\nd2 c B F2 | G2 F E B c | d e f g2 f | e3 d3 |\na2 g f c2 | d2 c B e f | g2 f e c2 | B3 A B c |\nd2 c B F2 | G2 F E B c | d e f g2 f | e3 d3 |]\n"
+}

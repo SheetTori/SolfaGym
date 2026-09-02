@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmytnf8dgfhnb4nk",
+  "title": "Dowch I'r Frwydr",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmYTNF8Dgfhnb4NkRXQnPAgvjdxk3q4tWaTMjGPDszjnkc",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:G clef=treble\nG8 | G4 A4 | B4 G4 | A4 D4 |\nF4 F4 | G4 G4 | F4 E4 | D8 |\nG8 | G4 A4 | B4 G4 | A4 D4 |\nF4 F4 | G4 G4 | F4 E4 | D8 |\nB4 d4 | B3 A G4 | A4 c4 | F3 E D4 |\nG4 G4 | B4 d4 | B4 A4 | G8 |\nG8 | G4 A4 | B4 G4 | A4 D4 |\nF4 F4 | G4 G4 | F4 E4 | D8 |\nB4 d4 | B3 A G4 | A4 c4 | F3 E D4 |\nG4 G4 | B4 d4 | B4 A4 | G8 |]\n"
+}

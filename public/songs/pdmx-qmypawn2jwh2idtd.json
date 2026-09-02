@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmypawn2jwh2idtd",
+  "title": "Pit Hame da Borrowed Claes",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmYPawn2Jwh2iDtDGs6xe9LfTEFWAReF28bTnmFPiAYHsu",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 9,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:A clef=treble\nB | D =G B A B A B d | e d B d =g e d B | D =G B A B A B d |\ne d =g B B A A B | D =G B A B A B d | e d B d =g e d B | D =G B A B A B d |\ne d =g B B A A B | d B =g B d B A B | d B =g B B A A B | d B =g B e d B2 |\n=g f g B B A A B | d B =g B e d B g | d e =g d B A A B | d B =g B d e f g |\na f =g B B A A |]\n"
+}

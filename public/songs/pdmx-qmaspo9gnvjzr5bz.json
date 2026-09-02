@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmaspo9gnvjzr5bz",
+  "title": "Bred dina vida vingar",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmaSPo9gNvJzr5BZ4GkLeJe1PCNt7ajiTTMpi66FbgnrfF",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 70,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Bb clef=treble\nD F | B2 d2 F2 G E | D F B4 c d | e2 c2 A2 F2 |\nB4 | z2 D F | B2 d2 F2 G E | D F B4 c d |\ne2 c2 A2 F2 | B4 | z2 B c | d2 d2 d2 c B |\nd2 c4 d2 | G2 A2 B2 G2 | F4 z2 D F | B2 d2 F2 G E |\nD F B4 c d | e2 c2 A2 F2 | B4 |]\n"
+}

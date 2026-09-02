@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqwk7thve6i37hm",
+  "title": "BourrÃe Ã Dechaux",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQwk7thVe6i37hmyu7WsnDrxxth9uBg7fXdX9x2WS6Z8A",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/8\nL:1/16\nK:G clef=treble\nD2 E2 F2 | G2 A2 B2 | G2 A B A G | F6 |\nD2 E2 F2 | G2 A2 B2 | G2 A B A F | G6 |\nD2 E2 F2 | G2 A2 B2 | G2 A B A G | F6 |\nD2 E2 F2 | G2 A2 B2 | G2 A B A F | G6 |\nA2 B2 A2 | d6 | c2 B2 A2 | c6 |\nB2 A2 G2 | A2 c2 B2 | G2 A B A G | F6 |\nD2 E2 F2 | G2 A2 B2 | G2 A B A G | F6 |\nD2 E2 F2 | G2 A2 B2 | G2 A B A F | G6 |\nA2 B2 A2 | d6 | c2 B2 A2 | c6 |\nB2 A2 G2 | A2 c2 B2 | G2 A B A F | G6 |]\n"
+}

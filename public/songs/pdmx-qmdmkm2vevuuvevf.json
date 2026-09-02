@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdmkm2vevuuvevf",
+  "title": "Move up to me",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdMkm2vEvuuVEvfdZMNBKGdteRAotA6HoDZuRukxZ8BDE",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:G clef=treble\nd c | B4 d2 d2 B2 d2 | e2 c2 e2 d2 B2 G2 | B2 c2 d2 d2 e2 =f2 |\nA2 F2 A2 A2 B2 c2 | B4 d2 d2 B2 d2 | e2 c2 e2 d2 B2 G2 | B2 d2 B2 c2 A2 F2 |\nG2 A2 G2 G4 | d c | B4 d2 d2 B2 d2 | e2 c2 e2 d2 B2 G2 |\nB2 c2 d2 d2 e2 =f2 | A2 F2 A2 A2 B2 c2 | B4 d2 d2 B2 d2 | e2 c2 e2 d2 B2 G2 |\nB2 d2 B2 c2 A2 F2 | G2 A2 G2 G4 | d2 | g2 e2 g2 f2 d2 f2 |\ne2 c2 e2 d2 B2 G2 | g2 e2 g2 f2 d2 f2 | e2 c2 e2 d4 d2 | g2 e2 g2 f2 d2 f2 |\ne2 c2 e2 d2 B2 G2 | B2 d2 B2 c2 A2 F2 | G2 A2 G2 G4 | d c |\nB4 d2 d2 B2 d2 | e2 c2 e2 d2 B2 G2 | B2 c2 d2 d2 e2 =f2 | A2 F2 A2 A2 B2 c2 |\nB4 d2 d2 B2 d2 | e2 c2 e2 d2 B2 G2 | B2 d2 B2 c2 A2 F2 | G2 A2 G2 G4 |\nd2 | g2 e2 g2 f2 d2 f2 | e2 c2 e2 d2 B2 G2 | g2 e2 g2 f2 d2 f2 |\ne2 c2 e2 d4 d2 | g2 e2 g2 f2 d2 f2 | e2 c2 e2 d2 B2 G2 | B2 d2 B2 c2 A2 F2 |\nG2 A2 G2 G4 |]\n"
+}

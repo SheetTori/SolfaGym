@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxm4vfamkxjtsqh",
+  "title": "Staten Island",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXm4vfamKxjTsqhpXbyNLmBQ94yqVrWaTfAKMSvJZ1k74",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nA G | F D F G A2 A2 | d f e d d c B A | B2 G B A2 F A |\nG2 E2 E2 A G | F D F G A2 A2 | d f e d d c B A | d2 d2 e f g e |\nf2 d2 d2 | A G | F D F G A2 A2 | d f e d d c B A |\nB2 G B A2 F A | G2 E2 E2 A G | F D F G A2 A2 | d f e d d c B A |\nd2 d2 e f g e | f2 d2 d2 | f g | a2 f a g2 e g |\nf2 d f e c A2 | =c2 c2 e f g e | =c2 c2 e f g e | a2 f a g2 e g |\nf2 d f e c A2 | d2 d2 e f g e | f2 d2 d2 | f g |\na2 f a g2 e g | f2 d f e c A2 | =c2 c2 e f g e | =c2 c2 e f g e |\na2 f a g2 e g | f2 d f e c A2 | d2 d2 e f g e | f2 d2 d2 |]\n"
+}

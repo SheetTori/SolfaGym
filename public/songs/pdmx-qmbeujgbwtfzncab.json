@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbeujgbwtfzncab",
+  "title": "Elvira Madigan",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbeUjGbWtFZNcAb2CVrpfv19nyYG2rsh4NC9WM1WgT7tM",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 60,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/4\nK:C clef=treble\nG2 E | C2 E | G2 c | G2 E |\nF2 D | B,2 D | G2 F | E3 |\nG2 B | d2 B | c2 e | c2 B |\nA2 G | B2 A | F2 D | C3 |]\n"
+}

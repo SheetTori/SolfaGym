@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmq2hwg3dan5ykg8",
+  "title": "Huldre og 'en Elland",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQ2hwG3DAn5YkG8fRN9X7HDrJJTUurhba3fmPK7fLfeth",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Am clef=treble\nc2 d e c2 d e | f2 d e e2 d e | c2 d e c2 d e | f2 d e e4 |\nc2 d e c2 d e | f2 d e e2 d e | c2 d e c2 d e | f2 d e e4 |\nc2 E2 B2 E2 | A B c A B2 E2 | c2 E2 B2 E2 | A4 A4 |\nc2 E2 B2 E2 | A B c A B2 E2 | c2 E2 B2 E2 | A4 A4 |]\n"
+}

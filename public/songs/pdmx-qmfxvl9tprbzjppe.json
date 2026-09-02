@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmfxvl9tprbzjppe",
+  "title": "Pick a bale of cotton",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmfXVL9tPrBZjppEJ1kHg2YxZWeXJW68aFeLutMfotPhDm",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nG G | B2 G G G G G2 | G G G G E D D D | B2 G G G G G2 |\nD D F F G2 | G G | B2 G G G G G2 | G G G G E D D D |\nB2 G G G G G2 | D D F F G2 | z2 B4 c2 d2 | G G G G E D3 |\nB4 c2 d2 | D D F F G2 | z2 B4 c2 d2 | G G G G E D3 |\nB4 c2 d2 | D D F F G2 |]\n"
+}

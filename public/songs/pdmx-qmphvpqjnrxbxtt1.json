@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmphvpqjnrxbxtt1",
+  "title": "Mwynen Cynwyd - The Gentle Lass of Cynwyd",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPhvPqJNRxbXTt1gaPdu5iyq4m7xnTJMBRv5eEXF3Bj1e",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nA | F D D D2 D | D F A A G F | B E E E2 E |\nG A B B A G | F D D D2 D | D F A A G F | G F G E A G |\nF E F D2 | A | F D D D2 D | D F A A G F |\nB E E E2 E | G A B B A G | F D D D2 D | D F A A G F |\nG F G E A G | F E F D3 | B2 d B2 d | B2 d B F B |\nA2 d A2 d | A2 d A F A | B E E E2 E | G2 A B A G |\nc B A B A G | A B c B A G | B2 d B2 d | B2 d B F B |\nA2 d A2 d | A2 d A F A | B E E E2 E | G2 A B A G |\nc B A B A G | A B c B A G |]\n"
+}

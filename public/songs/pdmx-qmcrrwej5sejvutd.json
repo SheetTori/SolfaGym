@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcrrwej5sejvutd",
+  "title": "Mowing the barley",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcrrwEj5SeJvUtdYZfCcuXYiBKcjPg63s8gQqVz77y1wq",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nd | e2 d e2 d | e2 d e2 d | b2 a g2 f |\ne3 d2 d | c c c e d c | B B B d2 B | G2 B d2 B |\nA3 G2 d | e2 d e e d | e e d e2 d | b2 a g g f |\ne3 d2 d | c c c e2 c | B2 B d2 B | G G B d d B |\nA3 G2 |]\n"
+}

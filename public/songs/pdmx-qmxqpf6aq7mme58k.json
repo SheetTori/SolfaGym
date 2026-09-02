@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxqpf6aq7mme58k",
+  "title": "Always welcome",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXqPf6aQ7mME58kxtsPnwRktJRQhJ5AjJFAi3u9gPcLHL",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:A clef=treble\nA F | E2 E F A2 A B | c B A B c e e g | f e f g a g a f |\ne c B c A F F A | E2 E F A2 A B | c B A B c e e g | f e f g a g a f |\ne c B c A2 | A F | E2 E F A2 A B | c B A B c e e g |\nf e f g a g a f | e c B c A F F A | E2 E F A2 A B | c B A B c e e g |\nf e f g a g a f | e c B c A2 | c2 | A2 A c e c c f |\ne c a c e c c d | B2 B d f e f g | a g a f e d c B | A2 A c e c c f |\ne c a c e c c e | f e f g a g a f | e c B c A2 | c2 |\nA2 A c e c c f | e c a c e c c d | B2 B d f e f g | a g a f e d c B |\nA2 A c e c c f | e c a c e c c e | f e f g a g a f | e c B c A2 |\ne2 | a2 g a f a e a | f a e a f c c B | E2 E F A G A B |\nc B A c B F F e | a2 g a f a e a | f a e a f c c e | f e f g a g a f |\ne c B c A2 | e2 | a2 g a f a e a | f a e a f c c B |\nE2 E F A G A B | c B A c B F F e | a2 g a f a e a | f a e a f c c e |\nf e f g a g a f | e c B c A2 |]\n"
+}

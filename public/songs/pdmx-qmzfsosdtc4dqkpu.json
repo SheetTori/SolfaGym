@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmzfsosdtc4dqkpu",
+  "title": "Shalom xaverim",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmZfSoSDTc4DqkPukZDBAyKadTnh36T2HFWhGeuML5ae1k",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Em clef=treble\nB,2 | E2 E F G2 E2 | G2 G A B2 B2 | e4 d4 |\nB6 | B2 | e2 B A G2 A2 | B2 G F E2 B,2 |\nE6 F G | E6 |]\n"
+}

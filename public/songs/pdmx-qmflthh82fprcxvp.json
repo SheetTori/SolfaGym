@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmflthh82fprcxvp",
+  "title": "Old Molly Hare",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmfLthh82FpRCxVPA3rH3VnmcreXMZPMXDXBwPNHNm6Tya",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:D clef=treble\nA2 A A | B4 | G G E E | A4 |\nF F D D | G F E D | C A, B, C | D2 |\nz2 A2 A A | B4 | G G E E | A4 |\nF F D D | G F E D | C A, B, C | D2 |\nz2 F2 F2 | G2 G2 | F2 F2 | E4 |\nF2 F2 | G2 F2 | E2 D2 | D4 |\nF2 F2 | G2 G2 | F2 F2 | E4 |\nF2 F2 | G2 F2 | E2 D2 | D4 |]\n"
+}

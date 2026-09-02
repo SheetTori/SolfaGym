@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmd6cbgjzcmzz6hd",
+  "title": "Christmas Day ida Moarnin",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmd6cbgjZcmZZ6HdkJS8iU3kHLHp7tZEqj2rm9XFAT3rPa",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/32\nK:A clef=treble\nf8 d4 f12 | e8 d4 c8 A4 | B8 c4 d8 c4 | B4 =G8 G12 |\ne8 f4 =g8 f4 | e8 d4 c8 B4 | A4 B4 A4 A4 B4 c4 | d12 d12 |\nf4 a8 a12 | e8 d4 c8 A4 | B8 c4 d8 c4 | B4 =G8 G12 |\ne8 f4 =g8 f4 | e8 d4 c8 B4 | A4 B4 A4 A4 B4 c4 | d12 d12 |\ne12 e3 d3 e3 f3 | =g12 B12 | A4 B4 A4 A8 A4 | B8 c4 d4 c4 B4 |\ne12 e3 d3 e3 f3 | =g12 B12 | A8 e4 d8 B4 | A12 A12 |]\n"
+}

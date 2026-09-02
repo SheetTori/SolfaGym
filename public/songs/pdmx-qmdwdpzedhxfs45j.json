@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdwdpzedhxfs45j",
+  "title": "Just in the Height of Her Bloom",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdWdPZeDhXFs45jHYrcRZr1YYgPYJJX47JMSiy1winLxW",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:9/8\nL:1/16\nK:D clef=treble\nd =c | B2 A2 G2 G2 E2 G2 G2 E2 G2 | B2 A2 G2 E2 F2 G2 A4 =c2 | B2 A2 G2 G2 E2 G2 G2 A2 B2 |\n=c2 B2 A2 B2 G2 E2 D4 | =c2 | B2 =c2 d2 d2 e2 d2 d2 B2 G2 | B2 =c2 d2 e2 d2 B2 A4 c2 |\nB2 =c2 d2 d2 e2 d2 d2 B2 G2 | =c2 B2 A2 B2 G2 E2 D4 | d =c | B2 A2 G2 G2 E2 G2 G2 E2 G2 |\nB2 A2 G2 E2 F2 G2 A4 =c2 | B2 A2 G2 G2 E2 G2 G2 A2 B2 | =c2 B2 A2 B2 G2 E2 D4 |]\n"
+}

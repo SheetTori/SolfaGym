@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtb3s62v9ctffmf",
+  "title": "Brian O'Lynn (A71)",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTB3S62v9CTFfmFR8rCRkznV7wE9eKgEfrKmRcbTLgkL3",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Am clef=treble\nB | c A d c A G | E3 G A B | c A d c A G |\nE A A A2 B | c A d c A G | E3 G A B | c d e ^f e d |\nc A A A2 | B | c A d c A G | E3 G A B |\nc A d c A G | E A A A2 B | c A d c A G | E3 G A B |\nc d e ^f e d | c A A A2 | ^f | g3 g e d |\nc A B c2 d | e2 a a g e | e d ^c d e ^f | g3 g e d |\nc A B c d e | ^f e d c A G | E A A A2 | ^f |\ng3 g e d | c A B c2 d | e2 a a g e | e d ^c d e ^f |\ng3 g e d | c A B c d e | ^f e d c A G | E A A A2 |]\n"
+}

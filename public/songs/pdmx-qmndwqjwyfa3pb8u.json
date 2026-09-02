@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmndwqjwyfa3pb8u",
+  "title": "The Mason's Apron (A70)",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNdWqJWyfa3pB8uQBc8NCBTJxuaxzgHQmSVWq2iDtjNkT",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:A clef=treble\nc2 A2 A B A F | E F A B c A B c | d2 B2 B c B A | B c d e d e f g |\na2 A2 c B A F | E F A B c A B A | B c d e f g a f | e d c B A3 A |\nc2 A2 A B A F | E F A B c A B c | d2 B2 B c B A | B c d e d e f g |\na2 A2 c B A F | E F A B c A B A | B c d e f g a f | e d c B A2 |\ne d | c2 e c f c e c | A c e c f e d c | d2 f B g d f d |\nd2 f d g f e d | c2 e c f c e c | A c e c f e d c | d c d e f g a f |\ne d c B A2 | e d | c2 e c f c e c | A c e c f e d c |\nd2 f B g d f d | d2 f d g f e d | c2 e c f c e c | A c e c f e d c |\nd c d e f g a f | e d c B A2 |]\n"
+}

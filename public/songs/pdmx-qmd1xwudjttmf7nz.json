@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmd1xwudjttmf7nz",
+  "title": "Barrack hill",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmd1xwuDJTTMf7NZRDVBDKKJvj5gZNRL2URuq75DuDeVmu",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 78,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:F#m clef=treble\ne2 A A2 f | e2 d B =c d | e2 A A2 B | =G2 A B =c d |\ne2 A A2 f | e2 d B =c d | e2 d =g2 B | A3 A3 |\ne2 A A2 f | e2 d B =c d | e2 A A2 B | =G2 A B =c d |\ne2 A A2 f | e2 d B =c d | e2 d =g2 B | A3 A3 |\ne2 d e f =g | a2 b =g2 e | d2 e d2 B | d2 e d =c B |\ne2 d e f =g | a2 b =g2 e | d2 B =g2 B | A3 A3 |\ne2 d e f =g | a2 b =g2 e | d2 e d2 B | d2 e d =c B |\ne2 d e2 f | =g2 a b2 a | =g2 e d2 B | A2 a a =g f |]\n"
+}

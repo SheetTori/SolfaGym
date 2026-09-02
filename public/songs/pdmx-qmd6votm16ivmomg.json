@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmd6votm16ivmomg",
+  "title": "Sjijnmyra-valsen",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmd6votm16iVMomgxRxZEyE3M8YUEAqj44sGQvwQtgsNgM",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 81,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:A clef=treble\nF2 A F A2 | =G2 B G B2 | A2 c2 e2 | d2 c B A2 |\nF2 A F A2 | =G2 B G B2 | A2 c2 e2 | d4 |\nz2 d2 f2 a2 | =g3 f e2 | c2 e2 =g2 | f3 e d2 |\nF2 A F A2 | =G2 B G B2 | A2 c2 e2 | d4 a2 |\nd2 f2 a2 | =g3 f e2 | c2 e2 =g2 | f3 e d2 |\nF2 A F A2 | =G2 B G B2 | A2 c2 e2 | d4 a2 |]\n"
+}

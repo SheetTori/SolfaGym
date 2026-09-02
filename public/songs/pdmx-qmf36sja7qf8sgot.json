@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmf36sja7qf8sgot",
+  "title": "What A Beau My Granny Was",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmf36sJA7Qf8sGoTMJjXCm9kR2ncCFHFETcpTSY1WUXHJS",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\ng | f d e c d B A G | F A d f e E2 g | f d e c d B A G |\nF d E c d2 D g | f d e c d B A G | F A d f e E2 g | f d e c d B A G |\nF d E c d2 D | G | F A D F G B E G | F A d f e E2 G |\nF A d f g e d c | d B A G F D D G | F A D F G B E G | F A d f e E2 G |\nF A d f g e d c | d B A G F D D |]\n"
+}

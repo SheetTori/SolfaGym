@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmsynhtt9lklz1na",
+  "title": "The glens of Mayo",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmSyNHTt9LKLZ1NADrrXcMaG3jtxQ7hxvsTXn5nwYq5XfD",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:Em clef=treble\ne2 | d2 B2 G2 A2 G2 E2 | G2 A2 B2 c4 e2 | d2 B2 G2 B2 A2 G2 |\nA2 B2 d2 e4 g2 | d2 B2 G2 A2 G2 E2 | G2 B2 d2 g2 f2 e2 | d2 B2 G2 A2 G2 E2 |\nG2 A2 G2 G4 | e2 | d2 B2 G2 A2 G2 E2 | G2 A2 B2 c4 e2 |\nd2 B2 G2 B2 A2 G2 | A2 B2 d2 e4 g2 | d2 B2 G2 A2 G2 E2 | G2 B2 d2 g2 f2 e2 |\nd2 B2 G2 A2 G2 E2 | G2 A2 G2 G4 | z12 B2 | B2 c2 B2 B2 e2 g2 |\nf2 e2 d2 e4 g2 | f2 e2 d2 d2 B2 A2 | A2 d2 ^c2 d4 B2 | B2 c2 B2 B2 e2 f2 |\ng2 a2 b2 a4 b a | g2 f2 e2 d2 B2 A2 | G2 E2 E2 E4 | e2 |\nd2 B2 G2 A2 G2 E2 | G2 A2 B2 c4 e2 | d2 B2 G2 B2 A2 G2 | A2 B2 d2 e4 g2 |\nd2 B2 G2 A2 G2 E2 | G2 B2 d2 g2 f2 e2 | d2 B2 G2 A2 G2 E2 | G2 A2 G2 G4 |\nz12 B2 | B2 c2 B2 B2 e2 g2 | f2 e2 d2 e4 g2 | f2 e2 d2 d2 B2 A2 |\nA2 d2 ^c2 d4 B2 | B2 c2 B2 B2 e2 f2 | g2 a2 b2 a4 b a | g2 f2 e2 d2 B2 A2 |\nG2 E2 E2 E4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdz9q3vhrphdzub",
+  "title": "The northern road",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmdz9Q3VHrPHdZub6LBDqcMF2f165bgqPxWr9XJwYypmwM",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 71,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Bm clef=treble\nd | A G F A2 D | D E D F E D | A G F A2 D |\nF3 d3 | A G F A2 D | D E D A G F | E F E E2 F |\nG3 B3 | d | A G F A2 D | D E D F E D |\nA G F A2 D | F3 d3 | A G F A2 D | D E D A G F |\nE F E E2 F | G3 B3 | A B c d2 F | A G F d2 F |\nA B c d A F | B3 d3 | A B c d e d | c B A d2 A |\nB c d E F E | G3 B3 | d | A G F A2 D |\nD E D F E D | A G F A2 D | F3 d3 | A G F A2 D |\nD E D A G F | E F E E2 F | G3 B3 | A B c d2 F |\nA G F d2 F | A B c d A F | B3 d3 | f a f g e c |\nf d B A F D | E F E E2 F | G3 B3 |]\n"
+}

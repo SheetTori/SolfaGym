@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmq2nnxkqv5y3sru",
+  "title": "Mairi's Wedding",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQ2NNXKqV5y3sruYvSWs6jZminFj16tJsXfJYw4eQQ3C4",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 9,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nE2 | D3 D D2 E2 | G2 A2 B4 | A2 G2 E2 G2 |\nB2 A2 B d3 | D3 D D2 E2 | G2 A2 B4 | A2 G2 E2 =C2 |\nD4 D4 | D3 D D2 E2 | G2 A2 B4 | A2 G2 E2 G2 |\nB2 A2 B d3 | D3 D D2 E2 | G2 A2 B4 | A2 G2 E2 =C2 |\nD4 D4 | d3 e d2 e2 | d2 =c2 B4 | A2 G2 E2 G2 |\nB2 A2 B d3 | d3 e d2 e2 | d2 =c2 B4 | A2 G2 E2 =C2 |\nD4 D4 | d3 e d2 e2 | d2 =c2 B4 | A2 G2 E2 G2 |\nB2 A2 B d3 | d3 e d2 e2 | d2 =c2 B4 | A2 G2 E2 =C2 |\nD4 D4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmaapqkzg7skiw55",
+  "title": "The jolly old man",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmaApQKzG7Skiw551F5HRZuCQ9g3Xu744BUuJbzbWb9xQq",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:A clef=treble\nE | A =G A c2 d | e d c B c A | =G F G B2 c |\nd =g e d B =G | A =G A c2 d | e d c B c d | e c A A B =G |\nA3 A2 | E | A =G A c2 d | e d c B c A |\n=G F G B2 c | d =g e d B =G | A =G A c2 d | e d c B c d |\ne c A A B =G | A3 A2 | e a =g a b2 a | a =g e e d B |\n=G A B d2 d | d =g e d B =G | a =g a b2 a | a =g e e d B |\nA2 A A B =G | A3 A2 | e a =g a b2 a | a =g e e d B |\n=G A B d2 d | d =g e d B =G | A =G A c2 d | e d c B c d |\ne c A A B =G | A3 A2 |]\n"
+}

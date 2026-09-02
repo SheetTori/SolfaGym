@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmf6coohgwha8qqx",
+  "title": "Wayfaring Stranger",
+  "source": "PDMX — cc-zero",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmf6cooHgwhA8qqxwzhjhTswsVxJukKz1f6sDb5GHe1Ps6",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "cc-zero",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/2\nL:1/8\nK:Dm clef=treble\nd2 d2 a2 | a6 g2 a2 a2 | g f d4 d2 d2 a2 | g6 d2 f2 g2 |\na6 d2 d2 a2 | a6 g2 a2 a2 | g f d4 d2 d2 a2 | g6 f2 d2 c2 |\nd6 a2 a2 c'2 | d'6 c'2 d'2 a2 | a2 g4 a2 a2 c'2 | d'6 c'2 a2 g2 |\na6 a2 d'2 c'2 | a6 g2 a2 a2 | g f d4 d2 d2 a2 | g6 f2 d2 c2 |\nd6 |]\n"
+}

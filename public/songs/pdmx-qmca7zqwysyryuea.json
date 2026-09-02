@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmca7zqwysyryuea",
+  "title": "Es geht ein dunkle Wolk' herein",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmca7zqwysYRyUEAL6btN9sLCJAsfr9JVHhwY4HY6K2eA6",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/4\nK:Dm clef=treble\nD | A2 A | G2 E | F2 G |\nE2 A | A2 A | G2 E | F2 G |\nE2 D | C2 =B, | A,2 A | c3 |\nA3 | G F G | E2 E | D5 |]\n"
+}

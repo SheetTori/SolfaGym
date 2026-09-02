@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdck8kxar5speuc",
+  "title": "AFN: 22 - MWYNEN MERCH - The Maiden's Melody",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdCk8kxaR5speUCgrYEeyD83LX752qFcY9cJecECm5YM9",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Dm clef=treble\nA4 | A2 d2 d4 | ^c2 d2 A3 G | F4 E3 F |\nG2 G2 G4 | D2 E2 F2 G2 | A4 | z4 A3 G |\nF2 G2 A2 B2 | c2 c2 c4 | A4 A3 G | F2 G2 A2 B2 |\nc2 c2 B4 | A4 | z4 A4 | A2 B2 c2 A2 |\nf2 e2 d2 ^c2 | d4 A4 | B2 d2 A3 G | F2 A2 G2 E2 |\nD2 E2 F2 G2 | A2 d2 ^c2 d2 | d4 A4 | B2 d2 A3 G |\nF2 A2 G2 E2 | D4 |]\n"
+}

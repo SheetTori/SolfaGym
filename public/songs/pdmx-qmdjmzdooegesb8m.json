@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdjmzdooegesb8m",
+  "title": "Over the Water to Charlie",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdjmZdooEGESb8mx2PVDJxjvk87QoUDfTN7wPhLRm71gZ",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 79,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nG B d e B d | e f g d B d | G B d e B d | e2 f g3 |\nG B d e B d | e f g d B d | b a g a g f | e2 f g3 |\nG B d e B d | e f g d B d | G B d e B d | e2 f g3 |\nG B d e B d | e f g d B d | b a g a g f | e2 f g3 |\nb a g a g f | e f g d B d | b a g a g f | e2 a a3 |\nb a g a g f | e f g d B d | G3 d B d | e2 f g3 |\nb a g a g f | e f g d B d | b a g a g f | e2 a a3 |\nb a g a g f | e f g d B d | G3 d B d | e2 f g3 |]\n"
+}

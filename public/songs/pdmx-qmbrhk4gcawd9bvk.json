@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbrhk4gcawd9bvk",
+  "title": "Brian O'Lynn",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbRhk4GcawD9bvKjqyFRmWPm1US8K1ZGN9uTKe85bkLmb",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Cm clef=treble\ng f | e c c e c c | B G G B c d | e c c c d B |\nc f f f g f | e c c e c c | B G G B c d | e f g b g f |\ne c c c g f | e c c e c c | B G G B c d | e c c c d B |\nc f f f g f | e c c e c c | B G G B c d | e f g b g f |\ne c c c3 | g =a b g c' c' | b g f e c c | g =a b c'3 |\nc' d' b c'3 | g =a b c' d' c' | b g f e c c | e f g b g f |\ne c c c3 | g =a b g c' c' | b g f e c c | g =a b c'3 |\nc' d' b c'3 | g =a b c' d' c' | b g f e c c | e f g b g f |\ne c c c3 |]\n"
+}

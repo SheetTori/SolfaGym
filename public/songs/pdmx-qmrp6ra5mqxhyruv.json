@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmrp6ra5mqxhyruv",
+  "title": "Sir Roger de Coverley",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmRp6Ra5MqxhyrUVgRC2KotGApaM91DzeSc4Sj1vkEAnGC",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:9/8\nL:1/8\nK:G clef=treble\nG2 G G2 e d B G | A2 A A B G F E D | G2 G G2 e d e f | g2 G G A G F E D |\nG2 G G2 e d B G | A2 A A B G F E D | G2 G G2 e d e f | g2 G G A G F E D |\nd B d e c e d B G | A2 A A B G F E D | d B d e c e d B G | g2 G G A G F E D |\nd B d e c e d B G | A2 A A B G F E D | d B d e c e d B G | g2 G G A G F E D |\ng a g f2 e d B G | E2 A A2 G F E D | g a g f2 e d e f | g2 G G A G F E D |\ng a g f2 e d B G | E2 A A2 G F E D | g a g f2 e d e f | g2 G G A G F E D |\nG3 |]\n"
+}

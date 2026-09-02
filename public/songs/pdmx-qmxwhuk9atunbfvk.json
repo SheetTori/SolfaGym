@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxwhuk9atunbfvk",
+  "title": "Huron Carol",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXwhuK9ATunBfvKjefLQVNwaoTLeXfJeyH9XM9qYnBaAu",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/4\nK:Am clef=treble\nE | A B c d | c B A G | A A B G |\nA3 E | A B c d | c B A G | A A B G |\nA3 e | e e B c | d c B B | c B A A |\nB A A G | E2 A A | G F E2 | A2 G E |\nA3 |]\n"
+}

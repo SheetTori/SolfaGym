@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbuqt85axvzh6lz",
+  "title": "Enrico",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbUqt85axvZH6LZLei6n2SHPwfchiCv7ZAteBjoqJZkaX",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nA2 | d2 f e d c d B | A B A G F2 A2 | d2 e f g f e d |\nc2 a2 a2 f2 | d2 f e d c d B | A B A G F2 A2 | B2 g f e d e c |\nd2 d2 d2 | A2 | d2 f e d c d B | A B A G F2 A2 |\nd2 e f g f e d | c2 a2 a2 f2 | d2 f e d c d B | A B A G F2 A2 |\nB2 g f e d e c | d2 d2 d2 | f g | a2 a g f g f e |\nd e d c B2 B2 | g a g f e f e d | c d c B A2 A2 | d2 d2 c e c A |\nd2 d2 c e c A | d2 f2 e d e c | d2 d2 d2 | f g |\na2 a g f g f e | d e d c B2 B2 | g a g f e f e d | c d c B A2 A2 |\nd2 d2 c e c A | d2 d2 c e c A | d2 f2 e d e c | d2 d2 d2 |]\n"
+}

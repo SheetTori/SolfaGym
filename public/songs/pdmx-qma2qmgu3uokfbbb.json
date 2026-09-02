@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qma2qmgu3uokfbbb",
+  "title": "The Gallowglass",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qma2QmGU3uoKfBBbtQk7MKic1nKYSPBiyMKbHPJShYQjjF",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Am clef=treble\nA B | c B A e B d | c A A A B c | B A G e ^f g |\nB G G G A B | c B A e B d | c e a e2 d | c B A ^G A B |\nc A A A | A B | c B A e B d | c A A A B c |\nB A G e ^f g | B G G G A B | c B A e B d | c e a e2 d |\nc B A ^G A B | c A A A | e a | a g a e f d |\nc A A A B c | B A G e ^f g | B G G G2 e | a g a e f d |\nc A A e2 d | c B A ^G A B | c A A A2 e | a g a e f d |\nc A A A B c | B A G e ^f g | B G G G2 e | a e g ^f d B |\ne c A B G E | A B c d B e | c A A A2 |]\n"
+}

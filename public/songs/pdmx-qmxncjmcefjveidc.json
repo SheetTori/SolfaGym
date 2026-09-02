@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxncjmcefjveidc",
+  "title": "The Parting Glass",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXncJMcEFJVEiDCyBgqcphRAbuumCpUZT48bSipStH7pJ",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Am clef=treble\nc2 A2 A2 G A | c2 c2 d2 c d | e2 e2 e d c d | e2 G2 G2 e d |\nc2 A2 A2 G A | c2 c2 d2 c d | e2 a2 g e d e | c2 A2 A2 |\nz2 g e g a g3 g | g e g a g3 e | f2 e2 d2 c d | e2 G2 G2 e d |\nc2 A2 A2 G A | c2 c2 d2 c d | e2 a2 g e d e | c2 A2 A2 |]\n"
+}

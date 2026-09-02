@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmb6hcjhgvmt5pk1",
+  "title": "Im Fr\\uhtau zu Berge",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmb6HCjHgVMT5pk15EEJWvDs2gryXJ6yMD8nmPpe8Xg48t",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\nD2 | G4 B2 D2 | G4 B2 G2 | A4 A3 A |\nA4 z2 B2 | c4 c2 c2 | d2 c2 B2 A2 | B4 G3 G |\nG4 | z2 G2 | c3 c c2 c2 | e4 c2 c2 |\nB3 B G2 B2 | d4 B2 G2 | D4 F2 A2 | c4 A2 F2 |\nG4 G4 | G4 | z2 G2 | c3 c c2 c2 |\ne4 c2 c2 | B3 B G2 B2 | d4 B2 G2 | D4 F2 A2 |\nc4 A2 F2 | G4 G4 | G4 |]\n"
+}

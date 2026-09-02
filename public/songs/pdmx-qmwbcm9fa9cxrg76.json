@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwbcm9fa9cxrg76",
+  "title": "A la Nanita Nana with Note Names",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWbCM9fA9CxRG762u5vJJ2cycGvk8L7ysCcpFZptH49z8",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:Dm clef=treble\nD2 D E F G | A2 A A B G | A2 A A B G | d2 A4 |\nG2 A B c B | A G F G A F | G F E F G E | F E D4 |\nD2 D E F G | A2 A A B G | A2 A A B G | d2 A4 |\nG2 A B c B | A G F G A F | G F E F G E | F E D4 |\n^F A d2 ^c =B | ^c2 A4 | =B2 A2 G2 | ^F G A4 |\n^F A d2 ^c =B | ^c2 A4 | =B2 A2 G2 | ^F G A4 |\nB2 B B B B | A2 A4 | G2 G2 G2 | F G A4 |\nG2 G G G G | F2 F4 | E2 E2 E2 | F E D4 |]\n"
+}

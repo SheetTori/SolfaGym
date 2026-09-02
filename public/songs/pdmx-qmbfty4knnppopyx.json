@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbfty4knnppopyx",
+  "title": "Sheffield Hornpipe",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbfTy4kNNppoPyXGz3Ygc3na3AS8bgH4TjrUychzgvs6C",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nF E | D2 F A d2 d c | B G B d A2 A d | c2 c e d2 d f |\ne c d B A F G E | D2 F A d2 d c | B G B d A2 A d | B G B d c A c e |\nd2 f2 d2 | F E | D2 F A d2 d c | B G B d A2 A d |\nc2 c e d2 d f | e c d B A F G E | D2 F A d2 d c | B G B d A2 A d |\nB G B d c A c e | d2 f2 d2 | c d | e c A A A2 d e |\nf d A A A2 e f | g e f d e c d f | e c d B A F G E | D2 F A d2 d c |\nB G B d A2 A d | B G B d c A c e | d2 f2 d2 | c d |\ne c A A A2 d e | f d A A A2 e f | g e f d e c d f | e c d B A F G E |\nD2 F A d2 d c | B G B d A2 A d | B G B d c A c e | d2 f2 d2 |]\n"
+}

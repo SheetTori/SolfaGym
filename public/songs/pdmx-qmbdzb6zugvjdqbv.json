@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbdzb6zugvjdqbv",
+  "title": "Prince Rupert's March",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbDzb6ZuGvJDqbVpJS8pDaqpLqmZbpe4kL1sG6UgGhFye",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Am clef=treble\nE2 | A2 E2 A2 B2 | c3 d c2 c2 | B2 A2 A2 ^G2 |\nA6 | E2 | A2 E2 A2 B2 | c3 d c2 c2 |\nB2 A2 A2 ^G2 | A6 | A2 | B3 A B c d2 |\nG3 A G2 G2 | c2 c2 d e d e | c4 z2 c2 | B3 A B c d2 |\nG3 A G2 c2 | B2 A2 A2 ^G2 | A6 | A2 |\nB3 A B c d2 | G3 A G2 G2 | c2 c2 d e d e | c4 z2 c2 |\nB3 A B c d2 | G3 A G2 c2 | B2 A2 A2 ^G2 | A6 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmnax5djnxtclrnd",
+  "title": "The fairies' hornpipe",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNaX5dJNXTCLRnDVxwG2bDmJnPCk6ZVpHVh3PReSJwvzv",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\nD2 | G F G A B d c B | A G A B G2 B c | d g f g e d c B |\nc e d B A2 B c | d g f a g2 f e | d e d c B2 A G | A B c A d c A F |\nG2 G G G2 | D2 | G F G A B d c B | A G A B G2 B c |\nd g f g e d c B | c e d B A2 B c | d g f a g2 f e | d e d c B2 A G |\nA B c A d c A F | G2 G G G2 | B c | e g g f g2 f e |\nd e d c B2 A G | A B c A e d c B | A2 d d d2 B c | d g g f g2 f e |\nd e d c B2 A G | A B c A d c A F | G2 G G G2 | B c |\ne g g f g2 f e | d e d c B2 A G | A B c A e d c B | A2 d d d2 B c |\nd g g f g2 f e | d e d c B2 A G | A B c A d c A F | G2 G G G2 |]\n"
+}

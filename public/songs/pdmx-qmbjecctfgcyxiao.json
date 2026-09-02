@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbjecctfgcyxiao",
+  "title": "Ternberger Hochzeitsstückl 1 Pichler/Fritz: Wer tanzt nach meiner Pfeife",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbjeCcTFgCYXiAoMDRLWkhaVtbcAa92apUmeQUFQsxDnW",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\nd e d c B c d B | c d c B A B c A | B2 B A G2 F G | A B A G F2 D2 |\nd e d c B c d B | c d c B A B c A | B2 A G F G A F | G2 B2 G4 |\nd e d c B c d B | c d c B A B c A | B2 B A G2 F G | A B A G F2 D2 |\nd e d c B c d B | c d c B A B c A | B2 A G F G A F | G2 B2 G4 |\nD2 B2 D2 B2 | c2 c B c4 | B2 B A G2 F G | A B A F D4 |\nD2 B2 D2 B2 | c2 c B c4 | B2 A G F G A F | G2 B2 G4 |\nD2 B2 D2 B2 | c2 c B c4 | B2 B A G2 F G | A B A F D4 |\nD2 B2 D2 B2 | c2 c B c4 | B2 A G F G A F | G2 B2 G4 |]\n"
+}

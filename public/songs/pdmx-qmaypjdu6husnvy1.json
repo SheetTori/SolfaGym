@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmaypjdu6husnvy1",
+  "title": "Surr surr surr",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmayPjDU6hUsNVY1CXTXTMuQfyy7a7gCkudyrohsJDtg38",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:G clef=treble\nd2 c2 | B2 | z2 A B c A | G2 |\nz2 B c d B | A B c A | B c d B | A B c A |\nB2 c2 | d2 | z2 c B c A | G2 |]\n"
+}

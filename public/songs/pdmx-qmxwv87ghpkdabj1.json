@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxwv87ghpkdabj1",
+  "title": "A Mover and Shaker",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXwv87gHPkdabj1UEozmu1krxeEKneRAF4a9CUFb68idd",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 76,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Em clef=treble\ne | g2 a b2 a b3 b a g f2 e e f g f3 f2 f | e2 e d2 c B3 B2 f g2 e f e d e3 e2 e | g2 a b2 a b3 b a g f2 e e f g f3 f2 f |\ne2 e d2 c B3 B2 f g2 e f e d e3 e2 d | e2 f g2 e e d B B2 B g2 g a g a b3 b2 b | b a g e f g e d B B2 f g2 e f e d e3 e2 d | e2 f g2 e e d B B2 B g2 g a g a b3 b2 b |\nb a g e f g e d B B2 f g2 e f e d e3 e2 |]\n"
+}

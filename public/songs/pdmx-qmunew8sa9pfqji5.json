@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmunew8sa9pfqji5",
+  "title": "Picking of Sticks",
+  "source": "PDMX — cc-zero",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmUnEw8SA9pfqji5XUUZdzS3qJjhw8HeCqStiAAJLcok4t",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "cc-zero",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:G clef=treble\nG2 | B3 c d2 d3 c d2 | c4 A2 A4 A2 | A3 B c2 c3 d c2 |\nB4 G2 G4 G2 | B3 c d2 d3 c d2 | c4 A2 A4 A2 | A3 B c2 c3 d c2 |\nB4 G2 G4 G2 | A3 G A2 F3 G A2 | B3 c d2 d3 c B2 | A3 B c2 c3 B c2 |\nB4 G2 G6 | A3 G A2 F3 G A2 | B3 c d2 d3 c B2 | A3 B c2 c3 B c2 |\nB4 G2 G6 | z2 A3 G A2 F3 G A2 | B3 c d2 d3 c B2 | A3 B c2 c3 B c2 |\nB4 G2 G6 |]\n"
+}

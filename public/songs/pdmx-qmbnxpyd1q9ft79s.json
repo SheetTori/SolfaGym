@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbnxpyd1q9ft79s",
+  "title": "The field of oats",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbnXpYd1q9fT79SpZdg5Cs8Cg3ft3HsXkvS2ZnZuBKuhg",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:Am clef=treble\nB A | G E E ^F G2 E F | G2 ^F G A c B A | G E E ^F G2 e ^f |\ng ^f e d B2 B A | G E E ^F G2 E F | G2 ^F G A c B A | G ^F E F G A B a |\ng e ^f d e2 e f | g2 b g ^f2 a f | e2 ^f e B d e f | g a b g ^f g a f |\ng ^f e d e2 e f | g2 b g ^f2 a f | e2 ^f e B d e f | g a b g ^f2 a f |\ng ^f e d e d B A |]\n"
+}

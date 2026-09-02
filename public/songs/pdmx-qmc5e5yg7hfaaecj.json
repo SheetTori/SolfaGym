@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmc5e5yg7hfaaecj",
+  "title": "Dronning Dagmar",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmc5E5yG7hFAAEcjhu3Kz7dU6rPEoSqtwAN614H7t8yMHR",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/2\nL:1/4\nK:Dm clef=treble\nD D | A2 B A G2 F G | A2 A2 c2 c2 | F2 F2 G G A F |\nE D2 D | A2 B A G2 F G | A2 A2 c2 c2 | F F F2 G2 A F |\nG F2 E E | D G A A G F | E D3 |]\n"
+}

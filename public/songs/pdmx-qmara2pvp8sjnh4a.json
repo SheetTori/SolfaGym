@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmara2pvp8sjnh4a",
+  "title": "Uti v\\aar hage",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmarA2Pvp8sjnh4AMjsXQFt8SXBhgHDSNXpSwGzos3afZk",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/16\nK:Em clef=treble\nE4 G4 A4 | G6 F2 E4 | G4 G4 A4 | B8 d4 |\nB8 G4 | B8 | z4 G6 G2 G4 | G4 A4 B4 |\nB4 A4 G4 | A8 B4 | G4 G3 F E3 G | F4 B,4 A4 |\nG4 G3 F E3 G | F4 B,4 ^D4 | E4 B6 A2 | B4 F4 A4 |\nG8 F4 | E8 |]\n"
+}

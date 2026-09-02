@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqgjyfto5dq9r4d",
+  "title": "Cooney's hornpipe",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQgJYFto5dq9R4duYibWdwjodvGVGJxWNJbqBiBD1n9Mb",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\nD2 | G2 G F G B d B | A G A B c d e f | g f g f e c A G |\nF G A F D E F D | G F E F G B d B | A G A B c d e f | g f g f e c A F |\nG2 G2 G2 | D2 | G2 G F G B d B | A G A B c d e f |\ng f g f e c A G | F G A F D E F D | G F E F G B d B | A G A B c d e f |\ng f g f e c A F | G2 G2 G2 | B c | d e d c B c d f |\ne f e d c d e f | g f g f e c A G | F G A F D E F D | G F E F G B d B |\nA G A B c d e f | g f g f e c A F | G2 G2 G2 | B c |\nd e d c B c d f | e f e d c d e f | g f g f e c A G | F G A F D E F D |\nG F E F G B d B | A G A B c d e f | g f g f e c A F | G2 G2 G2 |]\n"
+}

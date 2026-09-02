@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbcutkazpdcjkgc",
+  "title": "Salmon Tails up the Water",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbcuTkazpdCJkGcSmdKjqzUj7FVo8iYqefLYXf22gEJy1",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nG2 E2 D2 E2 | G4 G3 A | B2 d2 A2 B A | G2 E2 D4 |\nG2 E2 D2 E2 | G4 G3 A | B2 d2 A2 B A | G4 G4 |\nG2 E2 D2 E2 | G4 G3 A | B2 d2 A2 B A | G2 E2 D4 |\nG2 E2 D2 E2 | G4 G3 A | B2 d2 A2 B A | G4 G4 |\nB2 d2 d4 | c2 e2 e4 | d2 B2 A2 B A | G2 E2 D4 |\nB2 d2 d4 | c2 e2 e3 f | g2 f2 e2 d2 | e2 f2 g4 |\nB2 d2 d4 | c2 e2 e4 | d2 B2 A2 B A | G2 E2 D4 |\nG2 E2 D2 E2 | G4 G3 A | B2 d2 A2 B A | G4 G4 |]\n"
+}

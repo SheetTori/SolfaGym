@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmffd4mx5kbniyd7",
+  "title": "The Blackthorn Stick",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmfFD4Mx5KBniYD77m7TToB2HFqiuHgtLLrJyWSecRu1sh",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nd | g f g e g e | d B G A G E | D G G F G A |\nB G B A2 d | g f g a g e | d B G A G E | D G G F G A |\nB G G G2 d | g f g e g e | d B G A G E | D G G F G A |\nB G B A2 d | g f g a g e | d B G A G E | D G G F G A |\nB G G G2 d | e d d g d d | e d d g d d | e d e g f g |\ne d B A2 d | g f g a g e | d B G A G E | D G G F G A |\nB G G G3 | e d d g d d | e d d g d d | e d e g f g |\ne d B A2 d | g f g a g e | d B G A G E | D G G F G A |\nB G G G3 |]\n"
+}

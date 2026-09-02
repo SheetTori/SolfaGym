@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmeg2zptz3pz4wcw",
+  "title": "All For Me Grog",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeG2zptZ3pz4wcWGZckvrHXEar5X129rdbkmzEFb2S5Sa",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nB2 A | G3 B2 A | G3 G2 F | E2 F G2 E |\nD3 D2 A | B3 B2 c | d3 c2 B | B A2 A6 |\nB2 c | d3 d2 B | G3 G2 F | E2 F G2 E |\nD3 G2 A | B2 d c2 B | A2 G F2 G | A6 |\nG6 | G3 B2 A | G3 G2 F | E2 F G2 E |\nD3 D2 B | B3 d2 d | d3 c2 B | B A2 A6 |\nB2 c | d2 d B2 A | G3 F2 G | A2 G F2 E |\nD3 B2 B | B2 d d2 d | d2 B G2 B | A6 |\nG3 |]\n"
+}

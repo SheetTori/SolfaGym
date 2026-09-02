@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmr63mpuczwccdzf",
+  "title": "Loath to Depart (2)",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmR63MPUCZwCCDzFtfUZivjkBFuUE48b6Gg9YbhcvRVdK9",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 70,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/2\nL:1/4\nK:Bb clef=treble\nG2 ^F2 B2 | A4 B2 | G3 A ^F2 | G4 |\nz2 B2 A2 G2 | ^F4 D2 | =E3 C D2 | G,4 |\nz2 G,2 D2 G,2 | D3 D B, B, | C3 A, D2 | D4 G2 |\nd3 d d2 | d4 d2 | c4 A2 | B4 |]\n"
+}

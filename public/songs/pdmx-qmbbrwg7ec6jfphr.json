@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbbrwg7ec6jfphr",
+  "title": "Dargason",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbBrwg7EC6jfpHRbJ5nJm9xJnrUjqS7X74Lt7cN5JK7SZ",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:A clef=treble\nF4 D2 D4 D2 | F4 =G2 A3 G F2 | =G4 E2 E4 E2 | =G4 A2 B3 A G2 |\nF4 D2 D4 D2 | d4 d2 c3 B A2 | =G4 E2 E4 E2 | e4 d2 c3 B A2 |\nF4 D2 D4 D2 | F4 =G2 A3 G F2 | =G4 E2 E4 E2 | =G4 A2 B3 A G2 |\nF4 D2 D4 D2 | d4 d2 c3 B A2 | =G4 E2 E4 E2 | e4 d2 c3 B A2 |]\n"
+}

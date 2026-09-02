@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmw3hxsep4bhpucq",
+  "title": "Ballet CCLXVIII",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmW3HXseP4BHPUcQyHeXpG3mSknRcF7SSvmDSk3yHpiqtg",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:Gm clef=treble\n=B6 c2 B4 A4 | G12 A2 =B2 | c8 c4 =B4 | A12 =B2 c2 |\nd8 d4 c4 | =B4 A2 B2 G4 A2 B2 | c4 =B4 A2 G2 A4 | G16 |\n=B6 c2 B2 c2 A2 B2 | G6 A2 =B2 c2 d2 B2 | c8 =B8 | A12 =B2 c2 |\nd8 c8 | =B2 G2 A2 B2 c2 B2 A2 G2 | ^F4 G6 F =E F4 | G12 d4 |\nd6 c2 B2 c2 d4 | c6 B2 A2 B2 c4 | B6 A2 G2 A2 B4 | A2 G2 ^F2 =E2 D4 d4 |\nd6 c2 B2 c2 d4 | c6 B2 A2 B2 c4 | B4 c2 B2 A2 G2 A4 | G12 d4 |\nd2 c2 B2 A2 B2 c2 d2 B2 | c2 B2 A2 G2 A2 B2 c2 A2 | G2 ^F2 G2 A2 B8 | A12 d4 |\nd2 c2 d2 e2 d2 =e2 f2 d2 | c2 B2 A2 G2 A2 B2 c2 B2 | A2 B2 c2 B2 A2 G2 A4 | G8 G8 |]\n"
+}

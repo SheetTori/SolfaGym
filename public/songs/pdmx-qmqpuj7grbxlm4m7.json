@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqpuj7grbxlm4m7",
+  "title": "Roselil og hendes moder",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQpuJ7grBxLm4m7NbDwSz65AWSWfqihPLftnUoUGZaeqx",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:A clef=treble\nc B | B2 A2 A A | A3 A e2 | f2 d2 d2 |\nc4 | c B | B2 A2 A A | A3 A e2 |\nf2 d2 d2 | c4 | e2 | f3 g a2 |\ne2 d2 c2 | B2 A2 G2 | A4 A B | c2 z B c A |\nB4 A B | c2 z B c A | B4 e2 | f3 g a2 |\ne2 d2 c2 | B2 A2 G2 | A4 |]\n"
+}

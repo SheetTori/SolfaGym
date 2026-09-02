@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxah4p86lyxtq12",
+  "title": "Vive L'Amour",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXah4P86LyXtQ12FyhZ79sL4XL25bHM5kgdGzQ4bsn5VP",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nD | G F G G F E | D E D B,2 D | G F G A2 F |\nG3 G2 D | G F G G F E | D E D B,2 D | G F G A2 F |\nG3 G2 A | B A B B A B | c B c c3 | A G A A G A |\nB A B B3 | G F G G3 | A G A A3 | F2 F E2 F |\nG3 G2 |]\n"
+}

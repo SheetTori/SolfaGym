@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmup2i2xftpknx1p",
+  "title": "Das Moorsoldatenlied",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmUp2i2xftpKnx1Pibmhf3uH4rkNA4HeegnqmsAk1vy1Wp",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:Em clef=treble\nE2 B,2 | E2 G F | E2 B,2 | E2 E2 |\nA2 F2 | G2 E2 | F2 B,2 | E4 |\nG2 G2 | G2 B A | G2 D2 | G2 G2 |\nA2 F2 | G2 E2 | F2 B,2 | E6 |\nD2 | B3 B | B3 G | A4 |\nA2 A2 | G3 G | G3 E | F4 |\nF3 B, | E6 | D2 | B3 B |\nB3 G | A4 | A2 A2 | G3 G |\nG3 E | F4 | F3 B, | E6 |]\n"
+}

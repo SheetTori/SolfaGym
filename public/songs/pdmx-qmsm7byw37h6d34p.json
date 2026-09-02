@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmsm7byw37h6d34p",
+  "title": "Ar Gyfer Heddiw'r Bore",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmSM7Byw37h6D34p91j7A1gKnaeDrSp8nr49WxEQZqPoGC",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/4\nK:G clef=treble\nG2 | B A G F | G D G A | B2 G B |\nA3 G | B A G F | E A G F | G2 G G |]\n"
+}

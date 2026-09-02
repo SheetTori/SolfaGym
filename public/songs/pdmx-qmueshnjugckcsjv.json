@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmueshnjugckcsjv",
+  "title": "J'ai vu le renard",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmUEsHnJugCKcsjVkWo9CFQhLUAWPyLughJkKwp8Uz3JKt",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:D clef=treble\nd d c B | A2 G G F2 F G | A2 B2 d d c B | A2 G G F2 A2 |\nD4 | d d c B | A2 G G F2 F G | A2 B2 d d c B |\nA2 G G F2 A2 | D4 | D F F F | D2 F F D2 F F |\nG2 E2 C E E E | C2 E E C2 E2 | D4 | D F F F |\nD2 F F D2 F F | G2 E2 C E E E | C2 E E C2 E2 | D4 |]\n"
+}

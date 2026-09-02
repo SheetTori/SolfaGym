@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmzc2zsnwnmrq6hu",
+  "title": "Det var je og det var du",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmZc2zsNwnMRQ6hUWiBcZaMqPtxQrf8e9AR9P7PWUKRAxt",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:Gm clef=treble\nD ^F | G2 G ^F G A | B3 A G B | A2 D2 ^F2 |\nG4 | D ^F | G2 G ^F G A | B3 A G B |\nA2 D2 ^F2 | G4 | d d | d2 B2 B B |\nB2 c2 d d | d2 A2 A A | A2 d2 d e | d2 d c B A |\nG3 ^F G B | A2 D2 ^F2 | G4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmeqb3b4lh4zverb",
+  "title": "Paddy on the Railroad (aka Merry Blacksmith)",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeQb3b4Lh4ZverbieWxQfrqwbcz28MwwM8BimLXothBp7",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nA2 | d2 d A B A F A | A B d A B A F A | A B d e f2 e d |\nB e e d e g f e | d2 d A B A F A | A B d A B A F A | A B d e f d e c |\nd B A F D2 | A2 | d2 d A B A F A | A B d A B A F A |\nA B d e f2 e d | B e e d e g f e | d2 d A B A F A | A B d A B A F A |\nA B d e f d e c | d B A F D2 | f g | a2 a g f2 f e |\nd2 d A B A F A | A B d e f2 e d | B e e d e g f g | a2 a g f2 f e |\nd2 d A B A F A | A B d e f d e c | d B A F D4 | a2 a g f2 f e |\nd2 d A B A F A | A B d e f2 e d | B e e d e g f g | a2 a g f2 f e |\nd2 d A B A F A | A B d e f d e c | d B A F D4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcb2au9kqjykwmd",
+  "title": "Money musk",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcB2Au9kqJykWmdYx6Gt9RGg7UGKLvBSRA14qFMWM6Wqd",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:A clef=treble\nf | e A c A e A d f | e A c A B c d e | e A c A e a g a |\nf d B e c A A f | e A c A e A d f | e A c A B c d e | e A c A e a g a |\nf d B e c A A | f | e A c A e A d f | e A c A B c d e |\ne A c A e a g a | f d B e c A A f | e A c A e A d f | e A c A B c d e |\ne A c A e a g a | f d B e c A A | e | a e c a e a c e |\na e d b c a B g | a e c a e a g a | f d B e c A A e | a e c a e a c e |\na e d b c a B g | a e c a e a g a | f d B e c A A | e |\na e c a e a c e | a e d b c a B g | a e c a e a g a | f d B e c A A e |\na e c a e a c e | a e d b c a B g | a e c a e a g a | f d B e c A A |]\n"
+}

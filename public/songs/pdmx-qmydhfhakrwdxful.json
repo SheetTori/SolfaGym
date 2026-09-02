@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmydhfhakrwdxful",
+  "title": "Goder afton",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmYDhFHaKRWdxFULqEbUh14irUFVgUUNeWRnvT2F3GK31j",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:G clef=treble\nd d | B2 B2 d d | B2 B2 d d | c2 c2 e2 |\ng4 g2 | f2 f2 e e | d2 d2 B2 | c2 c2 F2 |\nG4 |]\n"
+}

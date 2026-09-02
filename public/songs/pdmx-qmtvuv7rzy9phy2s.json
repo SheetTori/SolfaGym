@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtvuv7rzy9phy2s",
+  "title": "Drink to me only",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTvuV7Rzy9phY2sR5KXPZnZP1t5hQC2dyAevzBVak1zBd",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nF F F G2 G | A G F E F G | A D G F2 E | D6 |\nF F F G2 G | A G F E F G | A D G F2 E | D6 |\nA F A d2 A | A F A A2 A | B2 A A G F | F3 E3 |\nF F F G2 G | A G F E F G | A D G F2 E | D6 |]\n"
+}

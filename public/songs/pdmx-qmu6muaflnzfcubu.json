@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmu6muaflnzfcubu",
+  "title": "Kitty in the lane",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmU6muaFLnzFCubuqjDaUr8TtFvz2xWWEoryKpsgkfkH4c",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:D clef=treble\nd =c A B c B c A | G E D E =c2 B c | d =c A B c B c A | G E =c E E D D2 |\nd =c A B c B c A | G E D E =c2 B c | d =c A B c d e d | =c A E G G D D2 |\nA d d g f2 e d | =c d e f g f g A | A d d g f g e d | =c d e g f d d c |\nA d d g f2 e d | =c d e f g2 f g | a f g e f d e d | =c A G E E D D2 |]\n"
+}

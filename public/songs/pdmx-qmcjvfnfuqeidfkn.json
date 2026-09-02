@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcjvfnfuqeidfkn",
+  "title": "Jenny Picking Cockles (can be played fast!)",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcjvfNfuQeiDfKnbSPoM1ToV5SNecMEhybhjuHETAdW2y",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:Dm clef=treble\nd6 c2 A2 G2 G G G2 | F2 G2 A2 =B2 c2 A2 G2 A2 | d4 d2 c2 A2 G2 G G G2 | E4 G2 E2 E2 D2 D2 c2 |\nd6 c2 A2 G2 G G G2 | F2 G2 A2 =B2 c4 c2 d2 | e2 d2 d2 c2 A2 G2 E2 F2 | G2 E2 A2 E2 E2 D2 D2 c2 |\nd6 c2 A2 G2 G G G2 | F2 G2 A2 =B2 c2 A2 G2 A2 | d4 d2 c2 A2 G2 G G G2 | E4 G2 E2 E2 D2 D2 c2 |\nd6 c2 A2 G2 G G G2 | F2 G2 A2 =B2 c4 c2 d2 | e2 d2 d2 c2 A2 G2 E2 F2 | G2 E2 A2 E2 E2 D2 D4 |\nf6 d2 e2 f2 e2 d2 | c2 A2 G2 A2 c2 d2 e2 g2 | f6 d2 e2 d2 c2 d2 | e2 a2 a2 g2 e2 d2 d2 e2 |\nf6 d2 e2 f2 e2 d2 | c2 A2 A A A2 c6 d2 | e2 d2 d2 c2 A2 G2 E2 F2 | G2 E2 A2 E2 E2 D2 D4 |\nf6 d2 e2 f2 e2 d2 | c2 A2 G2 A2 c2 d2 e2 g2 | f6 d2 e2 d2 c2 d2 | e2 a2 a2 g2 e2 d2 d2 e2 |\nf6 d2 e2 f2 e2 d2 | c2 A2 A A A2 c6 d2 | e2 d2 d2 c2 A2 G2 E2 F2 | G2 E2 A2 E2 E2 D2 D4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmsv4sbaoezxjkyv",
+  "title": "Kalamatianos",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmSv4sBAoeZxJKYVzFeNVpWw3qinff4N69aEtxvNdWeEqZ",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 66,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:7/8\nL:1/8\nK:F#m clef=treble\nE2 | G2 A B c B2 | A B A G2 G F | G2 A B c B2 |\nA B A G2 | E2 | G2 A B c B2 | A B A G2 G F |\nG2 A B c B2 | A B A G2 | z2 c c c c2 B2 | c B A G A B c |\nc B A G F E G | F3 F2 | z2 c c c c2 B2 | c B A G A B c |\nc B A G F E G | F3 F2 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmd94u5bff7fns2d",
+  "title": "Silver Slipper",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmd94U5bFF7fNs2DsA2Dem7VrGWDJLnbvAJ2mHYy8qPPNd",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:9/8\nL:1/8\nK:Em clef=treble\nF2 D D D D F2 D | D D D A2 F d3 | F2 D D D D F2 D | F2 A B2 G E2 G |\nF2 D D D D F2 D | D D D A2 F d3 | F2 D D D D F2 D | F2 A B2 G E2 G |\nF2 A d2 ^c d3 | F2 A d2 A B ^c d | F2 A d2 ^c d2 A | B2 G E2 G F2 E |\nF2 A d2 ^c d3 | F2 A d2 A B ^c d | e2 ^c d2 A F2 A | B2 G E2 G F2 E |]\n"
+}

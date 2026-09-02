@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmyho1zy8isxyfha",
+  "title": "The bold desertes",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmYho1Zy8isXYFHazCAQ3xspkgMaFSt3swpWvMtvvDiPyK",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nf e | d2 A2 B2 A F | A B d e f e d B | A F E F D2 D2 |\nD6 A G | F2 A2 d2 e f | g2 f2 e2 d e | f e d B A F E F |\nA6 A G | F2 A2 d2 e f | g2 f2 e2 d e | f e d B A F E F |\nA6 f e | d2 A2 B2 A F | A B d e f e d B | A F E F D2 D2 |\nD6 A G | F2 A2 d2 e f | g2 f2 e2 d e | f e d B A F E F |\nA6 f e | d2 A2 B2 A F | A B d e f e d B | A F E F D2 D2 |\nD4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmrfbh2esqtz4ezf",
+  "title": "Mors griser",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmRFbh2eSQtz4EzFdfCxiykMUuNJZJzhoEwnQgVg8JU7dn",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 60,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/16\nK:C clef=treble\nG4 G3 A G3 F | E3 F G4 E4 | D3 E F4 D4 | C3 D E4 C4 |\nG4 G3 A G3 F | E3 F G4 E4 | D3 E F4 D4 | G4 C4 |\nz4 c4 G4 z2 F2 | E4 C4 |]\n"
+}

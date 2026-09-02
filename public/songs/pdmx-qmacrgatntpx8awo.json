@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmacrgatntpx8awo",
+  "title": "Troika",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmaCRGAtNTpX8aWoXXH9p8K8YfBYXCTMWTH27Q3Jz56s2w",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nE2 G2 F2 B,2 | E2 G2 F2 B,2 | G2 G G A2 G A | B6 B2 |\nB2 B2 A2 B A | G2 G2 F2 F2 | E F G A B2 B2 | E2 e2 d4 |\nE2 e2 d4 | E2 e2 d2 e d | B2 A2 B4 | B2 e2 d2 e d |\nB2 A2 B2 d B | G2 E2 E2 D2 |]\n"
+}

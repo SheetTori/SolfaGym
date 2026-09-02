@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmaiu17gax4hojyo",
+  "title": "Hal en bergenkermis",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmaiu17Gax4Hojyo5HBpnM83HmJNibvUjv1s4exNvp4XcT",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:C clef=treble\nE2 E2 E2 E F | E2 D2 C2 G2 | A4 B4 | c4 |\nz4 E2 E2 E2 E F | E2 D2 C4 | G2 G2 G2 G A | G2 E2 C4 |\nG6 c2 | B6 d2 | A4 B4 | A2 G2 G4 |\nE2 E2 E2 E F | E2 D2 C2 G2 | A4 B4 | c4 |\nz4 E2 E2 E2 E F | E2 D2 C4 | G2 G2 G2 G A | G2 E2 C4 |\nG6 c2 | B6 d2 | A4 B4 | c2 c2 c2 |\nz2 G2 G2 c3 A | A2 G2 G4 | F2 F2 A3 F | F2 E2 E4 |\nG2 G2 c2 B c | d2 A2 A4 | B2 B2 A2 B2 | A2 G2 G2 |\nz2 E2 E2 E2 E F | E2 D2 C2 G2 | A4 B4 | c4 |\nz4 E2 E2 E2 E F | E2 D2 C4 | G2 G2 G2 G A | G2 E2 C4 |\nG6 c2 | B6 d2 | A4 B4 | F2 F2 A3 F |\nF2 E2 E4 | G2 G2 c2 B c | d2 A2 A4 | d3 c B2 d2 |\nc4 |]\n"
+}

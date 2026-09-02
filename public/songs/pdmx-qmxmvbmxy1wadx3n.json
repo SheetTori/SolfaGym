@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxmvbmxy1wadx3n",
+  "title": "The absent-minded man",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXmVbmXY1wADx3NCBYjYiqQWjJYXMcbAyLvPTFDvVhTgs",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:A clef=treble\nd | c A c e f g | a e d c2 A | d f d c e c |\nd B B B2 d | c A c e f g | a e d c2 A | B b a g f g |\na A A A2 | d | c A c e f g | a e d c2 A |\nd f d c e c | d B B B2 d | c A c e f g | a e d c2 A |\nB b a g f g | a A A A2 | c | e c c A c c |\ne c c A c c | d B B G B B | d B B G B B | e c c f d d |\ng e e a f f | e c c d B G | A B A A2 | c |\ne c c A c c | e c c A c c | d B B G B B | d B B G B B |\ne c c f d d | g e e a f f | e c c d B G | A B A A2 |]\n"
+}

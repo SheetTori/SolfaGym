@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmegybgznnpzsbwi",
+  "title": "Lloyd's Whim",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmegYbgZnnpzsbwihbmpnbvKVzZ71Ei12X3cg6ckhR3ob6",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:G clef=treble\nB G B d A F A c | B G B d A2 D2 | B G B d A F A c | B d A B G2 G2 |\nB G B d A F A c | B G B d A2 D2 | B G B d A F A c | B d A B G2 G2 |\ng a f g e f d f | g a f g e2 d2 | g a f g e d e g | d B c A G2 G2 |\nB G B d A F A c | B G B d A2 D2 | B G B d A F A c | B d A B G2 G2 |\ng a f g e f d f | g a f g e2 d2 | g a f g e d e g | d B c A G2 G2 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmujjv9nsjze7fhm",
+  "title": "Skomagerstykket",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmUjJv9NSJZE7FhmyxcStKoLU1crsUfoJkoPff4eNXX7b7",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\nd2 d2 d B G B | d2 d2 d B G B | c3 c B3 B | A2 A2 G4 |\nd2 d2 d B G B | d2 d2 d B G B | c3 c B3 B | A2 A2 G4 |\nA2 A2 D2 D2 | G2 B2 d4 | c2 c2 B2 B2 | A2 A2 G4 |\nA2 A2 D2 D2 | G2 B2 d4 | c2 c2 B2 B2 | A2 A2 G4 |]\n"
+}

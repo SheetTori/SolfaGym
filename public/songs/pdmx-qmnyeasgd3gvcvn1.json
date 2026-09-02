@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmnyeasgd3gvcvn1",
+  "title": "Harpers Frolick",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNyeasgD3Gvcvn1TpdqrrPVWnrjqVwbiex1fK8u85y7eS",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:D clef=treble\nA G | F2 A2 D2 A G | F G A2 D2 d2 | c2 d2 e2 c2 |\nd c d e f2 A G | F2 A2 D2 A G | F G A2 D2 d2 | c2 d2 e2 c2 |\nd4 d2 | A G | F2 A2 D2 A G | F G A2 D2 d2 |\nc2 d2 e2 c2 | d c d e f2 A G | F2 A2 D2 A G | F G A2 D2 d2 |\nc2 d2 e2 c2 | d4 d2 | d e | f2 d2 d2 e f |\ng2 e2 e2 g2 | f2 d2 d2 f2 | e d c B A2 d e | f2 d2 d2 e f |\ng2 e2 e2 g2 | f e d2 e2 c2 | d4 d2 | d e |\nf2 d2 d2 e f | g2 e2 e2 g2 | f2 d2 d2 f2 | e d c B A2 d e |\nf2 d2 d2 e f | g2 e2 e2 g2 | f e d2 e2 c2 | d4 d2 |]\n"
+}

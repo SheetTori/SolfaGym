@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmeqvwrkcjgyutgg",
+  "title": "Green sleeves",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeQVWrkcJGYuTggn3dtHPQtuF6vTSGiZJkaAQuqeBvGYA",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:Am clef=treble\nA B | c4 c2 c2 d2 e2 | d2 B2 G2 G2 A2 B2 | c2 B2 A2 A2 B2 c2 |\nB2 G2 E2 E4 A B | c4 c2 c2 d2 e2 | d2 B2 G2 G2 A2 B2 | c2 B2 A2 G2 E2 ^G2 |\nA6 A4 | A B | c4 c2 c2 d2 e2 | d2 B2 G2 G2 A2 B2 |\nc2 B2 A2 A2 B2 c2 | B2 G2 E2 E4 A B | c4 c2 c2 d2 e2 | d2 B2 G2 G2 A2 B2 |\nc2 B2 A2 G2 E2 ^G2 | A6 A4 | e ^f | g2 a2 g2 g2 f2 e2 |\nd2 B2 G2 G2 B2 d2 | a2 b2 a2 a2 b2 a2 | g2 e2 e2 e4 e ^f | g2 a2 g2 g2 f2 e2 |\nd2 B2 G2 G2 A2 B2 | c2 B2 A2 G2 E2 ^G2 | A6 A4 | e ^f |\ng2 a2 g2 g2 f2 e2 | d2 B2 G2 G2 B2 d2 | a2 b2 a2 a2 b2 a2 | g2 e2 e2 e4 e ^f |\ng2 a2 g2 g2 f2 e2 | d2 B2 G2 G2 A2 B2 | c2 B2 A2 G2 E2 ^G2 | A6 A4 |]\n"
+}

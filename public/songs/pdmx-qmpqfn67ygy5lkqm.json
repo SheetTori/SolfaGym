@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpqfn67ygy5lkqm",
+  "title": "Bourrée de Creuse",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPqfn67yGy5LkQMfT26RMubDxhBviJ6go9NSdHWh1iV8M",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/8\nL:1/16\nK:C clef=treble\nc2 g2 f2 | g f e2 d2 | c2 g3 f | g6 |\nc2 g2 f2 | g f e2 d2 | c2 g3 f | g6 |\nd e f2 e2 | d3 e f2 | e d c2 d2 | B2 A4 |\nd e f2 e2 | d3 e f2 | e d c2 B2 | c6 |\nd e f2 e2 | d3 e f2 | e d c2 d2 | B2 A4 |\nd e f2 e2 | d3 e f2 | e d c2 B2 | c6 |]\n"
+}

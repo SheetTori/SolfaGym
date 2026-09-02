@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qma1mfbxgmwnb2iw",
+  "title": "Air de la gaillarde appellee L'ennuy qui me tourmente.",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qma1MFbxgmWnB2iWZtBikd1sAN2AFdk9kqqLNUGTfJfyae",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/2\nL:1/4\nK:Dm clef=treble\nD2 D2 D2 F2 F2 F2 | F2 G2 G2 A2 z2 F2 | A2 A2 A2 A2 A2 G2 | F2 F2 E2 F2 z2 F2 |\nF2 F2 G2 A2 A2 F2 | A2 A2 A2 G2 z2 E2 | G2 G2 G2 F2 F2 D2 | A2 G2 F2 E2 z2 E2 |\nF2 F2 G2 A2 A2 F F | A A A2 A2 G2 z2 E2 | G2 A2 G2 F2 F2 E E | D D D2 C2 D2 z2 D2 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqz91vm7cdwjmgy",
+  "title": "Ce fut en mai",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQZ91vM7CDWJmgYTyxuVrTFo4A8NHGKwpKv6g459fCxKp",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/4\nK:D clef=treble\nD | E F G | A2 d | c B c |\nA2 A | G F E | E G A | F3 |\nF2 | D | E F G | A2 d |\nc B c | A2 A | G F E | F E C |\nD3 | D2 | F | A G F |\nE2 F | G F E | D2 E | F E D |\nC2 D | E3 | E2 | D |\nE F G | A2 d | c B c | A2 A |\nG F E | D2 E | F2 E | F E C |\nD3 | D2 |]\n"
+}

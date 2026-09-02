@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqrshnbe8zs5sl7",
+  "title": "Valse",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQRsHnBE8Zs5SL7uENcTQUwhpHFGizrVbhVX9pYJqtLhi",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:G clef=treble\nB2 c2 | d2 d2 c2 | B2 G2 B2 | B2 A2 B2 |\nd4 c2 | c2 c2 B2 | A2 A2 c2 | d2 e2 d2 |\nB4 G2 | d2 d2 c2 | B2 G2 B2 | B2 A2 B2 |\nd4 c2 | c2 c2 B2 | A2 A2 c2 | d2 e2 d2 |\nG4 B2 | A2 G2 G2 | e4 c2 | c2 f3 e |\nd4 B2 | d2 e2 d2 | c4 B2 | c B c2 d2 |\nB4 A2 | G2 G2 G2 | e4 c2 | c2 f3 e |\nd4 B2 | d2 e2 d2 | f2 e2 d2 | c2 B2 A2 |\nG2 B2 c2 | d2 d2 c2 | B2 G2 B2 | B2 A2 B2 |\nd4 c2 | c2 c2 B2 | A2 A2 c2 | d2 e2 d2 |\nA2 G2 G2 | e4 c2 | c2 f3 e | d4 B2 |\nd2 e2 d2 | c4 B2 | c B c2 d2 | B4 A2 |\nG2 G2 G2 | e4 c2 | c2 f3 e | d4 B2 |\nd2 e2 d2 | f2 e2 d2 | c2 B2 A2 | G2 B2 c2 |\nz6 G2 B2 d2 | G6 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwrwxwlwxfnlkjv",
+  "title": "G-Dur-Schleuniger 1",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWRWxWLWxFnLKJVG4vkbYtMmnnUMB28r8uoyMohEDCUno",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 79,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/16\nK:G clef=treble\nD2 G3 z B A B2 G2 | A8 F2 G2 | F2 A3 z c B c2 D2 | B8 B2 c2 |\nB2 d3 z g f g2 d2 | e8 d2 B2 | c2 A2 B2 G2 A2 F2 | G8 |\nD2 G3 z B A B2 G2 | A8 F2 G2 | F2 A3 z c B c2 D2 | B8 B2 c2 |\nB2 d3 z g f g2 d2 | e8 d2 B2 | c2 A2 B2 G2 A2 F2 | G8 |\nF2 G2 | D2 G2 B2 G2 B2 G2 | B4 A2 F2 A2 F2 | F2 A2 c2 D2 c2 D2 |\nc4 B2 G2 B2 G2 | B2 d2 g2 B2 g2 B2 | g4 f2 d2 f2 d2 | f2 d2 f2 g2 a2 f2 |\ng8 | F2 G2 | D2 G2 B2 G2 B2 G2 | B4 A2 F2 A2 F2 |\nF2 A2 c2 D2 c2 D2 | c4 B2 G2 B2 G2 | B2 d2 g2 B2 g2 B2 | g4 f2 d2 f2 d2 |\nf2 d2 f2 g2 a2 f2 | g8 |]\n"
+}

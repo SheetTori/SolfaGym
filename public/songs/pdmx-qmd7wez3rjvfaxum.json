@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmd7wez3rjvfaxum",
+  "title": "Secoundo marcho dòu Rei Rene",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmd7weZ3rjVfAXUmyoRJujRWHfBFPAQetN7iKGdNyEBSzf",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:Dm clef=treble\nc2 | f8 _e3 d c3 B | A8 A4 z2 A2 | A8 c3 B G3 A |\nF12 z2 c2 | _e3 d c3 B | A8 A4 z2 c2 | F8 G3 A B3 c |\nF4 f3 f f6 | c2 | f8 _e3 d c3 B | A8 A4 z2 A2 |\nA8 c3 B G3 A | F12 z2 c2 | _e3 d c3 B | A8 A4 z2 c2 |\nF8 G3 A B3 c | F4 f3 f f6 | A4 | f8 _e3 d ^c3 e |\nd8 A4 A4 | f8 f3 d ^c3 _e | d12 A4 | d8 _e4 f4 |\ng8 a4 b3 g | f4 d4 _e6 ^c2 | d12 | A4 |\nf8 _e3 d ^c3 e | d8 A4 A4 | f8 f3 d ^c3 _e | d12 A4 |\nd8 _e4 f4 | g8 a4 b3 g | f4 d4 _e6 ^c2 | d12 |]\n"
+}

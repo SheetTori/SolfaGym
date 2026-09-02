@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpcd7j9bujdaut6",
+  "title": "The mills are grinding",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPCD7j9bUjdaUT65umCH9S2ytromSN7aXgn9iH2mmEAGp",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:G clef=treble\nG F G A B2 B c | d e d ^c d g g2 | =F E F G A2 B c | d e d c B G G |\nz G F G A B2 B c | d e d ^c d g g a | b g a f g d d e | =f d c A B G G |\nz g f g a g2 g a | b g a g f d d e | =f e f g f2 c e | d c B A B G G |\nz g f g a g2 g a | b g a g f d d g | b g a f g d d e | =f d c A B G G |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmsmz8ndgp43nkiq",
+  "title": "Captain Byng",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmSMz8NdGp43nKiQoGigAJmqmjLGt3QwkL64TMscaTTKF9",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\na b c d | g f g d B G G2 | e a a g f d e f | g f g d B G G B |\nc A d B G2 G d | g f g d B G G2 | e a a g f d c A | B d e f g a g e |\nd B A B G2 G | c | B G d G B G G B | c A e A c A A c |\nB G d G B G G B | c A d B G2 G A | B G d G B G G B | c A e A c A A c |\nB d e f g a g e | d B A B G2 G |]\n"
+}

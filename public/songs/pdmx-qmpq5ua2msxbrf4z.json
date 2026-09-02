@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpq5ua2msxbrf4z",
+  "title": "The Men of Garvagh",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPq5Ua2mSxBrF4zyfyjAt21ZMVtWodajcoQa1h1QzAYcy",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 60,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:C clef=treble\nG,4 | C6 D2 E4 D2 C2 | G4 G4 G4 G,4 | A,2 C4 D2 E4 D2 C2 |\nD4 D4 D4 G,4 | C6 D2 E4 D2 C2 | G4 G4 G4 A3 A | E6 F2 E4 D4 |\nC6 D2 C4 G4 | A4 A4 c4 B2 A2 | G4 G4 G4 A4 | E4 E4 E4 D2 C2 |\nD4 D4 D4 G,2 G,2 | C6 D2 E4 D3 C | G4 G4 G4 A3 A | E6 F2 E4 D4 |\nC6 D2 C4 |]\n"
+}

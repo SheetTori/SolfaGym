@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmnqnjpfefw3zhcn",
+  "title": "Tea in the morning",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNQNJPFEFW3zhcNbTSchAhW3jeiG2b7bEpuiMDSxqEzg2",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:9/8\nL:1/16\nK:C clef=treble\nd4 G2 G2 ^F2 G A B6 | G2 z2 d2 d2 z2 G2 A2 B2 c2 | d4 G2 G2 ^F2 G A B6 | d2 c2 B2 A2 G2 ^F2 A2 B2 c2 |\nd4 G2 G2 ^F2 G A B6 | G2 z2 d2 d2 z2 G2 A2 B2 c2 | d4 G2 G2 ^F2 G A B6 | d2 c2 B2 A2 G2 ^F2 A2 B2 c2 |\nd2 e2 d2 c2 z2 d2 B6 | G2 z2 d2 d2 z2 G2 A2 B2 c2 | d2 e2 d2 c2 z2 d2 B4 c2 | d2 c2 B2 A2 G2 ^F2 A2 B2 c2 |\nd2 e2 d2 c2 z2 d2 B6 | G2 z2 d2 d2 z2 G2 A2 B2 c2 | d2 z2 g2 ^f2 d2 c2 B4 c2 | d2 c2 B2 A2 G2 ^F2 A2 B2 c2 |]\n"
+}

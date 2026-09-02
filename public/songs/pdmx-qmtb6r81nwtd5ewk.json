@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtb6r81nwtd5ewk",
+  "title": "Sl\\uunce Gree",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTB6r81nWTd5EwKPDYiD1wsj38KSAZdWjTBQXpG7d9aCB",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:18/16\nL:1/16\nK:D clef=treble\nG D G A2 A G B2 A2 | A B G F2 E D | D A, D E2 E D F2 E2 | E F E D E F D |\nG D G A2 A G B2 A2 | A B G F2 E D | D A, D E2 E D F2 E2 | E F E D2 |\nz20 D3 G4 A G F2 | E2 D D3 =C | D E3 E3 =C G F E F | E2 D D4 |\nD3 G4 A G F2 | E2 D D3 =C | D E3 E3 =C G F E F | E2 D D4 |\nE3 E4 D2 =C2 | D E2 E4 | E3 E3 =C G F E F | E2 D D4 |\nE3 E4 D2 =C2 | D E2 E4 | E3 E3 =C G F E F | E2 D D4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdf4yfa8cp3j2yt",
+  "title": "Gut shabes aich",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdF4YfA8cp3j2YTDwpjJqHAoM7PzLximwan8memcuPrf4",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Am clef=treble\nD A2 F G4 | D A2 F G4 | D A2 F G F E D | F2 D2 D4 |\nD A2 F G4 | D A2 F G4 | D A2 F G F E D | F2 D2 D4 |\nd2 d2 d2 d2 | z c _B A G B A2 | d2 d2 d2 d2 | z c _B A G B A2 |]\n"
+}

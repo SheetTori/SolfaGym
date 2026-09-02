@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmrrkpmzhyxahhyr",
+  "title": "Polska",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmRrKpMzhYxaHhyRGKfJ4nZ4RqrqDGAwhmAi63PnfpCuS9",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 71,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/16\nK:Bm clef=treble\nf e d c B2 B2 A2 A2 | B2 B2 c2 c2 d2 d2 | f e d c B2 B2 A2 A2 | F2 ^G ^A c4 B4 |\nf e d c B2 B2 A2 A2 | B2 B2 c2 c2 d2 d2 | f e d c B2 B2 A2 A2 | F2 ^G ^A c4 B4 |\nd2 d e f2 d2 f2 d2 | e2 e f g4 e4 | c2 c d e2 c2 e2 c2 | d2 d e f4 d4 |\nf e d c B2 B2 A2 A2 | B2 B2 c2 c2 d2 d2 | f e d c B2 B2 A2 A2 | F2 ^G ^A c4 B4 |\nd2 d e f2 d2 f2 d2 | e2 e f g4 e4 | c2 c d e2 c2 e2 c2 | d2 d e f4 d4 |\nf e d c B2 B2 A2 A2 | B2 B2 c2 c2 d2 d2 | f e d c B2 B2 A2 A2 | F2 ^G ^A c4 B4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmaauegi7f5cmxsc",
+  "title": "Greensleeves",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmaAuegi7f5CmXSc77JLH1wRwQbmjAz2VdEf68s63AUQgV",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 60,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/4\nL:1/8\nK:Cm clef=treble\nC2 | E4 F2 G3 A G2 | F4 D2 B,3 C D2 | E4 C2 C3 =B, C2 |\nD4 =B,2 G,4 C2 | E4 F2 G3 A G2 | F4 D2 B,3 C D2 | E3 D C2 =B,3 =A, B,2 |\nC6 C4 | z2 B6 B3 =A G2 | F4 D2 B,3 C D2 | E4 C2 C3 =B, C2 |\nD4 =B,2 G,4 | z2 B6 B3 =A G2 | F4 D2 B,3 C D2 | E3 D C2 =B,3 =A, B,2 |\nC6 C4 |]\n"
+}

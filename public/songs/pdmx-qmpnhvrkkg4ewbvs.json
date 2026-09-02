@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpnhvrkkg4ewbvs",
+  "title": "The Perthshire Highlanders",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPnHVRkKg4EWbVswsPdSxm5FSkt6HAMttG14k4TqgRpjR",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:D clef=treble\nD2 | A3 B A3 F D3 F A3 d | D E F G A3 F B3 E G3 B | A3 B A F3 B3 d c3 e |\nf3 d e f g e f d3 d3 B | A3 B A3 F D E F G A B c d | D3 F A3 F B A G F E3 B | A3 B A3 F G3 B A d3 |\nB3 d c e3 f d3 d2 | f2 | a3 f d3 f d e f g a3 f | g3 e f d3 e3 d B3 g |\na3 f d3 f d3 e f d3 | B3 d c3 e d D3 D3 f | a3 f d3 f d3 e f d3 | B3 d A F3 B3 E G B3 |\nF3 D F A3 B3 G B d3 | d c B A B d c e f d3 d2 |]\n"
+}

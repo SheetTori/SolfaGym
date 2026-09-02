@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdo9yhwenemcktk",
+  "title": "Cossack's lament",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmdo9yhwEneMCKtKJWjxG4nGQKEisJmB6jAhHei7V4W5qz",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:Am clef=treble\ne2 e e | d2 e2 | A c B A | ^G2 E2 |\nA ^G A B | c2 d2 | e3 d | c4 |\ne2 e e | d2 e2 | A c B A | ^G2 E2 |\nA B c e | d c B ^G | A6 |]\n"
+}

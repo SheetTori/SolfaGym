@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmd2ceir696rmgpc",
+  "title": "Bear Dance",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmd2ceir696RMGPCVbsSnBGAqK6eb2n5HsN6n2FMaK1kCu",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Am clef=treble\nB2 E2 E3 A | B2 E2 E3 A | G2 G2 ^F2 G2 | A6 G A |\nB2 B2 A2 A2 | G2 G2 ^F4 | E2 G2 ^F E D2 | E8 |\nB2 E2 E3 A | B2 E2 E3 A | G2 G2 ^F2 G2 | A6 G A |\nB2 B2 A2 A2 | G2 G2 ^F4 | E2 G2 ^F E D2 | E8 |\nE2 G G E2 G2 | ^F E D2 D4 | E2 G G E2 G2 | A6 G A |\nB2 B2 A2 A2 | G2 G2 ^F4 | E2 G2 ^F E D2 | E8 |\nE2 G G E2 G2 | ^F E D2 D4 | E2 G G E2 G2 | A6 G A |\nB2 B2 A2 A2 | G2 G2 ^F4 | E2 G2 ^F E D2 | E8 |\ne2 A2 A3 d | e2 A2 A3 d | c2 c2 B2 c2 | d6 c d |\ne2 e2 d2 d2 | c2 c2 B4 | A2 c2 B A G2 | A8 |\ne2 A2 A3 d | e2 A2 A3 d | c2 c2 B2 c2 | d6 c d |\ne2 e2 d2 d2 | c2 c2 B4 | A2 c2 B A G2 | A8 |\nA2 c c A2 c2 | B A G2 G4 | A2 c c A2 c2 | d6 c d |\ne2 e2 d2 d2 | c2 c2 B4 | A2 c2 B A G2 | A8 |\nA2 c c A2 c2 | B A G2 G4 | A2 c c A2 c2 | d6 c d |\ne2 e2 d2 d2 | c2 c2 B4 | A2 c2 B A G2 | A8 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpqqjf7wat29mm7",
+  "title": "Was wolln wir auf den Abend tun",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPqqjf7WaT29mM7nQarZLTFL1R1JUKiMk7B9wXhAoJcHb",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:C clef=treble\nG2 | c2 c2 d2 d2 | e2 d c d4 | e2 c2 B2 c d |\nc6 | z2 f2 f2 d2 d2 | e2 d c d2 d2 | f2 f2 d2 d2 |\ne2 d c d4 | e2 c2 B2 c d | c6 |]\n"
+}

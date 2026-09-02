@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcugkrbrvydqqcj",
+  "title": "The Lamentation of Dierdre for the Sons of Usnachl",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcuGKRbrVYDqQcjTrpc5ENvrNWys7REJ56SUxBNA9SpxJ",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/16\nK:Em clef=treble\nG4 D4 E3 A | G4 G4 G4 | c4 B4 A3 G | B4 A4 B3 A |\nc4 B4 B3 A | A4 G3 E G4 | G4 G4 G3 B | A4 A4 G3 E |\nG4 D4 E3 A | G4 G4 G4 | c4 B4 A3 G | B4 A4 c3 D |\nc4 B4 B3 c | c4 A3 E G4 | G4 G4 G3 B | A4 A4 G3 E |]\n"
+}

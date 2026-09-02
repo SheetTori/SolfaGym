@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmvifgznxmvz2xan",
+  "title": "Es flog ein kleins Waldv\\oglein",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmViFgZNXmVZ2xanD7w1d47fert97Yw9rCFtXf9nxjBUdX",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:C clef=treble\nc2 | c2 g2 e2 c2 | B3 c d2 G2 | A2 c2 c2 B2 |\nc4 | z2 c2 | c2 g2 e2 c2 | B3 c d2 G2 |\nA2 c2 c2 B2 | c4 | z2 e2 | c2 g2 g f e2 |\nd4 d2 f2 | e2 d2 e2 c2 | d4 z2 g2 | f2 e2 d2 c2 |\nB3 c d2 G2 | A2 c2 c2 B2 | c4 |]\n"
+}

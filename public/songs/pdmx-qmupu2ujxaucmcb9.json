@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmupu2ujxaucmcb9",
+  "title": "Mae'r Flwyddyn yn Marw - The Year is Ended",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmUpu2UjxaUCmcb9Qq314uco5xirzkDrrPj8vocSp8WhR1",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:D clef=treble\nF G | A2 F2 B2 | A2 G2 F2 | E2 D2 E2 |\nF4 F G | A2 F2 B2 | A2 G2 F2 | E2 D2 C2 |\nD4 D E | F2 F2 F2 | E2 E2 F2 | G2 G2 E2 |\nF4 F E | D2 F2 A2 | A2 G2 F2 | E2 D2 C2 |\nD4 |]\n"
+}

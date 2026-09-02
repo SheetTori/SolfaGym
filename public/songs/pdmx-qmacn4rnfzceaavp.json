@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmacn4rnfzceaavp",
+  "title": "Farandole de la Grand Combe",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmacN4RnFZcEaAVPAfzmHiX63fn92HShkLsYnGCQ89s5TB",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 77,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:F clef=treble\nf | b2 b b a g | f3 d2 d | c2 c c d e |\nd3 B2 B | c d e c d e | d e f B c d | c d e A B c |\nd3 B2 f | b2 b b a g | f3 d2 d | c2 c c d e |\nd3 B2 B | c d e c d e | d e f B c d | c d e A B c |\nB3 B2 c c A c c A c | f3 f a g | f e d c B A | B3 G2 B |\nB G B B G B | e3 e d e | g f e d c B | A2 d c2 c |\nc A c c A c | f3 f e f | a b a g f e | d3 d2 d |\nd c d f e d | f2 c A2 F | G A B c d e | f6 |]\n"
+}

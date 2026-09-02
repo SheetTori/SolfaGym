@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmasaxds1hbnoyfw",
+  "title": "Come with me now",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmasaxDS1HBNoyFWA4LKJmoJq4SVTzsBRhT2928Epd7zaD",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:D clef=treble\nA G | F2 D2 D2 F4 d2 | c2 A2 A2 B2 A2 G2 | A2 F2 D2 F4 d2 |\nc2 A2 F2 G2 A2 G2 | F2 D2 D2 F4 d2 | c2 A2 A2 c2 d2 e2 | f2 g2 e2 c2 A2 G2 |\nE2 D2 D2 D4 | A G | F2 D2 D2 F4 d2 | c2 A2 A2 B2 A2 G2 |\nA2 F2 D2 F4 d2 | c2 A2 F2 G2 A2 G2 | F2 D2 D2 F4 d2 | c2 A2 A2 c2 d2 e2 |\nf2 g2 e2 c2 A2 G2 | E2 D2 D2 D4 | A2 | c2 B2 A2 f2 e2 d2 |\nc2 A2 A2 A4 B2 | c2 B2 A2 f2 e2 d2 | c2 A2 F2 G4 A2 | c2 B2 A2 f2 e2 d2 |\nc2 A2 A2 c2 d2 e2 | f2 g2 e2 c2 A2 G2 | E2 D2 D2 D4 | A2 |\nc2 B2 A2 f2 e2 d2 | c2 A2 A2 A4 B2 | c2 B2 A2 f2 e2 d2 | c2 A2 F2 G4 A2 |\nc2 B2 A2 f2 e2 d2 | c2 A2 A2 c2 d2 e2 | f2 g2 e2 c2 A2 G2 | E2 D2 D2 D4 |]\n"
+}

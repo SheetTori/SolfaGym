@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmstwcnayvasnnmt",
+  "title": "Golden Slippers",
+  "source": "PDMX — cc-zero",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmSTWcnayVaSNnMt93asu7WjKuvRehXqPo9TrSA72qgAew",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "cc-zero",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nG A | B2 B c B A G A | B2 B c B A G A | B2 B2 c2 B2 |\nB2 A2 A2 F G | A2 A B A G F G | A2 A B A G F G | A2 c2 B2 A2 |\nA2 G2 G2 G A | B2 B c B A G A | B2 B c B A G A | B2 B2 c2 B2 |\nB2 A2 A2 F G | A2 A B A G F G | A2 A B A G F G | A2 c2 B2 A2 |\nA2 G2 G2 G A | A2 G2 G2 | z2 D6 G2 | B2 A2 G2 F2 |\nE6 A2 | c2 B2 A2 G2 | F3 F F2 G2 | A3 A A2 A2 |\nG3 F G2 A2 | B2 G2 F2 E2 | D6 G2 | B2 A2 G2 F2 |\nE6 A2 | c2 B2 A2 G2 | F3 F F2 G2 | A3 A A2 A2 |\nG3 F G2 A2 | B2 G2 F2 E2 | A4 c4 | B3 c B2 A2 |\nG6 |]\n"
+}

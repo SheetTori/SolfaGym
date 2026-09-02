@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmvdgbjgdsgs69kc",
+  "title": "Spancil Hill",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmVdGBjgdsgS69kCEjdd22irDN4tB6qrsr2AykwbBu7NEV",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Am clef=treble\ne2 A e2 e | d2 B G2 A | B d c A2 G | A3 A2 e |\ne2 a a2 b | a2 g e2 ^f | g2 a g ^f e | d3 d2 e |\ne2 a a2 b | a2 g e2 ^f | g2 a g ^f e | d3 d g ^f |\ne2 A e2 e | d2 B G2 A | B d B A2 G | A3 A |]\n"
+}

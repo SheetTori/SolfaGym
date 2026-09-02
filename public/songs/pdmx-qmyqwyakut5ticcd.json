@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmyqwyakut5ticcd",
+  "title": "Kes\\aillalla",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmYqwYAKUt5ticcDQc1tEt2urepPqZXucssFm7cFHR8Uwy",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Dm clef=treble\nD _E | F2 F2 D2 F F | B2 B2 B2 A B | c2 c2 A2 A2 |\nG4 z2 C D | _E2 E E C2 E2 | G4 G2 A A | F2 F F _E2 E E |\nD4 z2 D _E | F2 F F D2 F2 | d6 c c | B2 B B A2 A2 |\nG4 z2 C D | _E2 E E C2 E2 | G4 G2 A A | F2 F F _E2 E E |\nD4 |]\n"
+}

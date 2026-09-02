@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmrhz1zwmg5brmn4",
+  "title": "Bour\\'ee",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmRHz1zwMg5Brmn4ywnYDdQoKrLqSU1wjzwwfj7GtV3jPL",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/8\nL:1/8\nK:G clef=treble\nB c | d2 d e d c | d4 g f | e2 e d e f |\ne2 d2 B c | d2 d e d c | d4 g f | e2 e d e f |\ng4 | B c | d2 d e d c | d4 g f |\ne2 e d e f | e2 d2 B c | d2 d e d c | d4 g f |\ne2 e d e f | g4 | B c | d2 d e d c |\nB2 c2 d2 | c B A G A c | B2 G2 B c | d2 d e d c |\nB2 c2 d2 | c B A G A B | G4 | B c |\nd2 d e d c | B2 c2 d2 | c B A G A c | B2 G2 B c |\nd2 d e d c | B2 c2 d2 | c B A G A B | G4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmrmghsp17temvk5",
+  "title": "Bourree in 2/4",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmRMghsP17teMvk5JtXeznxDTKb1Kqo3myZ7MAdbvmxg4u",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:D clef=treble\nD2 F4 A2 | d2 A4 f2 | e3 d c2 B2 | A2 G2 F2 E2 |\nD2 F4 A2 | d2 A4 f2 | e3 d c2 B2 | A4 A4 |\nD2 F4 A2 | d2 A4 f2 | e3 d c2 B2 | A2 G2 F2 E2 |\nD2 F4 A2 | d2 A4 f2 | e3 d c2 B2 | A4 A4 |\nF3 A F2 A2 | G3 B G2 B2 | F3 A F2 A2 | E2 F2 G2 A2 |\nD3 F A2 d2 | B6 g2 | f3 e d2 c2 | d4 d4 |\nF3 A F2 A2 | G3 B G2 B2 | F3 A F2 A2 | E2 F2 G2 A2 |\nD3 F A2 d2 | B6 g2 | f3 e d2 c2 | d4 d4 |]\n"
+}

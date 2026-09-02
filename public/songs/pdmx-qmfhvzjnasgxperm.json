@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmfhvzjnasgxperm",
+  "title": "Prince Eugene",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmfHVzJNASgxPErmyTCBaXB3E6L3CBrfJ35yffaU7cJXaa",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\nG F E D G2 A B | c B A G B2 A G | A2 A G A2 A B | c B A G F2 E2 |\nG F E D G2 A B | c B A G B2 A G | D2 D2 G2 A c | B2 G F G4 |\nG F E D G2 A B | c B A G B2 A G | A2 A G A2 A B | c B A G F2 E2 |\nG F E D G2 A B | c B A G B2 A G | D2 D2 G2 A c | B2 G F G4 |\nB c | d3 d d2 d g | f d d c B2 A G | A2 A G A2 A B |\nc B A G F2 E2 | d3 d d2 d g | f d d c B2 A G | D2 D2 G2 A c |\nB2 G F G4 | B c | d3 d d2 d g | f d d c B2 A G |\nA2 A G A2 A B | c B A G F2 E2 | d3 d d2 d g | f d d c B2 A G |\nD2 D2 G2 A c | B2 G F G4 |]\n"
+}

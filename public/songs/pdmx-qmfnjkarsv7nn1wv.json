@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmfnjkarsv7nn1wv",
+  "title": "Madam Bonaparte",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmfNjkarSv7Nn1WvdXajqJqFPY5WjtUL2WoFYueYsPqdGH",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:A clef=treble\ne d | c2 c B c e c A | d2 d c d f d B | A c e g a g a f |\ne2 e f e d c B | c2 c B c e c A | d c d e f g a f | e c A c d B G B |\nA2 A2 A2 | e d | c2 c B c e c A | d2 d c d f d B |\nA c e g a g a f | e2 e f e d c B | c2 c B c e c A | d c d e f g a f |\ne c A c d B G B | A2 A2 A2 | c B | A c e g a g a f |\ne2 e f e d c B | A c e g a g a f | e2 e f e d c B | c e A e c e A e |\nd f B f d f B f | c e A e c e A e | G B E B G B E B | c e A e c e A e |\nd c d e f g a f | e c A c d B G B A2 A2 A2 | c B | A c e g a g a f |\ne2 e f e d c B | A c e g a g a f | e2 e f e d c B | c e A e c e A e |\nd f B f d f B f | c e A e c e A e | G B E B G B E B | c e A e c e A e |\nd c d e f g a f | e c A c d B G B A2 A2 A2 |]\n"
+}

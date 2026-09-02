@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmrxba3gq4t9bd1y",
+  "title": "Silver Spear",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmRXba3gQ4T9bD1Ywb3bS2n9H5ji5eUdSP6kt8CGVRLHkU",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:A clef=treble\nA =G | F A A2 B A F A | d f e d B c d A | F A A2 B A F A |\nd f e d B3 A | F A A2 B A F A | d f e d B d e f | =g3 e f3 e |\nd f e d B2 A2 | F A A2 B A F A | d f e d B c d A | F A A2 B A F A |\nd f e d B3 A | F A A2 B A F A | d f e d B d e f | =g3 e f3 e |\nd f e d B c d e | f2 a f b f a f | =g f e d B c d e | f2 a f b f a f |\n=g f e d B2 A2 | f2 a f b f a f | =g f e d B c d e | =g3 e f3 e |\nd f e d B2 A2 | f2 a f b f a f | =g f e d B c d e | f2 a f b f a f |\n=g f e d B2 A2 | f2 a f b f a f | =g f e d B c d e | =g3 e f3 e |\nd f e d B2 A2 |]\n"
+}

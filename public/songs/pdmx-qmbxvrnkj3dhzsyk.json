@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbxvrnkj3dhzsyk",
+  "title": "Philip O'Neill",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbXvrnKJ3dhzsyksxTzyGf2wKdYVg3BD2hp9rXXj1jSHk",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nD B B B2 d | c A A A2 c | B G G G F G | A B G F E D |\nD B B B c d | c A A A B c | d G G D G G | B G G G3 |\nD B B B2 d | c A A A2 c | B G G G F G | A B G F E D |\nD B B B c d | c A A A B c | d G G D G G | B G G G3 |\nB c d d e f | g f e f d B | d e d d B G | G A G F E D |\nB c d d e f | g f e f d B | d G G D G G | B G G G3 |\nB c d d e f | g f e f d B | d e d d B G | G A G F E D |\nB c d d e f | g f e f d B | d G G D G G | B G G G3 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmz9gvklyik2zb6g",
+  "title": "Jimmy O'Brien's jig",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmZ9gvKLyiK2ZB6Go7nHJ6PEC8Uighi4oEiwJ4F4bHqiwf",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nB | c3 B d B | A G A B G E | D E G G A B |\nA G A B G E | c e c B d B | A G A B G E | D E G A G A |\nB G G G2 | B | c3 B d B | A G A B G E |\nD E G G A B | A G A B G E | c e c B d B | A G A B G E |\nD E G A G A | B G G G2 | d | g f e d B d |\ne d c B c d | g f e d B d | e c A A2 d | g f e d B d |\ne d c B c d | D E G A G A | B G G G2 | d |\ng f e d B d | e d c B c d | g f e d B d | e c A A2 d |\ng f e d B d | e d c B c d | D E G A G A | B G G G2 |\nD | G B d G B d | F A A F A A | G B d G B d |\ne A A A2 D | G B d G B d | F A A F A A | D E G A G A |\nB G G G2 | D | G B d G B d | F A A F A A |\nG B d G B d | e A A A2 D | G B d G B d | F A A F A A |\nD E G A G A | B G G G2 |]\n"
+}

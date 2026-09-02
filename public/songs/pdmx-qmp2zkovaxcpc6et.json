@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmp2zkovaxcpc6et",
+  "title": "anonymous - La Rotta",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmP2zkovAXcPC6ETD22wAhENErebEuKt59JPzAimtWps5W",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Dm clef=treble\nA =B c2 B c A2 | d2 d c =B c A2 | A G G F E F D E | F D E2 z2 E2 |\nA =B c2 B c A2 | d2 d c =B c A2 | A G G F F E E D | D C D2 |\nz4 A =B c2 B c A2 | d2 d c =B c A2 | A G G F F E E D | C D E2 |\nz4 A =B c2 B c A2 | d2 d c =B c A2 | A G G F F E E D | D C D2 |\nz4 D E F2 F G A2 | A =B c2 B c A2 | A G G F F E E D | C D E2 z2 D E |\nF2 F G A2 A =B | c2 =B c A2 A G | G F F E E D D C | D8 |]\n"
+}

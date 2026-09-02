@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmejzgvueb1sav3m",
+  "title": "Waiting For Nancy",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmejZgvUEB1SAv3Mj6FTs1ZPKmHe2FhdzEvTwykPdeSW29",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nA A | B A A A B A A A | B A A A E2 E F | G2 F2 E D E F |\nG E F2 E2 A A | B A A A B A A A | B A A A E2 E F | G2 F2 E C3 |\nD4 D2 | A A | B A A A B A A A | B A A A E2 E F |\nG2 F2 E D E F | G E F2 E2 A A | B A A A B A A A | B A A A E2 E F |\nG2 F2 E C3 | D4 D2 | D2 | =C3 D E3 F |\nG2 F2 E D E F | G E F2 E D E F | G2 F2 E2 D2 | =C3 D E3 F |\nG2 F2 E D E F | G2 F2 E C3 | D4 D2 | D2 |\n=C3 D E3 F | G2 F2 E D E F | G E F2 E D E F | G2 F2 E2 D2 |\n=C3 D E3 F | G2 F2 E D E F | G2 F2 E C3 | D4 D2 |]\n"
+}

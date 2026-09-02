@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtvdljrgn5aqyjb",
+  "title": "Glanbargoed",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTvDLJrGN5AQYJbCEjJKBM82RYPvvdejNYtbSTubujLBT",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:D clef=treble\nf2 f2 e2 f e | d2 c2 B2 A2 | B2 B2 c d e c | d2 c2 d4 |\nf2 f2 e2 f e | d2 c2 B2 A2 | B2 B2 c d e c | d2 c2 d4 |\ne2 e2 f2 e f | ^g2 f g a2 A2 | e2 a2 g2 f2 | e2 ^d2 e4 |\nf2 g f e2 f e | d f e d d c B A | B2 B2 c d e c | d2 c2 d4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbhyns8eauugbha",
+  "title": "The fiddler's contest",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbHyns8eAuUgbhAjnvGtyNjymcrZxKohAHgqLRQFt1yDq",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:A clef=treble\nc d | e d e f e c A c | d e f g a g a f | e a g f e c A c |\nB A B c B2 c d | e d e f e c A c | d e f g a g a f | e a g f e d c B |\nA2 a2 A2 | c d | e d e f e c A c | d e f g a g a f |\ne a g f e c A c | B A B c B2 c d | e d e f e c A c | d e f g a g a f |\ne a g f e d c B | A2 a2 A2 | A F | E A A B c A e a |\nF B B c d B f B | d e f g a g a f | e d c B A E F G | E A A B c A e c |\nB A B c d e f g | a g a f e d c B | A2 a2 A2 | A F |\nE A A B c A e a | F B B c d B f B | d e f g a g a f | e d c B A E F G |\nE A A B c A e c | B A B c d e f g | a g a f e d c B | A2 a2 A2 |]\n"
+}

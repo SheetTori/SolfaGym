@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmsta9s9l1hyalby",
+  "title": "Husmannspolka",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmSTa9s9L1hYaLbyT25ySK8pfyg4AnqmhMFSzXF8FhpTC9",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:F clef=treble\nF2 F A c2 d c | E2 E G c4 | E2 d2 d3 E | F2 F2 F4 |\nF2 F A c2 d c | E2 E G c4 | E2 d2 d3 E | F2 F2 F4 |\nG2 G B E2 E G | F2 F A c3 A | G2 G B E2 E G | F2 F A c3 c |\nd2 B d f2 e d | c2 F A c4 | E2 d2 c3 E | F2 F2 F4 |\nA2 A2 A3 G | G2 F2 F4 | C2 F2 G3 F | F2 E2 E4 |\nB2 B2 B3 A | A2 G2 c4 | C3 C D2 E2 | F4 F4 |]\n"
+}

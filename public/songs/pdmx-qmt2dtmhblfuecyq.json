@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmt2dtmhblfuecyq",
+  "title": "En g\\aang i min ungdom",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmT2dtMHbLfuEcyQZC4kYLaeMAQqfQ53K4CuQM6o275hXJ",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:5/4\nL:1/16\nK:G clef=treble\nG4 | D2 D C B,2 G2 E2 E D E4 G4 | E2 E G F2 F A G2 F E D4 G4 | D2 D C B,2 G2 E2 E D E4 G4 |\nE2 E G F2 F A G4 z4 B4 | G2 G A B A G B A2 F2 D4 E4 | C2 C D E D C E D2 B,2 G,4 G4 | D2 D C B,2 G2 E2 E D E4 G4 |\nE2 E G F2 F A G4 |]\n"
+}

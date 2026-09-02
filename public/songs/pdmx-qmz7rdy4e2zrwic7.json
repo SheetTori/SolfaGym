@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmz7rdy4e2zrwic7",
+  "title": "Es kommt ein Schiff geladen",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmZ7rDY4E2ZrWic7vLFaMb66tXQPiFyYdMA5PxbZeio3Xt",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/4\nK:Dm clef=treble\nD | D2 D | E2 E | F G A |\nA2 A | G2 G | D2 E | F4 |\nz F | A2 c | d2 d | c2 A |\nF2 G | A2 G | F2 E | D4 |]\n"
+}

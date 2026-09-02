@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqhk9mm5ufsz1jl",
+  "title": "Jacky Tar",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQhK9mm5uFSZ1JLruwHtuYKoNLDwhMkSNjE3GBtboYsYf",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Em clef=treble\nB d | e3 f g2 f e | d2 B2 B2 d B | A B d e f a e f |\nd2 A2 A2 B d | e2 e f g2 f e | d B G B d2 c B | A G F E D E F A |\nG2 E2 E2 | B d | e3 f g2 f e | d2 B2 B2 d B |\nA B d e f a e f | d2 A2 A2 B d | e2 e f g2 f e | d B G B d2 c B |\nA G F E D E F A | G2 E2 E2 | G A | B G E G B G E G |\nB A G F E2 F G | A F D F A F D F | A G F E D2 E F | G F G B g2 f e |\nd B G B d2 c B | A G F E D E F A | G2 E2 E2 | G A |\nB G E G B G E G | B A G F E2 F G | A F D F A F D F | A G F E D2 E F |\nG F G B g2 f e | d B G B d2 c B | A G F E D E F A | G2 E2 E2 |]\n"
+}

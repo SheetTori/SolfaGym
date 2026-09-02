@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmyzfpsylz1zo9mh",
+  "title": "da Fields o'Foula",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmYZfPSyLz1Zo9MHDswmCEHnWzyUYEQDHfk8B8V6pSkM8s",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:D clef=treble\ng2 | f4 g2 a2 f2 d2 | g4 f2 e4 g2 | f4 g2 a2 f2 d2 |\nf4 a2 f4 d2 | f4 g2 a2 f2 d2 | g4 f2 e4 A2 | A4 A2 d2 e2 f2 |\nd4 d2 d4 | g2 | f4 g2 a2 f2 d2 | g4 f2 e4 g2 |\nf4 g2 a2 f2 d2 | f4 a2 f4 d2 | f4 g2 a2 f2 d2 | g4 f2 e4 A2 |\nA4 A2 d2 e2 f2 | d4 d2 d4 | B2 | A4 A2 F4 A2 |\nd4 f2 e2 c2 A2 | d2 e2 f2 e2 c2 A2 | B2 A2 F2 D4 F F | E4 E2 F4 A2 |\nd4 f2 e2 c2 A2 | d2 e2 f2 e2 c2 A2 | d6 d4 | B2 |\nA4 A2 F4 A2 | d4 f2 e2 c2 A2 | d2 e2 f2 e2 c2 A2 | B2 A2 F2 D4 F F |\nE4 E2 F4 A2 | d4 f2 e2 c2 A2 | d2 e2 f2 e2 c2 A2 | d6 d4 |]\n"
+}

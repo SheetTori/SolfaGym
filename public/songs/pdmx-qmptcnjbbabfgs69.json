@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmptcnjbbabfgs69",
+  "title": "Saint James Infirmary Blues",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPtCnJbbAbfGs69fvmfwZgQTf9MuknNHUtBYQjMaPuGav",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 60,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Cm clef=treble\nC E | G2 G G F2 G2 | E C3 z2 C E | G G3 c3 A |\nG4 z3 ^F | G2 G G F2 G F | E C3 z2 C D | E3 E E2 D2 |\nC4 |]\n"
+}

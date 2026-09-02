@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxahow3faaezyg1",
+  "title": "Hr. Luno og havfruen",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXahow3FAaezYG1k4qtB3cHBuWwLLjsad1KkQYmy9ZMxo",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/2\nL:1/4\nK:Am clef=treble\nC2 | G2 G2 _B2 B B | A A G2 A2 A2 | G2 E2 F2 F F |\nE2 D2 E2 E2 | D2 C2 D2 E E | F4 D2 E2 | C2 C4 C C |\nG G A2 G2 G2 | A2 G2 c2 A A | F2 A2 G4 | z G G G _B2 B B |\nA2 G2 A2 A2 |]\n"
+}

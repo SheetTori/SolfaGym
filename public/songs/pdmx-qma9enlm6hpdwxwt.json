@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qma9enlm6hpdwxwt",
+  "title": "Sarabande",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qma9ENLm6hpDwXWtvKrF9iDcSqguox2xLN2JuFRzK3Mgsy",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 59,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/2\nL:1/8\nK:Bm clef=treble\n=C3 D C2 D2 E4 | E2 G G G =F F E E4 | =C3 D C2 D2 E4 | E2 G G G =F F E E4 |\n=C E E2 E G G2 | G2 E2 | D =F A G F2 D E E4 | =C E E2 E G G2 |\nG2 E2 G2 E2 | D =F A G F2 D E E G, A, B, |]\n"
+}

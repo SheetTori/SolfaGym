@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmytfgegdxpaxqpk",
+  "title": "Difyrwch Gwyr Dyfi",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmYtfGegdxPaxQPKGc1hRLqzqAeBhXnDCwnATghfmGMqKK",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:Dm clef=treble\nF2 A2 A2 A3 c A2 | B2 G2 G2 G4 G2 | A4 A2 B2 A2 G2 | F2 D2 D2 D6 |\nF2 A2 A2 A3 c A2 | B2 G2 G2 G4 G2 | A4 A2 B2 A2 G2 | F2 D2 D2 D6 |\nd4 d2 f2 e2 d2 | c3 d c B A4 A2 | d3 e d e f2 e2 d2 | c2 A2 A2 A4 B2 |\nc3 d c2 c2 B2 A2 | B2 G2 G2 G4 A B | c2 A2 F2 B3 A G2 | F2 D2 D2 D6 |\nF2 A2 A2 A3 c A2 | B2 G2 G2 G4 G2 | A4 A2 B2 A2 G2 | F2 D2 D2 D6 |\nd4 d2 f2 e2 d2 | c3 d c B A4 A2 | d3 e d e f2 e2 d2 | c2 A2 A2 A4 B2 |\nc3 d c2 c2 B2 A2 | B2 G2 G2 G4 A B | c2 A2 F2 B3 A G2 | F2 D2 D2 D6 |]\n"
+}

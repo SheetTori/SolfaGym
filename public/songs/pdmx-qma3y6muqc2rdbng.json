@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qma3y6muqc2rdbng",
+  "title": "Mopsi Don",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qma3y6muqc2rDbNge7eRjnk9yBY6uzqbYAp29UYMfP3Q5j",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:C clef=treble\nB c d d2 e | d2 c d B G | c d c e f e | c d c e f e |\nB c d d2 e | d2 c B2 B | c d e f2 e | d c B c3 |\nB c d d2 e | d2 c d B G | c d c e f e | c d c e f e |\nB c d d2 e | d2 c B2 B | c d e f2 e | d c B c3 |\ng e g f d f | e c e d B G | c2 c e d c | B2 c d3 |\ng e g f d f | e c e d B G | e d c a g f | e f d c3 |\nB c d d2 e | d2 c d B G | c d c e f e | c d c e f e |\nB c d d2 e | d2 c B2 B | c d e f2 e | d c B c3 |\ng e g f d f | e c e d B G | c2 c e d c | B2 c d3 |\ng e g f d f | e c e d B G | e d c a g f | e f d c3 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmvz9gajhfpbk9vc",
+  "title": "Horch was kommt von drau\\ssen rein",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmVz9gAjHFPBK9vCkp9nQkudZpfGEk1AXCMweogpt2ZSus",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:D clef=treble\nD E F G | A B A2 | G E c2 | A F d2 |\nD E F G | A B A2 | G E c e | d4 |\nB2 B2 | d2 c B | A2 F2 | A4 |\nG2 E2 | c4 | A2 F2 | d4 |\nB2 B2 | d2 c B | A2 F2 | A4 |\nG2 E2 | c2 e2 | d6 |]\n"
+}

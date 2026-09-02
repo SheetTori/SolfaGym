@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtr3efuies3biv5",
+  "title": "Det haver s\\aa nyligen regnet",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTr3eFuies3biV5nGPEjB48FQFr8FQ2QuMv3sbKwDr32h",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nD F | A2 A A B A G F | F2 E2 z2 E E | A2 A A ^G A B c |\nA4 | z2 D F | A2 A A B A G F | F2 E2 z2 E E |\nA2 A A ^G A B c | A4 | z2 F F | F2 E E E2 G G |\nG2 F F F2 A A | d2 F F A G E C | D4 | z2 F F |\nF2 E E E2 G G | G2 F F F2 A A | d2 F F A G E C | D4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmrxcbcjro9ijt3m",
+  "title": "Lliw'r Heulwen - The colour of the Sunshine",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmRXcBcjro9iJt3m4L4uwbntowAgU2vjyXZUVrFXorDF6Q",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Em clef=treble\nE2 | G2 G2 F2 E2 | E4 B2 A2 | G2 B2 F3 G |\nE6 E2 | G2 A2 G2 F2 | E4 B2 A2 | G2 B2 F3 G |\nE4 E3 d | d3 B G3 F | E4 B2 A2 | G2 B2 B2 G2 |\nF6 E2 | G2 G2 F2 E2 | E4 B2 A2 | G2 B2 F3 G |\nE6 |]\n"
+}

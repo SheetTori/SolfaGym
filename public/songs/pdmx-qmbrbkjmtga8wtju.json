@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbrbkjmtga8wtju",
+  "title": "G\\aangl\\aat fr\\aan Ramsh\\all",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbrBkjmTga8WTjuR6HntK25YsfDVQZP9kLDtFmqCngnRL",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:D clef=treble\nA G | F3 G F2 E2 | D2 F2 A2 d2 | B3 c B2 A2 |\nG4 z2 e d | c3 d c2 B2 | A2 c2 e2 a2 | f3 g f2 e2 |\nd4 | z2 A G | F3 G F2 E2 | D2 F2 A2 d2 |\nB3 c B2 A2 | G4 z2 e d | c3 d c2 B2 | A2 c2 e2 a2 |\nf3 g f2 e2 | d4 |]\n"
+}

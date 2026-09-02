@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmvsnwbkque8vs72",
+  "title": "Last Of The Twins",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmVsNWbKQUE8Vs724bVC8h4r87TrwurN7PqA9kThPuXgSi",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 79,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\ne f | g d B d e d B A | G B d g e d B G | F G A B c d e d |\nc B A G A2 e f | g d B d e d B A | G B d g e d B G | F G A B c d e f |\ng2 f a g2 | e f | g d B d e d B A | G B d g e d B G |\nF G A B c d e d | c B A G A2 e f | g d B d e d B A | G B d g e d B G |\nF G A B c d e f | g2 f a g2 | e f | g f g a g f e d |\ne d e f e d B G | F G A B c d e d | c B A G A2 e f | g f g a g f e d |\ne d e f e d B G | F G A B c d e f | g2 f a g2 e f | g f g a g f e d |\ne d e f e d B G | F G A B c d e d | c B A G A2 e f | g d B d e d B A |\nG B d g e d B G | F G A B c d e f | g2 f a g2 |]\n"
+}

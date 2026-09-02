@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmrob4d245pxpxon",
+  "title": "Morpeth Lasses",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmRob4d245PXpXongnzo6yFzz7rFzPB1bXd2WFdr8t2M7Q",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:Am clef=treble\nE2 | A3 B c2 B2 | E2 A2 A4 | B3 A G2 A2 |\nB2 A2 A2 E2 | A3 B c2 B2 | E2 A2 A2 e2 | d2 B2 G2 B2 |\nc2 A2 A4 | A3 B c2 B2 | E2 A2 A4 | B3 A G2 A2 |\nB2 A2 A2 E2 | A3 B c2 B2 | E2 A2 A2 e2 | d2 B2 G2 B2 |\nc2 A2 A4 | a2 g2 e2 a2 | g2 e2 a4 | g3 e d2 e2 |\nB2 G2 d4 | a2 g2 e2 a2 | g2 e2 a4 | g3 e d2 e2 |\nA2 E2 A4 | a2 g2 e2 a2 | g2 e2 a4 | g3 e d2 e2 |\nB2 G2 d4 | A2 c2 B2 d2 | c2 e2 d2 a2 | g2 e2 g2 B2 |\nA4 |]\n"
+}

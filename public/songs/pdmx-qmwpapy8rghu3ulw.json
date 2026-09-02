@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwpapy8rghu3ulw",
+  "title": "Kimi Ga Yo",
+  "source": "PDMX — cc-zero",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWpapY8rghU3uLWxeTuNjNVV98ayRf1paRQk1SgAP2TQ2",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "cc-zero",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 9,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nG2 =F2 G2 A2 | c2 A2 G4 | A2 c2 d2 c d | g2 e2 d2 c2 |\nA2 c2 d4 | g2 =f2 g4 | A2 c2 d2 c2 | A3 c G4 |\nd2 =f2 g4 | =f2 g2 d2 c2 | d2 c A G4 |]\n"
+}

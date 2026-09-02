@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmzamzzgebwn6mnp",
+  "title": "Kadril van Putte",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmZAMzzgEBWn6MnpDiCmRbq555dpd9jtrm4L99ZrkoShr9",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:C clef=treble\nc2 c c c2 c2 | c2 B2 A2 G2 | G2 ^G2 A2 B2 | c2 G2 A2 B2 |\nc2 c c c2 c2 | c2 B2 A2 G2 | B2 B B B2 B2 | B2 A2 G2 B2 |\nd2 d d | d2 c2 B2 A2 | G2 ^G2 A2 B2 | c2 z2 c2 |\nz2 B2 d2 G3 A | B6 B2 | c2 A2 E3 A | c6 c2 |\n^f2 e2 d2 c2 | c2 B2 A2 B2 | e2 d2 c3 A | G2 G2 A2 B2 |\nc2 c c c2 c2 | c2 B2 A2 G2 | B2 B B B2 B2 | B2 A2 G2 B2 |\nd2 d d | d2 c2 B2 A2 | G2 ^G2 A2 B2 | c2 z2 c2 |\nz2 A6 c2 | F2 A2 c2 f2 | e6 d2 | _B8 |\n_B6 G2 | e2 d2 c2 _B2 | A2 G2 D3 E | F2 z2 F2 |\nz2 c2 c c c2 c2 | c2 B2 A2 G2 | B2 B B B2 B2 | B2 A2 G2 B2 |\nd2 d d | d2 c2 B2 A2 | G2 ^G2 A2 B2 | c2 z2 c2 |]\n"
+}

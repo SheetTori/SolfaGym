@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmfu144ncswgqiu4",
+  "title": "anonymous - Le Parlement",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmfU144NcsWgqiU4d2LwC817pAj3YaBbGvncQg9GfGv6Dq",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:G clef=treble\nB6 c2 B2 A2 G4 | A6 G2 F2 E2 D4 | E2 F2 G2 A2 B4 A4 | B16 |\nB6 c2 B2 A2 G4 | A6 G2 F2 E2 D4 | E2 F2 G2 A2 B4 A4 | G16 |\nB4 d4 B2 c2 d4 | B3 c d2 c2 B2 A2 G4 | A4 c4 A2 B2 c4 | A3 B c2 B2 A2 G2 F4 |\nG6 F2 G2 A2 B4 | G6 F2 G2 A2 B4 | E2 F2 G2 A2 B4 A4 | G16 |]\n"
+}

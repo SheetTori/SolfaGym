@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmanqvhyjtpwtjcn",
+  "title": "The jolly josker",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmaNqvHyJTpwtjCn7YaAjfxtsxowqu9oZu5sbLqJevbELG",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:Em clef=treble\nD3 d d2 d2 F2 G2 | A2 B2 G2 F2 G2 E2 | D3 d d2 d2 F2 A2 | G2 B2 A2 G2 F2 E2 |\nD3 d d2 F3 d d2 | E3 d d2 D3 d d2 | f2 d2 B2 A2 G2 F2 | E2 B2 A2 G2 F2 E2 |\nD3 d d2 d2 F2 G2 | A2 B2 G2 F2 G2 E2 | D3 d d2 d2 F2 A2 | G2 B2 A2 G2 F2 E2 |\nD3 d d2 F3 d d2 | E3 d d2 D3 d d2 | f2 d2 B2 A2 G2 F2 | E2 B2 A2 G2 F2 E2 |\nF2 E2 F2 D2 z2 D2 | D2 F2 A2 A2 G2 E2 | F2 E2 F2 D6 | f2 d2 B2 B2 ^c2 d2 |\nF2 E2 F2 D2 z2 D2 | D2 F2 A2 A2 G2 F2 | G3 B G2 F3 A F2 | E3 B A2 G2 F2 E2 |\nF2 E2 F2 D2 z2 D2 | D2 F2 A2 A2 G2 E2 | F2 E2 F2 D6 | f2 d2 B2 B2 ^c2 d2 |\nF2 E2 F2 D2 z2 D2 | D2 F2 A2 A2 G2 F2 | G3 B G2 F3 A F2 | E3 B A2 G2 F2 E2 |]\n"
+}

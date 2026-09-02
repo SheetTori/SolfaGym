@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmz56b4ehygmupha",
+  "title": "O Queen of the Holy Rosary",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmZ56B4ehYGmUphAeRcAiAxuCUjfPtGb9RWEgnbMCTBTbF",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:A clef=treble\nE2 | A2 G F E2 A2 | C2 D2 E2 E2 | F G A2 B2 B2 |\nc6 E2 | A2 G F E2 A2 | C2 D2 E2 E2 | F G A2 A2 G2 |\nA6 A B | c2 B2 c2 d2 | B2 G A B2 A B | c2 B2 c2 d2 |\nB6 E2 | A2 G F E2 A2 | C2 D2 E2 E2 | F G A2 A2 G2 |\nA6 |]\n"
+}

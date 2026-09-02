@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmaqaovk8fdahdpm",
+  "title": "Merrily Dance the Quaker",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmaqaovk8FDAhdpMmKUMWbKfDHB5HnEJ2uxeNiUWN89CLz",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nG A B D2 B | A2 G E2 D | G A B D2 D | E3 G3 |\nG A B D2 B | A2 G E2 D | G A B D2 D | E3 G3 |\nd c B e d c | d c B A B c | d c B e f g | B3 d3 |\nd c B g f e | d c B A2 A | G A B D2 D | E3 G3 |\nG A B D2 B | A2 G E2 D | G A B D2 D | E3 G3 |\nd c B e d c | d c B A B c | d c B e f g | B3 d3 |\nd c B g f e | d c B A2 A | G A B D2 D | E3 G3 |]\n"
+}

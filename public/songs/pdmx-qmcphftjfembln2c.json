@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcphftjfembln2c",
+  "title": "A Hundred Bottles of Beer on the wall",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcPhFTjfeMbLn2cWrNw9UEERZKLdrFUFZZp6y5xnSksQY",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 9,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/4\nK:G clef=treble\nG | G2 G | G G G | G G G |\nG2 G | A2 A | F F F | A3 |\nz2 F | G G G | G G G | G G G |\nG3 | D D D | D E F | G G G |\nG2 |]\n"
+}

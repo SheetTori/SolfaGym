@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdxwhjhuukvwkgm",
+  "title": "Brural\\aat",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdXWhJhUUKvwKgMY6K4NU1XGJbwzF2DBFGFLT62gN34sx",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:G clef=treble\nD2 | G4 G3 G G3 A B3 G | A4 A3 B A6 B2 | c3 B c3 d e3 d c3 B |\nA4 A3 B A6 D2 | G4 G3 G G3 A B3 G | A4 A3 A A4 B3 c | d3 c B3 A B4 A4 |\nG4 G3 G G4 z2 B2 | d4 d3 d e3 d c3 B | c4 c3 d c6 c2 | B3 A B3 c e3 d c3 B |\nA4 A3 A A4 D4 | G4 G3 G G3 A B3 G | A4 A3 A A4 B3 c | d3 c B3 A B4 A4 |\nG4 G3 G G4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmelxgmfxwjfjixt",
+  "title": "Le maitre de maison",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeLXGmfXWJFjiXtrEaSD3MiVMAt4auwN4urqr4iYAi2v6",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Am clef=treble\nA2 | A2 e2 e2 d2 | e4 c4 | e4 d2 c2 |\nB6 A2 | A2 e2 e2 d2 | e4 c4 | e4 d2 c2 |\nB6 c B | A2 c2 B2 c B | A2 c2 B2 c B | A2 c2 B2 c B |\nA2 c2 B4 | A4 e4 | d4 B4 | A6 |\nA2 | A2 e2 e2 d2 | e4 c4 | e4 d2 c2 |\nB6 A2 | A2 e2 e2 d2 | e4 c4 | e4 d2 c2 |\nB6 c B | A2 c2 B2 c B | A2 c2 B2 c B | A2 c2 B2 c B |\nA2 c2 B4 | A4 e4 | d4 B4 | A6 |]\n"
+}

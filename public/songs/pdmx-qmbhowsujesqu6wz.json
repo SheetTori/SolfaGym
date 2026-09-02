@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbhowsujesqu6wz",
+  "title": "Fisher's Hornpipe",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbHoWsujEsQu6wZzwobBRp4DgLT5nRoJcA1pzNiEyqDV8",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 77,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:F clef=treble\nc2 | f c A c B d c B | A c A c B d c B | A F A F B G B G |\nA F A F G2 c2 | f c A c B d c B | A c A c B d c B | A B c d e f g e |\nf2 f2 f2 | c2 | f c A c B d c B | A c A c B d c B |\nA F A F B G B G | A F A F G2 c2 | f c A c B d c B | A c A c B d c B |\nA B c d e f g e | f2 f2 f2 | e f | g e c e g e b g |\na f c f a f c' a | g e c e g e b a | g f e d c2 =B c | d B F B d B f d |\nc A F A c A f c | d f e d c B A G | F2 f2 f2 | e f |\ng e c e g e b g | a f c f a f c' a | g e c e g e b a | g f e d c2 =B c |\nd B F B d B f d | c A F A c A f c | d f e d c B A G | F2 f2 f2 |]\n"
+}

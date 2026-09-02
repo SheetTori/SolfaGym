@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbi4zoytfs5nru5",
+  "title": "Tyrolienne",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmbi4ZoyTFs5NRu546QZTuW8G2xqcyuFXJpByZ7dGXQRPr",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/16\nK:C clef=treble\nG3 F | E2 G2 e6 d2 | c2 E2 G6 c2 | B2 D2 F2 G2 B2 d2 |\nc2 E2 G6 F2 | E2 G2 e6 d2 | c2 E2 G6 c2 | B2 D2 F2 G2 B2 d2 |\nc8 | G3 F | E2 G2 e6 d2 | c2 E2 G6 c2 |\nB2 D2 F2 G2 B2 d2 | c2 E2 G6 F2 | E2 G2 e6 d2 | c2 E2 G6 c2 |\nB2 D2 F2 G2 B2 d2 | c8 | z2 e2 | d2 c2 A6 ^F2 |\nG2 B2 d6 d2 | e2 d2 c2 D2 ^F2 A2 | G2 B2 g6 e2 | d2 c2 A6 ^F2 |\nG2 B2 d6 d2 | e2 d2 c2 D2 ^F2 A2 | G8 G3 F | E2 G2 e6 d2 |\nc2 E2 G6 c2 | B2 D2 F2 G2 B2 d2 | c2 E2 G6 F2 | E2 G2 e6 d2 |\nc2 E2 G6 c2 | B2 d2 f2 G2 B2 d2 | c8 | z2 e2 |\nd2 c2 A6 ^F2 | G2 B2 d6 d2 | e2 d2 c2 D2 ^F2 A2 | G2 B2 g6 e2 |\nd2 c2 A6 ^F2 | G2 B2 d6 d2 | e2 d2 c2 D2 ^F2 A2 | G8 G3 F |\nE2 G2 e6 d2 | c2 E2 G6 c2 | B2 D2 F2 G2 B2 d2 | c2 E2 G6 F2 |\nE2 G2 e6 d2 | c2 E2 G6 c2 | B2 d2 f2 G2 B2 d2 | c8 |]\n"
+}

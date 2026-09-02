@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmx718fnygaarzbr",
+  "title": "The Earl of Mansfield",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmX718fnYGaaRzBRsQub3yETzP2hPbsdaszicznARZcQz6",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/32\nK:D clef=treble\nf2 e6 | d6 e2 d4 A4 | d3 e f3 g a4 g3 f | d6 e2 d4 A4 |\nc4 d3 e f4 e3 d | d6 e2 d4 A4 | d3 e f3 g a4 g3 f | g4 e4 c4 A4 |\nd8 d4 | f2 e6 | d6 e2 d4 A4 | d3 e f3 g a4 g3 f |\nd6 e2 d4 A4 | c4 d3 e f4 e3 d | d6 e2 d4 A4 | d3 e f3 g a4 g3 f |\ng4 e4 c4 A4 | d8 d4 | a3 g | f6 g2 f4 A4 |\nd3 e f3 g a4 g3 f | e6 f2 e4 A4 | c4 e3 f g4 f3 e | f6 g2 f4 A4 |\nd3 e f3 g a4 g3 f | g4 e4 c4 A4 | d8 d4 | a3 g |\nf6 g2 f4 A4 | d3 e f3 g a4 g3 f | e6 f2 e4 A4 | c4 e3 f g4 f3 e |\nf6 g2 f4 A4 | d3 e f3 g a4 g3 f | g4 e4 c4 A4 | d8 d4 |\na3 g | f4 d4 d4 a3 g | f4 d4 d4 e3 f | g4 A4 c4 e4 |\nA4 a3 g | f4 d4 d4 a3 g | f4 d4 d4 e3 f | g4 A4 c4 e4 |\nd8 d4 | B3 c | f6 g2 f4 A4 | d3 e f3 g a4 g3 f |\ng4 e4 c4 A4 | d8 d4 | a3 g | f4 d4 d4 a3 g |\nf4 d4 d4 e3 f | g4 A4 c4 e4 | A4 a3 g | f4 d4 d4 a3 g |\nf4 d4 d4 e3 f | g4 A4 c4 e4 | d8 d4 | B3 c |\nf6 g2 f4 A4 | d3 e f3 g a4 g3 f | g4 e4 c4 A4 | d8 d4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbzb1bbgddw1dcp",
+  "title": "Merry Mary",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbZB1BBgDDW1Dcpg2fQVJmiHfMVzjNAdsYmJ9A6Puvwuv",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nD F A A B c | d c B A2 A | B2 E E F G | F E F D3 |\nD F A A B c | d c B A2 A | B c d e d c | d3 d3 |\nD F A A B c | d c B A2 A | B2 E E F G | F E F D3 |\nD F A A B c | d c B A2 A | B c d e d c | d3 d3 |\nf d f e c e | d c B A2 A | B2 E E F G | F E F D3 |\nf d f e c e | d c B A2 A | B c d e d c | d3 d3 |\nf d f e c e | d c B A2 A | B2 E E F G | F E F D3 |\nf d f e c e | d c B A2 A | B c d e d c | d3 d3 |]\n"
+}

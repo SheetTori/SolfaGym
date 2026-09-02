@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpbfqres7dwpjyp",
+  "title": "Ffarwel i Aberystwyth - Farewell Aberystwyth",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPBFqRES7dWpjyPhtBZWGxqCQ9ZhLTLBTo5DUAcdBzCGL",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:Em clef=treble\nE2 | G4 E2 A4 G2 | A2 B4 B4 E2 | E4 B2 B A3 G2 |\nF6 F4 B c | B3 A G2 F2 E2 D2 | D2 E4 E4 E F | G3 A B2 A2 G2 F2 |\nE6 E4 |]\n"
+}

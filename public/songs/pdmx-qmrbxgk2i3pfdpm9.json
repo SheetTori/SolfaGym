@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmrbxgk2i3pfdpm9",
+  "title": "Haste to the Wedding",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmRBXGk2i3PFdpM9YT3SmY1q4Df2RbrGq2qqEqgFenWPbQ",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:D clef=treble\nA2 | A2 F2 A2 A2 g2 f2 | e2 d2 e2 f2 d2 B2 | A2 F2 A2 A2 d2 F2 |\nE2 F2 E2 E4 A2 | A2 F2 A2 A2 g2 f2 | e2 d2 e2 f2 d2 B2 | A4 g2 f a3 f2 |\nd2 e2 d2 d4 | A2 | A2 F2 A2 A2 g2 f2 | e2 d2 e2 f2 d2 B2 |\nA2 F2 A2 A2 d2 F2 | E2 F2 E2 E4 A2 | A2 F2 A2 A2 g2 f2 | e2 d2 e2 f2 d2 B2 |\nA4 g2 f a3 f2 | d2 e2 d2 d4 | a2 | a2 f2 a2 a2 f2 a2 |\nb2 g2 b2 b2 g2 b2 | a2 f2 a2 a2 g2 f2 | e2 f2 e2 e2 f2 g2 | a6 f6 |\ne2 d2 e2 f2 d2 B2 | A4 g2 f a3 d2 | d2 e2 d2 d4 | a2 |\na2 f2 a2 a2 f2 a2 | b2 g2 b2 b2 g2 b2 | a2 f2 a2 a2 g2 f2 | e2 f2 e2 e2 f2 g2 |\na6 f6 | e2 d2 e2 f2 d2 B2 | A4 g2 f a3 d2 | d2 e2 d2 d4 |]\n"
+}

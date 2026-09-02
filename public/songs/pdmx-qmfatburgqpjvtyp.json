@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmfatburgqpjvtyp",
+  "title": "Fiddler's heaven",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmfATBUrGqpJVTYPQVHYCnLQE7Ysgm6ydQ3AwBpeULNz4n",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:A clef=treble\nB c | d2 A2 F2 F2 E2 F2 | d2 e2 d2 d2 f2 e2 | d2 A2 F2 F2 E2 F2 |\nA2 F2 E2 E2 F2 A2 | d2 A2 F2 F2 E2 F2 | d2 e2 d2 d2 e2 f2 | e2 c2 A2 B2 A2 F2 |\nE2 A2 A2 A4 | B c | d2 A2 F2 F2 E2 F2 | d2 e2 d2 d2 f2 e2 |\nd2 A2 F2 F2 E2 F2 | A2 F2 E2 E2 F2 A2 | d2 A2 F2 F2 E2 F2 | d2 e2 d2 d2 e2 f2 |\ne2 c2 A2 B2 A2 F2 | E2 A2 A2 A4 | c d | e2 c2 A2 A2 c2 A2 |\ne2 c2 A2 A4 c d | e2 c2 A2 B2 A2 F2 | A2 F2 E2 E4 c d | e2 c2 A2 A2 c2 A2 |\ne2 c2 A2 d4 B2 | c2 A2 F2 E2 F2 A2 | B2 A2 A2 A4 | c d |\ne2 c2 A2 A2 c2 A2 | e2 c2 A2 A4 c d | e2 c2 A2 B2 A2 F2 | A2 F2 E2 E4 c d |\ne2 c2 A2 A2 c2 A2 | e2 c2 A2 d4 B2 | c2 A2 F2 E2 F2 A2 | B2 A2 A2 A4 |]\n"
+}

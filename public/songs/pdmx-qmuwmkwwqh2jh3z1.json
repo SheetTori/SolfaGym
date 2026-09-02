@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmuwmkwwqh2jh3z1",
+  "title": "So treiben wir den Winter aus",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmUwMKwwQh2JH3Z1LSA8gXE1JdbCcLmwdwzYrkrFEGVxqE",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/4\nK:Dm clef=treble\nD | A2 A | G2 G | A2 A |\nD2 D | A2 G | c2 =B | A2 G |\nA2 A | d2 d | =B2 B | c3 |\nA2 D | F2 G | A2 G | F E2 |\nD2 |]\n"
+}

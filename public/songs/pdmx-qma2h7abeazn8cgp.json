@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qma2h7abeazn8cgp",
+  "title": "Save save Br\\aende",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qma2h7ABeAzN8cGp9qbmGb9sDL9niTXpmDBocA3ZbHx2p7",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:F clef=treble\nF F C C | F2 C2 | F F C C | F2 C2 |\nF A c c | B B G2 | E G B B | A A F2 |\nD E F G | E2 F2 | D E F G | G2 F2 |]\n"
+}

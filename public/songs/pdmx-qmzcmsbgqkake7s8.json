@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmzcmsbgqkake7s8",
+  "title": "Mari mara maruschkaka",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmZCmSbGqKAke7s88iitXpvajMRJVUmuE9E8ykQLkmZVNC",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:G clef=treble\nG | D D D G | E E E G | F D E F |\nG2 | z G | D D D G | E E E G |\nF D E F | G2 | z B | c A A c |\nB G G B | A D E F | G2 | z B |\nc A A c | B G G B | A D E F | G2 |]\n"
+}

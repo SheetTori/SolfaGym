@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqfwnx69mfxjrxl",
+  "title": "O Christmas Tree",
+  "source": "PDMX — cc-zero",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQFWNx69mfxjRXLGudBLfb9zQptf282aNvqTAPvuKfR6s",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "cc-zero",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:F clef=treble\nC2 | F F F2 G2 | A A A3 A | G A B2 E2 |\nG2 F2 C2 | F F F2 G2 | A A A3 A | G A B2 E2 |\nG2 F3 c | c A d3 c | c B B3 B | B G c3 B |\nB A A2 C2 | F F F2 G2 | A A A3 A | G A B2 E2 |\nG2 F2 C2 | F F F2 G2 | A A A3 A | G A B2 E2 |\nG2 F2 C2 | F F F2 G2 | A A A3 A | G A B2 E2 |\nG2 F3 c | c A d3 c | c B B3 B | B G c3 B |\nB A A2 C2 | F F F2 G2 | A A A3 A | G A B2 E2 |\nG2 F2 |]\n"
+}

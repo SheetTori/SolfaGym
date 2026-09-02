@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcvjgmnmac6defy",
+  "title": "Ali Pasha",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcVjgmnmac6DEFycmPKQGfGzf76sJZ79tQYkbCVSLCwvv",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 60,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:5/4\nL:1/8\nK:C clef=treble\nG2 G2 c2 c4 | c B B A c B B4 | B2 A2 G A A4 | A G G F A G G4 |\nG2 G2 G c c4 | c B B A c B B4 | B c A2 G A A4 | A G G F A G G4 |\nF2 A2 A2 A2 G F | E2 G2 G2 G2 F E | D2 F2 F2 E D C2 | D2 E D C B, C4 |\nF2 A2 A2 A2 G F | E2 G2 G2 G2 F E | D2 F2 F2 E D C2 | D2 E D C B, C4 |]\n"
+}

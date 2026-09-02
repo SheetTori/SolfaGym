@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmx5hka5vmtxxvds",
+  "title": "Christmas Day Ida Morning",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmX5hkA5vMtxxvDsRysqPRati9FaPm6XywSjY1tehbR3eH",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 71,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/32\nK:Bm clef=treble\nf8 d4 f12 | e8 d4 c8 A4 | B8 G4 d8 c4 | B8 G4 G12 |\ne8 f4 g8 f4 | e8 d4 c8 B4 | A8 A4 A4 B4 c4 | d12 d12 |\nf8 d4 f12 | e8 d4 c8 A4 | B8 G4 d8 c4 | B8 G4 G12 |\ne8 f4 g8 f4 | e8 d4 c8 B4 | A8 A4 A4 B4 c4 | d12 d12 |\ne12 e3 d3 e3 f3 | g12 B12 | A12 A4 A12 A4 | B12 c4 d12 B4 |\ne12 e3 d3 e3 f3 | g12 B12 | A12 e4 d12 B4 | z24 e12 e3 d3 e3 f3 |\ng12 B12 | A12 A4 A12 A4 | B12 c4 d12 B4 | e12 e3 d3 e3 f3 |\ng12 B12 | A12 e4 d12 B4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmfnrkuutxevuzjs",
+  "title": "Petronella",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmfNrKUutXEVUZjSr7sGgVG5Wet5MHezQuYEDnZFXfGrNm",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:D clef=treble\nd A | F2 A F E2 A E | D2 D2 D2 F A | d2 c d e2 d2 |\nd c e c A2 d A | F2 A F E2 A E | D2 D2 D2 F A | d2 c d e2 c2 |\nd6 | d A | F2 A F E2 A E | D2 D2 D2 F A |\nd2 c d e2 d2 | d c e c A2 d A | F2 A F E2 A E | D2 D2 D2 F A |\nd2 c d e2 c2 | d6 | d A | F2 f d A d a f |\ng2 g f e d c B | A2 e c A c g e | f2 f d A d A F | D2 f d A d a f |\ng2 g f e d c B | A2 e c A g e c | d6 | d A |\nF2 f d A d a f | g2 g f e d c B | A2 e c A c g e | f2 f d A d A F |\nD2 f d A d a f | g2 g f e d c B | A2 e c A g e c | d6 |]\n"
+}

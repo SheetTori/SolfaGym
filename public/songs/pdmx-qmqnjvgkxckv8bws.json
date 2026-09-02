@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqnjvgkxckv8bws",
+  "title": "Strop the razor",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQNJvgkxckv8Bws8ZoWuYijG6HPWG5CN9sTMcWoHHUY5h",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nD | D G G B A G | A F D F D C | D G G B A G |\nA d d c A G | D G G B A G | A F D F2 G | F E D F2 G |\nA d d c A G | D | D G G B A G | A F D F D C |\nD G G B A G | A d d c A G | D G G B A G | A F D F2 G |\nF E D F2 G | A d d c A G | D G G G2 A | D F F F2 G |\nD G G G F G | A d d c A G | D G G G2 A | D F F F2 G |\nF E D F2 G | A d d c A G | D G G G2 A | D F F F2 G |\nD G G G F G | A d d c A G | D G G G2 A | D F F F2 G |\nF E D F2 G | A d d c A G |]\n"
+}

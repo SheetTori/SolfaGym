@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmprbi86xwgwjhqz",
+  "title": "Snowdon",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPRBi86XwGWJhqZKjvr3wmqu5K3GFzzfFA2vu1njJVD3c",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:C clef=treble\nG | c2 e d c B | c d e G2 F | E D C c2 B |\nA G A G A B | c2 e d c B | c d e d2 c | B2 d A2 d |\nB G G G2 | G | c2 e d c B | c d e G2 F |\nE D C c2 B | A G A G A B | c2 e d c B | c d e d2 c |\nB2 d A2 d | B G G G2 | G | G A G G2 G |\nA2 E F2 f | e d c c B c | e d d d2 G | G c c c e G |\nG d d d e f | e d c B A B | c2 c c2 | G |\nc2 e d c B | c d e G2 F | E D C c2 B | A G A G A B |\nc2 e d c B | c d e d2 c | B2 d A2 d | B G G G2 |\nG | G A G G2 G | A2 E F2 f | e d c c B c |\ne d d d2 G | G c c c e G | G d d d e f | e d c B A B |\nc2 c c2 |]\n"
+}

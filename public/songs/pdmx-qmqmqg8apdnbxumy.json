@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqmqg8apdnbxumy",
+  "title": "Pollu Wolly Doodle",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQmqg8apDNbXumy4f53KvEmwswPCsAepZAVDVLiVE4jjy",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nG A B2 B2 G2 | G A B2 B2 G2 | G A B2 B2 c2 | A8 |\nA2 A2 F2 F2 | A2 A2 F4 | A A A A B2 A2 | G8 |\nG A B2 B2 G2 | G A B2 B2 G2 | G A B2 B2 c2 | A8 |\nA2 A2 F2 F2 | A2 A2 F4 | A A A A B2 A2 | G8 |]\n"
+}

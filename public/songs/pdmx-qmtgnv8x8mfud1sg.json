@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtgnv8x8mfud1sg",
+  "title": "What Wondrous Love",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTgNv8x8mfud1Sg6uA8aBaVfjNnxAZ2v66grGg1X7d5cm",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 9,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:E clef=treble\nE4 | E2 =D2 F2 A2 | B4 A2 F2 | E4 E2 =D2 |\nF4 B4 | =d2 c2 B2 A2 | B4 A2 F2 | E12 |\nA4 | B2 A2 B2 =d2 | e4 e4 | =d2 B2 B A F2 |\nE4 E4 | E2 =D2 F2 A2 | B4 A2 F2 | E4 E2 =D2 |\nF4 B4 | =d2 c2 B2 A2 | B4 A2 F2 | E4 E8 |]\n"
+}

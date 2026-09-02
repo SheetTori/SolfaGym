@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxwrzpht3aatvvw",
+  "title": "Mataloto",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXwRzpHT3AatVvWG26uWEdE9Mv8D35paT6bcf3cZDi8Xs",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/32\nK:Am clef=treble\nF G3 A | _B3 A B3 c d3 c d3 _e | f4 _b4 f3 d f3 g | _e4 a4 e3 c d3 e |\nd4 _b4 f3 F G3 A | _B3 A B3 c d3 c d3 _e | f4 _b4 f3 e f3 g | a3 g f3 _e d3 c _B3 A |\n_B4 f4 _b4 | z4 _B3 G _E3 G B3 G B3 _e | c3 _A F3 A c3 A c3 f | d3 c _B3 c d3 _e f3 ^f |\ng3 d _e3 c _B4 | z4 _B3 G _E3 G B3 G B3 _e | c3 _A F3 A c3 A c3 f | d3 c _B3 c d3 _a g3 f |\n_e4 e4 e3 F G3 A | _B3 F d3 F B3 F B3 d | c4 f4 f4 | z4 _B3 F d3 F B3 F B3 d |\nc3 _B A3 G F4 | z4 _B3 F d3 F B3 F B3 d | c4 f4 f4 | z4 e3 d c3 _B e3 f g3 a |\nf4 f4 f4 | z4 _B3 F d3 F B3 F B3 d | c4 f4 f4 | z4 _B3 F d3 F B3 F B3 d |\nc3 _B A3 G F4 | z4 _B3 F d3 F B3 F B3 d | c4 f4 f4 | z4 a3 g f3 e d3 c _B3 A |\n_B4 B4 B3 F G3 A |]\n"
+}

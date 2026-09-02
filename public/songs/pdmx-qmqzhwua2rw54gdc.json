@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqzhwua2rw54gdc",
+  "title": "The St.Kilda Wedding",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQZhWUa2Rw54gDCWdrcDrgSeCvDP5ruoJRPxsMZpcjb8X",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nD D D D D F A F | E2 F D B,2 A, B, | D D D D D F A F | B2 B A B A B d |\nD D D D D F A F | E2 F D B,2 A, B, | D D D D D F A F | B2 d c B A B c |\nd c d e d A A d | B c d c B2 A G | F A B c d c B d | A d F d E2 D2 |\nd c d e d A A d | B c d c B2 A G | F A B c d c B d | A d F d E2 D B, |\nD2 |]\n"
+}

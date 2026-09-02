@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmnvyywb9dzexq9h",
+  "title": "Donald Bane",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNVyywB9dZeXq9HZiY1Kmud3kAsU7dELCnbedGcB9fKhN",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 76,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:E clef=treble\na2 | e e e2 e3 =d c3 d e3 c | A3 e c a3 f4 e3 a | e e e2 e3 =d c3 d e3 c |\nB B B2 c3 e f4 e2 a2 | e e e2 e3 =d c3 d e3 c | A3 e c a3 f4 e3 a | e e e2 e3 =d c3 d e3 c |\nB B B2 c3 e f4 e2 | g2 | a3 g a3 f e3 c A3 g | a3 e f3 a f4 e2 f g |\na3 g a3 f a3 f e c3 | B B B2 c3 e f4 e2 f g | a3 g a3 f e3 c A3 g | a3 g a3 f f3 e f3 g |\na3 g a3 f a3 f e c3 | B B B2 c3 e f4 e2 |]\n"
+}

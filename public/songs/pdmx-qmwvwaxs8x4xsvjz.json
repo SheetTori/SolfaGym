@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwvwaxs8x4xsvjz",
+  "title": "Scottish Finlandaise",
+  "source": "PDMX — cc-zero",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWVwaxs8x4XSVjzyNdUc5j6HW19nCf5RwUnBoi3UMir9b",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "cc-zero",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Em clef=treble\nE2 G B E G B E | A ^G A B c2 c2 | B ^A B e f2 g2 | B c B A G2 F2 |\nE2 G B E G B E | A ^G A B c B A c | B ^A B e f a g f | e2 B G E4 |\nE2 G B E G B E | A ^G A B c2 c2 | B ^A B e f2 g2 | B c B A G2 F2 |\nE2 G B E G B E | A ^G A B c B A c | B ^A B e f a g f | e2 B G E4 |\ng a g f e f e d | c d c B A2 A2 | f g f e d e d c | B2 B A G2 F2 |\nE2 E F G F E G | A ^G A B c B A c | B ^A B e f a g f | e2 B G E4 |\ng a g f e f e d | c d c B A2 A2 | f g f e d e d c | B2 B A G2 F2 |\nE2 E F G F E G | A ^G A B c B A c | B ^A B e f a g f | e2 B G E4 |]\n"
+}

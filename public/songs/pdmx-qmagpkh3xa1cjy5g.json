@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmagpkh3xa1cjy5g",
+  "title": "Johnny has gone for a soldier",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmagpkH3XA1Cjy5G313qSwX5pFpLHUWbAxZJ3t1HEkbAM5",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Am clef=treble\nE2 | c3 c B2 B2 | A2 A G E2 E2 | G3 E G A G E |\nG3 E D2 C D | E3 D C D E F | G2 G E c4 | d2 B A B2 A ^G |\nA4 A4 | c4 B4 | A2 A G E4 | G3 E c2 B2 |\nA2 G E D2 C D | E2 E D C2 E2 | E2 G2 c4 | d2 B A B2 A ^G |\nA4 A2 |]\n"
+}

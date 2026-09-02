@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbaootdq24su4q7",
+  "title": "Chief O'Neill's favorite",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbAootDq24Su4Q7uqtdeXgotaMdErt5XqTfFZx8EVYVRb",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:D clef=treble\nd e | f e f g a f g e | f d e c d c A G | F E F D F G A B |\nc A d c A2 d e | f e f g a f g e | f d e c d c A G | F E F D G B A G |\nF2 D2 D2 | d e | f e f g a f g e | f d e c d c A G |\nF E F D F G A B | c A d c A2 d e | f e f g a f g e | f d e c d c A G |\nF E F D G B A G | F2 D2 D2 | D E | F E F D F G A B |\nc A d B c A G B | A d d e f d e d | c A d c A2 d e | f e f g a f g e |\nf d e c d c A G | F E F D G B A G | F2 D2 D2 | D E |\nF E F D F G A B | c A d B c A G B | A d d e f d e d | c A d c A2 d e |\nf e f g a f g e | f d e c d c A G | F E F D G B A G | F2 D2 D2 |]\n"
+}

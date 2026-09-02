@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqrqgpxbsf8exus",
+  "title": "Exercise - Alouette",
+  "source": "PDMX — cc-zero",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQrQGpXBsF8exusKg66yVxsXwcRPmtu1p6ayd88LCexre",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "cc-zero",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:F clef=treble\nF3 F2 G | A3 A3 | G2 F G2 A | F3 C3 |\nF3 F2 G | A3 A3 | G2 F G2 A | F6 |\nF2 G A2 B | c2 c c3 | c2 d c2 B | A2 G F3 |\nc2 c c3 | C2 C C3 | c3 B3 | A3 G3 |\nF3 F2 G | A3 A3 | G2 F G2 A | F3 C3 |\nF3 F2 G | A3 A3 | G2 F G2 A | F6 |]\n"
+}

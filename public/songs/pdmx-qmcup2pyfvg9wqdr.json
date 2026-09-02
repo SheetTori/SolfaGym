@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcup2pyfvg9wqdr",
+  "title": "L'escloupeto",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcUp2PYFVG9WqDroSW8fpNcBy8wPfZTs7N2DG725snmvb",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:C clef=treble\nc2 B c d e | f2 d2 g2 | f2 g4 | d6 |\nc2 B c d e | f2 d2 g2 | f2 g4 | d4 g2 |\na g f2 e2 | d3 e f2 | e d c2 d2 | e2 d2 g2 |\na g f2 e2 | d3 e f2 | e d c2 B2 | c6 |]\n"
+}

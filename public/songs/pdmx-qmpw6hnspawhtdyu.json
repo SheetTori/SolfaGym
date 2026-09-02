@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpw6hnspawhtdyu",
+  "title": "Kristallen den fina",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPw6HnspaWhTDYUg4uB6GzKN4fAtk4zrHHc5yXs8vTTba",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:Dm clef=treble\nD E | F2 F2 F2 G3 F G2 | A2 A2 A B A G F E D E | F2 F2 F2 G3 F G2 |\nA6 A4 | D E | F2 F2 F2 G3 F G2 | A2 A2 A B A G F E D E |\nF2 F2 F2 G3 F G2 | A6 A4 | d2 | A4 A2 A4 G2 |\nF4 F2 F2 E2 d2 | A4 A2 A2 A2 G2 | F4 A G F2 E2 D E | F2 F2 F2 G3 F G2 |\nA6 A2 z2 D E | F2 F2 F2 G3 F G2 | A6 A2 z2 d2 | A2 G2 F2 E2 D2 A G |\nF2 F2 E2 D4 |]\n"
+}

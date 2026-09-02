@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmnz3hrtmuhsse5y",
+  "title": "The Burren",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNZ3hrtmuHsSe5yL5nekadeyC3bH1XLv8H6Ph7i6mpo3v",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 71,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Bm clef=treble\nB3 A B2 e d | B d A c B E E2 | B A G A B d e f | g f e d B d e d |\nB3 A B2 e d | B d A c B E E2 | B A G A B d e f | g f e d B d e f |\ng3 e d B B2 | d e g e d2 e d | g f g a b g a f | g f e d B d e f |\ng3 e d B B2 | d e g e d2 e d | g f g a b g a f | g f e d B d e d |\nB2 |]\n"
+}

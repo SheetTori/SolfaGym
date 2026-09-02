@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmx9z2nwhxvwk35v",
+  "title": "Blodau'r Drain - The Flowers of the Thorn",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmX9z2NwHXVwk35vTDF2EFtArokgnFXDQ8BqquDm4rJSUB",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:Em clef=treble\nG F | E4 F2 | G2 F2 E2 | B2 A G F E |\nF4 D2 | E2 E G F A | G2 F2 E2 | ^D3 F E G |\nF4 | G F | E4 F2 | G2 F2 E2 |\nB2 A G F E | F4 D2 | E2 E G F A | G2 F2 E2 |\n^D3 F E G | F4 | F2 | G4 G2 |\nA4 A2 | B2 B2 c2 | B4 A2 | G F G A G2 |\nA G A B A2 | B2 B2 c2 | d3 c B A | G2 G A B G |\nA2 A B c A | B2 G2 E2 | ^D4 F2 | E2 B2 G2 |\nc2 B2 A2 | G2 A G F G | E4 |]\n"
+}

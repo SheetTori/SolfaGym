@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbakbuapjncbbhv",
+  "title": "Kvitrende lerke",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbAkbuAPjncbbHvAwfSygy6SPn6fb3zjNN9aFXQUEakEQ",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 59,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Bm clef=treble\nF2 F F d2 c B | B2 B A F2 D2 | E2 E E A2 B A | E2 G G F2 D2 |\nF2 F F d2 c B | B2 B A F D F2 | F E D E F3 | z F E C D B,3 |]\n"
+}

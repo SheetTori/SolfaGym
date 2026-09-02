@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmszrfwlt37qcnvt",
+  "title": "I Love my Jean",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmSZrfwLT37QCnvtmT9kQMQPTVeJTzXiKKojTewceoa1J4",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 9,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nD2 | G3 A G2 D2 | E2 G2 A2 =c2 | B3 A G2 D2 |\nE4 E2 D2 | G3 A G2 D2 | E2 G2 A2 =c2 | B3 A G2 E2 |\nD6 =c2 | B3 =c d2 B2 | =c3 B A2 c2 | B3 =c d2 D2 |\nE4 E2 =c2 | B3 =c d2 B2 | e2 A2 A2 =c2 | B3 A G2 E2 |\nD6 |]\n"
+}

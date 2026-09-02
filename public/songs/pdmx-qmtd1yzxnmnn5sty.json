@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtd1yzxnmnn5sty",
+  "title": "Green garters",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTd1YZxNmnN5STyi1UkyrD7i71baNjJKGshJaJVVg3KsF",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 76,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:Em clef=treble\nd2 f d A d f d | d2 f a g e ^c e | d2 f d A d f d | e d ^c d e f g e |\nd2 f d A d f d | d2 f a g e ^c e | d2 f d A d f a | g e ^c d e d d2 |\na g f g a f d f | a2 f d e f g e | a g f g a f d f | e d ^c d e f g e |\na g f g a f d f | a2 f d e f g e | a f g e f d e ^c | A B ^c d e f g e |\nd2 f d A d f d | d2 f a g e ^c e | d2 f d A d f d | e d ^c d e f g e |\nd2 f d A d f d | d2 f a g e ^c e | d2 f d A d f a | g e ^c d e d d2 |\na g f g a f d f | a2 f d e f g e | a g f g a f d f | e d ^c d e f g e |\na g f g a f d f | a2 f d e f g e | a f g e f d e ^c | A B ^c d e f g e |]\n"
+}

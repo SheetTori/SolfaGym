@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmc8kzi9wdagr9fy",
+  "title": "Ffarwel i'r Marian",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmc8kZi9WDAgr9FynGV7uzu3QeNttCk7hZTX3xhoym25HM",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:Dm clef=treble\nA d A =B ^c d | e2 A4 | f g f e d e | ^c2 A4 |\nA d A G A F | B d B A B G | F A F2 E2 | D6 |\nA d A =B ^c d | e2 A4 | f g f e d e | ^c2 A4 |\nA d A G A F | B d B A B G | F A F2 E2 | D6 |\nA2 c3 A | G2 A4 | A2 c3 d | e2 A4 |\nf2 g3 g | f2 e2 d2 | c e c2 =B2 | A6 |\nA d A =B ^c d | e2 A4 | f g f e d e | ^c2 A4 |\nA d A G A F | B d B A B G | F A F2 E2 | D6 |]\n"
+}

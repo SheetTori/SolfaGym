@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmntlcv42y1xpptc",
+  "title": "Le vieillard et la vieille dame",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNtLcv42y1XPptcNKCxXceGrFBuARERdaFxNYzz5GYgMs",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\nF G | A B A F D F A F | G F G B E2 e d | ^c d c B A B c A |\nd e d B A2 F G | A B A F D F A F | G F G B E2 e d | ^c d c B A B c A |\nd f e ^c d2 F G | A B A F D F A F | G F G B E2 e d | ^c d c B A B c A |\nd e d B A2 F G | A B A F D F A F | G F G B E2 e d | ^c d c B A B c A |\nd f e ^c d2 F G | A d d A d2 ^c B | A ^c c A c2 B A | G B B G B2 A G |\nF G A B F2 F G | A d d A d2 ^c B | A ^c c A c2 B A | G B B G B2 A G |\nA ^c e c d2 F G | A d d A d2 ^c B | A ^c c A c2 B A | G B B G B2 A G |\nF G A B F2 F G | A d d A d2 ^c B | A ^c c A c2 B A | G B B G B2 A G |\nA ^c e c d2 F G |]\n"
+}

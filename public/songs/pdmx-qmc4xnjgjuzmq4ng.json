@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmc4xnjgjuzmq4ng",
+  "title": "The Jockey at the Fair",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmc4XNjGJUzMQ4ng2PKKpiKkyKL1j4A6FsPQ5f5JMf3xwr",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nD | G2 A B2 c | d2 g d2 c | B A B G F G |\nc B c A B c | d c d e f g | a2 f d2 g | f e d A B c |\nd3 d2 | D | G2 A B2 c | d2 g d2 c |\nB A B G F G | c B c A B c | d c d e f g | a2 f d2 g |\nf e d A B c | d3 d2 | f g | a f d a f d |\nc3 B2 c | d g d d g d | c3 B c d | e2 f g f e |\nd2 c B c d | e d c B2 A | B2 G E2 D | G3 G B d |\ne2 f g2 e | d B G A2 B | E2 F G2 A | B2 g B2 A |\nG3 G2 |]\n"
+}

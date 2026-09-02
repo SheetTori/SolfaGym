@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmewpvt7sbfudwea",
+  "title": "Marken er mejet",
+  "source": "PDMX — cc-zero",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmewPvT7SBfuDWEaBcrhANWuLNQgQ5aZ2k4PTPefejffXd",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "cc-zero",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 60,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:C clef=treble\nc2 G E | C2 E G | C2 E G | c2 c2 |\nF A A A | E G G G | D F E D | C4 |\nc2 G E | C2 E G | C2 E G | c2 c2 |\nF A A A | E G G G | D F E D | C4 |\nc2 c2 | B d G2 | d2 d2 | c e G2 |\nF A A A | E G G G | D F E D | C4 |\nc2 c2 | B d G2 | d2 d2 | c e G2 |\nF A A A | E G G G | D F E D | C4 |\nc2 G E | C2 E G | C2 E G | c2 c2 |\nF A A A | E G G G | D F E D | C4 |\nc2 G E | C2 E G | C2 E G | c2 c2 |\nF A A A | E G G G | D F E D | C4 |\nc2 c2 | B d G2 | d2 d2 | c e G2 |\nF A A A | E G G G | D F E D | C4 |\nc2 c2 | B d G2 | d2 d2 | c e G2 |\nF A A A | E G G G | D F E D | C4 |]\n"
+}

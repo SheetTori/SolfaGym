@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmezdtorxtxahs6n",
+  "title": "Sillocks and Tatties",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeZdToRXTXaHS6Nutao9JXERqLikwZhz92XtCrMZhRmb6",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nB | A2 B =c B G G B | A2 A g f d e d | A2 A =c B G G e |\nf a e f d3 | B | A2 B =c B G G B | A2 A g f d e d |\nA2 A =c B G G e | f a e f d3 | g | f d a d e c c e |\nf d a d b d a d | f d a d e d d e | f a e f d2 d e | f d a d e d d e |\nf d a d b d a d | g e f d e a a e | f a e f d3 |]\n"
+}

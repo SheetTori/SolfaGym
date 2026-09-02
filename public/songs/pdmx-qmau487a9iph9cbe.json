@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmau487a9iph9cbe",
+  "title": "Goodness in the Morning",
+  "source": "PDMX — cc-zero",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmau487A9ipH9cbea3ViuEyiuKr6iMU8bwA3njYYUsPtoB",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "cc-zero",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:G clef=treble\nD6 E2 G8 | B6 A2 G8 | G3 G G3 G A4 G4 | G3 G G3 G E4 D4 |\nD6 E2 G8 | B6 A2 G8 | B3 B B3 G B4 A4 | G16 |]\n"
+}

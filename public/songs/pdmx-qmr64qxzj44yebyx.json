@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmr64qxzj44yebyx",
+  "title": "Den v\\agrande brudgummen",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmR64QxZJ44YEbyxYxqW4hyuzHsC1MxESDcPRMkg7RDShw",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Am clef=treble\nE | A2 A B ^G2 E2 | A2 B2 ^G2 E2 | A2 B2 c2 B A |\nc4 B2 z B | c2 c B c2 e e | e2 d c B2 z B | c2 B A E2 ^F ^G |\nA4 A2 |]\n"
+}

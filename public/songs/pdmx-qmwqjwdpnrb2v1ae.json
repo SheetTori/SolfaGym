@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwqjwdpnrb2v1ae",
+  "title": "I do not incline",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWQJwdpnRb2v1AexuGhrxW6crqaggRk24wZP7zY4qMon5",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:G clef=treble\nG E | D2 B,2 D2 G4 A2 | B3 c B2 A3 G A2 | B2 G2 E2 E2 G2 A2 |\nB2 G2 E2 E4 G E | D2 B,2 D2 G4 A2 | B3 c B2 A2 G2 A2 | B2 G2 E2 D2 E2 F2 |\nG2 A2 G2 G4 | G E | D2 B,2 D2 G4 A2 | B3 c B2 A3 G A2 |\nB2 G2 E2 E2 G2 A2 | B2 G2 E2 E4 G E | D2 B,2 D2 G4 A2 | B3 c B2 A2 G2 A2 |\nB2 G2 E2 D2 E2 F2 | G2 A2 G2 G4 | G A | B2 G2 G2 A2 F2 F2 |\nG2 E2 E2 F2 D2 D2 | E F3 E2 E4 G A | B2 G2 E2 E4 G E | D2 B,2 D2 G4 A2 |\nB3 c B2 A3 G A2 | B2 G2 E2 D2 E2 F2 | G2 A2 G2 G4 | G A |\nB2 G2 G2 A2 F2 F2 | G2 E2 E2 F2 D2 D2 | E F3 E2 E4 G A | B2 G2 E2 E4 G E |\nD2 B,2 D2 G4 A2 | B3 c B2 A3 G A2 | B2 G2 E2 D2 E2 F2 | G2 A2 G2 G4 |]\n"
+}

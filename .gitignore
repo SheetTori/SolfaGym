@@ -14,3 +14,9 @@ scripts/import/mutopia_report.tsv
 scripts/import/chordtest.musicxml
 scripts/import/*.mxl
 scripts/import/pdmx_report.tsv
+
+# 取り込みの中間物（100MB超の派生物。scripts/import/README.md の手順で再生成できる）
+data/import/
+scripts/import/pdmx_candidates.tsv
+scripts/import/filelist.txt
+scripts/import/PDMX.csv

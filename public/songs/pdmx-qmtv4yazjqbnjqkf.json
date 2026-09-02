@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtv4yazjqbnjqkf",
+  "title": "Three Little Drummers",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTV4YazjQBnjqKF8uCg9Pc3b9zsBX9XijfSw5bSbYCVd9",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 9,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:A clef=treble\n=g f | e A A e A A | B A B =G B d | e A A e A A |\nd e f =g f g | e A A e A A | B A B =G B d | d e f =g d B |\nB A A A2 | =g f | e A A e A A | B A B =G B d |\ne A A e A A | d e f =g f g | e A A e A A | B A B =G B d |\nd e f =g d B | B A A A2 | d | e a a e a a |\ne =g g e g g | e a a e a a | d e f =g d B | e a a e a a |\ne =g g e g g | d e f =g d B | B A A A2 | e a a e a a |\ne =g g e g g | e a a e a a | d e f =g d B | e a a e a a |\ne =g g e g g | d e f =g d B | B A A A2 | e |\ne a a a g a | b a b =g e d | e a a a g a | b a b =g2 d |\ne a a a g a | b a b =g e d | d e f =g d B | B A A A2 |\ne a a a g a | b a b =g e d | e a a a g a | b a b =g2 d |\ne a a a g a | b a b =g e d | d e f =g d B | B A A A2 |]\n"
+}

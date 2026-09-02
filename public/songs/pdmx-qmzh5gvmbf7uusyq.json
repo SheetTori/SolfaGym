@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmzh5gvmbf7uusyq",
+  "title": "Bourree Tournante",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmZH5gvmBF7uUsYqUV3Yd6rd3ZeZbsXYJAk6h2GXPQio8Y",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/8\nL:1/16\nK:C clef=treble\nB c | d2 B2 d2 | d B G2 B c | d2 B2 d2 |\nd4 A B | c2 A2 A2 | A4 G A | B2 G2 G2 |\nG4 B c | d2 B2 d2 | d B G2 B c | d2 B2 d2 |\nd4 A B | c2 A2 A2 | A4 G A | B2 G2 G2 |\nG2 ^F2 E2 | D4 E2 | D4 E2 | D2 G2 A2 |\nB6 | A2 G2 A2 | G2 ^F2 E2 | D2 E2 D2 |\nB4 G2 | D4 E2 | D4 E2 | D2 G2 A2 |\nB6 | A2 G2 A2 | G2 ^F2 E2 | D2 B2 A2 |\nG4 B c |]\n"
+}

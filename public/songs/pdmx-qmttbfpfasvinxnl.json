@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmttbfpfasvinxnl",
+  "title": "Cobler Coch o Hengoed - The Red Cobbler of Hengoed",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTTBFpfAsviNXNLgw3sRMxwZNaZCoRDwXgC6wdq67tPER",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nF E | D2 D2 D E F2 | G2 E4 A2 | D2 E G F2 E2 |\nD6 | F E | D2 D2 D E F2 | G2 E4 A2 |\nD2 E G F2 E2 | D6 | G2 | G2 G2 G2 G A |\nG F E4 A2 | G B A G F E D2 | E6 F E | D2 D2 D E F2 |\nG2 E4 A2 | D2 E G F2 E2 | D6 |]\n"
+}

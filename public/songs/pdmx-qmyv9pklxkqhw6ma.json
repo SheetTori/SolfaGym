@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmyv9pklxkqhw6ma",
+  "title": "Jock Wilson",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmYV9PKLXKqhW6maDBhHam9V8aD1ZKEdtfyJ7HFLL9KH1M",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nA G | F A d2 d2 e d | c d e f g2 a g | f e d c d f a f |\ng f e d c B A G | F A d2 d2 e d | c d e f g2 a g | f e d f e f g e |\nf2 d2 d2 | A G | F A d2 d2 e d | c d e f g2 a g |\nf e d c d f a f | g f e d c B A G | F A d2 d2 e d | c d e f g2 a g |\nf e d f e f g e | f2 d2 d2 | d c | B c d e f e d e |\nf e d c B2 c B | A B c d e d c d | e d c B A B A G | F A d2 d2 e d |\nc d e f g2 a g | f e d f e f g e | f2 d2 d2 | d c |\nB c d e f e d e | f e d c B2 c B | A B c d e d c d | e d c B A B A G |\nF A d2 d2 e d | c d e f g2 a g | f e d f e f g e | f2 d2 d2 |]\n"
+}

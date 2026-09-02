@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqjtiizuhwzywcs",
+  "title": "Old Mac Donald",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQJtiizuhwZYWCskh14PEmxcLhsberV2Q4SUfE5YeEyPk",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/4\nK:F clef=treble\nF F F C | D D C2 | A A G G | F2 z C |\nF F F C | D D C2 | A A G G | F2 |]\n"
+}

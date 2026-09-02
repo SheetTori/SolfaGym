@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmfcyudngy4wxdqx",
+  "title": "The Leeds Polka",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmfCyUdNgY4WxDqX7oF3mWfQ7XAgny7rnD2i53r4qYdfDG",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 79,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\nd2 g2 g f g e | d2 g2 B4 | A2 f2 f4 | B2 g2 g4 |\nd2 g2 g f g e | d2 g2 B4 | A2 f2 a2 f2 | g2 g2 g4 |\nd2 g2 g f g e | d2 g2 B4 | A2 f2 f4 | B2 g2 g4 |\nd2 g2 g f g e | d2 g2 B4 | A2 f2 a2 f2 | g2 g2 g4 |\nA d f2 f2 a2 | a2 g2 g f e2 | A ^c e2 e2 g2 | g2 f2 f2 e d |\nA d f2 f2 a2 | a2 g2 g f e2 | A ^c e2 A c e2 | d2 d2 d4 |\nA d f2 f2 a2 | a2 g2 g f e2 | A ^c e2 e2 g2 | g2 f2 f2 e d |\nA d f2 f2 a2 | a2 g2 g f e2 | A ^c e2 A c e2 | d2 d2 d4 |\nD G B2 B2 B2 | D G B2 B2 B2 | c B A2 c B A2 | G2 B2 e2 d2 |\nD G B2 B2 B2 | D G B2 B2 B2 | c B A2 c B A2 | G4 g4 |\nD G B2 B2 B2 | D G B2 B2 B2 | c B A2 c B A2 | G2 B2 e2 d2 |\nD G B2 B2 B2 | D G B2 B2 B2 | c B A2 c B A2 | G4 g4 |]\n"
+}

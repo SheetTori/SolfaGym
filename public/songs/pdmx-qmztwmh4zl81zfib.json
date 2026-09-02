@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmztwmh4zl81zfib",
+  "title": "Hopak",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmZtwmh4zL81ZfiB49apBf8gT2ouVEWX8cXgYd7vLuv5aD",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:C clef=treble\ng4 B2 d2 | c B c A B2 G2 | D2 G2 B2 d2 | c B c A B2 G2 |\ng ^f g2 B2 d2 | c B c A B2 G2 | D2 G2 B2 d2 | d c B A G4 |\ng4 B2 d2 | c B c A B2 G2 | D2 G2 B2 d2 | c B c A B2 G2 |\ng ^f g2 B2 d2 | c B c A B2 G2 | D2 G2 B2 d2 | d c B A G4 |\nG2 c2 e4 | d e f d e4 | g2 g2 a2 a2 | g f e d e2 c2 |\nG2 c2 e4 | d e f d e4 | g2 g2 a2 a2 | g f e d c4 |\nG2 c2 e4 | d e f d e4 | g2 g2 a2 a2 | g f e d e2 c2 |\nG2 c2 e4 | d e f d e4 | g2 g2 a2 a2 | g f e d c4 |]\n"
+}

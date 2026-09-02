@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmrt3bwfnjuxsnwa",
+  "title": "Away in a Manger (English)",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmRt3bwfNJuxsnwA84Jgz46Tr5KRDcbX83YYyw1VARGfpC",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:D clef=treble\nA,2 | D2 D2 E F | D2 D2 F G | A2 A2 B2 |\nG4 E F | G2 G2 A2 | F2 F2 D F | E2 B,2 D2 |\nC4 A,2 | D2 D2 E F | D2 D2 F G | A2 A2 B2 |\nG4 E F | G2 G2 A2 | F2 F2 D F | E2 B,2 C2 |\nD4 |]\n"
+}

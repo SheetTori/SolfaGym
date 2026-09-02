@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqaongt7lefzppq",
+  "title": "Valse à 5 temps",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQaoNGt7LeFzPpqnJff9SFCSq16DTgRe7CyfwKFMHb31z",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:5/4\nL:1/16\nK:G clef=treble\nD G | F2 A2 G2 B2 B2 | A2 c2 B4 D G | F2 A2 G2 B2 d2 |\nc2 A2 G4 | D G | F2 A2 G2 B2 B2 | A2 c2 B4 D G |\nF2 A2 G2 B2 d2 | c2 A2 G4 | d2 | c2 A2 B2 G2 d2 |\nc2 A2 B4 D G | F2 A2 G2 B2 d2 | c2 A2 d4 d2 | c2 A2 B2 G2 d2 |\nc2 A2 B4 D G | F2 A2 G2 B2 d2 | c2 A2 G4 |]\n"
+}

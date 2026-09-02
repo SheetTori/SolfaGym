@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmeuxzhos7gkl6if",
+  "title": "Manx Sword Dance",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeuXZhoS7GkL6ifNutcKpFrc3zqWgAKf3GnvpHdzunr7e",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nA2 A A2 F | A2 A A2 F | B2 B B2 A | B2 c d2 B |\nA2 A A2 F | A2 B A2 F | f2 e d2 B | A2 B A2 F |\nz6 A2 A A2 F | A2 B A2 F | B2 B B2 A | B2 c d2 B |\nA2 A A2 F | A2 B A2 F | f2 e d2 B | A2 c d3 |\nz6 f2 f f2 d | f2 g f2 d | a2 f e2 d | B2 d B2 A |\nf2 f f2 d | f2 g f2 d | a2 f e2 d | B2 c d3 |\nf2 f f2 d | f2 g f2 d | a2 f e2 d | B2 d B2 A |\nf2 f f2 d | f2 g f2 d | a2 f e2 d | B2 c d3 |]\n"
+}

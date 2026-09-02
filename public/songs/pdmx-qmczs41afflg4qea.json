@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmczs41afflg4qea",
+  "title": "Yemenite Folk - Se'e Yona",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcZs41affLG4QEa9kYFWAdr7PHCdnMqZR2D316kh5DaNE",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Am clef=treble\nA B c2 d2 e2 | c d e d d c B A | A B c2 d c B A | c2 B2 A4 |\nA B c2 d2 e2 | c d e d d c B A | A B c2 d c B A | c2 B2 A4 |\nA B c d B2 B2 | A B c d B4 | A B c2 d c B A | c2 B2 A4 |\nA B c d B2 B2 | A B c d B4 | A B c2 d c B A | c2 B2 A4 |]\n"
+}

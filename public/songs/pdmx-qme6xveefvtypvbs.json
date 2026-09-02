@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qme6xveefvtypvbs",
+  "title": "The Belfast Almanac",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qme6xVeeFVTYPvbSaxWxsKHhGFdEqnYExXTPq1vLuExMue",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:G clef=treble\nD2 | G4 G2 F2 E2 D2 | E4 F2 G4 A2 | B4 G2 c4 A2 |\nB4 G2 c4 A2 | B3 c d2 E4 E2 | A2 B2 G2 F2 E2 D2 | E2 F2 G2 A2 F2 D2 |\nG6 G4 | D2 | G4 G2 F2 E2 D2 | E4 F2 G4 A2 |\nB4 G2 c4 A2 | B4 G2 c4 A2 | B3 c d2 E4 E2 | A2 B2 G2 F2 E2 D2 |\nE2 F2 G2 A2 F2 D2 | G6 G4 | c2 | B2 c2 d2 d2 e2 f2 |\ng4 g2 g6 | B4 B2 B2 c2 d2 | e4 e2 e6 | d2 c2 B2 c2 d2 e2 |\nd2 B2 d2 D4 D2 | E2 F2 G2 A2 F2 D2 | G6 G4 | A2 |\nB4 G2 c4 A2 | B4 G2 c4 A2 | B3 c d2 E4 E2 | A2 B2 G2 F2 E2 D2 |\nB4 G2 c4 A2 | B4 G2 B2 c2 d2 | E2 F2 G2 A2 F2 D2 | G6 G4 |]\n"
+}

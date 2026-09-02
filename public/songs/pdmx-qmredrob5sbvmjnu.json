@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmredrob5sbvmjnu",
+  "title": "The flaxdresser",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmReDroB5Sbvmjnu85oayK1pM7weQQortth1acbZvzi2kH",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:G clef=treble\nd c | B2 A2 G2 A2 G2 E2 | D2 G2 A2 B2 A2 G2 | B2 A2 G2 d2 c2 B2 |\nB2 A2 A2 A2 G2 A2 | B2 A2 G2 A2 G2 E2 | D2 G2 A2 B2 A2 G2 | B2 d2 g2 d2 B2 G2 |\nA2 G2 G2 G4 | d c | B2 A2 G2 A2 G2 E2 | D2 G2 A2 B2 A2 G2 |\nB2 A2 G2 d2 c2 B2 | B2 A2 A2 A2 G2 A2 | B2 A2 G2 A2 G2 E2 | D2 G2 A2 B2 A2 G2 |\nB2 d2 g2 d2 B2 G2 | A2 G2 G2 G4 | B2 | G2 B2 d2 e2 f2 g2 |\nd2 B2 G2 A2 G2 E2 | G2 B2 d2 e2 f2 g2 | f2 d2 d2 d2 e2 f2 | g2 f2 e2 d2 c2 B2 |\nA2 G2 A2 B2 G2 E2 | D2 c2 B2 A2 G2 A2 | B2 G2 G2 G4 | B2 |\nG2 B2 d2 e2 f2 g2 | d2 B2 G2 A2 G2 E2 | G2 B2 d2 e2 f2 g2 | f2 d2 d2 d2 e2 f2 |\ng2 f2 e2 d2 c2 B2 | A2 G2 A2 B2 G2 E2 | D2 c2 B2 A2 G2 A2 | B2 G2 G2 G4 |\nB c | d4 e d g2 f2 e2 | d2 B2 G2 A2 G2 E2 | D2 E2 G2 G2 A2 B2 |\nB2 A2 A2 A4 B c | d4 e f g2 f2 e2 | d2 B2 G2 A2 G2 E2 | D2 c2 B2 A2 G2 A2 |\nB2 G2 G2 G4 | B c | d4 e d g2 f2 e2 | d2 B2 G2 A2 G2 E2 |\nD2 E2 G2 G2 A2 B2 | B2 A2 A2 A4 B c | d4 e f g2 f2 e2 | d2 B2 G2 A2 G2 E2 |\nD2 c2 B2 A2 G2 A2 | B2 G2 G2 G4 |]\n"
+}

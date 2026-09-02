@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdwjsfeixpvkwaw",
+  "title": "N\\aar maidagen lokkar",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdwJSFEiXpvKWaWck1LPbE7EBbYzf78ZsFVdrrWmDgLCc",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:F clef=treble\nC | F2 A G2 A | F3 D2 D | C2 F G2 G |\nA2 c f2 d | c2 A G2 A | F3 E2 E | D2 F E2 D |\nA3 A2 A | c2 c B2 G | ^F2 A G2 B | E2 E A2 G |\nF2 E F2 D | C2 F G2 A | F3 F |]\n"
+}

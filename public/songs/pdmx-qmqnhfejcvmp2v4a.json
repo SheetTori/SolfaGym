@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqnhfejcvmp2v4a",
+  "title": "Jackson's cravat",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQnhfEjcvMP2v4AABsSeV2wYWwRWomD778xpeKsE66mLd",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nf | g d c B d B | c e c B d B | g d c B d B |\ne c A A2 f | g d c B d B | c e c B d B | G2 g g f g |\nd B G G2 | f | g d c B d B | c e c B d B |\ng d c B d B | e c A A2 f | g d c B d B | c e c B d B |\nG2 g g f g | d B G G2 | f | g f g e f g |\na b g f e d | g f e d c B | e c A A2 f | g f g e f g |\na b g f e d | g f e d e c | B G G G2 | f |\ng f g e f g | a b g f e d | g f e d c B | e c A A2 f |\ng f g e f g | a b g f e d | g f e d e c | B G G G2 |]\n"
+}

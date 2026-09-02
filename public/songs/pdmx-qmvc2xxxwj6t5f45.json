@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmvc2xxxwj6t5f45",
+  "title": "The Dawning of the Day",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmVC2Xxxwj6t5f45a9wKnBkMeeHQLTaSKtoDEk6Ynubtp7",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nD E | F2 F2 F2 E F | A2 A2 B2 A F | D2 E2 D2 D2 |\nD6 F A | B3 A B2 d2 | F3 E D2 F2 | A2 F2 d2 F2 |\nE6 D E | F2 F2 F2 E F | A2 A2 B2 A F | D2 E2 D2 D2 |\nD6 |]\n"
+}

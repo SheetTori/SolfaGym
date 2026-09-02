@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmecmqnfjkpmd786",
+  "title": "The Rolling Waves",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmecMQNfjKPMd786yhdFpTQXLptbaqwGr8HC2AfLjrvbCT",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nF2 E E D E | F2 D D E D | F2 E E F A | d2 e f d A |\nF2 E E D E | F2 D D E D | A F E E F A | B3 d3 |\nF2 E E D E | F2 D D E D | F2 E E F A | d2 e f d A |\nF2 E E D E | F2 D D E D | A F E E F A | B3 d3 |\nA B d e2 f | d2 c B2 A | A B d e2 f | d2 A B3 |\nA B d e d e | f d B B A F | A F E E F A | B3 d3 |\nF2 E E D E | F2 D D E D | F2 E E F A | d2 e f d A |\nF2 E E D E | F2 D D E D | A F E E F A | B3 d3 |\nA B d e2 f | d2 c B2 A | A B d e2 f | d2 A B3 |\nA B d e d e | f d B B A F | A F E E F A | B3 d3 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbmx8jcyjfnihhb",
+  "title": "Wi' a Hundred Pipers",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbMX8JcYJfNihHB9Ad8rh6zESJFPpA69thfevF1B6Utt7",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:A clef=treble\nA B | c4 E2 E2 F2 E2 | F4 A2 A4 f2 | e4 c2 c2 B2 A2 |\nc4 B2 B2 A2 B2 | c4 E2 E2 F2 E2 | F4 A2 A4 f2 | e4 c2 B2 c2 B2 |\nA6 A4 | c d | e4 e2 e2 c2 e2 | f4 a2 a4 f2 |\ne4 c2 c2 B2 A2 | c4 B2 B4 c d | e2 f2 e2 e2 c2 e2 | f4 a2 a4 f2 |\ne4 c2 B2 c2 B2 | A6 A4 |]\n"
+}

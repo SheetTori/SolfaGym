@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qma9m8srazxfjypv",
+  "title": "Hr. Verner i fanget\\aarn",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qma9M8sRAZxFJypVoenjquTcBZgeD2sudUgs8iGzgMn1FP",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/2\nL:1/4\nK:Am clef=treble\nA2 | A2 c c d e d c | A2 G G F2 E2 | F2 G G A2 c c |\nd3 e c2 z c | f2 e e d2 c2 | A2 A G F E F G | A2 A4 |]\n"
+}

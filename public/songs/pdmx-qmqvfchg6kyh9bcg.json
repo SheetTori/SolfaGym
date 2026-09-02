@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqvfchg6kyh9bcg",
+  "title": "Dram: Tersen",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQVfcHg6kYh9bCGRsFZxASu117mL5zMq1RzVcoESmcStb",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 57,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Am clef=treble\nE2 E E c2 B A | A2 A G E2 C2 | D2 D D G2 A G | D2 F F E2 C2 |\nE2 E E c2 B2 | A2 A G G E C E | E D C D E4 | E D B, C A,2 |]\n"
+}

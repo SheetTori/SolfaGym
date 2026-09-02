@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmrv8v5hd5qhycw4",
+  "title": "Son Ar Skoff",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmRV8V5Hd5qHYCW4SnfudvSX3MSujd4heXJrR9fuptATJw",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:Em clef=treble\nE2 G2 B2 | A4 B2 | G4 F2 | E4 F2 |\nG F E2 F2 | G4 A2 | B2 A2 B2 | F6 |\nG F E2 c2 | B4 c2 | A2 G2 F2 | E6 |\nE2 G2 B2 | A4 G2 | B A G2 F2 | E6 |\nE2 G2 B2 | A4 B2 | G4 F2 | E4 F2 |\nG F E2 F2 | G4 A2 | B2 A2 B2 | F6 |\nG F E2 c2 | B4 c2 | A2 G2 F2 | E6 |\nE2 G2 B2 | A4 G2 | B A G2 F2 | E6 |\nE2 F2 A2 | G6 | E2 F2 A2 | G6 |\nF2 G2 A2 | B2 c2 A2 | B4 G2 | F6 |\nF2 G2 A2 | B4 A2 | B4 G2 | F6 |\nE2 F2 A2 | G6 | F E D2 E2 | E6 |\nE2 F2 A2 | G6 | E2 F2 A2 | G6 |\nF2 G2 A2 | B2 c2 A2 | B4 G2 | F6 |\nF2 G2 A2 | B4 A2 | B4 G2 | F6 |\nE2 F2 A2 | G6 | F E D2 E2 | E6 |]\n"
+}

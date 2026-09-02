@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpnpnwwqhdttexk",
+  "title": "Geese in the Bog",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPNpnWwqhDtteXKSjKBySKrgfoz787Jx2o5Jt62swbfSD",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Am clef=treble\nB | c E E G E E | c E E G A B | c E E G E D |\nE A A A2 B | c E E G E E | c E E G A B | c B A G E D |\nE A A A2 | B | c E E G E E | c E E G A B |\nc E E G E D | E A A A2 B | c E E G E E | c E E G A B |\nc B A G E D | E A A A2 | B | c d e g e d |\ne a a g e d | c d e g e d | e a a a2 B | c d e g e d |\ne a a g e d | c B A G E D | E A A A2 | B |\nc d e g e d | e a a g e d | c d e g e d | e a a a2 B |\nc d e g e d | e a a g e d | c B A G E D | E A A A2 |]\n"
+}

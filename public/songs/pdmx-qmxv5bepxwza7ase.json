@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxv5bepxwza7ase",
+  "title": "I've been workin' on the railroad",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXv5BEPXwzA7ASecghoTLwEFqApU9XcX6RtN4UUP3R8gz",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nG3 D G D G A | B4 G3 G | c3 c G2 A2 | B4 |\nz4 G3 D G D G A | B4 G3 G | A2 A2 A2 B2 | A4 |\nz4 A3 A ^G A B A | G4 D2 G2 | c2 c c G G A A | B4 |\nz4 E3 F G F G E | D4 G4 | B3 c B2 A2 | G4 |]\n"
+}

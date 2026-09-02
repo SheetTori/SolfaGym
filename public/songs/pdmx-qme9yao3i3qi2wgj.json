@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qme9yao3i3qi2wgj",
+  "title": "Buttered Peas",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qme9Yao3i3qi2WGjTUZVV72o9TG8hKTXsV4nf3D8NUdmuE",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 79,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nA2 | B2 D2 B2 G B | c2 D2 c3 A | F2 D2 F G A B |\nd2 D2 d3 c | B2 D2 B2 A B | c2 d2 e4 | d2 g2 f2 e f |\ng2 g2 g2 | A2 | B2 D2 B2 G B | c2 D2 c3 A |\nF2 D2 F G A B | d2 D2 d3 c | B2 D2 B2 A B | c2 d2 e4 |\nd2 g2 f2 e f | g2 g2 g2 | z2 d2 g2 g f e d | c2 c2 c3 B |\nA2 a2 a g f e | d2 d2 d2 e f | g2 g g g2 B2 | c2 d2 e4 |\nd2 g2 f2 e f | g2 g2 g2 | z2 d2 g2 g f e d | c2 c2 c3 B |\nA2 a2 a g f e | d2 d2 d2 e f | g2 g g g2 B2 | c2 d2 e4 |\nd2 g2 f2 e f | g2 g2 g2 |]\n"
+}

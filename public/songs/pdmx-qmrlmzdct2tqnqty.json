@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmrlmzdct2tqnqty",
+  "title": "The Whistling Farmer",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmRLMzdcT2tQNQtyK99kYhmBozepqzsLJz7fAoEkRykQyE",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 79,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:Gm clef=treble\nd =e | g2 ^f2 =e2 d2 ^c2 e2 | d2 =B2 G2 D4 G2 | ^F2 G2 A2 D2 =E2 F2 |\nG2 A2 B2 =B4 d =e | g2 ^f2 =e2 d2 ^c2 e2 | d2 =B2 G2 D4 G2 | ^F2 G2 A2 D2 =E2 F2 |\nG2 =B2 d2 g4 | d =e | g2 ^f2 =e2 d2 ^c2 e2 | d2 =B2 G2 D4 G2 |\n^F2 G2 A2 D2 =E2 F2 | G2 A2 B2 =B4 d =e | g2 ^f2 =e2 d2 ^c2 e2 | d2 =B2 G2 D4 G2 |\n^F2 G2 A2 D2 =E2 F2 | G2 =B2 d2 g4 | d2 | ^c4 d2 =c4 d2 |\nA4 d2 ^F4 =E2 | D2 =E2 ^F2 G2 A2 B2 | =B6 B4 d2 | ^c4 d2 =c4 d2 |\nA4 d2 ^F4 =E2 | D2 =E2 ^F2 A2 =B2 A2 | G2 =B2 d2 g4 | d2 |\n^c4 d2 =c4 d2 | A4 d2 ^F4 =E2 | D2 =E2 ^F2 G2 A2 B2 | =B6 B4 d2 |\n^c4 d2 =c4 d2 | A4 d2 ^F4 =E2 | D2 =E2 ^F2 A2 =B2 A2 | G2 =B2 d2 g4 |]\n"
+}

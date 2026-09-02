@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxxz23m6mbfvys2",
+  "title": "The Oyster Girl",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXXZ23m6MbfVys25nKPLk5uBV1qGDrCHpgK6B9qoywWNu",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nB =c | d e d B2 G | A2 F D3 | G2 G B G B |\nd2 =c A2 d | d e d B d g | f2 e =c2 e | d2 B =c B A |\nG3 G2 d | d e d B2 G | A2 F D3 | G2 G B G B |\nd2 =c A2 d | d e d B d g | f2 e =c2 e | d2 B =c B A |\nG3 G2 d | B =c d B c d | e2 =c e2 c | A B =c A B c |\nd2 B d2 B | d e d B d g | f2 e =c2 e | d2 B =c B A |\nG3 G2 d | B =c d B c d | e2 =c e2 c | A B =c A B c |\nd2 B d2 B | d e d B d g | f2 e =c2 e | d2 B =c B A |\nG3 G2 d |]\n"
+}

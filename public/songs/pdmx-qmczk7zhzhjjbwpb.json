@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmczk7zhzhjjbwpb",
+  "title": "The Bold Fenian Men",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcZk7ZhZhJjBWpBifLnPNfAk7b4LXd9c3xPNBFxs5HRoU",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:Em clef=treble\nB2 | B2 E3 F | E2 D3 E | G3 A B2 |\nd B4 A | B2 E3 F | E D4 E | G3 A B2 |\nd B4 A | B2 e3 f | e2 E3 F | G3 A G2 |\nF D3 E F | G4 A B | d4 B A | B2 E2 D2 |\nE4 |]\n"
+}

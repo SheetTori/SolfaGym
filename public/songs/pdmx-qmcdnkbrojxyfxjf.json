@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcdnkbrojxyfxjf",
+  "title": "O Come O Come Emmanuel",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcdNkbRojxyFXjFgSkWoB8zds1NLzg8DexNadckdj8KUg",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 71,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/4\nK:Bm clef=treble\nB | d f f f | e g f e | d3 e |\nf d B d | e c B A | B3 | e |\ne B B c | d2 c B | A3 d | e f f f |\ne g f e | d3 | a | a3 f |\nf3 f | e g f e | d3 e | f d B d |\ne c B A | B6 |]\n"
+}

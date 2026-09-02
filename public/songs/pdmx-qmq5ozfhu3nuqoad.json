@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmq5ozfhu3nuqoad",
+  "title": "Dress her out in fine clothes",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQ5oZFhu3NUqoaDVCJVKLYsZeh1EVcGsxDDtLjARjPkci",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 71,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:9/8\nL:1/8\nK:Bm clef=treble\nA2 G F2 A d z A | B2 c d z e f d B | A2 G F2 A d z A | B c d A F D D3 |\nA2 G F2 A d z A | B2 c d z e f d B | A2 G F2 A d z A | B c d A F D D3 |\nf2 d d2 f a2 f | e2 d c z e g f e | f2 d d2 f a2 f | e c A A B c d2 g |\nf2 d d2 f a g f | e2 c c2 e g f e | f d f e f g a g e | e d c A B c d c B |]\n"
+}

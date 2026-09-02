@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdg1vdibqjbmh2x",
+  "title": "Up and down again",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdG1VDibQJBmh2Xii6FiFUmw88AwnhHZW3U1uDn2wLqN2",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:9/8\nL:1/8\nK:Dm clef=treble\nG A =B E F E E F E | G A =B E F E A F D | G A =B E F E E F E | F E D A d =B A F D |\nG A =B E F E E F E | G A =B E F E A F D | G A =B E F E E F E | F E D A d =B A F D |\nG A =B B d B B d B | G A =B B d B A F D | G A =B B d B B d B | c =B A A d B A F D |\nG A =B B d B B d B | G A =B B d B A F D | G A =B B d B B d B | c =B A A d B A F D |]\n"
+}

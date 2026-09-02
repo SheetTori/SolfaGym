@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmq8bpocvuqebkxg",
+  "title": "Pigtown",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQ8bPoCVUQeBKXGkZkuiLi1rXYKfNsueFXT31yZrzZzvi",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 71,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Bm clef=treble\nG2 g e d2 e d | B2 g e d B A B | G2 g e d2 e d | B G A G E F G A |\nG2 g e d2 e d | B2 g e d B A B | G2 g e d2 e d | B G A F G4 |\nG2 g e d2 e d | B2 g e d B A B | G2 g e d2 e d | B G A G E F G A |\nG2 g e d2 e d | B2 g e d B A B | G2 g e d2 e d | B G A F G4 |\nB2 e2 e f g e | f e d f e d B A | B2 e2 e f g e | f g a f g2 e d |\nB2 e2 e f g e | f e d f e d B A | B2 e2 e f g e | f g a f g2 d B |\nB2 e2 e f g e | f e d f e d B A | B2 e2 e f g e | f g a f g2 e d |\nB2 e2 e f g e | f e d f e d B A | B2 e2 e f g e | f g a f g2 d B |]\n"
+}

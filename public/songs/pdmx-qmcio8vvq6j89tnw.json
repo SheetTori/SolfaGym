@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcio8vvq6j89tnw",
+  "title": "Vandalls of Hammerwich",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmcio8vvQ6J89tnwX99LawyVkbfBF7BG6wSBE4zB2tWmnk",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\nG2 B2 B2 B2 | G2 B2 B2 B2 | d4 c4 | B B6 A |\nG2 B2 B2 B2 | G2 B2 B2 B2 | d2 c2 A2 F2 | G8 |\nG2 B2 B2 B2 | G2 B2 B2 B2 | d4 c4 | B B6 A |\nG2 B2 B2 B2 | G2 B2 B2 B2 | d2 c2 A2 F2 | G2 A2 B2 c2 |\nd4 d4 | d d6 d | e2 g2 f2 e2 | e2 d2 d2 d2 |\nd2 c2 c2 c2 | c2 B2 B2 G B | d2 c2 A2 F2 | G8 |\nG2 B2 B2 B2 | G2 B2 B2 B2 | d4 c4 | B B6 A |\nG2 B2 B2 B2 | G2 B2 B2 B2 | d2 c2 A2 F2 | d4 d4 |\nd d6 d | e2 g2 f2 e2 | e2 d2 d2 d2 | d2 c2 c2 c2 |\nc2 B2 B2 G B | d2 c2 A2 F2 | G8 |]\n"
+}

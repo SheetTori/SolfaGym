@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqvmucrpnz3zzyb",
+  "title": "\\AA du som metter liten fugl",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQvmucrpNz3zZYbGLLGBwuBNJYkH2dFvxoyYAT8FCaNBr",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/4\nK:F clef=treble\nC | c c c B | A A A G | F F F E |\nF2 | z C | c c c B | A A A G |\nF F F E | F2 |]\n"
+}

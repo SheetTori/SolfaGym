@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmausurky2xndmbc",
+  "title": "Jydsk polonaise",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmauSurkY2XnDmbCqvS1XhcfScZgZg7XWCZZ7uU5oCtrDG",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:D clef=treble\nA2 A G F2 | B2 B A G2 | e2 e d c2 | f2 f e d2 |\nA2 A G F2 | B2 B A G2 | e2 e d c2 | d2 d2 |\nz2 f2 f e d2 | g2 g f e2 | e2 e d c2 | f2 f e d2 |\nA2 A G F2 | B2 B A G2 | e2 e d c2 | d2 d2 |\nz2 f2 f e d2 | g2 g f e2 | e2 e d c2 | f2 f e d2 |\nA2 A G F2 | B2 B A G2 | e2 e d c2 | d2 d2 |]\n"
+}

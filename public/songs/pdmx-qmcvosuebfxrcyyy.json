@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcvosuebfxrcyyy",
+  "title": "Keep Your Feet Still",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcvoSuEBfxrCyyYL6NHyLxSvEvVMbczuYwyNzjWbPrkxg",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/4\nK:Dm clef=treble\n^F G | A A A =B | A ^F E D | G A =B ^c |\nd2 ^c =B | A A A A | =B A ^F D | E2 E4 |\n^F G | A A A =B | A ^F E D | G A =B ^c |\nd2 ^c =B | A2 ^c =B | A G ^F E | D2 D4 |\nE ^F | G G G G | G A2 G | G ^F F =F |\n^F2 F G | A A A A | =B A ^F D | E2 E4 |\n^F G | A A A =B | A ^F E D | G A =B ^c |\nd2 ^c =B | A2 ^c =B | A G ^F E | D2 D4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmeljps28dkqtt7x",
+  "title": "Over the Waterfall",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeLJPS28DkQTT7xMHST8LuBm6SsqKT6PxGhdCg3dma9qm",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:D clef=treble\nd e | f2 a2 g f e2 | d2 B2 A4 | f2 a2 g f e2 |\nd4 d2 d e | f2 a2 g f e2 | d2 B2 A3 B | =c2 c2 B2 A2 |\nG4 G4 | f2 a2 g f e2 | d2 B2 A4 | f2 a2 g f e2 |\nd4 d2 d e | f2 a2 g f e2 | d2 B2 A3 B | =c2 c2 B2 A2 |\nG4 G4 | A2 A2 B2 B2 | A B A G F4 | A2 d2 =c d e2 |\nf4 | z4 A2 A2 B2 B2 | A B A G F2 F G | A2 A2 G F E2 |\nD4 D4 | A2 A2 B2 B2 | A B A G F4 | A2 d2 =c d e2 |\nf4 | z4 A2 A2 B2 B2 | A B A G F2 F G | A2 A2 G F E2 |\nD4 D4 |]\n"
+}

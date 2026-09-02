@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmefeuzmhmvqcdgp",
+  "title": "Soldier's Joy (001)",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmefEUZmHMVQCdGp3cW1vhVFbxvyGpFjx6jD2w8nR4tbQc",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nA F D F A F D F | A2 d2 d2 c B | A F D F A F D F | G2 E2 E2 F G |\nA F D F A F D F | A2 d2 d2 d e | f a f d e g e c | d2 d2 d4 |\nA F D F A F D F | A2 d2 d2 c B | A F D F A F D F | G2 E2 E2 F G |\nA F D F A F D F | A2 d2 d2 d e | f a f d e g e c | d2 d2 d4 |\nf2 f g a2 f2 | e2 e f g2 e2 | f2 f g a2 f2 | e d c B A4 |\nf2 f g a2 f2 | e2 e f g2 e2 | f a f d e g e c | d2 d2 d4 |\nf2 f g a2 f2 | e2 e f g2 e2 | f2 f g a2 f2 | e d c B A4 |\nf2 f g a2 f2 | e2 e f g2 e2 | f a f d e g e c | d2 d2 d4 |]\n"
+}

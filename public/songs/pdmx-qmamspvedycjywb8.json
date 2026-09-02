@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmamspvedycjywb8",
+  "title": "Marsk Stigs d\\otre",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmamspVedycJyWB8RxNKmrWGRimTxJX9ZbFmZ99C3vCcDn",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/2\nL:1/4\nK:Dm clef=treble\nD2 | F2 E D A2 A A | d2 c d A3 A | A2 =B c d2 e2 |\nc2 =B B A3 B | c2 c2 d2 A2 | A2 G G F3 E | F2 G G A2 G F |\nE2 D4 |]\n"
+}

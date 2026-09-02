@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtn36bk9ctswm17",
+  "title": "High-caul cap",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTN36bK9cTswm17ybhQYWmdhb9BYgY3cNUYufPqCnuG41",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Em clef=treble\nD2 | G2 G A B2 d2 | c B A G B A G A | B2 A2 A2 D2 |\nG F G A B2 d2 | c B A G B c A B | G2 E2 E2 D E | G2 E2 E2 |\nD2 | G2 G A B2 d2 | c B A G B A G A | B2 A2 A2 D2 |\nG F G A B2 d2 | c B A G B c A B | G2 E2 E2 D E | G2 E2 E2 |\nd2 | e2 g2 d2 e2 | c B A G B A G A | B2 A2 A2 G A |\nB2 A2 A2 d2 | e2 g2 d2 e2 | c B A G B c A B | G2 E2 G2 D E |\nG2 E2 E2 | d2 | e2 g2 d2 e2 | c B A G B A G A |\nB2 A2 A2 G A | B2 A2 A2 d2 | e f g e d g e d | B d A c B c A B |\nG2 E2 E2 D E | G2 E2 E2 |]\n"
+}

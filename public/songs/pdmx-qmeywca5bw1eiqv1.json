@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmeywca5bw1eiqv1",
+  "title": "Mwynen Cynwyd",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeYwCa5bw1Eiqv1LWF4mfrJsvfM8ruUBh8DS4whuRrpyg",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:C clef=treble\nd | B G G G2 G | G B d d c B | e A A A2 A |\nc d e e d c | B G G G2 G | G B d d c B | c B c A d c |\nB A B G2 | d | B G G G2 G | G B d d c B |\ne A A A2 A | c d e e d c | B G G G2 G | G B d d c B |\nc B c A d c | B A B G3 | e2 g e2 g | e2 g e B e |\nd2 g d2 g | d2 g d B d | e A A A2 A | c2 d e d c |\nf e d e d c | d e f e d c | d | B G G G2 G |\nG B d d c B | e A A A2 A | c d e e d c | B G G G2 G |\nG B d d c B | c B c A d c | e2 g e2 g | e2 g e B e |\nd2 g d2 g | d2 g d B d | e A A A2 A | c2 d e d c |\nf e d e d c | d e f e d c |]\n"
+}

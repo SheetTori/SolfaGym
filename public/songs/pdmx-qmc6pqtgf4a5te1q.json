@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmc6pqtgf4a5te1q",
+  "title": "This old man",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmc6PqTGF4A5Te1QyJQkhUnQXAb3mfiKwZcF9EUcCKL3ii",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 60,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:C clef=treble\nG2 E2 G4 | G2 E2 G4 | A2 G2 F2 E2 | D2 E2 F2 E F |\nG2 C2 C C C2 | C D E F G4 | G2 D2 D2 F2 | E2 D2 C4 |]\n"
+}

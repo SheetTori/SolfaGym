@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmv6u1tq4qx7ivgd",
+  "title": "The Horse's Bransle",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmV6U1tq4qX7iVGDrw4irWuo3upLdBuaEk67uSvNnwMY8z",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Gm clef=treble\nG3 A =B2 B2 | c2 =B2 A2 c2 | =B2 A2 G2 ^F2 | =E4 D4 |\nG3 A =B2 B2 | c2 =B2 A2 c2 | =B2 G2 A2 ^F2 | G4 G4 |\nG3 A =B2 B2 | c2 =B2 A2 c2 | =B2 A2 G2 ^F2 | =E4 D4 |\nG3 A =B2 B2 | c2 =B2 A2 c2 | =B2 G2 A2 ^F2 | G4 G4 |\nd2 c =B A2 B2 | c2 =B A G2 B2 | A2 G2 ^F2 G2 | A3 =B A4 |\nd2 c =B A2 B2 c2 B A G2 B2 | A2 G2 G2 ^F2 G4 G4 | d2 c =B A2 B2 | c2 =B A G2 B2 |\nA2 G2 ^F2 G2 | A3 =B A4 | d2 c =B A2 B2 c2 B A G2 B2 | A2 G2 G2 ^F2 G4 G4 |\nB2 A G B2 A G | ^F2 G2 A4 | D2 =E2 ^F2 G2 | A2 B2 A4 |\nB2 A G B2 A G | ^F2 G2 A4 | D2 =E2 ^F2 G2 | G2 ^F2 G4 |\nB2 A G B2 A G | ^F2 G2 A4 | D2 =E2 ^F2 G2 | A2 B2 A4 |\nB2 A G B2 A G | ^F2 G2 A4 | D2 =E2 ^F2 G2 | G2 ^F2 G4 |]\n"
+}

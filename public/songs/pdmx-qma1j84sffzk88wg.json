@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qma1j84sffzk88wg",
+  "title": "Berendans",
+  "source": "PDMX — cc-zero",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qma1J84sfFzK88WGc7242yYsRYzpyXDq6L9FGQX2cmEbYy",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "cc-zero",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Cm clef=treble\ng2 c2 c4 | g2 c2 c2 c d | e2 e2 d2 e2 | f2 f2 e2 f2 |\ng2 c2 g2 c2 | g2 c2 c2 c d | e2 e2 d2 d2 | c4 c4 |\ng2 c2 c4 | g2 c2 c2 c d | e2 e2 d2 e2 | f2 f2 e2 f2 |\ng2 c2 g2 c2 | g2 c2 c2 c d | e2 e2 d2 d2 | c4 c4 |]\n"
+}

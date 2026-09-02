@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpcwwdvp53zdb4d",
+  "title": "The flowers of Dungarvan",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPcwwDvp53zDb4D7DsQy7MSxrWfYg6BT2nrAEo4wL4WSH",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nG | A F D D d B | A d F F E D | B c d g e d |\nc A A A2 B | A B G F E D | B d B A B c | d f a g f e |\nf d d d2 | G | A F D D d B | A d F F E D |\nB c d g e d | c A A A2 B | A B G F E D | B d B A B c |\nd f a g f e | f d d d2 | z6 e | f e d a f d |\ne d c B c d | A F A D a f | g f g e2 a | f e d e c A |\nd A G F G A | B c d e a g | f d d d2 | G |\nA F D D d B | A d F F E D | B c d g e d | c A A A2 B |\nA B G F E D | B d B A B c | d f a g f e | f d d d2 |\nz6 e | f e d a f d | e d c B c d | A F A D a f |\ng f g e2 a | f e d e c A | d A G F G A | B c d e a g |\nf d d d2 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwvcctvktx6z3z6",
+  "title": "The Snowy Breasted Pearl",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWvCctvktX6z3z69wrnQPBSZGEPk7ywoy7GCYjRa7G1Jb",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:A clef=treble\nE | A3 B A G F E | e3 f e2 d2 | c2 A2 c B A G |\nF6 G2 | A3 B A G F E | e3 f e2 d2 | c2 A2 c B A G |\nA6 e2 | f3 d a2 f2 | e2 d2 c2 e2 | d2 c2 B2 A2 |\nF6 G2 | A3 B A G F E | e3 f e2 d2 | c2 A2 c B A G |\nA6 |]\n"
+}

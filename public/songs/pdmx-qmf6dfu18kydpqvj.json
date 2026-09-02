@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmf6dfu18kydpqvj",
+  "title": "Tink A Tink",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmf6DFU18KYdpQVjLwQQGpTCn3ioeWDajeH6nMvLJKkf5C",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nG2 d B G2 d B | c d c B A G F2 | G2 d B G2 d B | c A G F G2 |\nz2 G2 d B G2 d B | c d c B A G F2 | G2 d B G2 d B | c A G F G2 |\nz2 d2 g f e d c B | A B c d c B A G | d2 g f e d c B | A B c d G2 |\nz2 d2 g f e d c B | A B c d c B A G | d2 g f e d c B | A B c d G2 |\nz2 G B d B G B d B | G B d B c A G F | G B d B G c e c | B A G F G2 |\nz2 G B d B G B d B | G B d B c A G F | G B d B G c e c | B A G F G2 |]\n"
+}

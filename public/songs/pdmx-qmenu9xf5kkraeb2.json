@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmenu9xf5kkraeb2",
+  "title": "Sample tune - abcm2ps (mtunes1.abc) - Carolan's Cup",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeNU9xf5kkraEb2xBi8aJ7K9CaUBV5H6kD58Dr6z421HK",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 71,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:Bm clef=treble\nd2 e2 | f3 g f e d2 f2 a2 | e4 d B A4 f e | d2 c2 B2 A F3 A2 |\nB2 b2 a2 b2 f2 e2 | f3 g f e d2 f2 a2 | e2 g f e d c4 e2 | d2 c2 B2 A2 F2 A2 |\nB6 B4 | d2 e2 | f3 g f e d2 f2 a2 | e4 d B A4 f e |\nd2 c2 B2 A F3 A2 | B2 b2 a2 b2 f2 e2 | f3 g f e d2 f2 a2 | e2 g f e d c4 e2 |\nd2 c2 B2 A2 F2 A2 | B6 B4 | c2 | d3 e d c d4 f2 |\na3 b a f a4 f2 | e3 f e d e2 f2 a2 | b6 b2 f2 a2 | b2 a2 f e d2 e2 a2 |\ne4 d B A4 f e | d2 c2 B2 A2 F2 A2 | B6 B4 | c2 |\nd3 e d c d4 f2 | a3 b a f a4 f2 | e3 f e d e2 f2 a2 | b6 b2 f2 a2 |\nb2 a2 f e d2 e2 a2 | e4 d B A4 f e | d2 c2 B2 A2 F2 A2 | B6 B4 |]\n"
+}

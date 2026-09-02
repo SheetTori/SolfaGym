@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbas6uuceua2idf",
+  "title": "House of the Rising Sun",
+  "source": "PDMX — cc-zero",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbAs6UuCEUA2idfKkBEf8ZeesunrW5X9qQPnYHSqRqApY",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "cc-zero",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:Am clef=treble\nA2 | A4 B2 | c4 e2 | d4 A2 |\nA4 | z2 a2 a4 | a2 g4 | e d e3 |\nz a2 a4 | a2 g4 | e2 c e d A | A2 c3 c |\nA A4 A | ^G2 E2 G2 | A6 | A2 z2 A2 |\nA4 B2 | c4 e2 | d4 A2 | A4 |\nz2 a2 a4 | a2 g4 | e d e3 | z a2 a4 |\na2 g4 | e2 c e d A | A2 c3 c | A A4 A |\n^G2 E2 G2 | A6 | A2 z2 A2 | ^G2 E2 B2 |\nA6 | A2 |]\n"
+}

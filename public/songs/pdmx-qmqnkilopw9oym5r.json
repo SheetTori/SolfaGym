@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqnkilopw9oym5r",
+  "title": "Haughs o' Cromdale",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQNkiLoPW9oym5RrJzFYsq2gL56XKjU5PRofUdCx6vvoP",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:Am clef=treble\na2 | e A3 A3 B e3 d B d3 | e A3 A3 B G3 A B d3 | e A3 A3 B e3 d B d3 |\ne3 g e d c B A4 A2 a2 | e A3 A3 B e3 d B d3 | e A3 A3 B G3 A B d3 | e A3 A3 B e3 d B d3 |\ne3 g e d c B A4 A2 | B2 | G g3 g3 a g ^f e f g4 | B d3 d3 e e d c B d4 |\ne a3 a3 b c'3 a b3 g | e3 g e d c B A4 A3 B | G g3 g3 a g ^f e f g4 | B d3 d3 e e d c B d4 |\ne a3 a3 b c'3 a b3 g | e3 g e d c B A4 A2 |]\n"
+}

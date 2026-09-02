@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwldpgjjwmlwt4m",
+  "title": "The Foxhunter Reel",
+  "source": "PDMX — cc-zero",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWLDPGjjWmLWT4mF1JbQWkZYTHwC1AMmTJaxJS1H3Gtnq",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "cc-zero",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 59,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Bm clef=treble\nD2 B, G, D2 B, G, | D2 B, G, A, G, E, G, | D2 B, G, D G, B, G, | A, =C B, G, A, G, E, G, |\nD2 B, G, D2 B, G, | D2 B, G, A, G, E, G, | D2 B, G, D G, B, G, | A, =C B, G, A, G, E, G, |\nD, D,2 B, B, A, G, E, | D, G, B, G, A, G, E, G, | D, D,2 B, B, A, G, B, | A, =C B, G, A, G, E, G, |\nD, D,2 B, B, A, G, E, | D, G, B, G, A, G, E, G, | D, D,2 B, B, A, G, B, | A, =C B, G, A, G, E, G, |\nG E D B, G, A, B, =C | G D B, D E A A F | G E D B, G, A, B, G, | A, B, =C D E A, A,2 |\nG E D B, G, A, B, =C | G D B, D E A A F | G E D B, G, A, B, G, | A, B, =C D E A, A,2 |\nD G G F G2 G E | D G G D E G D B, | D G G F G2 G D | E G D B, A, G, A, B, |\nD G G F G2 G E | D G G D E G D B, | D G G F G2 G D | E G D B, A, G, A, B, |\nG,2 B, G, D G, B, G, | G, A, B, G, A, G, A, B, | G,2 B, G, D G, B, D | E G D B, A, G, A, B, |\nG,2 B, G, D G, B, G, | G, A, B, G, A, G, A, B, | G,2 B, G, D G, B, D | E G D B, A, G, A, B, |]\n"
+}

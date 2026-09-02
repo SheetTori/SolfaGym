@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmt32xcc4kkhzp8x",
+  "title": "Gavottes",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmT32xCc4kkhzp8XT4nVDknzy9EY3V1hm6qXUVXYswwh5g",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:G clef=treble\nD2 G2 G2 E2 F2 G2 A4 | A2 G2 F2 E2 D4 D4 | D2 G2 G2 E2 F2 G2 A4 | A2 G2 F2 E2 D4 D4 |\nD2 G2 G2 E2 F2 G2 A2 B2 | c2 B2 A2 F2 G4 G4 | D2 G2 G2 E2 F2 G2 A2 B2 | c2 B2 A2 F2 G4 G4 |\nd2 d2 B d B2 A2 B2 c2 B2 | A2 B2 c B A2 B4 B4 | D2 G2 G2 E2 F2 G2 A2 B2 | c2 B2 A2 F2 G4 G4 |\nd2 d2 B d B2 A2 B2 c2 B2 | A2 B2 c B A2 B4 B4 | d2 d2 B d B2 A2 B2 c2 B2 | A2 B2 c B A2 G4 G4 |\nd2 d2 B d B2 A2 B2 c2 B2 | A2 B2 c B A2 G4 G4 |]\n"
+}

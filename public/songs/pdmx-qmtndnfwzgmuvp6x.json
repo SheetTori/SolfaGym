@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtndnfwzgmuvp6x",
+  "title": "Toss the Feathers",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTndNFwZGMUVP6XE89RyQgP9MY3mxZfwZgcyFdzJGYnDq",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 66,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:F#m clef=treble\nE B B B d B B B | E B B A F2 F A | B E E E B2 A B | d e f e d B A =G |\nE B B B d B B B | E B B A F2 F A | B E E E B2 A B | d e f e d B A =G |\nB e e d e2 d e | f e d e f e e2 | f e b e f e b e | f e d e f e e2 |\nB e e d e2 d e | f e d e f a a a | b3 f a3 f | e2 f e d B A F |]\n"
+}

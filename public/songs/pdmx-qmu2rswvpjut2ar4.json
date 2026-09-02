@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmu2rswvpjut2ar4",
+  "title": "Hela'r Geinach - Hunting the Hare",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmU2RswVpJUt2aR47QbosFkKMLGyh5DknRrF7JwJiXftnT",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:D clef=treble\nA2 | D3 E D2 F2 | A3 B A2 F2 | D2 F2 A2 F2 |\nE4 E2 A2 | D3 E D2 F2 | A3 B A2 F2 | D2 F2 A2 F2 |\nE4 E4 | A3 B A2 F2 | A2 B2 A2 G A | B2 A2 G2 F2 |\nE4 E4 | D2 F2 A4 | B2 A2 F4 | D2 F2 A4 |\nB2 A2 F4 | D2 F2 A2 F2 | E4 D2 |]\n"
+}

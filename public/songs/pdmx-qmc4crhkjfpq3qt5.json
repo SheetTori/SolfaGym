@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmc4crhkjfpq3qt5",
+  "title": "The Happy Meeting",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmc4crHkJfpQ3qT5qSfQKjTMYrUf6fVcjz2BZFUhtY6z1G",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:G clef=treble\nd2 | d2 B2 G2 G2 B2 d2 | e2 f2 g2 g4 e2 | d2 B2 G2 G2 A2 B2 |\nA6 A4 d2 | d2 B2 G2 G2 B2 d2 | e2 f2 g2 g4 e2 | d2 B2 G2 A2 B2 A2 |\nG6 G4 | d2 | d2 B2 G2 G2 B2 d2 | e2 f2 g2 g4 e2 |\nd2 B2 G2 G2 A2 B2 | A6 A4 d2 | d2 B2 G2 G2 B2 d2 | e2 f2 g2 g4 e2 |\nd2 B2 G2 A2 B2 A2 | G6 G4 | B c | d4 g2 g2 f2 g2 |\ne4 g2 g2 f2 g2 | d2 B2 G2 G2 A2 B2 | A6 A4 d2 | d2 B2 G2 G2 B2 d2 |\ne2 f2 g2 g4 e2 | d2 B2 G2 A2 B2 A2 | G6 G4 | B c |\nd4 g2 g2 f2 g2 | e4 g2 g2 f2 g2 | d2 B2 G2 G2 A2 B2 | A6 A4 d2 |\nd2 B2 G2 G2 B2 d2 | e2 f2 g2 g4 e2 | d2 B2 G2 A2 B2 A2 | G6 G4 |]\n"
+}

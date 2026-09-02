@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmzqitjas1ezpvmv",
+  "title": "Drunken Piper",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmZqiTjAS1ezpVMV3PYhTUio4vawxh74vnNmknSobvyV1M",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:A clef=treble\nA A A c e2 e f | e d B d e2 =g2 | =G G G B d2 d e | d B =G B d2 e2 |\nA A B d e2 e f | e d B d e2 a2 | =g2 f d e f e d | B2 A2 A3 A |\nA A A c e2 e f | e d B d e2 =g2 | =G G G B d2 d e | d B =G B d2 e2 |\nA A B d e2 e f | e d B d e2 a2 | =g2 f d e f e d | B2 A2 A4 |\na3 =g e2 a g | e d e f =g2 g2 | =G2 G B d2 d e | d B =G B d2 e2 |\na3 =g e2 a g | e d e f =g2 a2 | =g2 f d e f e d | B2 A2 A4 |\na3 =g e2 a g | e d e f =g2 g2 | =G2 G B d2 d e | d B =G B d2 e2 |\nA A B d e2 e f | e d B d e2 a2 | =g2 f d e f e d | B2 A2 A4 |]\n"
+}

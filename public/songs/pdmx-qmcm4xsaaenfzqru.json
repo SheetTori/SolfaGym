@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcm4xsaaenfzqru",
+  "title": "Angle Cain Tune",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcM4XsaAENfzqrUAYgkesnkerQHceNqhb7mr4PYp2M22W",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:C clef=treble\nG B | c2 G2 E2 G2 | c B c d e2 d c | B2 G A B2 d2 |\ng ^f g a g =f e d | c2 G2 E2 G2 | c B c d e2 d c | B2 G2 B2 d2 |\nc3 c c2 | G B | c2 G2 E2 G2 | c B c d e2 d c |\nB2 G A B2 d2 | g ^f g a g =f e d | c2 G2 E2 G2 | c B c d e2 d c |\nB2 G2 B2 d2 | c3 c c2 | e f | g2 ^f2 g2 a2 |\ng4 e2 d c | B2 G2 B2 d2 | g ^f g a g =f e f | g2 ^f2 g2 a2 |\ng4 e2 d c | B2 G2 B2 d2 | c3 c c2 | e f |\ng2 ^f2 g2 a2 | g4 e2 d c | B2 G2 B2 d2 | g ^f g a g =f e f |\ng2 ^f2 g2 a2 | g4 e2 d c | B2 G2 B2 d2 | c3 c c2 |]\n"
+}

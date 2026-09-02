@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmvwhanm2fygwvu2",
+  "title": "Lott'er d\\od",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmVwhaNm2fYgwVU2hXyesETUSpj94GQi1eQ8PWxdvooFEN",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:G clef=treble\nB d G2 | B d G2 | c e g e | e2 d2 |\nB d G2 | B d G2 | A B c F | A2 G2 |\nB d G2 | B d G2 | c e g e | e2 d2 |\nB d G2 | B d G2 | A B c F | A2 G2 |\ng2 g2 | f2 f2 | e2 e2 | d4 |\nc e d c | B d c B | A c B A | G4 |\ng2 g2 | f2 f2 | e2 e2 | d4 |\nc e d c | B d c B | A c B A | G4 |]\n"
+}

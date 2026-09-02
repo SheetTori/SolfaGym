@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmur9rcbjjqkqvjw",
+  "title": "L'anneau",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmUR9RCBjJqkqVjwqzFa1mYbszEoREukomcQMokux3pUny",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Am clef=treble\nA | A c B A G2 G2 | c e e d e3 A | A c B A G2 G2 |\nc e e d e2 c d | e2 e f e2 d c | d2 d f e A A B | A2 G F G2 B d |\nc2 B2 A4 |]\n"
+}

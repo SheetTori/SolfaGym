@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdfks57gruqud6f",
+  "title": "La preso de Lleida",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdfkS57GrUquD6fJKAVFKGyhDHVqFCjJnUgDaYj3o6LEx",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/8\nL:1/8\nK:Am clef=treble\nE | A2 c | B c B | A2 A |\nz2 E | A2 c | B c B | A4 |\nz c | e2 e | d2 e | c B c |\ne e e | d B3 | z B | e2 e |\nd2 e | c A c | e B c | A4 |]\n"
+}

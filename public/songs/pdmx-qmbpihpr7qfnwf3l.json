@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbpihpr7qfnwf3l",
+  "title": "The Boulonzier",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmbpihpr7QfnWF3LtC16fCe6NAFPKgEdEGqqvKYCFTcXn6",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:C clef=treble\ng | e d e f | g2 c2 | e d e f |\ng2 c2 | e d e f | g a g f | e d e f |\ng3 | g | e d e f | g2 c2 |\ne d e f | g2 c2 | e d e f | g a g f |\ne d e f | g3 | G | G c c c |\nc2 c c | d e B d | c B A G | G c c c |\nc2 c c | d f B d | c3 | G |\nG c c c | c2 c c | d e B d | c B A G |\nG c c c | c2 c c | d f B d | c3 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmeksba75af5myr4",
+  "title": "Davy Davy Knick Knack",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeKsba75AF5Myr41MvZAigjKVDSxaFkSvG55oeMGEW8cv",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\nD2 | G F G A B2 B2 | G F G A B2 B2 | d c B c A2 A2 |\nd c B c A2 A2 | G F G A B2 B2 | G F G A B2 B2 | d c B c A c B A |\nG2 B2 G2 | D2 | G F G A B2 B2 | G F G A B2 B2 |\nd c B c A2 A2 | d c B c A2 A2 | G F G A B2 B2 | G F G A B2 B2 |\nd c B c A c B A | G2 B2 G2 | B c | d3 c B2 d2 |\ng2 g2 d4 | d c B c A2 A2 | d c B c A2 A2 | d3 c B2 d2 |\ng2 g2 d4 | d c B c A c B A | G2 B2 G2 | B c |\nd3 c B2 d2 | g2 g2 d4 | d c B c A2 A2 | d c B c A2 A2 |\nd3 c B2 d2 | g2 g2 d4 | d c B c A c B A | G2 B2 G2 |]\n"
+}

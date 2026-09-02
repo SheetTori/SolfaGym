@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmfmhg1u4sgdzpdn",
+  "title": "Was macht der Fuhrmann",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmfMhg1U4SgdZpDNbimEfAAewEnsWBGTWJYTbSP3kkcXMd",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/4\nK:C clef=treble\nG2 A B | c2 G c | B A G F | E G G G |\nF A A F | E G G E | D E F D | C E G2 |\nG2 G A | G2 e2 | d2 A G | c3 |]\n"
+}

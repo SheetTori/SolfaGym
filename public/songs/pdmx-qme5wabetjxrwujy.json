@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qme5wabetjxrwujy",
+  "title": "En Passant la Rivi\\ere",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qme5wABeTjXRWUJyX87FEAXqY1MSdKJQTvNm88LeKh93TZ",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:D clef=treble\nD3 E F2 G2 | A6 A2 | B3 c d2 B2 | A3 G F2 E2 |\nD3 E F2 G2 | A6 A2 | B3 c d2 B2 | A8 |\nD3 E F2 G2 | A6 A2 | B3 c d2 B2 | A3 G F2 E2 |\nD3 E F2 G2 | A6 A2 | B3 c d2 B2 | A8 |\nF3 D F2 A2 | G3 F E2 F2 | G3 F G2 B2 | A3 G F2 A2 |\nF3 D F2 A2 | G3 F E2 F2 | G2 A2 B2 c2 | d8 |\nF3 D F2 A2 | G3 F E2 F2 | G3 F G2 B2 | A3 G F2 A2 |\nF3 D F2 A2 | G3 F E2 F2 | G2 A2 B2 c2 | d8 |]\n"
+}

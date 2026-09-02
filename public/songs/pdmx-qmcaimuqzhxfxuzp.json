@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcaimuqzhxfxuzp",
+  "title": "Home by Bearna",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcAimuqzhxfxuzPzYkADzcabipvNrYd9c1rrdDRamXpM6",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Dm clef=treble\nD | D2 D F2 G | A2 d c2 A | G2 A c2 E |\nE2 D C3 | D2 D F2 G | A2 d c2 A | G2 A c2 E |\nD3 D2 A | A2 d d2 e | d2 c A2 =B | c2 d c2 A |\nG2 A c2 A | A2 d d2 e | d2 c A3 | G2 E c2 E |\nD3 D2 |]\n"
+}

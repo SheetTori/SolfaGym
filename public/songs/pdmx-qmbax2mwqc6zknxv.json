@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbax2mwqc6zknxv",
+  "title": "Tour",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbaX2mwQC6zknXVB4feTd5jBTgub4jbGneAW6GqP3AAxY",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Gm clef=treble\nG | A2 c2 c3 B | G2 B2 A3 G | A2 c2 c3 B |\nG2 B2 A3 | G | A2 c2 c3 B | G2 B2 A3 G |\nA2 c2 c3 B | G2 B2 A3 | G | A2 c2 c2 B2 |\nA2 B2 G2 | F2 | G2 G2 A2 c B | A2 c2 B2 G G |\nG2 G2 A2 c B | A2 B2 G2 | F2 | G2 G2 A2 c B |\nA2 c2 B2 G G | G2 G2 A2 c B | A2 B2 G2 |]\n"
+}

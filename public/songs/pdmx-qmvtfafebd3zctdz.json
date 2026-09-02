@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmvtfafebd3zctdz",
+  "title": "Lady Abergavenny's Fancy",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmVtfAFebd3ZctdZGTBB1fz56qwrt2x3yMdoMAkBk6VNCK",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:G clef=treble\nD2 | G D G D B G B G | d B g B d2 c B | c e c A B d B G |\nA c A F G F E D | G D G D B G B G | d B g B d2 c B | c e c A B d B G |\nc A G F G2 | D2 | G D G D B G B G | d B g B d2 c B |\nc e c A B d B G | A c A F G F E D | G D G D B G B G | d B g B d2 c B |\nc e c A B d B G | c A G F G2 | d2 | d B d B c A c A |\nB G d B B2 A2 | d B d B c A c A | B G d B B2 A2 | G D G D B G B G |\nd B g B d2 c B | c e c A B d B G | E c A F G2 | D2 |\nG D G D B G B G | d B g B d2 c B | c e c A B d B G | A c A F G F E D |\nG D G D B G B G | d B g B d2 c B | c e c A B d B G | c A G F G2 |\nd2 | d B d B c A c A | B G d B B2 A2 | d B d B c A c A |\nB G d B B2 A2 | G D G D B G B G | d B g B d2 c B | c e c A B d B G |\nE c A F G2 |]\n"
+}

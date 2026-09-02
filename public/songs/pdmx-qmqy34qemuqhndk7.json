@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqy34qemuqhndk7",
+  "title": "Deirín Dé",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQy34QeMuQHndk78v3ZG8ZBH2AYj5jFo6cpP1urVTvWVq",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Gm clef=treble\nG2 G2 G2 A2 | F2 F D F3 F | G2 A2 B2 D2 | B2 A B G4 |\nG2 G2 G2 A2 | F2 F D F3 F | G2 A2 B2 D2 | B2 A B G4 |\nG2 G2 G2 A2 | F2 F D F3 F | G2 A2 B2 D2 | B2 A B G4 |\nG2 G2 G2 A2 | F2 F D F3 F | G2 A2 B2 D2 | B2 A B G4 |]\n"
+}

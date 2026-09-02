@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpca3fszsqc3g41",
+  "title": "Det \\aldre Foliatemat",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPCA3FSzsqC3G41N6ceJFoTsYDDj6MSLpHNTdcqnL8F3F",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/4\nK:Gm clef=treble\nB B | A3 | B3 | c3 |\nc c c | c3 | B3 | A3 |\nA A A | A3 | B3 | c3 |\nc c c | B3 | A3 | G3 |\nG |]\n"
+}

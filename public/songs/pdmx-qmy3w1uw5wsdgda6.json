@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmy3w1uw5wsdgda6",
+  "title": "Haugebonden",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmY3w1uw5wSdGDa6HUGbWP5ZtJFrNMeGY9pmVz7sgpBmxZ",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 60,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:C clef=treble\nG2 | c4 B2 G2 c4 c2 e2 | e2 d2 e2 d2 c4 B2 A2 | G2 G2 c2 d2 c2 B2 c2 B2 |\nA4 G8 z2 G2 | c4 e2 d2 c2 B2 c2 A2 | G4 A2 G2 E6 F2 | E2 D2 E2 F2 E2 D2 E2 D2 |\nG4 A8 | z4 G2 E2 F4 D6 G2 | c2 B2 c2 d2 c2 B2 c3 B | A2 G2 A2 G2 F2 E2 G2 E2 |\nC4 C8 |]\n"
+}

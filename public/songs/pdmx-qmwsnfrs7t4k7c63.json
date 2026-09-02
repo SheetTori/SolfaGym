@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwsnfrs7t4k7c63",
+  "title": "Kammerater opp til sang",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWSnfrs7T4K7C63agthJKNRmCGRdwiNSNtZWS7pJbCSRS",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nD2 E2 F2 D2 | F2 G2 A4 | d d c c d A F D | A2 A,2 D4 |\nD2 E2 F2 D2 | F2 G2 A4 | d d c c d A F D | A2 A,2 D4 |]\n"
+}

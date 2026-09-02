@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmd6pqehgywjmbbx",
+  "title": "The Triumph",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmd6PqeHgyWjMBbXTGtWEeGgAot7sggVqJCU914xAyxabv",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:G clef=treble\ng2 | d B B d | c B c A | G g f e |\ne2 d g | d c B A | B A G F | G2 B2 |\nG2 | g2 | d B B d | c B c A |\nG g f e | e2 d g | d c B A | B A G F |\nG2 B2 | G2 | z2 A2 c2 | B2 d2 |\nA2 c2 | B2 d2 | A A A c | B B B g |\nB2 A2 | G4 | A2 c2 | B2 d2 |\nA2 c2 | B2 d2 | A A A c | B B B g |\nB2 A2 | G4 | B2 B d | e d c B |\nA2 A c | c2 B2 | A B c d | e f g e |\nd c B A | B2 G2 | B2 B d | e d c B |\nA2 A c | c2 B2 | A B c d | e f g e |\nd c B A | B2 G2 |]\n"
+}

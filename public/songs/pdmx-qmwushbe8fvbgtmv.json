@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwushbe8fvbgtmv",
+  "title": "Iron Legs",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWUsHbE8fvbgTMvgj1hUEN5GsidCJJdiSVUyne1uu3STB",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nA G | F2 A F E2 A G | F G E F D2 A2 | B2 c2 d2 f e |\nc d B c A2 A G | F2 A F E2 A G | F G E F D2 A2 | B c d e f e d c |\nd6 | A G | F2 A F E2 A G | F G E F D2 A2 |\nB2 c2 d2 f e | c d B c A2 A G | F2 A F E2 A G | F G E F D2 A2 |\nB c d e f e d c | d6 | e2 | f g f g e f e f |\nf g f g e f e f | d e d e c d c d | d e d e c d c d | B c B c A B A B |\nB c B c A B A B | B c d e f e d c | d6 | e2 |\nf g f g e f e f | f g f g e f e f | d e d e c d c d | d e d e c d c d |\nB c B c A B A B | B c B c A B A B | B c d e f e d c | d6 |]\n"
+}

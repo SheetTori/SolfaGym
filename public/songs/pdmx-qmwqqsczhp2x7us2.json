@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwqqsczhp2x7us2",
+  "title": "Lei chivau frus",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWqQSCZHP2x7Us257UD62BBrFAgSGbhhRK4tmJFCq9krT",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 70,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Bb clef=treble\ne2 | d2 e2 f2 g2 | f2 e2 d2 c2 | d2 e2 f2 d2 |\ne d e f e2 e2 | d2 e2 f2 g2 | f2 e2 d2 c2 | e6 |\ne2 | d2 e2 f2 g2 | f2 e2 d2 c2 | d2 e2 f2 d2 |\ne d e f e2 e2 | d2 e2 f2 g2 | f2 e2 d2 c2 | e6 |\nB2 | c4 c4 | B6 B2 | c4 c4 |\nB6 B2 | c2 d2 e2 d2 | c2 B2 A2 G2 | A2 B2 c2 A2 |\nB A B c B2 B2 | c4 c4 | B6 B2 | c4 c4 |\nB6 B2 | c2 d2 e2 d2 | c2 B2 A2 G2 | A2 B2 c2 A2 |\nB6 | e2 | d2 e2 f2 g2 | f2 e2 d2 c2 |\nd2 e2 f2 d2 | e d e f e2 e2 | d2 e2 f2 g2 | f2 e2 d2 c2 |\ne6 | B2 | c4 c4 | B6 B2 |\nc4 c4 | B6 B2 | c2 d2 e2 d2 | c2 B2 A2 G2 |\nA2 B2 c2 A2 | B A B c B2 B2 | c4 c4 | B6 B2 |\nc4 c4 | B6 B2 | c2 d2 e2 d2 | c2 B2 A2 G2 |\nA2 B2 c2 A2 | B6 |]\n"
+}

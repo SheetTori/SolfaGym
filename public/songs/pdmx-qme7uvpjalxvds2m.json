@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qme7uvpjalxvds2m",
+  "title": "Joshua fought the battle of Jericho",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qme7uvpJaLXVDS2MyUe6kqYB6mfvGqLYjAGzU64ewdxT45",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Dm clef=treble\nD ^C D E F F G2 | A A2 A A4 | G G2 G G4 | A A2 A A4 |\nD ^C D E F F G2 | A A2 A A2 F G | A2 G2 F2 E2 | D6 |\nd d | d A A A A3 A | A A3 A2 A A | A A A A A2 A2 |\nA6 ^c2 | d2 A2 A A3 | A2 A2 A2 A A | A A G2 E2 D2 |\nD8 |]\n"
+}

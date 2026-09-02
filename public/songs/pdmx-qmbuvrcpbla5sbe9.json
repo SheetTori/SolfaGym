@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbuvrcpbla5sbe9",
+  "title": "Kun sattui kerran",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbuVrCpBLA5Sbe9dr2ytw5JrkwKcQ1XPKFEuC1B3Qzo7H",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 60,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:C clef=treble\nG,2 | C4 C2 E2 C2 E2 | G4 G2 G2 E2 C2 | D4 D2 F4 B,2 |\nD4 C2 C6 | C4 C2 E2 C2 E2 | G4 G2 G2 E2 C2 | D4 D2 F4 B,2 |\nD4 C2 C4 G,2 | C2 C2 C2 E2 C2 E2 | G2 G2 G G G2 E2 C2 | D3 D D2 F4 B, B, |\nD3 C C2 C4 |]\n"
+}

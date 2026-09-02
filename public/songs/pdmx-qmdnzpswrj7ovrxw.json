@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdnzpswrj7ovrxw",
+  "title": "Moll In the Wad",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdnzpSwrJ7oVrXWCcDdagRg3TFBsy9jMbE1FPicEPeH2E",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\n=c | B A B G2 F | E2 F G2 A | B A B G A B |\nA F D D2 =c | B A B G2 F | E2 F G2 A | B G B d =c B |\nA F D D2 | =c | B A B G2 F | E2 F G2 A |\nB A B G A B | A F D D2 =c | B A B G2 F | E2 F G2 A |\nB G B d =c B | A F D D2 | =c | B G B d2 =c |\nB G B d2 =c | B G B d =c B | e =c A A2 c | B G B d e f |\ng f e d =c B | =c e c B d B | A F D D2 | =c |\nB G B d2 =c | B G B d2 =c | B G B d =c B | e =c A A2 c |\nB G B d e f | g f e d =c B | =c e c B d B | A F D D2 |]\n"
+}

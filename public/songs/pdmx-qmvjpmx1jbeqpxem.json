@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmvjpmx1jbeqpxem",
+  "title": "La Cavalleria de Napoles con dos Clarines",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmVjPmX1JbEqpxeM3JrmauPqZBGgXDU8C2VrRLWtzFgRqp",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:Am clef=treble\nA2 | A3 G A2 | _B2 G4 | A2 A G A2 |\n_B2 G4 | A2 A G A2 | _B2 G4 | A6 |\nA3 G A2 | _B3 c B2 | _B2 A4 | G6 |\nc2 c2 c2 | c6 | A2 A2 A2 | _B3 B B2 |\nG2 G2 G2 | A2 A G A2 | _B2 G4 | A2 A G A2 |\n_B2 G4 | A4 f2 | f3 e f2 | d2 e4 |\nf2 f e f2 | d2 e4 | f2 f e f2 | d2 e4 |\nf6 | C2 C2 C2 | C6 | A2 A2 A2 |\n_B3 B B2 | c2 c2 c2 | A2 A G A2 | _B2 c4 |\nA2 A G A2 | _B2 c4 | A4 |]\n"
+}

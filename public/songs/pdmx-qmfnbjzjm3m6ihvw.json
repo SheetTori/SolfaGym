@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmfnbjzjm3m6ihvw",
+  "title": "Alf i Oddersk\\aer",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmfNBJzjM3M6ihvWKFSepw4exC9rix71r9ZXjQWDofjRDJ",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/2\nL:1/4\nK:Am clef=treble\nA4 B2 c4 B2 | A4 A2 A4 E2 | E2 F2 G2 A4 A2 | E4 E4 z2 E2 |\nE2 E2 E2 G4 F2 | E4 D2 C4 D2 | E2 E2 F2 G4 A2 | E4 E4 z2 E2 |\nE2 E2 D2 C2 C2 D2 | E4 A2 E2 F2 G2 | A6 A6 |]\n"
+}

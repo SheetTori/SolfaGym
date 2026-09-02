@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmuijumqvj8g2bdj",
+  "title": "Bouree de la Brande d'Ardentes",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmUiJumQVj8g2bDJTNy52ceueeTztR8UZYpEvHQqqaUdw5",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:C clef=treble\nA3 ^F D2 F2 | G6 d2 | ^c3 A B2 c2 | d3 e ^f2 d2 |\nA3 ^F D2 F2 | G6 d2 | ^c3 A B2 c2 | d8 |\nA3 ^F D2 F2 | G6 d2 | ^c3 A B2 c2 | d3 e ^f2 d2 |\nA3 ^F D2 F2 | G6 d2 | ^c3 A B2 c2 | d8 |\nG4 B4 | d3 c A4 | B3 c A2 ^F2 | G3 E ^F2 D2 |\nG4 B4 | d3 c A4 | B3 c A2 ^F2 | G8 |\nG4 B4 | d3 c A4 | B3 c A2 ^F2 | G3 E ^F2 D2 |\nG4 B4 | d3 c A4 | B3 c A2 ^F2 | G8 |\n^f e e c |]\n"
+}

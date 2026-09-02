@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwztxzbjjwskmwn",
+  "title": "The green fields of America",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWZTXzBjjwSkMwNbFDWbNYTRFQtShZ6oN2VmDmmtKvPWV",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:G clef=treble\nc2 e c B2 d B | A G A B A G E F | G A G E D E G B | A G A B A G E G |\nc2 e c B2 d B | A G B G A G E F | G A G E D E G A | B G A F G2 |\nz2 G A B c d2 e f | g a g e d B G B | c2 e c B2 d B | A G A B A G E2 |\ng f g d e f g e | d c B G A G E F | G A G E D E G A | B G A F G2 |]\n"
+}

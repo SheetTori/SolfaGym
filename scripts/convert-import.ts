@@ -33,6 +33,26 @@ interface Row {
   flags?: string
 }
 
+/**
+ * 同じ曲を何度も出さないための指紋。
+ *
+ * **階名列はキーに依存しない**ので、別の調で投稿された同じ曲も同一と判定できる。
+ * 音価も合わせて見ることで、たまたま階名が一致する別の曲を取り違えない。
+ * PDMX は投稿サイト由来なので、同じ民謡が十数件入っていることがある
+ * （"Tzena Tzena" が 19 件、"Danny Boy" が 15 件）。
+ */
+function melodyFingerprint(syllables: readonly string[], durations: readonly number[]): string {
+  return `${syllables.join('.')}|${durations.map((d) => Math.round(d * 64)).join('.')}`
+}
+
+/** 投稿サイト由来の定型的な前置きを落とす */
+function cleanTitle(title: string): string {
+  return title
+    .replace(/^\s*traditional music\s*[-–—:]\s*/i, '')
+    .replace(/^\s*trad\.?\s*[-–—:]\s*/i, '')
+    .trim()
+}
+
 /** 出典側の命名に依存せず、id を安全な形に正規化する */
 function slugify(text: string): string {
   return (
@@ -48,7 +68,9 @@ function main() {
   const files = readdirSync(IMPORT_DIR).filter((f) => f.endsWith('.json')).sort()
 
   const rows: Row[] = []
+  const seen = new Map<string, string>()
   let kept = 0
+  let duplicates = 0
 
   for (const file of files) {
     const raw = JSON.parse(readFileSync(join(IMPORT_DIR, file), 'utf8'))
@@ -91,9 +113,22 @@ function main() {
       continue
     }
 
+    let abc: string
+    try {
+      abc = emitAbc(imported)
+    } catch (e) {
+      rows.push({
+        id: imported.id,
+        title: imported.title,
+        status: 'rejected',
+        detail: `ABC にできない: ${(e as Error).message}`,
+      })
+      continue
+    }
+
     const song: Song = {
       id: slugify(imported.id),
-      title: imported.title,
+      title: cleanTitle(imported.title) || imported.title,
       titleEn: imported.titleEn ?? undefined,
       language: imported.language ?? undefined,
       source: `${imported.provenance.source} — ${imported.provenance.license}`,
@@ -103,16 +138,21 @@ function main() {
       baseBpm: imported.baseBpm,
       unit: 'kodaly',
       chords: imported.chords,
-      abc: emitAbc(imported),
+      abc,
     }
 
     // 曲データとして最後まで通ることを、書き出す前に確かめる
     let level: number
     let syllables: string[]
+    let fingerprint: string
     try {
       const analyzed = analyzeSong(song)
       level = analyzed.level
       syllables = analyzed.distinctSyllables
+      fingerprint = melodyFingerprint(
+        analyzed.syllables,
+        analyzed.parsed.elements.filter((e) => e.kind !== 'bar').map((e) => e.duration),
+      )
     } catch (e) {
       rows.push({
         id: imported.id,
@@ -122,6 +162,19 @@ function main() {
       })
       continue
     }
+
+    const already = seen.get(fingerprint)
+    if (already) {
+      duplicates++
+      rows.push({
+        id: song.id,
+        title: song.title,
+        status: 'rejected',
+        detail: `重複（${already} と同じ旋律）`,
+      })
+      continue
+    }
+    seen.set(fingerprint, song.title)
 
     writeFileSync(join(SONGS_DIR, `${song.id}.json`), JSON.stringify(song, null, 2) + '\n', 'utf8')
     kept++
@@ -146,6 +199,7 @@ function main() {
 
   writeReport(rows, kept, files.length)
   console.log(`${files.length} 件中 ${kept} 件を public/songs/ に書き出しました`)
+  console.log(`（うち重複として除いたもの: ${duplicates} 件）`)
   console.log(`レポート: ${REPORT}`)
 }
 

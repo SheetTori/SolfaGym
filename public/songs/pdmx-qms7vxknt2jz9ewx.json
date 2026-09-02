@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qms7vxknt2jz9ewx",
+  "title": "Gilderoy",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmS7vxKNt2jZ9EWXy6BjPvQv353B8stPoYUHBEzj4qqnad",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Em clef=treble\nB,2 | E2 E F G F G A | B c B G A2 G A | B A G F E F G E |\nF ^D B, B, B,2 B, D | E ^D E F G F G A | B c B G A2 G A | B e ^d e B A G F |\nG2 E2 E2 | B,2 | E2 E F G F G A | B c B G A2 G A |\nB A G F E F G E | F ^D B, B, B,2 B, D | E ^D E F G F G A | B c B G A2 G A |\nB e ^d e B A G F | G2 E2 E2 | B c | d2 d e d c B c |\nd c B G A2 G A | B A G F E F G E | F ^D B, B, B,2 B, D | E ^D E F G F G A |\nB c B G A2 G A | B e ^d e B A G F | G2 E2 E2 | B,2 |\nE2 E F G F G A | B c B G A2 G A | B A G F E F G E | F ^D B, B, B,2 B, D |\nE ^D E F G F G A | B c B G A2 G A | B e ^d e B A G F | G2 E2 E2 |\nB c | d2 d e d c B c | d c B G A2 G A | B A G F E F G E |\nF ^D B, B, B,2 B, D | E ^D E F G F G A | B c B G A2 G A | B e ^d e B A G F |\nG2 E2 E2 |]\n"
+}

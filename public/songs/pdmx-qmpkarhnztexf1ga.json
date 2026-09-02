@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpkarhnztexf1ga",
+  "title": "Mary had a little lamb",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPKArhNZTeXF1gAdoHxmmBydpdQP2w8dtoKSs6qYF69Dx",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/4\nK:F clef=treble\nA G F G | A A A2 | G G G2 | A A A2 |\nA G F G | A A A A | G G A G | F4 |]\n"
+}

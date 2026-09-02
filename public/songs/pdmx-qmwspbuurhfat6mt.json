@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwspbuurhfat6mt",
+  "title": "Hey my Nanny",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWspBuurHFaT6mTpWB8Ca8XrQKhUqbgXXgHNWCKL9D7NG",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:9/8\nL:1/8\nK:D clef=treble\nf2 e c e e c e e | f2 e c e e B d d | f2 e c e e c e e | g f e d B G B c d |\nf2 e c e e c e e | f2 e c e e B d d | f2 e c e e c e e | g f e d B G B c d |\nf g a e a e c d e | f g a d g d B c d | f g a e a e c d e | g f e d B G B c d |\nf g a e a e c d e | f g a d g d B c d | f g a e a e c d e | g f e d B G B c d |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmerwvjs7mk9kevz",
+  "title": "Trafaelais I Gymru - I've Travelled Wales",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmerWvjS7mk9KEVZCcVW2PsawYNxeijBCsKdPs8SQf5DJt",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Em clef=treble\nD | G2 G G B A | G F G E2 F | G2 A F E D |\nG F G E2 D | G2 G G B A | G F G E2 F | G2 A F E D |\nG F G E2 | D | G2 G G B A | G F G E2 F |\nG2 A F E D | G F G E2 D | G2 G G B A | G F G E2 F |\nG2 A F E D | G F G E2 | B | B2 c d2 d |\nd c B d2 c | B2 c d c B | c B A B2 G | B c B B A G |\nA B A A G F | G3 G2 G | E F E E2 B | B A G A2 B |\nG F E F E D | E3 E2 |]\n"
+}

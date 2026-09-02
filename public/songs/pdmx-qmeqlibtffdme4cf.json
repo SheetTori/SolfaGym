@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmeqlibtffdme4cf",
+  "title": "Rondeau de Lagardère 2",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeqLibTffDME4cFmBVJCuRsqGruHpFsdZ8EfXedpPPx6b",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/4\nK:G clef=treble\nE2 A A2 G | A2 c B c B | E2 A A2 G | A2 c B3 |\nE2 A A2 G | A2 c B c B | E2 A A2 G | A2 c B3 |\nE2 A A2 G | E2 =F G A G | E2 A A2 G | E2 =F G3 |\nE2 A A2 G | E2 =F G A G | E2 A A2 G | E2 =F G3 |]\n"
+}

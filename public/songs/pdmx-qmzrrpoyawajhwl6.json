@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmzrrpoyawajhwl6",
+  "title": "Synnwyr Solomon - The Wisdom of Solomon",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmZRrPoYawAjhWL6Uwntp6CbgykDBkA6Y4dmS4VVckGNwt",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Em clef=treble\nE | E2 B B2 B | B A G F E D | E2 F G A B |\nA G F E2 | E | E2 B B2 B | B A G F E D |\nE2 F G A B | A G F E2 | B | B2 ^c d3 |\nd ^c B A B B | B2 ^c d2 d | ^c B A B3 | E d ^c B2 B |\nB A G F E2 | E2 E B2 B | A G F E2 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxgo7etueeikm2z",
+  "title": "Mylecharane",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXGo7EtUeeikM2ZZg2xvPTGB3KeJu5smSwpA1PNu2gDrf",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 76,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:Em clef=treble\ne2 | d2 B2 e2 | e4 e2 | d2 B2 G2 |\nF4 f2 | g2 f2 e2 | e2 ^d2 e2 | f2 d2 ^c2 |\nB4 f2 | g2 a2 g2 | f2 g2 e2 | e d c B A G |\nF2 G2 A2 | B2 G2 E2 | F2 e2 ^d2 | e2 g2 f2 |\ne4 f2 | g2 a2 g2 | f2 g2 e2 | e d c B A G |\nF2 G2 A2 | B2 G2 E2 | F2 e2 ^d2 | e2 g2 f2 |\ne4 |]\n"
+}

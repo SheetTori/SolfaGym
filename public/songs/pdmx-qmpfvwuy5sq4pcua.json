@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpfvwuy5sq4pcua",
+  "title": "Carnival of Venice",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPfVWuy5Sq4PCUA1m6Cyth9JT2ZygMwhHpSnUhjE9CTZA",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 60,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/4\nK:C clef=treble\nG | A z G | F z E | F D2 |\nz D E | F2 G | A2 G | E3 |\nz2 G | c z G | F z E | F D2 |\nz D E | F2 G | A2 G | C3 |]\n"
+}

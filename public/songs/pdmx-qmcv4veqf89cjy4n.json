@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcv4veqf89cjy4n",
+  "title": "Autumn in the beech forest",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcV4veQf89cjy4nbbgURfGYxUnYNE2ThoGwjt6QqXviPe",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:Gm clef=treble\ng g d =e | f2 =e2 | d2 c2 | f =e d g |\nc2 B A | G2 A2 | c B A d | c2 B2 |\nA2 A2 | f =e d e | d2 B A | G2 G2 |]\n"
+}

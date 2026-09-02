@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbrubatswde2smm",
+  "title": "The basket of Turf",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbrubATsWdE2smm9KNcLkCuhTgQGcUsQ3VxsgFt5TPLjd",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Em clef=treble\nE | E B B B A G | F D F A G F | E B B B c d |\nA G F E2 E | E G B B A G | F D F A G F | G A B B c d |\nA G F E2 | E | E B B B A G | F D F A G F |\nE B B B c d | A G F E2 E | E G B B A G | F D F A G F |\nG A B B c d | A G F E2 | B | B e e e f g |\nd c B A G F | E e e e f g | f ^d f e2 e | E e e e f g |\nd c B A G F | G A B B c d | A G F E2 | E |\nE B B B A G | F D F A G F | E B B B c d | A G F E2 E |\nE G B B A G | F D F A G F | G A B B c d | A G F E2 |\nB | B e e e f g | d c B A G F | E e e e f g |\nf ^d f e2 e | E e e e f g | d c B A G F | G A B B c d |\nA G F E2 |]\n"
+}

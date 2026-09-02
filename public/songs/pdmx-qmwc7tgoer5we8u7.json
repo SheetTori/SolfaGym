@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwc7tgoer5we8u7",
+  "title": "The bucks of Westmeath",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWc7TgoeR5WE8u7NtucfbuxRHkeXMfvfu9QtMvdhP6eqJ",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:C clef=treble\ne | d3 B d B | G2 A B2 c | d3 B d B |\nc A B c2 e | d3 B d B | G2 A B2 d | g ^f e d c B |\nA2 B c2 | e | d3 B d B | G2 A B2 c |\nd3 B d B | c A B c2 e | d3 B d B | G2 A B2 d |\ng ^f e d c B | A2 B c2 | d | g ^f g d c B |\ne g e d c B | A2 B c2 ^f | g ^f g a b c' | b a g g ^f e |\ng ^f e d c B | A2 B c2 | d | g ^f g d c B |\ne g e d c B | A2 B c2 ^f | g ^f g a b c' | b a g g ^f e |\ng ^f e d c B | A2 B c2 | e | d B G G2 e |\nd B G G2 e | d B G G2 B | A2 B c2 e | d B G G2 e |\nd B G G2 d | g ^f e d c B | A2 B c2 | e |\nd B G G2 e | d B G G2 e | d B G G2 B | A2 B c2 e |\nd B G G2 e | d B G G2 d | g ^f e d c B | A2 B c2 |]\n"
+}

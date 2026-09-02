@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmz2bw2eccgldujd",
+  "title": "Liberty",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmZ2BW2eCcGLdujDksPV6dJj5BT3dYsyDyj6ozJmza6mC9",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\na g | f2 A2 f2 A2 | f2 f g f e d e | g2 B2 g2 B2 |\ng2 g a g e d e | f2 A2 f2 A2 | f2 f g f2 e f | g f e d c A B c |\nd2 f2 d2 a g | f2 A2 f2 A2 | f2 f g f e d e | g2 B2 g2 B2 |\ng2 g a g e d e | f2 A2 f2 A2 | f2 f g f2 e f | g f e d c A B c |\nd2 f2 d4 | A2 A B A G F E | D F A d f2 d2 | A2 A B A2 F E |\nD E E F E4 | A2 A B A G F E | D F A d f2 e f | g f e d c A B c |\nd2 f2 d4 | A2 A B A G F E | D E F A d2 d2 | A2 A B A2 F E |\nD E E F E4 | A2 A B A F E F | D F A d f2 e f | g f e d c A B c |\nd2 f2 d2 a g | f d A d f d A d | f d f g f d A d | g d B d g d B d |\ng f g a g2 d e | f d A d f d A d | f d A d f2 e f | g f e d c A B c |\nd2 f2 d2 a g | f d A d f d A d | f d f g f d A2 | g d B d a d B d |\ng f g a g e d e | f2 d2 f2 d2 | f2 f g f2 e f | g f e d c A B c |\nd2 f2 d4 |]\n"
+}

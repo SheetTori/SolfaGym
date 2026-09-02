@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmb8bef9ohddwjku",
+  "title": "Gesegn dich Laub",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmb8BEf9oHDdwjkUtz4cUypuTsveVyCojuRGMFbdS8krrb",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/4\nK:Am clef=treble\nA | c2 d2 | e3 A | f2 f2 |\ne3 e | g2 e2 | d3 c | z c2 d |\ne4 | z e A3 | c f3 | e d2 |\nc3 B2 | A ^G2 | A3 |]\n"
+}

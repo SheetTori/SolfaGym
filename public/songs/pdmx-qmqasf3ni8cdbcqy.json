@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqasf3ni8cdbcqy",
+  "title": "The youngest daughter",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQASF3ni8cDbcQYRr8isJUj9MZdaWQqSe6fsB7DCWP5vT",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Em clef=treble\nE2 B E d E B e | d B A F D E F D | E2 B E d E B e | d B A F B E E2 |\nE2 B E d E B e | d B A F D E F D | E2 B E d E B e | d B A F B E E2 |\nE e e f g f e d | B d A F D E F D | E e e f g f e d | B d A F B E E2 |\nE e e f g f e d | B d A F D E F A | a f g e f d e ^c | d B A F B E E2 |]\n"
+}

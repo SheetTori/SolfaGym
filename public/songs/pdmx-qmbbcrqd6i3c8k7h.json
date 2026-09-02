@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbbcrqd6i3c8k7h",
+  "title": "Vallafield",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmbbcrqd6i3C8k7hqy7kSpgXtSay5u2U53hbPCPJwunZma",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:C clef=treble\nG | c2 e c2 e | e c A A2 A | B c d d B G |\nB c d d B G | G | c2 e c2 e | e c A A2 A |\nB c d d B G | c3 c2 | d | c B A G A B |\nd B A B2 G | c B A G A B | c B A G A B | z8 d B A B2 G |\nd B A B2 G | c B A G A B | c3 c2 | d |\nc B A G A B | d B A B2 G | c B A G A B | c B A G A B |\nz8 d B A B2 G | d B A B2 G | c B A G A B | c3 c2 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwlevdqvp3jr6wg",
+  "title": "Balance the Straw",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWLEvdQvp3jr6WG5gLdAxKK1BJFQcUegsrwx4EjZ9JmFk",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nD | G2 B B A B | c2 A A B c | d e d c B A |\nB2 G G2 | D | G2 B B A B | c2 A A B c |\nd e d c B A | B2 G G2 | G | d2 d d2 B |\nc2 B B2 A | d2 d d2 B | c2 B A2 D | G2 B B A B |\nc2 A A B c | d e d c B A | B2 G G2 | D |\nG2 B B A B | c2 A A B c | d e d c B A | B2 G G2 |\nG | d2 d d2 B | c2 B B2 A | d2 d d2 B |\nc2 B A2 D | G2 B B A B | c2 A A B c | d e d c B A |\nB2 G G2 |]\n"
+}

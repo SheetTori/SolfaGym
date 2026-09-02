@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmyj7n3o6cx2qhgz",
+  "title": "O Heiland rei\\ss die Himmmel auf",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmYJ7N3o6cX2qHgzAsTCTKgdc7Yt8gvCegwQrPYZAJ3Frg",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/4\nK:Dm clef=treble\nD | F2 G | A2 D | F E2 |\nD3 | A A =B | c2 F | A G2 |\nF3 | c c c | c2 A | d2 d |\nc3 | A A G | A2 F | G E2 |\nD2 |]\n"
+}

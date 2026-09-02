@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmc6ukj3qhkc8kvc",
+  "title": "Orijent",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmc6ukJ3qhKc8kVcWc3kXBND2wcH9z6yT8KnCECCWUef4j",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Fm clef=treble\nG2 | =B2 =d c B B B G | =d =B f =e d d d B | g2 f2 =e c f e |\n=d =B c =A B B B G | =B2 =d c B B B G | =d =B f =e d d d B | g2 f2 =e c f e |\n=d =B c =A B2 | z2 g2 f f =e c f e | =d =B f =e d d d B | =e2 =d d d =B d e |\nc =A c =d =B B B G | g2 f f =e c f e | =d =B f =e d d d B | =e2 =d d d =B d e |\nc =A c =d =B2 | z2 =E C E F G B A G | G F =E F G A =B c | =d f e d d c =B c |\ne =d c =B A G F | z =E C E F G B A G | G F =E F G A =B c | =d f e d c =B A G |\nF2 | z4 =E C E F G B A G | G F =E F G A =B c | =d f e d d c =B c |\ne =d c =B A G F | z =E C E F G B A G | G F =E F G A =B c | =d f e d c =B A G |\nF2 |]\n"
+}

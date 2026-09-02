@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmf662wdlxudb86f",
+  "title": "Craigieburn Wood",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmf662wdLxuDb86Fr3WCfbk9g9qE1k3C42mbkgAnNoNEJg",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:A clef=treble\nA =G | F3 E D2 E2 F2 A2 | B3 c d2 A2 F2 D2 | d3 c B2 A2 F2 D2 |\nE6 A4 A =G | F3 E D2 E2 F2 A2 | B3 c d2 A2 F2 D2 | d3 c B2 A2 F2 D2 |\nE6 A4 A2 | B2 d2 c2 d3 e f2 | e3 d c2 c2 B2 A2 | B2 d2 c2 d3 e f2 |\ne6 d4 c d | e3 d c2 d3 c B2 | A2 F2 A2 d4 d c | B3 c d2 A2 F2 D2 |\nE6 A4 | A =G | F3 E D2 E2 F2 A2 | B3 c d2 A2 F2 D2 |\nd3 c B2 A2 F2 D2 | E6 A4 A =G | F3 E D2 E2 F2 A2 | B3 c d2 A2 F2 D2 |\nd3 c B2 A2 F2 D2 | E6 A4 A2 | B2 d2 c2 d3 e f2 | e3 d c2 c2 B2 A2 |\nB2 d2 c2 d3 e f2 | e6 d4 c d | e3 d c2 d3 c B2 | A2 F2 A2 d4 d c |\nB3 c d2 A2 F2 D2 | E6 A4 |]\n"
+}

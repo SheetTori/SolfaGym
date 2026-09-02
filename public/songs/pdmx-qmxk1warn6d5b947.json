@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxk1warn6d5b947",
+  "title": "Rachel Dafydd Ifan",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXk1wArN6D5b947cCP8qf8yD7nVf5JudTYMvcyhMuasuq",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:A clef=treble\nE A | c2 c2 c2 c2 | e f e d c2 e2 | B2 B2 B2 c2 |\nd e d c d2 E A | c2 c2 c2 c2 | e f e d c2 e2 | d2 d B G2 e d |\nc B A G A2 | E A | c2 c2 c2 c2 | e f e d c2 e2 |\nB2 B2 B2 c2 | d e d c d2 E A | c2 c2 c2 c2 | e f e d c2 e2 |\nd2 d B G2 e d | c B A G A2 | e2 | a3 a a2 e2 |\ne f e d c2 e2 | a3 a a2 e2 | d e d c B2 A2 | a3 a a2 e2 |\ne f e d c2 e2 | d2 d B G B e d | c B A G A2 | E A |\nc2 c2 c2 c2 | e f e d c2 e2 | B2 B2 B2 c2 | d e d c d2 E A |\nc2 c2 c2 c2 | e f e d c2 e2 | d2 d B G2 e d | c B A G A2 |\ne2 | a3 a a2 e2 | e f e d c2 e2 | a3 a a2 e2 |\nd e d c B2 A2 | a3 a a2 e2 | e f e d c2 e2 | d2 d B G B e d |\nc B A G A2 |]\n"
+}

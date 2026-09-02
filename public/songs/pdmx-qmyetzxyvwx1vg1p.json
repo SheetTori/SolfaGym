@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmyetzxyvwx1vg1p",
+  "title": "Guiry's favorite",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmYEtZxyVwx1vg1pUZKA3ELhXz5fyrfkxhsPjSqZNwLqnD",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:Dm clef=treble\ne ^f | g2 e2 a2 g2 e2 d2 | c2 A2 =B2 c4 d2 | e2 a2 a2 a2 g2 e2 |\ne2 d2 ^c2 d2 e2 ^f2 | g2 e2 a2 g2 e2 d2 | c2 A2 =B2 c2 d2 e2 | f2 e2 d2 e2 c2 A2 |\nG2 F2 E2 D4 | e ^f | g2 e2 a2 g2 e2 d2 | c2 A2 =B2 c4 d2 |\ne2 a2 a2 a2 g2 e2 | e2 d2 ^c2 d2 e2 ^f2 | g2 e2 a2 g2 e2 d2 | c2 A2 =B2 c2 d2 e2 |\nf2 e2 d2 e2 c2 A2 | G2 F2 E2 D4 | A =B | c2 =B2 c2 A4 G2 |\nE2 c2 =B2 c2 d2 e2 | d2 e2 d2 c2 A2 G2 | A2 d2 c2 d2 e2 d2 | c2 =B2 c2 A4 G2 |\nE2 c2 =B2 c2 d2 e2 | f2 e2 d2 e2 c2 A2 | G2 F2 E2 D4 | e ^f |\ng2 e2 a2 g2 e2 d2 | c2 A2 =B2 c4 d2 | e2 a2 a2 a2 g2 e2 | e2 d2 ^c2 d2 e2 ^f2 |\ng2 e2 a2 g2 e2 d2 | c2 A2 =B2 c2 d2 e2 | f2 e2 d2 e2 c2 A2 | G2 F2 E2 D4 |\nA =B | c2 =B2 c2 A4 G2 | E2 c2 =B2 c2 d2 e2 | d2 e2 d2 c2 A2 G2 |\nA2 d2 c2 d2 e2 d2 | c2 =B2 c2 A4 G2 | E2 c2 =B2 c2 d2 e2 | f2 e2 d2 e2 c2 A2 |\nG2 F2 E2 D4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmsfgv8je6aioajs",
+  "title": "Walking the Floor",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmSFGv8je6AioAjSNjCbvMa6AGvNRgMTuYMKdJcEUHKyXq",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 9,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:A clef=treble\ne | A =G A e2 d | e f =g e d B | =G F G d2 B |\n=G =g e d B G | A =G A e2 d | e f =g e d B | =G F G e d B |\nB A =G A2 | e | A =G A e2 d | e f =g e d B |\n=G F G d2 B | =G =g e d B G | A =G A e2 d | e f =g e d B |\n=G F G e d B | B A =G A2 | e | a =g a e2 d |\n=g e e e d B | =g f g e2 B | =G =g e d B G | a =g a e2 d |\n=g e e e d B | =G F G e d B | B A =G A2 | e |\na =g a e2 d | =g e e e d B | =g f g e2 B | =G =g e d B G |\na =g a e2 d | =g e e e d B | =G F G e d B | B A =G A2 |]\n"
+}

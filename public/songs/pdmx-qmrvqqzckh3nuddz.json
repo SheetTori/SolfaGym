@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmrvqqzckh3nuddz",
+  "title": "Lord of the Dance",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmRvqQZCkh3NUdDZcXb7FhVvsB2yLcUmoczi7qBu1WfYkX",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nA2 | d2 d d f e f g | a2 a a f2 f f | e2 e2 e2 e f |\ng f e d c2 A A | d2 d d f e f g | a2 a a f2 f f | e2 e2 f2 f e |\nd2 d2 d4 | a4 f3 e | f g f e d4 | f2 f g a2 g f |\ne2 e2 e2 A A | d2 d2 d3 e | f e f g a2 g f | e2 e2 f2 f e |\nd2 d2 d4 |]\n"
+}

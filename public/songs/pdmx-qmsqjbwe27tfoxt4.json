@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmsqjbwe27tfoxt4",
+  "title": "Kerfank 1870",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmSQjBWE27tFoXT4oe1bxocj9sP6sm1uwxiL1UjrVBpCAf",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Em clef=treble\nE2 B2 B2 A B | c2 B2 A G F G | A2 A2 B2 A2 | G F E F G2 F2 |\nE2 B2 B2 A B | c2 B2 A G F G | A2 A2 B2 A2 | G F E F E4 |\nE2 B2 B2 A B | c2 B2 A G F G | A2 A2 B2 A2 | G F E F G2 F2 |\nE2 B2 B2 A B | c2 B2 A G F G | A2 A2 B2 A2 | G F E F E4 |\nE2 E2 F2 G F | E2 E2 F E F G | A2 A2 B2 A2 | G F E F G2 F2 |\nE2 E2 F2 G F | E2 E2 F E F G | A2 A2 B2 A2 | G F E F E4 |\nE2 B2 B2 A B | c2 B2 A G F G | A2 A2 B2 A2 | G F E F G2 F2 |\nE2 B2 B2 A B | c2 B2 A G F G | A2 A2 B2 A2 | G F E F E4 |\nE2 E2 F2 G F | E2 E2 F E F G | A2 A2 B2 A2 | G F E F G2 F2 |\nE2 E2 F2 G F | E2 E2 F E F G | A2 A2 B2 A2 | G F E F E4 |]\n"
+}

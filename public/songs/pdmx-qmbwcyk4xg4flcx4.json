@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbwcyk4xg4flcx4",
+  "title": "The Lilting Banshee",
+  "source": "PDMX — cc-zero",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbwCYK4Xg4fLcx4RrPb8BX85Cqv4EN6vLmdtym9HDq28P",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "cc-zero",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 9,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:A clef=treble\nE A A E A A | B A B =G2 A | B e e e d B | d e f =g f g |\ne A A e A A | B A B =G2 A | B e e e d B | d B A A3 |\nE A A E A A | B A B =G2 A | B e e e d B | d e f =g f g |\ne A A e A A | B A B =G2 A | B e e e d B | d B A A3 |\ne a a a =g e | d B A =G2 A | B e e e d B | d e f =g f g |\ne a a a =g e | d B A =G2 A | B e e e d B | d B A A3 |\nE A A E A A | B A B =G2 A | B e e e d B | d e f =g f g |\ne A A e A A | B A B =G2 A | B e e e d B | d B A A3 |\ne a a a =g e | d B A =G2 A | B e e e d B | d e f =g f g |\ne a a a =g e | d B A =G2 A | B e e e d B | d B A A3 |]\n"
+}

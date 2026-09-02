@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbqbjgrzeg65x1r",
+  "title": "Spotted Pony",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbqBjgRZeg65x1RmK92BxV6rAyyAZV7cB6Bic1hELn4Q1",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nB c | d2 a2 f4 | f g f e d B A2 | A B A G F G A B |\nd2 a2 e2 B c | d2 a2 f4 | f g f e d B A2 | A B A G F G A B |\nd B A F D2 B c | d2 a2 f4 | f g f e d B A2 | A B A G F G A B |\nd2 a2 e2 B c | d2 a2 f4 | f g f e d B A2 | A B A G F G A B |\nd B A F D4 | D2 F D E2 G E | F2 A F G2 B G | A2 d B c d e f |\ng f e d c B A2 | D2 F D E2 G E | F2 A F G2 B G | A2 d B c d e f |\ng f e c d4 | D2 F D E2 G E | F2 A F G2 B G | A2 d B c d e f |\ng f e d c B A2 | D2 F D E2 G E | F2 A F G2 B G | A2 d B c d e f |\ng f e c d4 |]\n"
+}

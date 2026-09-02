@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwzz1xwnkdfvglp",
+  "title": "Croesawiad Gwraig y Ty",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWZz1xWNKDfvGLP57K6ohM7RxnHgEQVsg5PLQtdPr7t2a",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nd e d c B A | B c B A G F | G A G F E D | E3 E3 |\nF E F D E F | A ^G A B c d | c B A E A ^G | A3 A3 |\nd e d c B A | B c B A G F | G A G F E D | E3 E3 |\nF E F D E F | A ^G A B c d | c B A E A ^G | A3 A3 |\nc B A A B c | d3 F2 | z G F G B A G | G3 F2 |\nz A B A G A G | F G F E A G | F E D C D E | D3 D2 |\nz d e d c B A | B c B A G F | G A G F E D | E3 E3 |\nF E F D E F | A ^G A B c d | c B A E A ^G | A3 A3 |\nc B A A B c | d3 F2 | z G F G B A G | G3 F2 |\nz A B A G A G | F G F E A G | F E D C D E | D3 D2 |]\n"
+}

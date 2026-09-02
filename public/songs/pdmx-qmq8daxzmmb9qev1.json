@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmq8daxzmmb9qev1",
+  "title": "Norwegian folk song",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQ8dAXZmMB9qeV1i5EuACpjuZzkKnN42Yfxw4bg9KqRQf",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 66,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/16\nK:F#m clef=treble\nC F3 G | A4 G3 F A3 B | c4 c3 B A3 c | e4 e3 c d3 B |\nc4 A2 z C F3 G | A4 G3 F A3 B | c4 c3 B A3 c | e4 e3 c d3 B |\nc4 A3 c d3 c | B4 B3 B c3 B | A4 A3 A B3 A | G4 G3 G A3 F |\nc4 c2 z ^E F3 F | F6 |]\n"
+}

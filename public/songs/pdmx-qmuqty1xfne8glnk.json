@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmuqty1xfne8glnk",
+  "title": "I Lawr a'r Ffrancwyr - Down with the French",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmUQTy1Xfne8gLnKhN7YMTTyhhxFT6jxc7tATuiR1pPyRF",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nd2 B d2 B | G A G B3 | c2 B c2 B | A B G F E D |\nd2 B d2 B | G A G B3 | A c B A G F | G3 G3 |\nd2 B d2 B | G A G B3 | c2 B c2 B | A B G F E D |\nd2 B d2 B | G A G B3 | A c B A G F | G3 G3 |\nA2 A B2 G | F G E D3 | G D G B G B | d2 B G2 B |\nA2 A B2 G | F G E D3 | A c B A G F | G3 G3 |\nA2 A B2 G | F G E D3 | G D G B G B | d2 B G2 B |\nA2 A B2 G | F G E D3 | A c B A G F | G3 G3 |]\n"
+}

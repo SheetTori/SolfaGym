@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtjapvxnufenzrs",
+  "title": "Froggie Went A Courtin'",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTjAPvXNufENZrSGR7K8ASxA3QeNmKKDZ8f1jTu9QEHUZ",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nA,2 | D D D D D D E2 | F2 D2 B,2 D2 | D6 |\nz2 F A A A A A A2 | B2 A2 F2 A2 | A6 | z2 F A A A A A A2 |\nB2 A2 F4 | E2 D2 D2 D2 | F2 D2 B,2 A,2 | D6 F2 |\nE6 F2 | D6 |]\n"
+}

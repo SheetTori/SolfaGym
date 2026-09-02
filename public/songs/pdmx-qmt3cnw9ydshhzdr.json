@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmt3cnw9ydshhzdr",
+  "title": "Bríd Óg Ní Mhaille",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmT3Cnw9YdShhzDriwseH98KHabyUdZyRU6sCaSKsW1eti",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/16\nK:D clef=treble\nD6 E2 F2 G2 | A4 F4 A4 | B4 A2 F2 E2 F2 | D4 B,4 B2 c2 |\nd4 c4 B2 c2 | B2 A2 F6 E2 | F4 B6 c2 | B8 B2 c2 |\nd4 c4 B2 c2 | B2 A2 F6 G | B4 A2 F2 E2 F2 | D4 B,4 B,2 C2 |\nD4 B4 A2 B2 | F4 E6 F2 | E4 D6 D2 | D12 |]\n"
+}

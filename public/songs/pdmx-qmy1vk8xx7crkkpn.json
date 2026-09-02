@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmy1vk8xx7crkkpn",
+  "title": "Donkey Riding",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmY1vK8xx7CRKKpn183UsdpmxPkio2bnh85pKYzWbSYbKn",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:G clef=treble\nG2 A2 B2 B2 c2 A2 B4 | B2 A2 A2 G A B2 A2 A4 | G2 A2 B2 B2 c2 A2 B4 | B2 A2 d2 d2 G4 G4 |\nG2 A2 B2 B2 c2 A2 B4 | B2 A2 A2 G A B2 A2 A4 | G2 A2 B2 B2 c2 A2 B4 | B2 A2 d2 d2 G4 G4 |\ne4 d3 c c2 d2 B4 | B2 A2 A2 G A B2 A2 A4 | e4 d3 c c2 d2 B4 | B2 A2 d2 d2 G4 G4 |\ne4 d3 c c2 d2 B4 | B2 A2 A2 G A B2 A2 A4 | e4 d3 c c2 d2 B4 | B2 A2 d2 d2 G4 G4 |]\n"
+}

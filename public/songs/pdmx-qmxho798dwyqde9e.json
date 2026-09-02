@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxho798dwyqde9e",
+  "title": "The jolly Corkonian",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXho798DWYqdE9eNuPnZERS8FKiww5BiXJAqxBLaHjnC9",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:Dm clef=treble\nc =B | A2 F2 D2 D2 E2 D2 | A2 G2 A2 c2 =B2 A2 | G2 E2 C2 C2 D2 C2 |\nE2 D2 C2 E2 F2 G2 | A2 F2 D2 D2 E2 D2 | A2 G2 A2 c2 d2 e2 | d2 c2 A2 G2 E2 C2 |\nD2 E2 D2 D4 | c =B | A2 F2 D2 D2 E2 D2 | A2 G2 A2 c2 =B2 A2 |\nG2 E2 C2 C2 D2 C2 | E2 D2 C2 E2 F2 G2 | A2 F2 D2 D2 E2 D2 | A2 G2 A2 c2 d2 e2 |\nd2 c2 A2 G2 E2 C2 | D2 E2 D2 D4 | A2 | d2 e2 d2 d2 c2 A2 |\nd2 c2 d2 f2 e2 d2 | c2 d2 c2 c2 =B2 A2 | G2 A2 =B2 c2 G2 E2 | d2 e2 d2 d2 c2 A2 |\nd2 e2 f2 f2 e2 d2 | c2 =B2 A2 G2 E2 C2 | D2 E2 D2 D4 | A2 |\nd2 e2 d2 d2 c2 A2 | d2 c2 d2 f2 e2 d2 | c2 d2 c2 c2 =B2 A2 | G2 A2 =B2 c2 G2 E2 |\nd2 e2 d2 d2 c2 A2 | d2 e2 f2 f2 e2 d2 | c2 =B2 A2 G2 E2 C2 | D2 E2 D2 D4 |]\n"
+}

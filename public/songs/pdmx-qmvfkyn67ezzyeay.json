@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmvfkyn67ezzyeay",
+  "title": "The old red petticoat",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmVFkyN67ezZYEAYagXPuvGmsmu924SB4J2UBfz2CjzwPo",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:A clef=treble\nA | d2 d d c B | A2 =G F2 A | d2 d d c d |\ne3 e2 A | f2 f f e d | =g2 g g2 g | f e d A B c |\nd3 d2 | A | d2 d d c B | A2 =G F2 A |\nd2 d d c d | e3 e2 A | f2 f f e d | =g2 g g2 g |\nf e d A B c | d3 d2 | d | e c A e c A |\ne2 c A B c | d c B A G A | B2 G E3 | e c A e c A |\ne2 c A B c | d c B E F G | A3 A2 | d |\ne c A e c A | e2 c A B c | d c B A G A | B2 G E3 |\ne c A e c A | e2 c A B c | d c B E F G | A3 A2 |]\n"
+}

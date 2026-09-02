@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmrcxyozz1rwhu1f",
+  "title": "Doed a Ddel",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmRCxyoZz1RWhu1FMTAKpCrm2J1ZG8u9Z3Suu5NfhQCEr6",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nA | d2 d d c d | d c d d c d | e2 e e2 e |\ne f d c B A | d2 d d c d | d c d e f g | f e d c B c |\nd3 d2 | A | d2 d d c d | d c d d c d |\ne2 e e2 e | e f d c B A | d2 d d c d | d c d e f g |\nf e d c B c | d3 d2 | A | A2 F d2 d |\nB2 G G A B | A2 F d2 f | e c A A2 A | A2 F d2 d |\nB3 g3 | f e d c B A | d3 d2 | A |\nd2 d d c d | d c d d c d | e2 e e2 e | e f d c B A |\nd2 d d c d | d c d e f g | f e d c B c | d3 d2 |\nA | A2 F d2 d | B2 G G A B | A2 F d2 f |\ne c A A2 A | A2 F d2 d | B3 g3 | f e d c B A |\nd3 d2 |]\n"
+}

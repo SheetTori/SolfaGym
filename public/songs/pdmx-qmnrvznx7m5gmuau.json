@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmnrvznx7m5gmuau",
+  "title": "Morpeth Rant",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNrvZnX7m5gmuAuq4LUakLWuKxoxLNMNMvB3JjmUU16dc",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/64\nK:D clef=treble\nA4 z B4 z c4 | z d16 A8 G8 F8 D8 F8 A8 | B8 G8 B8 d8 c8 A8 c8 e8 | f16 d8 f8 g8 f8 e8 d8 |\nc16 e16 A16 A4 z B4 z c4 | z d16 A8 G8 F8 D8 F8 A8 | B8 G8 B8 d8 c8 A8 c8 e8 | f16 d8 f8 g8 f8 e8 c8 |\nA16 d32 | A4 z B4 z c4 | z d16 A8 G8 F8 D8 F8 A8 | B8 G8 B8 d8 c8 A8 c8 e8 |\nf16 d8 f8 g8 f8 e8 d8 | c16 e16 A16 A4 z B4 z c4 | z d16 A8 G8 F8 D8 F8 A8 | B8 G8 B8 d8 c8 A8 c8 e8 |\nf16 d8 f8 g8 f8 e8 c8 | A16 d32 | A16 | d8 f8 a8 f8 d8 f8 a8 f8 |\ng8 f8 e8 f8 g16 e8 f8 | g8 f8 e8 d8 c8 d8 e8 g8 | f8 e8 f8 g8 f16 e16 | d8 f8 a8 f8 d8 f8 a8 f8 |\ng8 f8 e8 f8 g16 e8 f8 | g8 f8 e8 d8 c8 e8 a8 g8 | f16 d16 d16 | A16 |\nd8 f8 a8 f8 d8 f8 a8 f8 | g8 f8 e8 f8 g16 e8 f8 | g8 f8 e8 d8 c8 d8 e8 g8 | f8 e8 f8 g8 f16 e16 |\nd8 f8 a8 f8 d8 f8 a8 f8 | g8 f8 e8 f8 g16 e8 f8 | g8 f8 e8 d8 c8 e8 a8 g8 | f16 d16 d16 |]\n"
+}

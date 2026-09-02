@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmnz39utyfxg4pfd",
+  "title": "èèè - MoÌliÌhuaÌ - Jasmine Flower",
+  "source": "PDMX — cc-zero",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNz39utyfxG4PfDPaYjRSsmEFdrSFvnCgUve1Z4wksbPd",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "cc-zero",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 9,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 55,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nE2 E G A c c A | G2 G A G2 | z2 E2 E G A c c A | G2 G A G2 |\nz2 G2 G2 G2 E G | A2 A2 G4 | E2 D E G2 E D | C2 C D C4 |\nE D C D D3 E | G2 A c G4 | D2 E G D E C A, | G,8 |\nA,2 C2 D3 E | C D C A, G,4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqenlgbtcq2ipfa",
+  "title": "Cainc Dafydd ap Gwilym",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQeNLgbTcQ2ipFAYrxtigjx6SQjQPe2jMdyCwPFAJEpWe",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:C clef=treble\nG | c2 c G E G | c2 e d B G | c2 c G E G |\nc d B c2 | G | c2 c G E G | c2 e d B G |\nc2 c G E G | c d B c2 | G | c2 G A G F |\nd2 A B A G | d2 f e2 c | d c B c2 | G |\nc2 c G E G | c2 e d B G | c2 c G E G | c d B c2 |\nG | c2 G A G F | d2 A B A G | d2 f e2 c |\nd c B c2 |]\n"
+}

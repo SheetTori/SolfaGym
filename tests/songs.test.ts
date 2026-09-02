@@ -19,6 +19,20 @@ const songs: Array<{ file: string; song: Song }> = files.map((file) => ({
   song: songSchema.parse(JSON.parse(readFileSync(join(SONGS_DIR, file), 'utf8'))),
 }))
 
+/**
+ * 12 キーへの移調テストは 1 曲あたり 23 回の再解析が要る。数千曲に掛けると
+ * 分単位になるので、決定的な標本だけに掛ける。移動ドの不変条件そのものは
+ * tests/core/solfa.test.ts と abcSource.test.ts で網羅的に固めてあるので、
+ * ここは「取り込んだ実データでも成り立つ」ことの抜き取り確認でよい。
+ */
+const HEAVY_SAMPLE_SIZE = 60
+const heavySample = new Set(
+  songs
+    .map((s, i) => ({ s, i }))
+    .filter(({ i }) => i % Math.max(1, Math.ceil(songs.length / HEAVY_SAMPLE_SIZE)) === 0)
+    .map(({ s }) => s.file),
+)
+
 it('曲が1曲以上ある', () => {
   expect(songs.length).toBeGreaterThan(0)
 })
@@ -65,7 +79,7 @@ describe.each(songs)('$file', ({ file, song }) => {
     expect(female.length + male.length).toBeGreaterThan(0)
   })
 
-  it('12 キーどこに移調しても階名列が変わらない', () => {
+  it.skipIf(!heavySample.has(file))('12 キーどこに移調しても階名列が変わらない', () => {
     for (let shift = -11; shift <= 11; shift++) {
       const targetKey = {
         tonic: spellTonic(song.tonicMidi + shift, song.mode),

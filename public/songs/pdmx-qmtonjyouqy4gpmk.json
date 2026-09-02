@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtonjyouqy4gpmk",
+  "title": "Den bergtekne",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTonjYoUqY4GpMkmAmApL6dPxUmXZDSY5i671gRCnpaFK",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Em clef=treble\nB,2 | E4 B2 A2 | G2 G2 F2 E2 | G2 G2 A2 A2 |\nB6 | z2 G3 G F2 A2 | G4 z2 B2 | B4 G2 B2 |\nd4 B2 B2 | A3 F D2 F2 | A4 z2 A2 | B4 G2 E2 |\nG4 F2 ^D2 | E6 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmblyascquz7iaeg",
+  "title": "Humors of Glendart",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbLyAsCQUz7iAEg8mhFKHdKmwwMAQE2z5s7cbHGSkmGFy",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nA | B A F A D D | F E F D F A | B A F A D D |\nF E E E F A | B A F A D D | F E F D F A | d c B A F E |\nF D D D2 | A | B A F A D D | F E F D F A |\nB A F A D D | F E E E F A | B A F A D D | F E F D F A |\nd c B A F E | F D D D2 | A | d e f d2 B |\nA B A A F D | d e f d2 f | e d e f d B | d e f e d B |\nA F A A B c | d c B A F E | F D D D2 | A |\nB A F A D D | F E F D F A | B A F A D D | F E E E F A |\nB A F A D D | F E F D F A | d c B A F E | F D D D2 |\nA | d e f d2 B | A B A A F D | d e f d2 f |\ne d e f d B | d e f e d B | A F A A B c | d c B A F E |\nF D D D2 |]\n"
+}

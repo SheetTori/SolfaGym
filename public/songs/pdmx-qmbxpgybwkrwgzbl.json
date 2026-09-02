@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbxpgybwkrwgzbl",
+  "title": "Farewell Spanish Ladies",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbxpGyBwkRwgZbLPDiJYqFjkuTf3RHgwzV7uecsEmQSvw",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/16\nK:Am clef=treble\nE4 | A4 A4 ^G4 | A8 A3 B | c4 B4 A4 |\n^G4 E4 E4 | A4 A4 ^G4 | A8 A3 B | c4 B4 A4 |\nB8 B4 | c4 B4 A4 | d4 c4 B4 | e4 A4 B4 |\n^G2 ^F2 E4 e3 d | c4 B4 A4 | ^G4 E4 E4 | E4 A4 ^G4 |\nA8 |]\n"
+}

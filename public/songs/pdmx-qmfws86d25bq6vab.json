@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmfws86d25bq6vab",
+  "title": "Good King Wencaslas",
+  "source": "PDMX — cc-zero",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmfWS86d25Bq6Vabhv4Rqzaohkjb1knJRN3WJatAfWne9T",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "cc-zero",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/4\nK:F clef=treble\nF F F G | F F C2 | D C D E | F2 F2 |\nF F F G | F F C2 | D C D E | F2 F2 |\nc B A G | A G F2 | D C D E | F2 F2 |\nC C D E | F F G2 | c B A G | F2 B2 |\nF4 | F F F G | F F C2 | D C D E |\nF2 F2 | F F F G | F F C2 | D C D E |\nF2 F2 | c B A G | A G F2 | D C D E |\nF2 F2 | C C D E | F F G2 | c B A G |\nF2 B2 | F4 | F F F G | F F C2 |\nD C D E | F2 F2 | F F F G | F F C2 |\nD C D E | F2 F2 | c B A G | A G F2 |\nD C D E | F2 F2 | C C D E | F F G2 |\nc B A G | F2 B2 | F4 |]\n"
+}

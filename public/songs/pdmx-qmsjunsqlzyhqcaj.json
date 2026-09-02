@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmsjunsqlzyhqcaj",
+  "title": "Down by the station",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmSJUnSQLzYhQcAJP2Fba2xSKQf6jXrd1XaEhmLMNhBifF",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 70,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/4\nK:Bb clef=treble\nB2 B c | d2 d2 | c B c d | B2 B2 |\nB2 B c | d d d2 | c2 c d | B2 |]\n"
+}

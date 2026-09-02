@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmzwtzszwmoy61jp",
+  "title": "Karliku",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmZWtZszwmoY61jpFtEHx8kXbFmmcwUsNTYMLpq1KM4fRC",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Am clef=treble\nG2 e2 c4 | E2 A2 G4 | B2 B2 A2 B2 | c2 A2 G4 |\nG2 e2 c4 | E2 A2 G4 | B2 B2 A2 B2 | c8 |\nc2 B2 ^G2 E2 | A2 c2 e4 | z2 f4 d2 | e2 e2 e4 |\nd3 c B2 d2 | c2 A2 A4 | B4 e4 | A4 A4 |]\n"
+}

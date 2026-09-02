@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmukh3cblaqqxp66",
+  "title": "Moder under mulde",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmUKH3CBLAqQxp66mbKAg64LVx6RowvYisR36AvXHPs9Zv",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/2\nL:1/4\nK:Dm clef=treble\nD2 | F4 D2 A2 A2 A2 | G2 E2 F2 A6 | F2 F2 D2 A4 A2 |\nG2 E2 F2 C6 | A2 A2 A2 E4 F2 | G4 A2 G6 | F4 D2 C6 |\nF2 G2 A2 G4 E2 | F4 D4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmakkmfmjwrxevlf",
+  "title": "la Chapelloise",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmaKkmFMJWrXevLF8nuED4TkGQVc9r3p2CoBdSdCvbNXeB",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Am clef=treble\nE | A2 A A B c | B2 B B c d | e2 e e d c |\nB3 B3 | A2 A A B c | B2 B B c d | e d c d c B |\nA3 A | c d | e2 e e d e | f g f e d c |\nB c d e c d | c2 B A c d | e2 e e d e | f g f e d c |\nB c d e B c | A3 A |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmeum55svuco9buz",
+  "title": "Difyrrwch Gwyr Llanfabon",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeUM55svUCo9BUZNC4b8rE8GPuigjJcFKTf4auqNLPAar",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nG A | B2 B2 B2 d2 | G2 G2 G3 A | B2 B2 c2 e2 |\nd6 c2 | B2 B2 B2 d2 | A2 A2 A3 B | c2 c2 B A G F |\nG6 | G A | B2 B2 B2 d2 | G2 G2 G3 A |\nB2 B2 c2 e2 | d6 c2 | B2 B2 B2 d2 | A2 A2 A3 B |\nc2 c2 B A G F | G6 | e f | g2 g2 d2 e f |\ng2 g2 d2 e f | g2 g2 a g f e | d6 ^c d | e2 e2 A2 ^c d |\ne2 e2 A2 f g | a2 g2 f2 e2 | d6 d c | B2 B2 B2 d2 |\nG2 G2 G3 A | B2 B2 c2 e2 | d6 e f | g2 g2 f3 f |\ne2 e2 d3 d | c2 e2 d c B A | G6 |]\n"
+}

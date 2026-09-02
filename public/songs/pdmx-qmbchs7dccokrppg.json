@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbchs7dccokrppg",
+  "title": "Kitty got a clinking coming from the races",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbchS7dcCokRpPG1iABBF38t1T2hY6oPtvD9TLfF5VSTi",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nA G | F D F A d2 d c | B A B c d2 d2 | F A A B d2 d B |\nA B A F E2 D2 | F D F A d2 d c | B A B c d2 d2 | F A A d B c d B |\nA F D F E2 D2 | F A A d B G G B | A F F A G E E2 | F A A d B G G B |\nA F D F E2 D2 | F A A d B G G B | A F F A G E E2 | F A A d B c d B |\nA F D F E2 D2 |]\n"
+}

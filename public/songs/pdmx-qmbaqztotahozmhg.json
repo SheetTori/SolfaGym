@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbaqztotahozmhg",
+  "title": "Vuggesang",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbaqZToTAhoZmHgETTHXTDsPdr5MGW2V6BysRD7eav71a",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 60,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:C clef=treble\nG2 G2 | E F G2 | A B c A | G4 |\nG2 G2 | E F G2 | A B c A | G4 |\nE2 E2 | C2 E2 | G G F E | D4 |\nE2 E2 | D C D E | C4 | C4 |]\n"
+}

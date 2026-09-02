@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpkifsvespt6njv",
+  "title": "Sir John Fenwick's The Flower Among Them All",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPKifSVESpt6NJvmvUk7UYwHZ9hwH2hN8m86Vk6m4j9gi",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 9,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:A clef=treble\nD3 E F =G | A2 B2 d2 | A2 B2 d2 | B A =G F E D |\nE3 F =G A | B2 B2 d2 | B2 B2 d2 | B4 A2 |\nD3 E F =G | A2 B2 d2 | A2 B2 d2 | B A =G F E D |\n=G2 A G F E | F2 =G F E D | E2 F2 A2 | B4 A2 |\nd2 D2 F2 | d2 D2 F2 | d2 D2 d2 | B A =G F E D |\ne2 E2 =G2 | e2 E2 =G2 | e2 E2 e2 | B4 A2 |\nd2 D2 F2 | d2 D2 F2 | d2 D2 d2 | B A =G F E D |\n=G2 A G F E | F2 =G F E D | E2 F2 A2 | B4 A2 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcroqzuwqcbdgfm",
+  "title": "Child of my heart",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcroqZuwQCBDgFmrFR3SzaU58EKKUgt8xJ6vXoPwNSLRs",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 9,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\n=c | e2 d =c2 A | G E E =c2 d | e2 d =c2 A |\nG E A G E D | e2 d =c2 A | G E E =c2 d | e d =c d c A |\nG E A G E D | =c | e2 d =c2 A | G E E =c2 d |\ne2 d =c2 A | G E A G E D | e2 d =c2 A | G E E =c2 d |\ne d =c d c A | G E A G E D | z6 A B A A G E | =c3 D E D |\nA B A A G E | G E D D E D | A B A A G E | =c3 c2 d |\ne d =c d c A | G E A G E D | =c | e2 d =c2 A |\nG E E =c2 d | e2 d =c2 A | G E A G E D | e2 d =c2 A |\nG E E =c2 d | e d =c d c A | G E A G E D | z6 A B A A G E |\n=c3 D E D | A B A A G E | G E D D E D | A B A A G E |\n=c3 c2 d | e d =c d c A | G E A G E D |]\n"
+}

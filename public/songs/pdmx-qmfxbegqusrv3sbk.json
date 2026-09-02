@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmfxbegqusrv3sbk",
+  "title": "Kr\\aakevise",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmfXbEgqusrv3SBKxktMmszKJmo5RiEmTStGAZSdbKgoLx",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Dm clef=treble\nA, | D D D D D D | A2 A A3 | B2 c B2 A |\nG F G A2 A | F G A F G A | G G E F3 | E2 ^C D3 |\nD2 A A G F | E2 ^C D2 |]\n"
+}

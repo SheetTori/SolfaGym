@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtd8uhkefusc1bt",
+  "title": "Schottische Ã Virmoux",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTD8UHKefusC1BT6i3WsscV76ypxBPuAofR5sk9VHNbtw",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:D clef=treble\nF A G F A3 F | G F G A B2 A2 | A d A F G2 F E | F A F D E4 |\nF A G F A3 F | G F G A B2 A2 | A d A F G2 F E | D A G F D4 |\nF A G F A3 F | G F G A B2 A2 | A d A F G2 F E | F A F D E4 |\nF A G F A3 F | G F G A B2 A2 | A d A F G2 F E | D A G F D4 |\nd2 A2 d3 c | B A B c d e d B | A2 D2 A2 G F | E F G A B A B c |\nd2 A2 d3 c | B A B c d e d B | A2 D2 A2 G F | E F G A D4 |\nd2 A2 d3 c | B A B c d e d B | A2 D2 A2 G F | E F G A B A B c |\nd2 A2 d3 c | B A B c d e d B | A2 D2 A2 G F | E F G A D4 |]\n"
+}

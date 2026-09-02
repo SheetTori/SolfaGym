@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcfp7ielytixp7d",
+  "title": "Catch",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmcfp7ieLytiXP7DfsGW61w6biBt7EwK8dZDGgcUiP11q2",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 78,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:F#m clef=treble\nd2 d2 d2 | B3 =c d2 | e2 =f2 e2 | d4 c2 |\nd4 | z2 d3 =c B2 | A2 a2 =g2 | =f2 e d e2 |\nd3 e =f =g | a4 g2 | a4 | z2 a4 =g2 |\n=f3 e d2 | c2 d2 e2 | =f2 e d e2 | d4 |\nz2 a3 =g =f2 | e2 d2 c2 | d2 c B c2 | d e =f =g a2 |\nd3 e =f d | e =c d2 e2 | =f2 e4 | f6 |]\n"
+}

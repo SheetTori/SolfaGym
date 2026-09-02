@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtior36bzabvqxa",
+  "title": "Air du branle couppé appellé Charlotte.",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTior36BzABvqxaUCinSSH7n4y1Ys1R5pqvTt1pDUGvZn",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:8/2\nL:1/4\nK:Gm clef=treble\nG2 G2 B2 B2 c2 c2 d4 | g2 z2 d2 | z2 c2 A2 B2 c2 d4 G4 | G2 G2 B2 B2 c2 c2 d4 |\ng2 z2 d2 | z2 c2 A2 B2 c2 d4 G4 | G2 d2 d2 d2 c2 d2 B4 | d2 z2 c2 |\nz2 G2 A2 B2 c2 A2 G2 | d2 z2 c2 | z2 G2 A2 B2 c2 A2 G2 | d2 z2 =e2 |\nz2 d2 c2 B2 B2 A2 A2 G4 | G2 d2 d2 d2 c2 d2 B4 | d2 z2 c2 | z2 G2 A2 B2 c2 A2 G2 |\nd2 z2 c2 | z2 G2 A2 B2 c2 A2 G2 | d2 z2 =e2 | z2 d2 c2 B2 B2 A2 A2 G4 |]\n"
+}

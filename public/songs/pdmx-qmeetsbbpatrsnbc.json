@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmeetsbbpatrsnbc",
+  "title": "Sitz a klans Vogerl",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeEtSbbpatrSnbc9ZiNSBC5DsUNqSEX8YcT14TPf11iFk",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/4\nK:A clef=treble\nc c c | d c d | e c A | c c c |\nd c d | e3 | c c c | d c d |\ne c A | c c c | e d B | A3 |]\n"
+}

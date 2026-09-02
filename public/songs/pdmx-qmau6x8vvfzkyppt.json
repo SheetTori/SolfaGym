@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmau6x8vvfzkyppt",
+  "title": "Riding On A Load Of Hay",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmau6X8vvFzKYPpTGG4EPNdakVDsLW1j499kVcRsyRz19y",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 76,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Em clef=treble\nE3 F G2 A2 | B2 e2 e2 f e | d2 B2 A B A G | F2 D2 D E F D |\nE3 F G2 A2 | B2 e2 e2 f g | g2 e2 a2 f2 | e4 e2 B2 |\nE3 F G2 A2 | B2 e2 e2 f e | d2 B2 A B A G | F2 D2 D E F D |\nE3 F G2 A2 | B2 e2 e2 f g | g2 e2 a2 f2 | e4 e2 f2 |\ng4 f3 f | e2 d2 B2 B ^c | d2 A2 A B A G | F2 D2 D4 |\ng2 e g f2 g f | e2 d2 B3 ^c | d2 A2 B A G F | E4 E4 |\ng4 f3 f | e2 d2 B2 B ^c | d2 A2 A B A G | F2 D2 D4 |\nE2 G2 F2 A2 | G2 B2 e3 f | g2 e2 a2 f2 | e4 e4 |]\n"
+}

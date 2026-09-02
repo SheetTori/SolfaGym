@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmznxrkksfal6iuz",
+  "title": "Linstead market",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmZNxrKKsfAL6iUzDe2rWQhYXPeGon8s7GE6QW6AZ2tYw6",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nA A A F2 A d c | B2 B2 A2 A2 | G F2 E2 F G2 | A4 |\nz4 A A A F2 A d c | B2 B2 A2 A2 | G F2 E2 F E2 | D4 A4 |\nF6 G F | E2 F E D4 | C D2 E2 F G2 | A6 |\nz2 F6 G F | E2 F E D4 | C D2 E2 F E2 | D4 |]\n"
+}

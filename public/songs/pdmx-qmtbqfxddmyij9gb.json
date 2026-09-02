@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtbqfxddmyij9gb",
+  "title": "Up Jumped The Devil",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTBQfxDDMyiJ9gbghcGQhT3cxBLnZcR5fcwXTq6p881sf",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:A clef=treble\ne2 | e2 e e f2 f2 | a2 a2 f2 e2 | e2 a2 f2 e2 |\ng6 e2 | e g b e g b e g | b e g b g2 e2 | g f e g f e f c |\ne6 e2 | e c e c f c f c | a c a c f2 e2 | e2 a2 e2 a2 |\nf6 a2 | a3 b a2 f2 | e3 f e2 e f | g f e d c A B2 |\nA8 | E2 A A E2 A A | F2 A A E2 E2 | E2 A A E2 E2 |\nB2 e4 e2 | B B e e B e B B | e B B e e2 f2 | g f e g f e d B |\nA B A F E2 E2 | E2 A A E2 A A | F2 A A E2 E2 | E2 A A E2 A A |\nF2 F4 a2 | a3 b a2 f2 | e3 f e2 e f | g f e d c A B2 |\nA8 |]\n"
+}

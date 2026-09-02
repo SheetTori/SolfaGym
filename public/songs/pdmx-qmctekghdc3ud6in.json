@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmctekghdc3ud6in",
+  "title": "La mal mariée",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmctEKGHDc3ud6inGqQKV6gw4H6CSpiTaUC5MjEtyTFiCZ",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 9,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nG | c c d2 =f e d d c G | c c d2 =f e d d c c | d e =f g f e d d |\ne =f g G c c d2 | =f e d d c A d2 | d2 c2 c G | c c d2 =f e d d c G |\nc c d2 =f e d d c c | d e =f g f e d d | e =f g G c c d2 | =f e d d c A d2 |\nd2 c2 c G |]\n"
+}

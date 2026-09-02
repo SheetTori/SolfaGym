@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmso7ktkqmhr8yrx",
+  "title": "Dever the dancer",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmSo7ktkQmHr8yRXL3um6vs8Wnk34tUAfEgqe8jRkxzgya",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:9/8\nL:1/8\nK:D clef=treble\nB E E B E E ^G2 A | B E E B A ^G F G A | B E E B E E ^G2 A | B c d A B ^G F E D |\nB E E B E E ^G2 A | B E E B A ^G F G A | B E E B E E ^G2 A | B c d A B ^G F E D |\nd e d d A F ^G2 A | d e d d e f ^g f e | d e d d A F ^G2 A | B c d A B ^G F E D |\nd e d d A F ^G2 A | d e d d e f ^g f e | a f d e c e d2 d | B c d A B ^G F E D |]\n"
+}

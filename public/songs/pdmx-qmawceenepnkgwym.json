@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmawceenepnkgwym",
+  "title": "Streets of Laredo",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmaWcEEnePNKgWYMtkuc9q4jZ5kLcRnLCYGBDuUevmxu61",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:G clef=treble\nD2 | d4 c B | c2 d3 c | B2 A2 G2 |\nF2 D3 D | G4 F G | A2 B3 c | B2 A2 G2 |\nA4 D2 | d2 e d c B | c2 d3 c | B2 A2 G2 |\nF2 D2 D2 | G4 F G | A2 d3 c | B2 G2 A2 |\nG4 | D2 | A3 A A2 | A2 B2 c2 |\nd3 e d2 | B2 A2 G2 | A3 A A2 | A2 B3 c |\nd2 c2 B2 | A4 D2 | d2 e d c B | c2 d3 c |\nB2 A2 G2 | F2 D2 D2 | G4 F G | A2 d3 c |\nB2 G2 A2 | G4 |]\n"
+}

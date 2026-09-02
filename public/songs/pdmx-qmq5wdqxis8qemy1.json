@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmq5wdqxis8qemy1",
+  "title": "McLarin's Reel",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQ5wdQXis8QEmY1s9h4fcqQunEGt5Ms78FSEV5VBuN51y",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:Am clef=treble\nA | E A A B c B A c | B g d g B G G B | E A A B c B c a |\ng e d B c A A | A | E A A B c B A c | B g d g B G G B |\nE A A B c B c a | g e d B c A A | ^g | a2 a ^g a e e ^f |\ng2 g ^f g d d ^g | a2 a ^g a e e ^f | g e d B c A A | ^g |\na2 a ^g a e e ^f | g2 g ^f g d d g | e d e g a b a g | e g d B c A A |]\n"
+}

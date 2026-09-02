@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtpqqqcjkdztqb4",
+  "title": "The 92nd The / Marquis of Huntly's Highlanders",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTpqQQcjKDztqB4eycaH1AxPSh4pZVEfT5qBAYmhVyHc3",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:Am clef=treble\n^f2 | e3 A ^c B A2 e3 A c3 A | B G3 G3 B d G3 G3 B | e3 A ^c B A2 e3 A c3 A |\nB3 G E3 d ^c A3 A3 d | e3 A ^c B A2 e3 A c3 A | B G3 G3 B d G3 G3 B | e3 A ^c B A2 e3 A c3 A |\nB3 G E3 d ^c A3 A3 d | B2 | A a3 ^g3 a ^f3 a e3 d | B g3 d3 c B G3 G3 B |\nA a3 ^g3 a e3 A ^c3 A | ^f a3 e3 d ^c A3 A3 B | A a3 ^g3 a ^f3 a e3 d | B g3 d3 c B G3 G3 B |\n^c3 A e3 A a3 A e3 A | d3 B G3 B ^c A3 A2 | B2 | A a3 ^g3 a ^f3 a e3 d |\nB g3 d3 c B G3 G3 B | A a3 ^g3 a e3 A ^c3 A | ^f a3 e3 d ^c A3 A3 B | A a3 ^g3 a ^f3 a e3 d |\nB g3 d3 c B G3 G3 B | ^c3 A e3 A a3 A e3 A | d3 B G3 B ^c A3 A2 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmzpm8gayqb2rfeo",
+  "title": "Croesaw Gwraig y Ty",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmZpM8GayQB2RfeoHzAA5PryuXCBwEdCUytnsDfn968jhA",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:D clef=treble\nd3 e d2 c2 B2 A2 | B3 c B2 A2 G2 F2 | G3 A G2 F2 E2 D2 | E6 E6 |\nF2 E2 F2 D2 E2 F2 | A2 ^G2 A2 B2 c2 d2 | c2 B2 A2 E2 A2 ^G2 | A6 A4 |\nz2 d3 e d2 c2 B2 A2 | B3 c B2 A2 G2 F2 | G3 A G2 F2 E2 D2 | E6 E6 |\nF2 E2 F2 D2 E2 F2 | A2 ^G2 A2 B2 c2 d2 | c2 B2 A2 E2 A2 ^G2 | A6 A4 |\nd2 | c2 B2 A2 A2 B2 c2 | d6 F6 | G2 F2 G2 B2 A2 G2 |\nG6 F6 | A3 B A2 G3 A G2 | F3 G F2 E4 A2 | F2 E2 D2 C2 D2 E2 |\nD6 D4 | z2 d3 e d2 c2 B2 A2 | B3 c B2 A2 G2 F2 | G3 A G2 F2 E2 D2 |\nE6 E6 | F2 E2 F2 D2 E2 F2 | A2 ^G2 A2 B2 c2 d2 | c2 B2 A2 E2 A2 ^G2 |\nA6 A4 | d2 | c2 B2 A2 A2 B2 c2 | d6 F6 |\nG2 F2 G2 B2 A2 G2 | G6 F6 | A3 B A2 G3 A G2 | F3 G F2 E4 A2 |\nF2 E2 D2 C2 D2 E2 | D6 D4 |]\n"
+}

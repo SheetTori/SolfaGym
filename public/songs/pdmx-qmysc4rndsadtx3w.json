@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmysc4rndsadtx3w",
+  "title": "Le Tiu tiu de la Mama",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmYSc4rnDSAdTx3W27QfGHEAxYuJRwpkSpg1X8VPQAW16k",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\nD2 G2 G3 B | B2 d2 d2 d d | c B A B c2 A c | B A G A B2 G2 |\nD2 G2 G3 B | B2 d2 d2 d d | c B A B c2 A G | F G A F G4 |\nD2 G2 G3 B | B2 d2 d2 d d | c B A B c2 A c | B A G A B2 G2 |\nD2 G2 G3 B | B2 d2 d2 d d | c B A B c2 A G | F G A F G4 |\ng2 g2 f2 f2 | e2 e2 d2 d d | c B A B c2 A c | B A G A B2 G2 |\ng2 g2 f2 f2 | e2 e2 d2 d d | c B A B c2 A G | F G A F G4 |\ng2 g2 f2 f2 | e2 e2 d2 d d | c B A B c2 A c | B A G A B2 G2 |\ng2 g2 f2 f2 | e2 e2 d2 d d | c B A B c2 A G | F G A F G4 |]\n"
+}

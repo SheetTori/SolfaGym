@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmawzqpcwrncunvu",
+  "title": "Hills of Glenorchy",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmawZQpcwRNCuNVUZfnBfUihGLri8LdhhfQ2zdwExhJU6Z",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 76,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Em clef=treble\nd | B2 E E F E | B A B d2 B | A2 D D E D |\nA F D F A d | B2 E E F E | B A B d2 e | d B d A F D |\nE F E E2 | d | B2 E E F E | B A B d2 B |\nA2 D D E D | A F D F A d | B2 E E F E | B A B d2 e |\nd B d A F D | E F E E2 | B | e f e e d B |\ne f g f2 e | d e d d A F | d f e d A F | e f e e d B |\ne f g f2 e | d B d A F D | E3 e2 | B |\ne f e e d B | e f g f2 e | d e d d A F | d f e d A F |\ne f e e d B | e f g f2 e | d B d A F D | E3 e2 |]\n"
+}

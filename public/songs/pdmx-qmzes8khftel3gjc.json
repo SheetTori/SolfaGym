@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmzes8khftel3gjc",
+  "title": "Ballinasloe Jig",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmZEs8kHfteL3GjcS3sr5PT66jANAXkvsDBE9Hz2Dw9WXu",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nE A A E A A | B A B G2 A | B e e e d B | d B A G E D |\nE A A E A A | B A B G2 A | B e e e d B | d B A A2 D |\nE A A E A A | B A B G2 A | B e e e d B | d B A G E D |\nE A A E A A | B A B G2 A | B e e e d B | d B A A2 d |\ne a a a g e | d B A G2 A | B e e e d B | d e f g f g |\ne a a a g e | d B A G2 A | B e e e d B | d B A A2 d |\ne a a a g e | d B A G2 A | B e e e d B | d e f g f g |\ne a a a g e | d B A G2 A | B e e e d B | d B A A2 d |]\n"
+}

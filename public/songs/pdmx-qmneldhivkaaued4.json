@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmneldhivkaaued4",
+  "title": "BourrÃe du PÃre Duret",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNeLDhivKAaUEd4AsJwjdz4EYJq2qwBwijWV1epWbj9t4",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/8\nL:1/16\nK:G clef=treble\nB c | d2 d2 c d | e2 e2 d e | f2 f2 e f |\ng2 d2 B c | d2 d2 c d | e2 e2 d e | f2 f2 e f |\ng4 | B c | d2 d2 c d | e2 e2 d e |\nf2 f2 e f | g2 d2 B c | d2 d2 c d | e2 e2 d e |\nf2 f2 e f | g4 | B c | d2 e2 d2 |\nc4 A B | c2 d2 c2 | B4 G A | B2 c2 B2 |\nA4 A B | c B c d e c | e2 d2 | B c |\nd2 e2 d2 | c4 A B | c2 d2 c2 | B4 G A |\nB2 c2 B2 | A2 B2 c2 | d e d c B A | G4 |]\n"
+}

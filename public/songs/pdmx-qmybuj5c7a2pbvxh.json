@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmybuj5c7a2pbvxh",
+  "title": "The linen cap",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmYBUJ5c7a2pbVxhER1kfkLKrCH5NDfmupp1LQXWUHd21L",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:A clef=treble\ng | a2 e d c d e c | B c d e f B B g | a2 e d c d e c |\nd f e d c A A g | a2 e d c d e c | B c d e f e f g | a g a e f a e c |\nd f e d c A A | B | c A E A c d e c | B c d e f B B d |\nc A E A c d e c | d f e d c A A B | c A E A c d e c | B c d e f e f g |\na g a e f a e c | d f e d c A A |]\n"
+}

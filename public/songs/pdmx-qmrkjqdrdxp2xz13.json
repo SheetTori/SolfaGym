@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmrkjqdrdxp2xz13",
+  "title": "Farandole des Gavots",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmRKjqDRDxp2xZ13Uzymm91Hhk7tijcsFrnwP2bn4kET4K",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 77,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:F clef=treble\nf g f | f2 d f2 b | f3 d _e f | _e d c c B c |\nd2 B f g f | f2 d f2 b | f3 d _e f | g f _e d2 c |\nB3 d2 f | c2 d _e d c | d2 B d2 f | c2 d _e d c |\nB3 d2 f | c2 d _e d c | d2 B d2 f | e2 f g a g |\nf3 |]\n"
+}

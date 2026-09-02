@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqdr4m4h4gecwfv",
+  "title": "Willafjord",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQDr4m4H4gEcwfVXi9Mwxpz4epVRxR14YzYVL6xLmJoAh",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nB2 | A2 D A A D F A | B2 G B B D G B | A2 D A A D F A |\nE F G A G F E D | A2 D A A D F A | B2 G B B D G B | A B c d e f g e |\nf2 d2 d2 | B2 | A2 D A A D F A | B2 G B B D G B |\nA2 D A A D F A | E F G A G F E D | A2 D A A D F A | B2 G B B D G B |\nA B c d e f g e | f2 d2 d2 | e2 | f2 d f f A d f |\ng e a f g f e d | f2 d f f A d f | e2 c e e A c e | f2 d f f A d f |\ng e a f g f e d | A B c d e f g e | f2 d2 d2 | B2 |\nA2 D A A D F A | B2 G B B D G B | A2 D A A D F A | E F G A G F E D |\nA2 D A A D F A | B2 G B B D G B | A B c d e f g e | f2 d2 d2 |\ne2 | f2 d f f A d f | g e a f g f e d | f2 d f f A d f |\ne2 c e e A c e | f2 d f f A d f | g e a f g f e d | A B c d e f g e |\nf2 d2 d2 |]\n"
+}

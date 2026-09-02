@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqsy5hc9jzpakdx",
+  "title": "The Devil among the Tailors",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQsY5hC9jzpAkDXssPcygpZdY3HnFffpAbdwgRPhBLfGT",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nd f | g2 d f g2 d f | g2 d g e d c B | c e A e c e A e |\nc e a g f d e f | g2 d f g2 d f | g2 d g e d c B | c d e c d B G E |\nD G F A G2 | d f | g2 d f g2 d f | g2 d g e d c B |\nc e A e c e A e | c e a g f d e f | g2 d f g2 d f | g2 d g e d c B |\nc d e c d B G E | D G F A G2 | d c | B d G d B d G d |\nB d g f e d c B | c e A e c e A e | c e a g f e d c | B d G d B d G d |\nB d g f e d c B | c d e c d B G E | D G F A G2 | d c |\nB d G d B d G d | B d g f e d c B | c e A e c e A e | c e a g f e d c |\nB d G d B d G d | B d g f e d c B | c d e c d B G E | D G F A G2 |]\n"
+}

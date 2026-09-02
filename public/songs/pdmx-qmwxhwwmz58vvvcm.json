@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwxhwwmz58vvvcm",
+  "title": "Balquhidder Lasses",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWXhwWMz58vvvCMqUHhsn9rH1eSEJe7XzCaWiobkGt6AC",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:Cm clef=treble\ng f | e2 d e c d e f | g2 g2 c'3 c' | b2 f2 f g f d |\nB c d e f2 g f | e2 d e c d e f | g2 g2 c'3 c' | b2 f2 g f e d |\nc6 | g f | e2 d e c d e f | g2 g2 c'3 c' |\nb2 f2 f g f d | B c d e f2 g f | e2 d e c d e f | g2 g2 c'3 c' |\nb2 f2 g f e d | c6 | g2 | c'2 c' d' c'2 g2 |\nc' d' e' d' c'2 g =a | b2 b c' b f d f | B c d e f2 g2 | c'2 c' d' c'2 g2 |\nc' d' e' d' c'2 g =a | b2 f2 g f e d | c6 g2 | c'2 c' d' c'2 g2 |\nc' d' e' d' c'2 g =a | b2 b c' b f d f | B c d e f2 g f | e2 d e c d e f |\ng2 g2 c'3 c' | b2 f2 g f e d | c6 |]\n"
+}

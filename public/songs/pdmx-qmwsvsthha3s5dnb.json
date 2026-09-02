@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwsvsthha3s5dnb",
+  "title": "The birch tree",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWsvstHha3S5dNbF2XiVsf5B1dUNE94qaRRkE4KeBLxVb",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:Am clef=treble\ne e e e | d2 c c | B2 A2 | e e g e |\nd d c c | B2 A2 | B3 c | d2 c c |\nB2 A2 | B3 c | d e c c | B2 A2 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmy4mgvqsktci2jh",
+  "title": "Road to Lisdoonvarna",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmY4mgvqsktCi2jHtztgkDLjfmseuYfFWM1vqWVRRrtRkw",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Em clef=treble\nD | E2 B B2 A | B2 c d3 | F2 A A B A |\nD2 E F E D | E2 B B2 A | B2 c d3 | c d c B2 A |\nB2 E E3 | E2 B B2 A | B2 c d3 | F2 A A B A |\nD2 E F E D | E2 B B2 A | B2 c d3 | c d c B2 A |\nB2 E E3 | e2 f g f e | d2 B B c d | c2 A A B c |\nd2 B B3 | e2 f g f e | d2 B B c d | c d c B2 A |\nB2 E E3 | e2 f g f e | d2 B B c d | c2 A A B c |\nd2 B B3 | e2 f g f e | d2 B B c d | c d c B2 A |\nB2 E E3 |]\n"
+}

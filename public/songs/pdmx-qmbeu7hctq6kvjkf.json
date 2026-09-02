@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbeu7hctq6kvjkf",
+  "title": "Bourrée de Corrèze",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbEu7hcTq6KVJKfqWFKZsfCFVhsHuxfhUq93FkxhAsG9R",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/8\nL:1/16\nK:C clef=treble\nc2 d3 e | f4 d2 | e2 d4 | d e f2 g a |\ng2 f g f e | d6 | c2 d3 e | f4 d2 |\ne2 d4 | d e f2 g a | g2 f g f e | d6 |\nd e f2 e2 | d4 c2 | _B2 G4 | d2 g2 f2 |\ne2 d4 | c6 | d e f2 e2 | d4 c2 |\n_B2 G4 | d2 g2 f2 | e2 d4 | c6 |]\n"
+}

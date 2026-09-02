@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcxqrhadpdgr2ta",
+  "title": "The Fardown farmer",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcXqrHADPDgr2TaUyQ7R7eakZELE725TNytQPCBhHgen6",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:G clef=treble\nA2 | B2 A2 B2 G2 E2 D2 | E2 F2 G2 G2 A2 B2 | B2 A2 B2 G2 E2 D2 |\nE2 A2 A2 A2 B2 c2 | B2 A2 B2 G2 E2 D2 | E2 F2 G2 G2 A2 B2 | d2 f2 e2 d2 c2 A2 |\nB G3 G2 G4 | A2 | B2 A2 B2 G2 E2 D2 | E2 F2 G2 G2 A2 B2 |\nB2 A2 B2 G2 E2 D2 | E2 A2 A2 A2 B2 c2 | B2 A2 B2 G2 E2 D2 | E2 F2 G2 G2 A2 B2 |\nd2 f2 e2 d2 c2 A2 | B G3 G2 G4 | A2 | B2 c2 d2 d2 e2 d2 |\nd2 g2 e2 d2 B2 G2 | B2 c2 d2 d2 e2 d2 | e2 f2 d2 g4 d2 | B2 c2 d2 d2 e2 d2 |\nd2 g2 e2 d2 B2 G2 | d2 f2 e2 d2 c2 A2 | B G3 G2 G4 | A2 |\nB2 c2 d2 d2 e2 d2 | d2 g2 e2 d2 B2 G2 | B2 c2 d2 d2 e2 d2 | e2 f2 d2 g4 d2 |\nB2 c2 d2 d2 e2 d2 | d2 g2 e2 d2 B2 G2 | d2 f2 e2 d2 c2 A2 | B G3 G2 G4 |]\n"
+}

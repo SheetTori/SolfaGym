@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmrxkay81v4jrwnb",
+  "title": "My Darling Asleep",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmRXkAy81V4jrwnBZthiYhguqoamVnn1NuVJ4R7TUFjVji",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nf d d c A A | B G G A2 G | F A A d e f | g f g e a g |\nf d d c A A | B G G A2 G | F A A d e f | g e c d3 |\nf d d c A A | B G G A2 G | F A A d e f | g f g e a g |\nf d d c A A | B G G A2 G | F A A d e f | g e c d3 |\nF A A B A G | F A A B A G | F A A d e f | g f g e a g |\nf d d c A A | B G G A2 G | F A A d e f | g e c d3 |\nF A A B A G | F A A B A G | F A A d e f | g f g e a g |\nf d d c A A | B G G A2 G | F A A d e f | g e c d3 |]\n"
+}

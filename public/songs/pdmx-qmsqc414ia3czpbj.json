@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmsqc414ia3czpbj",
+  "title": "Robin Ddiog",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmSQc414iA3cZpbjDNEo5c9kDfPzCBH6PP7nJG1GVv1ZQr",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Gm clef=treble\nA | B2 B A A A | G2 G B2 B | A2 A G2 G |\nD2 D G2 D | G2 G G G A | B2 c d2 c | B A G A2 B |\nG3 G3 | d3 d2 B | G3 G2 B | d2 e d2 B |\nG3 c3 | B A G A2 B | G3 G2 | A |\nB2 B A A A | G2 G B2 B | A2 A G2 G | D2 D G2 D |\nG2 G G G A | B2 c d2 c | B A G A2 B | G3 G3 |\nd3 d2 B | G3 G2 B | d2 e d2 B | G3 c3 |\nB A G A2 B | G3 G2 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdmkuxagqkr1zhs",
+  "title": "Uncle Joe (Miss McLeod's Reel)",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdMKUxAGqKR1zHS7x1fkLE9q2avbsWnXE8ymitHXLgxsk",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nF E | D E F A B A F D | F2 F2 F2 F E | D E F A B A F D |\nE2 E2 E2 F E | D E F A B A F D | F2 F2 F2 A A | A2 B d B A D F |\nE2 D2 D2 | z2 D d2 B A2 A2 | F F2 F F2 F2 | D d2 B A2 A2 |\nE E2 E E2 E2 | D d2 B A2 F D | F2 F E F2 A2 | A2 A B d B D E |\nF2 E2 D2 |]\n"
+}

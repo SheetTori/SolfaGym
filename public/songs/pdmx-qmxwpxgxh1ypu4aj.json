@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxwpxgxh1ypu4aj",
+  "title": "Country Garden",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXWpxgxH1ypU4aJcZV5xAuMGgeHbdX1GA1X8NerxkckgH",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 60,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:C clef=treble\nc2 c B A2 A2 G2 G F E2 E F | G2 C2 D2 F2 E3 D C4 | c2 c B A2 A2 G2 G F E2 E F | G2 C2 D2 F2 E3 D C4 |\nc2 c A B2 G2 c d c A B2 G2 | c2 c B A2 d2 B3 A G4 | c2 c B A2 A2 G2 G F E2 E F | G2 C2 D2 F2 E3 D C4 |]\n"
+}

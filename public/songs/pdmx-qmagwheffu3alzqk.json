@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmagwheffu3alzqk",
+  "title": "The black rogue",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmaGWhEFFU3aLZQKP8CN2zdyvjn9PGZBnqZKSLWiP6cVH8",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:Em clef=treble\ng2 | d2 B2 B2 B2 A2 B2 | d2 B2 B2 B4 g2 | d2 B2 B2 B2 A2 B2 |\nG2 E2 E2 E4 g2 | d2 B2 B2 B2 A2 B2 | d2 B2 B2 B2 A2 G2 | A2 B2 c2 B2 A2 B2 |\nG2 E2 E2 E4 | g2 | d2 B2 B2 B2 A2 B2 | d2 B2 B2 B4 g2 |\nd2 B2 B2 B2 A2 B2 | G2 E2 E2 E4 g2 | d2 B2 B2 B2 A2 B2 | d2 B2 B2 B2 A2 G2 |\nA2 B2 c2 B2 A2 B2 | G2 E2 E2 E4 | d2 | g2 f2 g2 a2 g2 a2 |\nb2 g2 e2 e2 d2 B2 | g2 f2 g2 a2 g2 a2 | b2 g2 e2 e3 f g a | b2 a2 g2 a2 g2 f2 |\ng2 e2 f2 g4 e2 | d2 B2 B2 B2 A2 B2 | G2 E2 E2 E4 | d2 |\ng2 f2 g2 a2 g2 a2 | b2 g2 e2 e2 d2 B2 | g2 f2 g2 a2 g2 a2 | b2 g2 e2 e3 f g a |\nb2 a2 g2 a2 g2 f2 | g2 e2 f2 g4 e2 | d2 B2 B2 B2 A2 B2 | G2 E2 E2 E4 |]\n"
+}

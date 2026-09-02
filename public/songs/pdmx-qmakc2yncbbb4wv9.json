@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmakc2yncbbb4wv9",
+  "title": "La boulangère del pallars",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmakC2yncBbb4WV9zz4AYzFtPeuRYQcz46CRWx8xmuic5A",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 71,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/4\nK:Bm clef=treble\nG A B | =c2 c c2 c | d3 A2 B | =c2 B A2 B |\nG3 G A B | =c2 c c2 c | d3 A2 B | =c2 B A2 B |\nG2 E E2 E | =F2 F A2 A | G3 E D E | =F2 F A2 A |\nG3 E D E | =F2 F A2 A | G3 E D E | =F2 G A2 B |\n=c3 G A B |]\n"
+}

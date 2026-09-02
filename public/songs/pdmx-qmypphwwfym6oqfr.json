@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmypphwwfym6oqfr",
+  "title": "Gens de Lignières",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmYPPhWwFYM6oQFrwA7sSsSBmjD41gNhka5BPc4NFwTHpC",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nG G G G2 D | G3 G2 | z G G G G2 D | G3 G |\nz2 B B B B2 c | B3 A2 | z A A A A2 B | A3 G |\nz2 B2 z B2 | z B A c B2 B | A A A A2 B | A3 G2 |\nz B2 z B2 | z B A c B3 | A A A A2 A | G3 G2 |]\n"
+}

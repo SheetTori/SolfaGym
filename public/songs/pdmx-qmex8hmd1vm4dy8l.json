@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmex8hmd1vm4dy8l",
+  "title": "Konjakspolkan",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmex8hMD1vm4dY8LvTWn34Y3RgjtmwWjW5AUwCQrnW4tfb",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 77,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:F clef=treble\nF4 A3 B | c c c c c2 A2 | B B B B B2 G2 | A A A A A2 F2 |\nF4 A3 B | c c c c c2 A2 | B B B B G G E E | G2 F2 F2 |\nz2 F4 A3 B | c c c c c2 A2 | B B B B B2 G2 | A A A A A2 F2 |\nF4 A3 B | c c c c c2 A2 | B B B B G G E E | G2 F2 F2 |\nz2 f4 f3 f | d2 d2 d4 | B d B d d2 c2 | A3 c A4 |\nc4 c2 B2 | G3 E G4 | e f e f e2 d e | f2 f2 f2 |\nz2 f4 f3 f | d2 d2 d4 | B d B d d2 c2 | A3 c A4 |\nc4 c2 B2 | G3 E G4 | e f e f e2 d e | f2 f2 f2 |]\n"
+}

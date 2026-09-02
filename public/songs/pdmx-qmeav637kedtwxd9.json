@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmeav637kedtwxd9",
+  "title": "Kvarten",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeAV637keDtWXd9U7rK1d3kRnB2TtDxbHTqcSHEnaXVHx",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/16\nK:Gm clef=treble\nD ^F3 G | A4 c3 B G3 G | F4 D3 D C3 A, | B,4 B,3 B, C3 C |\nD4 D2 z D ^F3 G | A4 c3 B G3 G | F4 z2 D C3 A, | B,4 B,3 B, C3 C |\nD6 D2 C3 A, | B,4 C3 C D3 ^F | G4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmaucvkzq6fipnj1",
+  "title": "The Morning Dew",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmaUCvkZQ6Fipnj1w5cGYpD5CRwK35c7mke9qu9yEBsaSP",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:Em clef=treble\nE3 B B A F D | E3 B A G F D | E3 B B A F A | B ^c d B A D F A |\nE3 B B A F D | E B E B A G F D | E3 B B A F A | B ^c d B A D F A |\nB e B f B e B | B ^c d B A D F A | B e B f B e B | d ^c d B A D F A |\nB e B f B e B | B ^c d B A D F A | B d e f g f g e | d ^c d B A D F A |\nB2 G B E F G A | B E G B A D F A | B2 G B E F G A | B ^c d B A D F A |\nB2 G B E F G A | B E G B A D F A | B A G F E F G A | B ^c d B A G F D |\nE2 |]\n"
+}

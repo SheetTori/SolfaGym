@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqtdzhpp29w6pwr",
+  "title": "Drowsy Maggie",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQtDZHpP29w6PWrrZxkX1q56YQKTVidPxuhvjwv4kQ3tc",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:Em clef=treble\nD | E2 B E d E B E | E2 B E A F D F | E2 B E d E B E |\nB A B ^c d A F | D | E2 B E d E B E | E2 B E A F D F |\nE2 B E d E B E | B A B ^c d A F | A | d2 f d ^c2 e c |\nd e f g a f g e | d2 f d ^c2 e c | B A B ^c d A F A | d2 f d ^c2 e c |\nd e f g a f g e | a f g e f d e ^c | B A B ^c d A F | z E8 |]\n"
+}

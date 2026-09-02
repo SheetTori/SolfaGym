@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmrhtwetgvfyurxu",
+  "title": "Lou pichin ome",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmRHtwetgVfyurXuaqqLC28GbGVJwUxFvfunmdNsMe6Cru",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 70,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Bb clef=treble\nF2 F | d2 d c2 c | B3 B A B | c2 c c B c |\nd2 B F2 F | d2 d c2 c | B3 B A B | c2 e d2 c |\nB3 d2 d | d2 c c2 B | B2 B d2 d | d2 c c2 B |\nB2 B F2 F | B2 B d2 d | f3 e e e | d2 d c2 c |\nB3 |]\n"
+}

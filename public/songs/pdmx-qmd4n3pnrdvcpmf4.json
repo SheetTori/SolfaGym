@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmd4n3pnrdvcpmf4",
+  "title": "Det halve k\\aede",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmd4n3PnRDVCPmF4tVgz8wTHjsw4pAqM2DBfiW8C5egtHq",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\nG2 G2 B G B d | F2 F2 A F A c | G2 G2 B G B d | d c A F G4 |\nB2 d2 d2 c B | c2 e2 e4 | A2 c2 c2 B A | B2 d2 d4 |\nG2 G2 B G B d | F2 F2 A F A c | G2 G2 B G B d | d c A F G4 |]\n"
+}

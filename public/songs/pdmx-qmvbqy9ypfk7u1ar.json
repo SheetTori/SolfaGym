@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmvbqy9ypfk7u1ar",
+  "title": "Pwy Fydd Yma ymhen Can Mlynedd",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmVbQy9yPFK7u1aRwEAg7MUVPpeeHiK6ZtQ7eLmPWLFsGf",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/2\nL:1/4\nK:G clef=treble\nG A | B3 G A B | A G3 G E | D3 G F G |\nA4 G A | B3 G A B | A G3 G E | D3 G |\nA2 G F | G4 B c | d3 d c B | B A3 A B |\nc3 c B A | B4 B A | G3 A G F | E G3 G A |\nB3 G | A2 G F | G4 |]\n"
+}

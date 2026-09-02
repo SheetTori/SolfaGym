@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpdvpnvy4zv2s1g",
+  "title": "Miss McLeod's",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPdVPNVy4zV2s1gjNuK2P9nFdG2sfgycEt4M7uQm2h3kt",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Am clef=treble\nB A | G2 g2 e d e g | B2 B c B2 B A | G2 g2 e d e g |\na g ^f e d c B A | G2 g2 e d e g | B2 B c B2 d2 | e2 e d e d e ^f |\ng e d B A c B A | G2 g2 e d e g | B2 B c B2 B A | G2 g2 e d e g |\na g ^f e d c B A | G2 g2 e d e g | B2 B c B2 d2 | e2 e d e d e ^f |\ng e d B A c B A | G A B c d G B G | B2 B c B2 A2 | G A B c d G B G |\nA2 A G A c B A | G A B c d G B G | B2 B c B2 d2 | e2 e d e d e ^f |\ng e d B A c B A | G A B c d G B G | B2 B c B2 A2 | G A B c d G B G |\nA2 A G A c B A | G A B c d G B G | B2 B c B2 d2 | e2 e d e d e ^f |\ng e d B A c B A |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmudao8qq4wf9mmh",
+  "title": "Viel Freuden mit sich bringet",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmUDAo8Qq4Wf9mMhBtkSUecPsuvSnndDiwJBXbY2j8J6Es",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:G clef=treble\nd2 | d3 c B2 | c3 B A2 | B4 G2 |\nB3 A G2 | A4 G2 | F3 E F2 | G8 |\nz2 d2 | d3 c B2 | c3 B A2 | B4 G2 |\nB3 A G2 | A4 G2 | F3 E F2 | G8 |\nz2 A B | c4 c2 | c4 d2 | e4 d2 |\ne3 f g2 | f3 e d2 | ^c3 B c2 | d8 |\nz2 d2 | d3 c B2 | c3 B A2 | B4 G2 |\nB3 A G2 | A4 G2 | F3 E F2 | G8 |]\n"
+}

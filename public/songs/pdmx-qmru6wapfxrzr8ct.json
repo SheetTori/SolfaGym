@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmru6wapfxrzr8ct",
+  "title": "Da Ferry Reel",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmRu6WAPFXrZR8ct5a9w9W59SEYcvbGSBJYxA2bTNGPGMZ",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:D clef=treble\nA | d2 d A d2 d2 | e f e d c2 A2 | B c d B A B A F |\nG2 E2 E3 A | d2 d A d2 d2 | e f e d c2 A2 | B c d B A G F E |\nD2 d2 d2 | z A | d2 d A d2 d2 | e f e d c2 A2 |\nB c d B A B A F | G2 E2 E3 A | d2 d A d2 d2 | e f e d c2 A2 |\nB c d B A G F E | D2 d2 d2 | z e | f2 f d f a f d |\nf g a g f e d f | e2 e c e2 e c | e f e d c A A g | f2 f d f a f d |\nf g a g f e d f | e f g f e d c B | A2 d2 d2 | z A |\nd2 d A d2 d2 | e f e d c2 A2 | B c d B A B A F | G2 E2 E3 A |\nd2 d A d2 d2 | e f e d c2 A2 | B c d B A G F E | D2 d2 d2 |\nz e | f2 f d f a f d | f g a g f e d f | e2 e c e2 e c |\ne f e d c A A g | f2 f d f a f d | f g a g f e d f | e f g f e d c B |\nA2 d2 d2 |]\n"
+}

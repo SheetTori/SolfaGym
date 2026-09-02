@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmnd7q2t17vrg2c4",
+  "title": "Oidche mhath leibh",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNd7q2t17vrg2C4ZLLK97kf3DZj2ATDmBaj6eDvixp73w",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 76,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:Em clef=treble\ne3 f e2 | B6 | d3 e f2 | d6 |\ne3 d B2 | b6 | a2 f2 d2 | e6 |\ne g g4 | B6 | g3 f e2 | f d3 |\nz2 e3 d B2 | b6 | a2 f2 d2 | e6 |\ng4 a2 | b4 b2 | d'4 a2 | b e e6 |\ng2 a2 | b4 b b | b3 a g2 | f6 |\nf b b4 | e6 | f g g2 e2 | d6 |\n^c d d2 e2 | f b b4 | a2 f2 d2 | e6 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmret7bnzfsqhnvh",
+  "title": "I sommarens soliga dagar",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmReT7BnZFsQhnVH5K9FFqjtDW5gLM3jP9soAhpgyVa46y",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 70,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:Bb clef=treble\nF4 | D4 F3 E D4 B3 A | G8 E4 E4 | C4 E3 D C4 A3 G |\nF8 D4 F4 | B4 B3 B d4 B3 B | E8 G4 e4 | d4 B4 c4 A4 |\nB3 B B3 B B3 F F3 E | D3 F F3 E D3 B B3 A | G3 G G3 F E3 E E3 D | C3 E E3 D C3 A A3 G |\nF3 F F3 E D4 F4 | B4 B3 B d4 B3 B | E8 G4 e4 | d4 B4 c4 A4 |\nB3 B B3 B B4 |]\n"
+}

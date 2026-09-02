@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qme2aa6kurbuncfe",
+  "title": "The Mooncoin Jig",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qme2Aa6kURBuNCFeLtMWr7jE1653YWnEeXhpGn64aHnFse",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nc B A A E A | A E A B c d | c B A A c e | d B G B c d |\nc B A A E A | A E A B c d | G B d g3 | d B G B c d |\nc B A A E A | A E A B c d | c B A A c e | d B G B c d |\nc B A A E A | A E A B c d | G B d g3 | d B G B c d |\nc d e e f g | f a f g e d | c d e e f g | f a A B c d |\nc d e e f g | a f d b g e | a f d g e c | d B G B c d |\nc d e e f g | f a f g e d | c d e e f g | f a A B c d |\nc d e e f g | a f d b g e | a f d g e c | d B G B c d |\nc B A A a f | e c A B c d | c B A A g e | d B G B c d |\nc B A A a a | A g g A f f | A e e e f g | d B G B c d |\nc B A A a f | e c A B c d | c B A A g e | d B G B c d |\nc B A A a a | A g g A f f | A e e e f g | d B G B c d |]\n"
+}

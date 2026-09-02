@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbsywcxhtaagrpn",
+  "title": "Eg gjette tulla",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbSyWCXhTAaGrpnDVReKu6PYNy8mruqRqBSDYeGRUoCU5",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 60,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/16\nK:C clef=treble\nc2 | c3 e c4 c3 G | A3 A G4 z2 E2 | F3 A E4 E3 E |\nD4 E4 | z2 c2 | c3 e c4 c3 G | A3 A G4 z2 E2 |\nF3 A E4 E3 E | D4 E4 | z2 E2 | F3 F E3 D C3 E |\nD8 z2 C2 | C3 D E4 E2 D2 | c4 c4 z2 B2 | A3 G F2 E2 G2 E2 |\nD4 C4 |]\n"
+}

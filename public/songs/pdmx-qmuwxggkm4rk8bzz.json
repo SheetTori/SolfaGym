@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmuwxggkm4rk8bzz",
+  "title": "Allons petits",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmUwXgGKm4rk8bZZ39FPSyg1eyg7UkJDtytra2kCiuqznM",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:C clef=treble\nc d e f | g3 g | f e f g | a2 g2 |\nc d e f | g3 g | f e f g | a2 g2 |\ne g g g | f2 f2 | d f f f | e d c2 |\ne g g g | f2 f2 | d f f f | e d c2 |]\n"
+}

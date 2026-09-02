@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpcbnoea7fbbkwe",
+  "title": "Les poules huppées",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPcBNoea7FbBkwE7RmcyGdzq88Fruj3mU3zzurJv5ACyv",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/8\nL:1/16\nK:Dm clef=treble\nD2 D2 F2 E D | A4 A =B | c =B A d c B | c =B A B A G |\nD2 D F E D | A4 A =B | c =B A d B d | A4 |\nD2 D2 F2 E D | A4 A =B | c =B A d c B | c =B A B A G |\nD2 D F E D | A4 A =B | c =B A d B d | A4 |\nd e | f2 A f2 e d | B4 d e | f d g f e d |\n^c2 d2 e2 | f2 A f2 e d | G4 d e | f d g f e ^c |\nd4 | d e | f2 A f2 e d | B4 d e |\nf d g f e d | ^c2 d2 e2 | f2 A f2 e d | G4 d e |\nf d g f e ^c | d4 |]\n"
+}

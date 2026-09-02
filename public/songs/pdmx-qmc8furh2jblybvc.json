@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmc8furh2jblybvc",
+  "title": "Welcome home",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmc8FuRH2JbLYbVCKUdePFw3DquFYY31vPiUjCWZkruL6x",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:D clef=treble\nA G | F E F G A F D c | B A G B A G F D | F E F G A3 g |\nf d e c d c A G | F E F G A F D c | B A G B A G F D | F E F G A3 g |\nf d e c d2 | d e | f e d f e d c e | d c A B c A G g |\nf e d f e d c A | A d c e d2 d e | f e d f e d c e | d c A B c A F E |\nF E F G A3 g | f d e c d2 |]\n"
+}

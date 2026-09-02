@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmntxkzrdb7f64mb",
+  "title": "Letkis Jenka (Dm)",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNtXkzRdB7F64mbUP8aMQgicBFWCYgUowQsvtb3Z3P5f5",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 76,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/16\nK:Em clef=treble\nA4 z4 A4 | z4 A3 ^G A3 _B A4 | z4 G4 z4 G4 | z4 G3 F G3 A G4 |\nz4 A4 z4 A4 | z4 A3 ^G A3 _B A3 A d3 e | =f4 e4 d3 ^c B3 c | d4 d4 d4 |\nz4 A4 z4 A4 | z4 A3 ^G A3 _B A4 | z4 G4 z4 G4 | z4 G3 F G3 A G4 |\nz4 A4 z4 A4 | z4 A3 ^G A3 _B A3 A d3 e | =f4 e4 d3 ^c B3 c | d4 d4 d4 |\nz4 e8 e6 e2 | d4 e4 d8 | c4 c4 c3 _B A3 B | c12 |\nz4 e8 e6 e2 | d4 e4 d8 | ^c8 d8 | ^d8 e8 |\nA4 z4 A4 | z4 A3 ^G A3 _B A4 | z4 G4 z4 G4 | z4 G3 F G3 A G4 |\nz4 A4 z4 A4 | z4 A3 ^G A3 _B A3 A d3 e | =f4 e4 d3 ^c B3 c | d4 d4 d4 |\nz4 e8 e6 e2 | d4 e4 d8 | c4 c4 c3 _B A3 B | c12 |\nz4 e8 e6 e2 | d4 e4 d8 | ^c8 d8 | ^d8 e8 |]\n"
+}

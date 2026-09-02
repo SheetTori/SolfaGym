@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmfs1ugpgq1pb1qb",
+  "title": "Not For Joe",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmfS1uGPGQ1PB1qbNbQ4PLp3k1GRcuiBStmNPwheuTAufc",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nD2 G2 D2 G2 | F2 E2 F2 E2 | D2 G2 D2 G2 | F2 G2 A4 |\nD2 G2 D2 G2 | F2 E2 F2 E2 | D4 B3 A | G2 F2 G4 |\nD2 G2 D2 G2 | F2 E2 F2 E2 | D2 G2 D2 G2 | F2 G2 A4 |\nD2 G2 D2 G2 | F2 E2 F2 E2 | D4 B3 A | G2 F2 G4 |\nB3 A G2 B2 | c4 A4 | B3 A G2 B2 | A2 F2 D4 |\nB3 A G2 B2 | c4 A4 | D4 B3 A | G2 F2 G4 |\nD2 G2 D2 G2 | F2 E2 F2 E2 | D2 G2 D2 G2 | F2 G2 A4 |\nD2 G2 D2 G2 | F2 E2 F2 E2 | D4 B3 A | G2 F2 G4 |\nB3 A G2 B2 | c4 A4 | B3 A G2 B2 | A2 F2 D4 |\nB3 A G2 B2 | c4 A4 | D4 B3 A | G2 F2 G4 |\nG2 G2 D D D D | E2 E2 D D D D | G G G G A2 F2 | G6 D2 |\nG G G G D2 D2 | E E E E D2 D2 | G G G G A2 F2 | G8 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmb2kap3qmlxrfpz",
+  "title": "Swallowtail Jig",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmb2kap3QmLxrfPzbUQzvHiYfhWVwneJLtVijQbkbrbeV8",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Em clef=treble\nF | G E E B E E | G E E B A G | F D D A D D |\nd ^c d A G F | G E E B E E | G E E B2 ^c | d ^c d A G F |\nG E E E2 F | G E E B E E | G E E B A G | F D D A D D |\nd ^c d A G F | G E E B E E | G E E B2 ^c | d ^c d A G F |\nG E E E3 | B ^c d e2 f | e2 f e d B | B ^c d e2 f |\ne d B d3 | B ^c d e2 f | e2 f e d ^c | d ^c d A G F |\nG E E E3 | B ^c d e2 f | e2 f e d B | B ^c d e2 f |\ne d B d3 | B ^c d e2 f | e2 f e d ^c | d ^c d A G F |\nG E E E3 |]\n"
+}

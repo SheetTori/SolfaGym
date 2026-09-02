@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qman4ufqnzjwrqzb",
+  "title": "Tok Jons (Slengpolska C version)",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qman4UfQNzjWrQZbfa34dAXsLtMNC7VApsfP8Fp1th1kRR",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/16\nK:Cm clef=treble\nG2 c2 c2 d c B c B A | G2 c2 c2 =B c d4 | G2 e2 e2 d c e2 d2 | c2 =B c d e d c B2 G2 |\nG2 c2 c2 d c B c B A | G2 c2 c2 =B c d4 | G2 e2 e2 d c e g e c | d f d =B c8 |\nG2 c2 c2 d c B c B A | G2 c2 c2 =B c d4 | G2 e2 e2 d c e2 d2 | c2 =B c d e d c B2 G2 |\nG2 c2 c2 d c B c B A | G2 c2 c2 =B c d4 | G2 e2 e2 d c e g e c | d f d =B c8 |\nG2 g2 g2 =a g f g f d | e d e f g f g =B c2 d2 | d2 e2 e2 d c e2 d2 | c2 =B c d e d c B2 G2 |\nG2 g2 g2 =a g f g f d | e d e f g f g =B c2 d2 | d2 e2 e2 d c e g e c | d f d =B c8 |\nG2 g2 g2 =a g f g f d | e d e f g f g =B c2 d2 | d2 e2 e2 d c e2 d2 | c2 =B c d e d c B2 G2 |\nG2 g2 g2 =a g f g f d | e d e f g f g =B c2 d2 | d2 e2 e2 d c e g e c | d f d =B c8 |]\n"
+}

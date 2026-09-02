@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdjhgqqd5thjqag",
+  "title": "Hanter dro",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdjHGqQD5tHJqAgvZh2SzUQasbTqztnAtYusKaAeQvkhp",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:Am clef=treble\nB2 E G B2 G2 | c4 | B2 E G B2 G2 | A2 e2 |\nB2 E G B2 G2 | c3 B | A B A G ^F2 D2 | E4 |\nB2 E G B2 G2 | c4 | B2 E G B2 G2 | A2 e2 |\nB2 E G B2 G2 | c3 B | A B A G ^F2 D2 | E4 |\ne2 e d c2 c2 | d e d c | B A G G A2 G A | B4 |\ne2 e d c2 c2 | d e d c | d4 c A B c | A B c A |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmx6eedqrgsjvzyp",
+  "title": "Shave the Donkey",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmX6EedqRgsJvzyPaYHag4H5bKQ6ZnW6GU94v8qKXuSocR",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:G clef=treble\nd4 B4 d3 c B3 A | G4 g4 e4 g4 | d4 B4 d3 c B3 A | G4 B4 G8 |\nd4 B4 d3 c B3 A | G4 g4 e4 g4 | d4 B4 d3 c B3 A | G4 B4 G8 |\nA6 c2 B4 d4 | A6 c2 B4 d4 | A6 c2 B4 d3 e | d3 c B3 A B4 G4 |\nA4 A3 c B4 d4 | A4 A3 c B4 d4 | A4 A3 c B4 d3 e | d3 c B3 A G8 |]\n"
+}

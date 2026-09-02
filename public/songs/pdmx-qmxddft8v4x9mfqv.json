@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxddft8v4x9mfqv",
+  "title": "Le Renard",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXDDft8V4x9mfQVo4ZNJyLCVXqJchPqMfS32n1us9JCsG",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:C clef=treble\nc2 g2 g2 f2 | g2 f e d2 d2 | c2 g2 g2 f2 | g4 d4 |\nc2 g2 g2 f2 | g2 f e d2 d2 | c2 g2 g2 f2 | g4 d4 |\nd2 e2 f2 e2 | d2 e d c2 c2 | d2 e2 f2 e2 | d4 c4 |\nd2 e2 f2 e2 | d2 e d c2 c2 | d2 e2 f2 e2 | d4 c4 |]\n"
+}

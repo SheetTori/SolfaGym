@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbk6uf1nmss2soz",
+  "title": "Red River Valley",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmbk6UF1nmss2soZum5JvvPQ8pU6QaYwJS16xaGxETZdgK",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nD G | B2 B A G2 A G | E G G2 z2 D G | B2 B B d2 c B |\nA4 z2 d c | B2 B A G2 A B | d c c2 z2 E _E | D2 G G B2 A A |\nG6 |]\n"
+}

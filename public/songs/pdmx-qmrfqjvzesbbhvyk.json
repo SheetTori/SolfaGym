@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmrfqjvzesbbhvyk",
+  "title": "Sally Ann",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmRfqJVZesbbHVyKn2onmwiU492ozVzSh1eLaJTxMqi4WU",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 78,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:F#m clef=treble\nf =g | a2 a =g f e f g | a2 a =g f e f g | a2 a =g f e f g |\na2 a f a2 a2 | b2 a2 f e d2 | e f2 e f e f2 | f e d d B A B c |\nd2 d c d2 f =g | a2 a =g f e f g | a2 a =g f e f g | a2 a =g f e f g |\na2 a f a2 a2 | b2 a2 f e d2 | e f2 e f e f2 | f e d d B A B c |\nd2 d c d3 e | f2 f2 f e f e | f2 | f2 f2 f e f e |\nf2 |]\n"
+}

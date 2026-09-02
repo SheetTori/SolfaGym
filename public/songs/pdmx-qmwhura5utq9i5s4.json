@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwhura5utq9i5s4",
+  "title": "The sod of turf",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWhuRA5UTq9i5S4TvPoVvRjM5jNQMfrjDfGZ3mvDBDJAr",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nd | d c A A G E | c2 A A B c | d c A A G F |\nD G G G B c | d c A A G E | c2 A A B c | d c A f g a |\ng2 G G2 | d | d c A A G E | c2 A A B c |\nd c A A G F | D G G G B c | d c A A G E | c2 A A B c |\nd c A f g a | g2 G G2 | d | d c A f2 g |\na a g f2 d | d c A f g a | g2 G G B c | d c A f2 g |\na a g f2 d | d c A f g a | g2 G G2 | d |\nd c A f2 g | a a g f2 d | d c A f g a | g2 G G B c |\nd c A f2 g | a a g f2 d | d c A f g a | g2 G G2 |]\n"
+}

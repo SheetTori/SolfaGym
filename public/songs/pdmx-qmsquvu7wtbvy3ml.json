@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmsquvu7wtbvy3ml",
+  "title": "Rochdale Coconut Dance",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmSQuvU7wtBVy3mLEv4mDei1a93fnVYgLiJAmWCnihjS7m",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nE F G F E2 B2 | E F G F E2 B2 | =c2 A c B2 G2 | A G F2 E2 D2 |\nE F G F E2 B2 | E F G F E2 B2 | =c2 A c B2 G2 | A G F2 E2 D2 |\nG2 B B G2 B2 | A G F G A2 d d | G2 B B G2 B2 | A G F E D2 d2 |\nG2 B B G2 B2 | A G F G A2 d d | B d =c B A c B A | G2 F2 G2 D2 |]\n"
+}

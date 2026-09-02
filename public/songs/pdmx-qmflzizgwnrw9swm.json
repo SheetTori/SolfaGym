@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmflzizgwnrw9swm",
+  "title": "Jackson's bottle of brandy",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmfLZiZgWnRW9sWMedB8eyhvQpwQsCxtkDnU2eHoZ4nqbT",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Em clef=treble\nG2 e d B G | A B G d B G | G2 e d B G | A2 A B G E |\nG2 e d B G | B A B d e f | g f e d B G | A G A B G E |\nG2 e d B G | A B G d B G | G2 e d B G | A2 A B G E |\nG2 e d B G | B A B d e f | g f e d B G | A G A B G E |\ng b g f a f | e g e d e f | g f g a g a | b a b a f d |\ng b g f a f | e g e d e f | g f e d B G | A G A B G E |\ng b g f a f | e g e d e f | g f g a g a | b a b a f d |\ng b g f a f | e g e d e f | g f e d B G | A G A B G E |]\n"
+}

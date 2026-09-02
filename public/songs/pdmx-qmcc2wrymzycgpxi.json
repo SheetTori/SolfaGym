@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcc2wrymzycgpxi",
+  "title": "Scottish",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmcc2WrymzYcgpXiN7HMygHHGa43KpGNPyCE2kfMBgAHdG",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\nB2 c2 d2 e f | g2 B2 d4 | e d c B A2 A B | c d e f e2 d2 |\nB2 c2 d2 e f | g2 B2 d4 | e d c B A B c A | G2 B2 G4 |\nB2 c2 d2 e f | g2 B2 d4 | e d c B A2 A B | c d e f e2 d2 |\nB2 c2 d2 e f | g2 B2 d4 | e d c B A B c A | G2 B2 G4 |\ng2 g2 f3 f | e2 e2 d4 | e d c B A2 A B | c d e f e2 d2 |\ng2 g2 f3 f | e2 e2 d4 | e d c B A B c A | G2 B2 G4 |\ng2 g2 f3 f | e2 e2 d4 | e d c B A2 A B | c d e f e2 d2 |\ng2 g2 f3 f | e2 e2 d4 | e d c B A B c A | G2 B2 G4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmnfxfqsq7ygxgd3",
+  "title": "What ails you?",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNfxfQsq7YGxGd3GzZ5sVKvCoFryf57aCdgoaw7yRxECD",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nA | d2 d d e f | e2 d c2 A | B2 B B A F |\nA2 A A B c | d2 d d e f | e2 d c2 A | B2 A G E F |\nD2 D D2 | A | d2 d d e f | e2 d c2 A |\nB2 B B A F | A2 A A B c | d2 d d e f | e2 d c2 A |\nB2 A G E F | D2 D D2 | z6 B | A2 G F E F |\nA2 A A2 g | f2 d e d B | d2 d d2 B | A2 G F E F |\nA2 A A2 A | B c d e d c | d2 D D2 | A |\nd2 d d e f | e2 d c2 A | B2 B B A F | A2 A A B c |\nd2 d d e f | e2 d c2 A | B2 A G E F | D2 D D2 |\nz6 B | A2 G F E F | A2 A A2 g | f2 d e d B |\nd2 d d2 B | A2 G F E F | A2 A A2 A | B c d e d c |\nd2 D D2 |]\n"
+}

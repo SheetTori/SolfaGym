@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmah7kfz4h5bb3bv",
+  "title": "Den signede dag",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmaH7kfZ4h5bb3BVEQjmrDT7whsamnKTZUGsWm26dTbbu7",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/4\nK:Dm clef=treble\nG | B B c | d2 c | d B A |\nG2 G | c d c | F G A | B3 |\nB2 G | B B c | d2 c | d B A |\nG2 G | c d c | G F E | D3 |\nD2 E | F F F | G G F | B c d |\nc2 A | G G G | F F E | D3 |\nD2 |]\n"
+}

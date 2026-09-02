@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcwsgrbhqp6oxxy",
+  "title": "Folk song",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcwSGrbhqP6oxxYFe3FS6BjhBpfjPyCHUXZdQ49qdVbq8",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/4\nK:Dm clef=treble\nD D A A | A G A2 | E F G E | F2 E2 |\nD D A A | A G A2 | E F G E | F2 E2 |\nG E F F | E2 D2 | F A G E | F A E2 |\nD F E F | D2 D2 |]\n"
+}

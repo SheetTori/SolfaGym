@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmzgw1r9oizry5av",
+  "title": "Dessus le nostre trilhe",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmZGW1R9oizRy5aVSJssyrg5qYiosnA9YvinGkXPJ9SPgC",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Am clef=treble\nc2 d2 e3 f | e2 c2 e4 | c2 c d e2 f e | d2 c B c2 A2 |\nc2 d2 e3 f | e2 c2 e4 | c2 c d e2 f e | d2 c B A B c d |\ne2 e2 d2 d2 | c2 B2 A B c d | e2 e2 d2 d2 | c2 B2 A4 |\ne2 e2 d2 d2 | c2 B2 A B c d | e2 e2 d2 d2 | c2 B2 A4 |]\n"
+}

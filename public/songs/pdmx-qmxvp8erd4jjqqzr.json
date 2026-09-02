@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxvp8erd4jjqqzr",
+  "title": "Der Maien ist kommen",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXVp8ErD4jJQqZRSuECVSF2RKy97KSY61wqjzZ5vHuzGW",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:G clef=treble\nG2 | B2 d2 c2 | B2 G2 A2 | B2 d2 c2 |\nA4 G A | B2 d2 c2 | B2 G2 A2 | B2 d c B A |\nG4 | G A | B2 d2 c2 | A4 G A |\nB2 d2 c2 | A4 G A | B2 d2 c2 | B2 G2 A2 |\nB4 A2 | G4 | G A | B2 d2 c2 |\nA4 G A | B2 d2 c2 | A4 G A | B2 d2 c2 |\nB2 G2 A2 | B4 A2 | G4 |]\n"
+}

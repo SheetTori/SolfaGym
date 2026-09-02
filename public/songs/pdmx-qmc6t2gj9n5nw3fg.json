@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmc6t2gj9n5nw3fg",
+  "title": "Nae Luck Aboot the Hoose",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmc6t2Gj9N5nW3FGygsBJG8xgCCFfJugiJepFgtfRRdgCK",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\nd2 e2 | g2 e2 d2 B2 | c3 c c2 e2 | g2 e2 d2 B2 |\nA4 z2 e2 | g2 e2 d2 B2 | c2 c2 c2 e2 | d3 c B2 A2 |\nG4 | d2 e2 | g2 e2 d2 B2 | c3 c c2 e2 |\ng2 e2 d2 B2 | A4 z2 e2 | g2 e2 d2 B2 | c2 c2 c2 e2 |\nd3 c B2 A2 | G4 | z2 d2 | B4 B2 G2 |\nc4 c2 A2 | B4 B2 G2 | A4 z2 d2 | B3 B B2 A2 |\nc3 d e2 g2 | d2 c2 B2 A2 | G4 | z2 d2 |\nB4 B2 G2 | c4 c2 A2 | B4 B2 G2 | A4 z2 d2 |\nB3 B B2 A2 | c3 d e2 g2 | d2 c2 B2 A2 | G4 |]\n"
+}

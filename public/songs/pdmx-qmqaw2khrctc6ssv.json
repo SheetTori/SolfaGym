@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqaw2khrctc6ssv",
+  "title": "Merrily we roll along",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQAW2khrCtc6sSvyNtiLSDNtFPoeZvGHeBg2q5rpKSxcR",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 60,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/4\nK:C clef=treble\nE D C D | E E E2 | D D D2 | E G G2 |\nE D C D | E E E2 | D D E D | C4 |]\n"
+}

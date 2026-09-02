@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmse4bfnrvuctsui",
+  "title": "The Barley Mow",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmSe4bFNrvucTsuiSYGwMmEvC7T3jf5cCv5bkVDHGxZVXu",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nG2 G A2 A | B2 c d B G | E2 E c2 B | A B G F E D |\nG2 G A2 A | B2 c d B G | E c B A G F | G6 |\nG2 G A2 A | B2 c d B G | E2 E c2 B | A B G F E D |\nG2 G A2 A | B2 c d B G | E c B A G F | G6 |\nd2 d e2 e | d2 g d B G | d2 d e2 e | d B G A3 |\nd2 d e2 e | d2 g g2 f | e g f e d ^c | d3 D3 |\nG2 G A2 A | B2 c d B G | E2 E c2 B | A B G F E D |\nG2 G A2 A | B2 c d B G | E c B A G F | G6 |]\n"
+}

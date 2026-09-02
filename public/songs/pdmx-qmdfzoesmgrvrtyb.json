@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdfzoesmgrvrtyb",
+  "title": "M\\oens hopsa",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdfZoEsMGRVrTyBX1WU66tfBTV4VLRma8L5iQvJ5Dpfsg",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:F clef=treble\nc3 c c3 c | a4 f4 | g3 f e3 d | c3 B A3 B |\nc3 c c3 c | a4 f4 | g3 f e3 g | f4 |\nz4 c3 c c3 c | d2 c2 A4 | c2 B2 G4 | d2 c2 A4 |\nc3 c c3 c | d2 c2 A4 | c2 B2 G2 E2 | F4 |]\n"
+}

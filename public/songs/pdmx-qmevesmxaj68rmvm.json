@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmevesmxaj68rmvm",
+  "title": "Tourdion",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeVEsMXAJ68rMVMjonhcg1PY2brWQBjozJDNDYGbHEzCy",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/2\nL:1/8\nK:Gm clef=treble\nB4 A4 G4 c6 B2 A4 | G4 F4 =E4 F6 E2 D4 | B4 A4 G4 c6 B2 A2 G2 | G8 F4 G8 |\nz4 B4 A4 G4 c6 B2 A4 | G4 F4 =E4 F6 E2 D4 | B4 A4 G4 c6 B2 A2 G2 | G8 F4 G8 |\nz4 G4 G4 G4 F2 G2 A2 B2 c4 | B6 A2 A2 G A B12 | B4 B4 B4 A2 B2 c2 B2 A2 G2 | G8 F4 G8 |\nz4 G4 G4 G4 F2 G2 A2 B2 c4 | B6 A2 A2 G A B12 | B4 B4 B4 A2 B2 c2 B2 A2 G2 | G8 F4 G8 |]\n"
+}

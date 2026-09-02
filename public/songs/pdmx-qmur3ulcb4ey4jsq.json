@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmur3ulcb4ey4jsq",
+  "title": "Nun will der Lenz uns gr\\u\\ssen",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmUR3ULcb4Ey4JsQ3tyFAG8fr3UNkbaxjfYL6NNDV5eWKv",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nD2 | G2 A2 B2 B2 | A3 G F2 D2 | E F G2 G2 F2 |\nG4 | z2 D2 | G2 A2 B2 B2 | A3 G F2 D2 |\nE F G2 G2 F2 | G4 | z2 B c | d3 e d2 c2 |\nB4 A2 A2 | B2 c2 d2 c B | A4 z2 A2 | B3 B G3 G |\nA4 F2 D2 | E F G2 G2 F2 | G6 |]\n"
+}

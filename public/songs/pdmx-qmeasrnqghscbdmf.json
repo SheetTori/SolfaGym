@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmeasrnqghscbdmf",
+  "title": "An dro",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeasRNqghsCbdmFmb3dhuF8827waQSbMTaZFe5wCP6BFq",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:Gm clef=treble\nG2 d2 d2 d e | c2 c d B4 | A B c A B2 G2 | G F G A B2 A2 |\nG2 d2 d2 d e | c2 c d B4 | A B c A B2 G2 | B G A F G4 |\nG2 d2 d2 d e | c2 c d B4 | A B c A B2 G2 | G F G A B2 A2 |\nG2 d2 d2 d e | c2 c d B4 | A B c A B2 G2 | B G A F G4 |\nA B c A B2 G2 | G F G A B2 A2 | A B c A B2 G2 | B G A F G4 |\nA B c A B2 G2 | G F G A B2 A2 | A B c A B2 G2 | B G A F G4 |]\n"
+}

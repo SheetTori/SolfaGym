@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmntd6j7kwd7met8",
+  "title": "Se min kjole",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNtd6j7Kwd7Met8frBfzXSW7duGQgRFG2m9wgVrtioLhV",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:G clef=treble\nG2 G2 A2 A2 | F F E F G2 B2 | G2 G G A2 A2 | D D E F G4 |\nB2 B d c2 c2 | A B c A B2 G2 | G2 G2 A2 A2 | D D E F G4 |]\n"
+}

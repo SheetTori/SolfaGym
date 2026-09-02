@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmyerwvwvjvnrnpe",
+  "title": "Bourrée des Gars",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmYerwvWVjVNrNpeq4btmXP6FUYuSqVQaPrPa5DqvFg6K2",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/4\nK:G clef=treble\nD2 | G2 B2 B2 | A2 c B A G | F2 A2 A2 |\nG2 B2 D2 | G2 B2 B2 | A2 c B A G | F2 A2 A2 |\nG4 | D2 | G2 B2 B2 | A2 c B A G |\nF2 A2 A2 | G2 B2 D2 | G2 B2 B2 | A2 c B A G |\nF2 A2 A2 | G4 | B c | d4 e2 |\nA4 A B | c2 d c B A | B2 G2 B c | d4 e2 |\nA4 A B | c2 d c B A | G4 | B c |\nd4 e2 | A4 A B | c2 d c B A | B2 G2 B c |\nd4 e2 | A4 A B | c2 d c B A | G4 |]\n"
+}

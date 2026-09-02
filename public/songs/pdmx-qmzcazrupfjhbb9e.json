@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmzcazrupfjhbb9e",
+  "title": "The man from Newry",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmZcaZRupfJHbB9EegoVVccmUo4bdwbc69HQ2JFif9sq2M",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\nD2 | G2 g2 g d B G | c2 e2 e f g e | d B d g e d c B |\nA B c A G F E D | G2 g2 g d B G | c2 e2 e f g e | d B d g e c A F |\nG2 B2 G2 | D2 | G2 g2 g d B G | c2 e2 e f g e |\nd B d g e d c B | A B c A G F E D | G2 g2 g d B G | c2 e2 e f g e |\nd B d g e c A F | G2 B2 G2 | d c | B G B G B c d B |\ne c e c e f g e | d B d g e d c B | A B c A G F E D | B G B G B c d B |\ne c e c e f g e | d B d g e c A F | G2 B2 G2 | d c |\nB G B G B c d B | e c e c e f g e | d B d g e d c B | A B c A G F E D |\nB G B G B c d B | e c e c e f g e | d B d g e c A F | G2 B2 G2 |]\n"
+}

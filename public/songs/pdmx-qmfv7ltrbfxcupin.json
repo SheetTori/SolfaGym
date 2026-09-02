@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmfv7ltrbfxcupin",
+  "title": "Eboulements Reel des",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmfV7LTrbFXCUpiNBQmPBKZLcxCUWk9qRCvDYnfypMRAgE",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 66,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:F#m clef=treble\ne g | a A A A c A e c | B c d e f e f g | a A A A c A e c |\nf d g e a e f g | a A A A c A e c | B c d e f e f g | a g f e f e d c |\nd e f g a2 e d | c A E A c A e c | B c d e f2 e d | c A E A c A e c |\nf d g e | a2 e d | c A E A c A e c | B c d e f e f g |\na g f e f e d c | d e f g a2 A F | F A A A c A B A | G A B c d2 c d |\nG B B B G B B B | G B B B A2 A F | F A A A c A B A | G A B c d e f g |\na g f e f e d c | d e f g a2 A F | F A A A c A B A | G A B c d2 c d |\nG B B B G B B B | G B B B A2 A F | F A A A c A B A | G A B c d e f g |\na g f e f e d c | d e f g a2 A F |]\n"
+}

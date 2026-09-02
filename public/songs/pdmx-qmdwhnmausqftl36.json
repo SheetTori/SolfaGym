@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdwhnmausqftl36",
+  "title": "Kantklossen",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdwHNmAuSQFtL36MCcfyTYLYU75sHKwedkPcjSNp2aKSG",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nA | A A A A A A | A A A F2 F | B B B A B c |\nd2 | z3 A | A A A A A A | A A A F2 F |\nB B B B G B | d c B A2 A | A A A A A A | A A A F2 F |\nB B B B G B | c A c D2 | z d2 A A2 A | A B c d2 A |\nd2 B A2 F | G2 E D2 | z d2 A A2 A | A B c d2 A |\nd2 B A2 F | G2 E D2 A | z3 A3 | d6 |]\n"
+}

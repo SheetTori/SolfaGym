@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpkgrvcqtlanqnk",
+  "title": "Air de la gaillarde appellee La traditore my fa morire",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPKgrVCqTLANqNkYEXxKFbhsER4CFKHPSPogB4JyGAvGf",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/2\nL:1/4\nK:Gm clef=treble\nd2 d2 c2 B4 A2 | A2 G2 G2 F4 D2 | d2 d2 c2 B4 A2 | G2 G2 F2 G4 |\nz2 d2 d2 c2 B4 A2 | A2 G2 G2 F4 D2 | d2 d2 c2 B4 A2 | G2 G2 F2 G4 |\nz2 A2 A2 A2 c4 c2 | c2 c2 c2 d4 d2 | d2 d2 c2 B4 A2 | G2 G2 F2 G4 |\nz2 A2 A2 A2 c4 c2 | c2 c2 c2 d4 d2 | d2 d2 c2 B4 A2 | G2 G2 F2 G4 |]\n"
+}

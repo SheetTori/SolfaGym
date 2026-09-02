@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdjl5tfrwwsf1rx",
+  "title": "Krebel",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdjL5tFRwWSf1rxjS2ikQHJDRCpy2seR26iuLnujQTHks",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:Em clef=treble\nE G E G | F D D2 | E G E G | A2 A2 |\nB B A A | G G F F | E E D D | E2 |\nz2 E G E G | F D D2 | E G E G | A2 A2 |\nB B A A | G G F F | E E D D | E2 |\nz2 e e B2 | e e B2 | g g f f | e e d d |\ne e B2 | A A B B | E2 | z2 E G E G |\nF D D2 | E G E G | A2 A2 | B B A A |\nG G F F | E E D D | E2 | z2 e e B2 |\ne e B2 | g g f f | e e d d | e e B2 |\nA A B B | E2 |]\n"
+}

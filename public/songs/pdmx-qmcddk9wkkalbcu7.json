@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcddk9wkkalbcu7",
+  "title": "How are you Kitty?",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmcddk9WkKaLbCu7zzHuGuvCiYjMynZ3DcRAgxkLyZKUCE",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:A clef=treble\nA F | E2 A2 A2 c2 A2 A2 | e2 A2 A2 c2 A2 A2 | E2 A2 A2 c2 B2 A2 |\nd2 B2 B2 B4 c2 | A6 c2 A2 A2 | e2 A2 A2 c2 B2 A2 | E2 F2 A2 B2 c2 d2 |\nc2 A2 A2 A4 | A F | E2 A2 A2 c2 A2 A2 | e2 A2 A2 c2 A2 A2 |\nE2 A2 A2 c2 B2 A2 | d2 B2 B2 B4 c2 | A6 c2 A2 A2 | e2 A2 A2 c2 B2 A2 |\nE2 F2 A2 B2 c2 d2 | c2 A2 A2 A4 | c e | a6 g2 f2 e2 |\nc2 e2 f2 e2 c2 A2 | E2 A2 A2 c2 B2 A2 | d2 B2 B2 B2 c2 e2 | a6 g2 f2 e2 |\nc4 f2 e2 c2 A2 | E2 F2 A2 B2 c2 d2 | c2 A2 A2 A4 | c e |\na6 g2 f2 e2 | c2 e2 f2 e2 c2 A2 | E2 A2 A2 c2 B2 A2 | d2 B2 B2 B2 c2 e2 |\na6 g2 f2 e2 | c4 f2 e2 c2 A2 | E2 F2 A2 B2 c2 d2 | c2 A2 A2 A4 |\nc d | e4 a e c4 e c | A4 c A E4 | z2 A6 c2 B2 A2 |\nc2 B2 B2 B4 c d | e4 a e c4 e c | A4 c A E4 | z2 A6 B2 c2 d2 |\nc2 A2 A2 A4 | c d | e4 a e c4 e c | A4 c A E4 |\nz2 A6 c2 B2 A2 | c2 B2 B2 B4 c d | e4 a e c4 e c | A4 c A E4 |\nz2 A6 B2 c2 d2 | c2 A2 A2 A4 |]\n"
+}

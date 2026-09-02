@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmr2j1kswfhjpkfd",
+  "title": "Corrandes",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmR2j1KswFhjPkFDBErCZFafbcD7TdnPUcRjbAfYRFu85P",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/8\nL:1/16\nK:Am clef=treble\nA A | A2 ^c2 c c | ^c2 d2 d d | d2 ^c2 A _B |\nc8 | z2 A A | A2 ^c2 c c | ^c2 d2 d d |\nc2 c2 _B B | A8 | z2 A A | A2 c2 B c |\nA2 A2 A A | A2 c2 _B c | A8 | z2 A A |\nA2 ^c2 c c | ^c2 d2 d d | d2 d2 c _B | A8 |]\n"
+}

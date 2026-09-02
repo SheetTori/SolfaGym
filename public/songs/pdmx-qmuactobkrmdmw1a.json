@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmuactobkrmdmw1a",
+  "title": "Air du branle couppé nommé Cassandre.",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmUACtoBkrMDMW1azUpuAn4Cx3U1LExTzjbKncGEtLpUvL",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/4\nL:1/8\nK:Gm clef=treble\nf4 f2 f2 f4 f4 | g a b2 f2 g2 d4 d4 | f4 f2 f2 f4 f4 | g a b2 f2 g2 d4 d4 |\nb4 g2 g2 a4 f2 f2 | g2 g2 f2 g2 d3 d f2 f2 | B4 B4 | c d e2 c2 d2 G4 G4 |\nb4 g2 g2 a4 f2 f2 | g2 g2 f2 g2 d3 d f2 f2 | B4 B4 | c d e2 c2 d2 G4 G4 |]\n"
+}

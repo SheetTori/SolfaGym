@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdxshrsvntmhxsn",
+  "title": "Rigaudon de Séveran",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdxshrSvNtmHxSnXM4LcUqs7V36wZgxfT9D2brxBNNrzt",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Gm clef=treble\nG2 d2 d2 c d | e2 d c d2 g2 | c2 e2 d2 c B | A B c A B2 G2 |\nG2 d2 d2 c d | e2 d c d2 g2 | c2 e2 d2 c B | A G A ^F G4 |\nA G A B A2 c2 | c2 B A B2 d2 | d2 c B A2 G2 | ^F2 G2 A4 |\nG A B c d =e ^f g | c2 e2 d2 g2 | c2 e2 d2 c B | A G A ^F G4 |\nA G A B A2 c2 | c2 B A B2 d2 | d2 c B A2 G2 | ^F2 G2 A4 |\nG A B c d =e ^f g | c2 e2 d2 g2 | c2 e2 d2 c B | A G A ^F G4 |]\n"
+}

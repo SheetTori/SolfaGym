@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpx1hbd3engh2r2",
+  "title": "A man's a man for a' that",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPx1hbd3eNGh2r2XD4ur6VWBGodqFng2qJpXA7ZktbTxA",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 9,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:A clef=treble\nA2 | d3 e d2 A2 | B2 d2 e3 =g | f3 e d2 A2 |\nB4 B3 A | d3 e d2 A2 | B2 d2 e3 =g | f3 e d2 B2 |\nA4 A2 | A2 | d3 e d2 A2 | B2 d2 e3 =g |\nf3 e d2 A2 | B4 B3 A | d3 e d2 A2 | B2 d2 e3 =g |\nf3 e d2 B2 | A4 A2 | =g2 | f3 =g a2 f2 |\n=g2 f2 e3 g | f3 =g a2 A2 | B4 B3 d | f3 =g a2 f2 |\n=g2 f2 e3 g | f3 e d2 B2 | A4 A2 | A2 |\nd3 e d2 A2 | B2 d2 e3 =g | f3 e d2 A2 | B4 B3 A |\nd3 e d2 A2 | B2 d2 e3 =g | f3 e d2 B2 | A4 A2 |\n=g2 | f3 =g a2 f2 | =g2 f2 e3 g | f3 =g a2 A2 |\nB4 B3 d | f3 =g a2 f2 | =g2 f2 e3 g | f3 e d2 B2 |\nA4 A2 |]\n"
+}

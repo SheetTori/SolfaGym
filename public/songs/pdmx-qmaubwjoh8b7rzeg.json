@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmaubwjoh8b7rzeg",
+  "title": "Bourrée à six de Briantes",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmaUbwjoH8b7rzeg5yz29RjGwuhyXa9ZMMyAL23XDaiJEi",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\nc4 G4 | E4 C4 | D3 E =F2 D2 | E3 =F G2 G2 |\nc4 G4 | E4 C4 | D3 =F E2 D2 | C8 |\nc4 G4 | E4 C4 | D3 E =F2 D2 | E3 =F G2 G2 |\nc4 G4 | E4 C4 | D3 =F E2 D2 | C3 G2 |\nE3 G E2 G2 | A4 =F4 | A3 c B2 A2 | G3 G2 |\nE3 G E2 G2 | A4 A4 | G2 =F2 E2 D2 | C3 G2 |\nE3 G E2 G2 | A4 =F4 | A3 c B2 A2 | G3 G2 |\nE3 G E2 G2 | A4 A4 | G2 =F2 E2 D2 | C3 G2 |]\n"
+}

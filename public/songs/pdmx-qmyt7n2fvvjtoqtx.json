@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmyt7n2fvvjtoqtx",
+  "title": "Folia nyare fr\\aan 1680",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmYT7N2fvVJToqtxDsoWrJagJRN3ZUQGCDfCFBaUdNtFF6",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:Gm clef=treble\nD | G6 | ^F6 | G6 |\nA6 | B6 | A6 | G6 |\n^F6 | G6 | ^F6 | G6 |\nA6 | B6 | A6 | G2 ^F4 |\nG6 |]\n"
+}

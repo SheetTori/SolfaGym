@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmaejdswwbk9ikq8",
+  "title": "Nos Galan fel y Cenir yn Bencader",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmaejdSWWBK9iKq8j9fZcPuPXSTWNP5tJEMvDAvs1WHsH1",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\nd3 c B3 A | G2 B2 G2 F2 | E2 A2 F2 E2 | D2 E F G4 |\nd3 c B c B A | G2 B2 G2 F2 | E2 A2 F G F E | D2 E F G4 |\nA4 A G E G | A G E G A4 | A3 B c2 B2 | A G E G A4 |\nB2 d2 A2 B2 | G4 G2 A B | d3 c B c B A | G2 D2 G4 |\nA4 A G E G | A6 A2 | E2 G A c2 B2 | A G E G A4 |\nB2 d2 A2 B2 | G4 G2 A B | d3 c B c B A | G2 D2 G4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmnkuhpoe3ggpdaa",
+  "title": "Red Wing",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNkuhPoe3ggPdAABMFCK9md5swfPRCvHSfuqz3yKbTQ7C",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nA,2 | D3 D D2 F2 | A6 F2 | G2 B2 d2 B2 |\nA6 F2 | G2 F2 E2 G2 | F2 E2 D2 F2 | E2 B,2 C2 D2 |\nE F E D A,2 | D3 D D2 F2 | A6 F2 | G2 B2 d2 B2 |\nA6 F2 | G2 F2 E2 G2 | F2 E2 D2 F2 | E2 B,2 C2 D2 |\nD4 | d2 c2 | B4 B3 B | B2 d2 c2 B2 |\nA4 F6 | A2 B2 A2 | A4 E4 | D2 A2 B2 A2 |\nA4 F8 | d2 c2 | B4 B3 B | B2 d2 c2 B2 |\nA4 F6 | A2 B2 A2 | A4 E6 | G2 F2 E2 |\nD12 |]\n"
+}

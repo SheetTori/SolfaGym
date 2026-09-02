@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmd4h5agnwqs1bhv",
+  "title": "Rob the Piper",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmd4H5aGNWqS1bHVSfUdjaWBfvLmf5RV4UdbajwUnWBa32",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:D clef=treble\nA B A B A G | F E F G F E | D E D E F G | A B A B A2 |\nA B A B A G | F E F G F E | D E D E F E | D6 |\nA B A B A G | F E F G F E | D E D E F G | A B A B A2 |\nA B A B A G | F E F G F E | D E D E F E | D6 |\nF E D E F D | E2 A2 A2 | A G F G A F | G2 B2 B2 |\nB c d c B A | G2 E2 E2 | A ^G A B c A | d2 d2 d2 |\nA B A B A G | F E F G F E | D E D E F G | A B A B A2 |\nA B A B A G | F E F G F E | D E D E F E | D6 |]\n"
+}

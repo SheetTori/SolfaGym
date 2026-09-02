@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmuq15yscnk7bghe",
+  "title": "Bohemian christmas song",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmUQ15Yscnk7BghExYSakB93r2QipstoCLkk2REu8yj4qt",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/4\nK:F clef=treble\nF G A B | c c c2 | B c d2 | c3 |\nz c c B B | A A G2 | A B G2 | F3 |\nz A G A B | c3 B | A3 | z A G A B |\nc3 B | A3 | z c2 F2 | F2 d2 |\nc A G2 | F3 |]\n"
+}

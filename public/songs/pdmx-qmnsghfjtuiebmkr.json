@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmnsghfjtuiebmkr",
+  "title": "Avant-Deux Lucie",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNSGhfjTUiebmKrZpMNy4xTcfC5rtE2qmwC1ocjav5SFZ",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:G clef=treble\nD G B2 | G B d2 | c A E F | A G E2 |\nD G B2 | G B d2 | c A E F | G z G |\nz D G B2 | G B d2 | c A E F | A G E2 |\nD G B2 | G B d2 | c A E F | G z G |\nz B B B d | d4 | G G G B | B4 |\nD E F G | A2 G2 | G A B e | d ^c c |\nB B B d | d4 | G G G B | B4 |\nD E F G | A G A B | c e d F | G z G |]\n"
+}

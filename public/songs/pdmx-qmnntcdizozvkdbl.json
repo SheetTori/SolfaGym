@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmnntcdizozvkdbl",
+  "title": "Johnny the Jumper",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNnTcdizozvkDbLGHKF9yyCw8RnVpgV7Tq9ibAgpzJwPM",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Dm clef=treble\ne A A c =B A | e A A f g a | e A A c2 e | d =B G B c d |\ne A A c =B A | e A A =B2 A | G =B G g f g | d =B G B c d |\ne A A c =B A | e A A f g a | e A A c2 e | d =B G B c d |\ne A A c =B A | e A A =B2 A | G =B G g f g | d =B G B c d |\nc =B A a g a | c =B A B c d | c =B A g f g | d =B G B c d |\nc =B A a g a | c =B A B2 A | G =B G g f g | d =B G B c d |\nc =B A a g a | c =B A B c d | c =B A g f g | d =B G B c d |\nc =B A a g a | c =B A B2 A | G =B G g f g | d =B G B c d |]\n"
+}

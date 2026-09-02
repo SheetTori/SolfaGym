@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwdbheealsvqmvz",
+  "title": "The Primrose Lass",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWdbHeEaLSVQmvZKaRYkKDtiHmj393kEKmDhVSAs6FEjB",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:G clef=treble\nB2 B A G2 G E | D E G A B A A2 | d B A B G A G E | D E G A B G G2 |\nB2 B A G2 G E | D E G A B A A2 | d c B A G F E F | D E G A B G G2 |\nB2 B A G2 G E | D E G A B A A2 | d B A B G A G E | D E G A B G G2 |\nB2 B A G2 G E | D E G A B A A2 | d c B A G F E F | D E G A B G G2 |\nB d g d e d g d | B d g d e A A2 | B d g d e d g d | B d A c B G G2 |\nB d g d e d g d | B d g d e A A2 | B d e f g a g e | d B A c B G G2 |\nB d g d e d g d | B d g d e A A2 | B d g d e d g d | B d A c B G G2 |\nB d g d e d g d | B d g d e A A2 | B d e f g a g e | d B A c B G G2 |]\n"
+}

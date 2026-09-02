@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmyapfqeq5bzawng",
+  "title": "Fola fola Blakken",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmYapfQeq5BzaWNgT6HWzd6YyaVsjyYxXZ61CGHjs6C95p",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 60,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/4\nK:C clef=treble\nG G G G | A2 A2 | G A G F | E D C2 |\nE F G E | A G F E | D C D E | C2 C2 |]\n"
+}

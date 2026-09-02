@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmp8cdsfewe8drhz",
+  "title": "Shooting - Beaux of London City (Adderbury)",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmP8cdSFewE8dRHzTYULxX2guSxFiUUFUD16h6cWpGd6Ed",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:9/8\nL:1/8\nK:G clef=treble\nD | G2 G B A G B c d | G2 G B A G A3 | G2 G B A G B c d |\nG A G B2 A G2 D | G2 G B A G B c d | G2 G B A G A3 | G2 G B A G B c d |\nG A G B2 A G3 | d2 B A2 G B c d | G2 G A2 B c3 | d2 B A2 G B c d |\nG A G B2 A G3 | d2 B A2 G B c d | G2 G A2 B c3 | d2 B A2 G B c d |\nG A G B2 A G3 |]\n"
+}

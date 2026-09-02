@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmda8nkgmxat9fyb",
+  "title": "Det var en l\\ordag aften",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmda8NKgmXAT9fYB7z7E6HtXdRS3KjXBucXUVo5Hup7cgL",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:F clef=treble\nC | F F C C | A2 F A | G E C E |\nF2 z C | F F C C | A2 F A | G E C E |\nF2 z A | A A c A | G G c G | F F d d |\nc2 z B | A A c A | A G B G | F E D E |\nF3 |]\n"
+}

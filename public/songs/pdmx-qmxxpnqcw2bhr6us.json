@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxxpnqcw2bhr6us",
+  "title": "Jenny Picking Cockles",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXXPnqCw2bhr6USSHDpAE2i3Z31N3tWAozFf1CKbPmnJb",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:Dm clef=treble\nA d d c A G E ^F | G E c E d E c E | A d d c A G E ^F | G E c E E D D2 |\nA d d c A G E ^F | G E E2 c3 d | e d c A A G E ^F | G E c E E D D2 |\nA d d c A G E ^F | G E c E d E c E | A d d c A G E ^F | G E c E E D D2 |\nA d d c A G E ^F | G E E2 c3 d | e d c A A G E ^F | G E c E E D D2 |\nf3 d e3 d | c A A =B c d e g | f3 d e3 d | e a g e e d d e |\nf3 d e3 d | c A A =B c3 d | e d c A A G E ^F | G E c E E D D2 |]\n"
+}

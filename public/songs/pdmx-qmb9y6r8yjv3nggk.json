@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmb9y6r8yjv3nggk",
+  "title": "Tyv ja tyv",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmb9y6r8YjV3NGGkmXP3mHxPonAr4TAXjscK3SsKaiCwyn",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:G clef=treble\nD G G G | F G A B | G G F D | E F G2 |\nD G G G | F G A B | G G F D | E F G2 |\nB2 G2 | A B c2 | A2 F2 | G B d2 |\nB2 G2 | A B c2 | A2 F2 | G2 |]\n"
+}

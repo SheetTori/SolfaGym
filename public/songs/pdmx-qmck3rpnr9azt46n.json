@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmck3rpnr9azt46n",
+  "title": "Pant Corlan yr Wyn",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcK3RpnR9azT46nvXCwuNvZsEtRaXEkcqXJusWxegfWje",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:G clef=treble\nB A | G2 G A B2 G2 | c2 A B c2 A2 | B2 G2 G2 B2 |\nd2 A2 F2 D2 | G2 G A B2 G2 | c2 c B A2 c2 | B2 G2 F G A F |\nG2 G2 G2 | B A | G2 G A B2 G2 | c2 A B c2 A2 |\nB2 G2 G2 B2 | d2 A2 F2 D2 | G2 G A B2 G2 | c2 c B A2 c2 |\nB2 G2 F G A F | G2 G2 G2 | d c | B2 d2 d2 c B |\nA2 c2 c2 B A | G2 B2 B2 A G | F2 A2 F2 D2 | G2 G A B2 G2 |\nc2 c B A2 c2 | B2 G2 F G A F | G2 G2 G2 | B A |\nG2 G A B2 G2 | c2 A B c2 A2 | B2 G2 G2 B2 | d2 A2 F2 D2 |\nG2 G A B2 G2 | c2 c B A2 c2 | B2 G2 F G A F | G2 G2 G2 |\nd c | B2 d2 d2 c B | A2 c2 c2 B A | G2 B2 B2 A G |\nF2 A2 F2 D2 | G2 G A B2 G2 | c2 c B A2 c2 | B2 G2 F G A F |\nG2 G2 G2 |]\n"
+}

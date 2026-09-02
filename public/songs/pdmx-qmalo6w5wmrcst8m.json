@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmalo6w5wmrcst8m",
+  "title": "Astridin vals",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmaLo6W5WmrCsT8mhnAMe4UBjsEUrN1Ngv75LK2VRfom2K",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:Am clef=treble\nE2 | A4 B2 | c4 d2 | c3 d c B |\nA2 c2 e2 | a3 g f e | d2 f2 a2 | e4 d2 |\ne4 E2 | A4 B2 | c4 d2 | c3 d c B |\nA2 c2 e2 | a3 g f e | d2 f2 a2 | e12 |\na3 g f e | d2 f2 a2 | e2 e f e c | A4 B2 |\nc2 f2 e2 | d2 c2 B2 | A3 B c B | A6 |\na3 g f e | d2 f2 a2 | e2 e f e c | A4 B2 |\nc2 f2 e2 | d2 c2 B2 | A10 |]\n"
+}

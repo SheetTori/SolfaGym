@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmvimdmspg6gfmsu",
+  "title": "Joik",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmViMdmSPG6GfmSuhTPossciUvztTdPvMUdiVdGSSsvCmH",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 60,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/4\nK:C clef=treble\nE C E G | G2 C A | A G A G | E2 C2 |\nE C E G | G2 C D | E D E D | C4 |]\n"
+}

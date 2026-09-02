@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmqddfn5prfnpqtf",
+  "title": "Man of constant sorrow",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmQDDFN5PrfnpqTFYrWL944ftJ7UFDtq744gp7c85iox35",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 9,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nE2 D3 =C | D8 | z2 E2 D3 =C | E2 G6 |\nz2 G2 A2 B2 | A8 | z2 G2 E D =C2 | D8 |\nz2 E2 D3 =C | D8 | z2 E2 D3 =C | E2 G6 |\nz2 G2 A2 B2 | A8 | z2 G2 E D =C2 | D8 |]\n"
+}

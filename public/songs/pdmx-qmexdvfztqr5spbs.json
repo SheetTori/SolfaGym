@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmexdvfztqr5spbs",
+  "title": "The Skye Boat Song",
+  "source": "PDMX — cc-zero",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeXDvFZtqr5spBSg9hWp8aHifPK12K2vCnTp4hPTaRR7S",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "cc-zero",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 79,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:G clef=treble\nd3 e d2 g4 g2 | a3 b a2 d'6 | b3 a b2 e4 e2 | d12 |\nd3 e d2 g4 g2 | a3 b a2 d'6 | b3 a b2 e4 e2 | d12 |\nb3 g b2 b6 | a3 e a2 a6 | g3 e g2 g4 g2 | e12 |\nd3 e d2 g4 g2 | a3 b a2 d'6 | b3 a b2 e4 e2 | d12 |\nd3 e d2 g4 g2 | a3 b a2 d'6 | b3 a b2 e4 e2 | d12 |\ng12 |]\n"
+}

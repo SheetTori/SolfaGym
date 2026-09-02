@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxsbhdtkbktrfse",
+  "title": "Ding Dong! Merrily on High",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXSbHDtKBKtRfSegPrMQwDqJ8UjzNK3TEdR3VU5UQXV78",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 70,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Bb clef=treble\nB2 B2 c B A G | F6 F2 | G2 B2 B2 A2 | B4 B4 |\nB2 B2 c B A G | F6 F2 | G2 B2 B2 A2 | B4 B4 |\nf3 e d e f d | e3 d c d e c | d3 c B c d B | c3 B A B c A |\nB3 A G A B G | A3 G F2 F2 | G2 B2 B2 A2 | B4 B4 |]\n"
+}

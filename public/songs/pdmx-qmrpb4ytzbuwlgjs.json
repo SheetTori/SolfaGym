@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmrpb4ytzbuwlgjs",
+  "title": "Fecuresc Fecuresc",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmRPb4YtzbuwLgjsJLynXAb9128JrtrixnuNBDRQTCUVwZ",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:10/16\nL:1/64\nK:D clef=treble\n^g3 a3 f3 d3 A6 d6 f12 | ^g3 a3 f3 d3 A8 d4 e8 f4 | g3 f3 e3 g3 f8 d4 e8 c4 | d3 e3 f3 ^g3 a8 g4 a12 |\n^g3 a3 f3 d3 A6 d6 f12 | ^g3 a3 f3 d3 A8 d4 e8 f4 | g3 f3 e3 g3 f8 d4 e8 c4 | d8 |\nz24 ^g3 a3 f3 d3 A6 d6 f12 | ^g3 a3 f3 d3 A8 d4 e8 f4 | g3 f3 e3 g3 f8 d4 e8 c4 | d3 e3 f3 ^g3 a8 g4 a12 |\n^g3 a3 f3 d3 A6 d6 f12 | ^g3 a3 f3 d3 A8 d4 e8 f4 | g3 f3 e3 g3 f8 d4 e8 c4 | d8 |\nz24 c3 d3 e3 f3 g12 g8 f4 | g3 a3 g3 f3 e8 d4 e8 f4 | g8 g8 f8 g8 a4 g8 f4 | e12 d4 c8 B4 A12 |\nd6 e3 f3 g12 g8 f4 | g3 a3 g3 f3 e12 a12 | ^g3 a3 b3 a3 g8 a4 b8 c'4 | d'8 |\nz24 c3 d3 e3 f3 g12 g8 f4 | g3 a3 g3 f3 e8 d4 e8 f4 | g8 g8 f8 g8 a4 g8 f4 | e12 d4 c8 B4 A12 |\nd6 e3 f3 g12 g8 f4 | g3 a3 g3 f3 e12 a12 | ^g3 a3 b3 a3 g8 a4 b8 c'4 | d'8 |\nz24 f3 ^g3 a3 b3 c'8 g4 a12 | b3 ^g3 a3 c'3 b8 c'4 a12 | b3 a3 g3 f3 e8 d4 A8 c4 | d3 e3 f3 ^g3 a8 g4 a12 |\nf3 ^g3 a3 b3 c'8 g4 a12 | b3 ^g3 a3 c'3 b8 c'4 a12 | b3 a3 g3 f3 e8 d4 A8 c4 | d8 |\nz24 f3 ^g3 a3 b3 c'8 g4 a12 | b3 ^g3 a3 c'3 b8 c'4 a12 | b3 a3 g3 f3 e8 d4 A8 c4 | d3 e3 f3 ^g3 a8 g4 a12 |\nf3 ^g3 a3 b3 c'8 g4 a12 | b3 ^g3 a3 c'3 b8 c'4 a12 | b3 a3 g3 f3 e8 d4 A8 c4 | d8 |\nz24 A3 c3 d3 e3 f8 c4 d12 | A3 c3 d3 e3 f8 c4 d12 | g8 g8 f8 g8 a4 g8 f4 | e12 d4 c8 B4 A12 |\nA3 c3 d3 e3 f8 c4 d12 | A3 c3 d3 e3 f8 c4 d12 | a8 a8 e8 f8 ^g4 a8 c4 | d8 |\nz24 A3 c3 d3 e3 f8 c4 d12 | A3 c3 d3 e3 f8 c4 d12 | g8 g8 f8 g8 a4 g8 f4 | e12 d4 c8 B4 A12 |\nA3 c3 d3 e3 f8 c4 d12 | A3 c3 d3 e3 f8 c4 d12 | a8 a8 e8 f8 ^g4 a8 c4 | d8 |]\n"
+}

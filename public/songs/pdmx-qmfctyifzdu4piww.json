@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmfctyifzdu4piww",
+  "title": "Thanksgiving Pie",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmfCTyifZdu4piWWMkVt6EVrDV2A9CuGu8crW5Qz9G8LL7",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 63,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:Eb clef=treble\nE2 | G2 E2 G2 E2 | F6 F2 | A2 F2 A2 F2 |\nG6 | B2 | c2 B2 c2 d2 | e2 d c B2 A2 |\nG4 F4 | E6 |]\n"
+}

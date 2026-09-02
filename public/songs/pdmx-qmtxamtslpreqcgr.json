@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtxamtslpreqcgr",
+  "title": "Hunting the Hare",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTXAMTsLpREQcgReYQ8U9aHeD73kSP14hxJQdPQEjwU6A",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:9/8\nL:1/8\nK:G clef=treble\nC | B,2 D D B, D G2 D | E F G A2 G F E D | B,2 D D B, D G2 D |\nE F G A G F G2 | C | B,2 D D B, D G2 D | E F G A2 G F E D |\nB,2 D D B, D G2 D | E F G A G F G2 | c | B2 G G A B c2 A |\nd2 B | A B G F E D | B A B G A B c2 A | d2 B A G F G2 |\nC | B,2 D D B, D G2 D | E F G A2 G F E D | B,2 D D B, D G2 D |\nE F G A G F G2 | c | B2 G G A B c2 A | d2 B |\nA B G F E D | B A B G A B c2 A | d2 B A G F G2 |]\n"
+}

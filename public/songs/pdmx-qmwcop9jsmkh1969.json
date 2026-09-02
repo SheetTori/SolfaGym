@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwcop9jsmkh1969",
+  "title": "Just as I was in the Morning/The Deuks dang ow're my Daddie",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWCoP9jSMKH1969LPYx7TLWismESLNMquCwToVtmXmwp5",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:D clef=treble\nf e | d4 A2 F3 E D2 | E3 F E2 c4 B c | d4 A2 F4 E2 |\nF2 D2 D2 D4 f e | d4 A2 F3 E D2 | E3 F E2 c4 B c | d4 A2 F4 E2 |\nF2 D2 D2 D4 | A2 | d3 c d2 B2 c2 d2 | e2 f2 d2 c2 B2 A2 |\nd3 c d2 e2 f2 g2 | f2 d2 d2 d4 e f | g3 f g2 B2 c2 d2 | e2 f2 d2 c2 B2 A2 |\nd4 A2 F4 E2 | F2 D2 D2 D4 |]\n"
+}

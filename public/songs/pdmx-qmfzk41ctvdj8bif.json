@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmfzk41ctvdj8bif",
+  "title": "John Ryan's Polka",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmfZk41ctVDJ8bifKZYEFLurKgYzbt5EKKP29e7V9QfeSa",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:D clef=treble\nd2 d2 B c d B | A2 F2 A2 F2 | d2 d2 B c d B | A2 F2 E2 D2 |\nd2 d2 B c d B | A2 F2 A2 d e | f2 d2 e d c2 | d4 d4 |\nd2 d2 B c d B | A2 F2 A2 F2 | d2 d2 B c d B | A2 F2 E2 D2 |\nd2 d2 B c d B | A2 F2 A2 d e | f2 d2 e d c2 | d4 d4 |\nf2 d2 d2 e f | g2 f2 e2 d e | f2 d2 A2 d2 | f2 d f a3 g |\nf2 d2 d2 e f | g2 f2 e2 d e | f2 d2 e d c2 | d4 d4 |\nf2 d2 d2 e f | g2 f2 e2 d e | f2 d2 A2 d2 | f2 d f a3 g |\nf2 d2 d2 e f | g2 f2 e2 d e | f2 d2 e d c2 | d4 d4 |]\n"
+}

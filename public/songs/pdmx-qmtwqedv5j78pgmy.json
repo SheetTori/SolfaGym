@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtwqedv5j78pgmy",
+  "title": "The Hills of Connemara",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTwQedV5J78PgmYck4F8WqaqebG4Y8EWNkqs7QzNwJBWb",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:D clef=treble\nD D F F A2 A A | B2 B2 A3 A | D2 z F A2 z F | G G F F E4 |\nD2 F F A A A A | B2 B2 A2 F E | D2 d2 A2 F2 | E4 D3 |\nz D2 F F A2 A2 | B2 B B A3 A | D2 F2 A2 F2 | G2 F2 E4 |\nD D F F A2 A A | B2 B2 A2 F E | D2 d2 A2 F2 | E4 D3 |\nz D2 F2 A2 A2 | B2 B2 A3 A | D2 F2 A2 F2 | G2 F2 E4 |\nD2 F2 A2 A2 | B2 B2 A2 F E | D2 d2 A2 F2 | E4 D3 |]\n"
+}

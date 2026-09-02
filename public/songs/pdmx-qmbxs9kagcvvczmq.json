@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbxs9kagcvvczmq",
+  "title": "Montanyes del canigo",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbXs9KaGcvvczmQXiBF8c3CaQ8cT4nMfDwFEEkUS6XAuy",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/16\nK:F clef=treble\nF2 G2 | A6 A2 B2 G2 | F8 A3 B | c6 d2 e2 f2 |\ne3 d c4 e2 d2 | B6 c2 d2 c2 | A8 c3 A | G6 A2 B2 B2 |\nA3 G F4 c2 A2 | G6 A2 B2 B2 | A3 G F16 |]\n"
+}

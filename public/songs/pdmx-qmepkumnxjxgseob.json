@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmepkumnxjxgseob",
+  "title": "Harlequin Air",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmepKUMnxjxgSEoByex2PdEq9xFX5Dddapwbs9tuYcug1s",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:D clef=treble\nd2 A2 A2 d2 | c d e c A4 | B2 G2 G2 E2 | F G A F D4 |\nd2 A2 A2 d2 | c d e c A2 g2 | f2 e d c2 d2 | e4 e4 |\nd2 A2 A2 d2 | c d e c A4 | B2 G2 G2 E2 | F G A F D4 |\nd2 A2 A2 d2 | c d e c A2 g2 | f2 e d c2 d2 | e4 e4 |\ne2 a2 a2 e2 | f g a f d4 | B2 g2 g2 B2 | c d e c A4 |\nA2 a2 a2 g2 | f e d c d2 G2 | F2 d2 E2 c2 | d4 d4 |\ne2 a2 a2 e2 | f g a f d4 | B2 g2 g2 B2 | c d e c A4 |\nA2 a2 a2 g2 | f e d c d2 G2 | F2 d2 E2 c2 | d4 d4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbfdqxnfmnbpz3s",
+  "title": "V\\aarsang",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbFDqxNfmnBpz3SZnfYnQqeeZB4V8aGWZKcQmrqqA1sXe",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:D clef=treble\nA, | D E F G | A2 A A | d c d B |\nA2 z A | d c d B | A F D F | G E D C |\nD2 z E | F F F E | D2 D F | A A A F |\nD2 D D | D d d d | G B B B | A F G E |\nF2 z D | D d d d | G B B B | A d c e |\nd2 |]\n"
+}

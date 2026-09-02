@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdrsgquexrugflb",
+  "title": "Dr\\uag\\uaicu\\ta",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdrsgqUExRugFLB3BS2nz1cYEafNmT6eDQuW1dNNUac1r",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:E clef=treble\nB2 B4 | B2 B4 | B2 B2 B2 | B2 B4 |\nB,2 B3 A | G A B3 G | A G =F E =D2 | G A B4 |\nB,2 B3 A | G A B3 G | A G =F E =D2 | E =F =D4 |\nB,2 B3 A | G A B3 G | A G =F E =D2 | G A B4 |\nB,2 B3 A | G A B3 G | A G =F E =D2 | E =F =D4 |\nA G =F E =D2 | E =F =D C B,2 | B,2 E3 B, | E =F G4 |\nA G =F E =D2 | E =F =D C B,2 | B,2 E2 E2 | E2 E4 |\nA G =F E =D2 | E =F =D C B,2 | B,2 E3 B, | E =F G4 |\nA G =F E =D2 | E =F =D C B,2 | B,2 E2 E2 | E2 E4 |]\n"
+}

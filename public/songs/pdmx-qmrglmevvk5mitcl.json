@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmrglmevvk5mitcl",
+  "title": "Chinese tune",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmRgLmEvvK5MiTCLzjAnKJWx43XQYvwCJk7zJ48t8PxscN",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 9,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:D clef=treble\nG2 | G2 G2 A2 A2 | B2 E2 G4 | A2 A2 A2 G2 |\nA2 B2 G4 | E2 G2 A2 | z2 A2 A2 A2 G2 | G2 A2 G2 E2 |\nD4 | z4 B2 G2 A4 | A2 B2 A4 | G2 G2 G2 A2 |\nA2 B2 G2 E2 | D4 | z4 D3 E D2 |]\n"
+}

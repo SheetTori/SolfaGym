@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwjh7qhzbiraiez",
+  "title": "Valse Beaulieu",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWjh7QhzBirAiezKzeUxndbZufJrLidcDegv6L7o9oBzA",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:G clef=treble\nB d | G3 A B d | G3 B A F | E2 E D E F |\nE D D2 B A | G3 A B d | G3 B A F | E2 E D G F |\nG3 | z B d | G3 A B d | G3 B A F |\nE2 E D E F | E D D2 B A | G3 A B d | G3 B A F |\nE2 E D G F | G3 | A B d | g3 f e d |\nB2 B A B d | E2 E D E F | E D D2 B d | g3 f e d |\nB2 B A B A | E2 E D G F | G3 | A B d |\ng3 f e d | B2 B A B d | E2 E D E F | E D D2 B d |\ng3 f e d | B2 B A B A | E2 E D G F | G3 |]\n"
+}

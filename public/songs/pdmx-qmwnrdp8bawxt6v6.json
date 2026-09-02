@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwnrdp8bawxt6v6",
+  "title": "Den bakvende visa",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWnRDP8bAWxT6v6FPxK73mH3DQm51RdwXWXfGvahzhUTA",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:Am clef=treble\ne2 | e3 ^d e2 B2 B2 =d2 | c3 B c2 A4 A B | c3 B c2 A3 ^G A2 |\nB4 e2 e2 | z2 e2 | e3 ^d e2 B2 B2 =d2 | c3 B c2 A4 A B |\nc3 B c2 A3 ^G A2 | B4 e2 e2 | z2 c2 | B3 A ^G2 A2 z2 B2 |\nc2 c2 d2 e2 z2 f2 | e3 d c2 B3 A ^G2 | A4 A2 A2 |]\n"
+}

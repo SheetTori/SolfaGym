@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtgah9bwih8tn7c",
+  "title": "God Rest Ye Merry Gentlemen",
+  "source": "PDMX — cc-zero",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTgah9bWiH8TN7C3KAUQuQqXnYotRFsK5X7Rgxrr1YAm5",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "cc-zero",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Em clef=treble\nE2 | E2 B2 B2 A2 | G2 F2 E2 D2 | E2 F2 G2 A2 |\nB6 E2 | E2 B2 B2 A2 | G2 F2 E2 D2 | E2 F2 G2 A2 |\nB6 B2 | c2 A2 B2 c2 | d2 e2 B2 A2 | G2 E2 F2 G2 |\nA4 G2 A2 | B4 c2 B2 | B2 A2 G2 F2 | E4 G F E2 |\nA4 G2 A2 | B2 c2 d2 e2 | B2 A2 G2 F2 | E6 E2 |\nE6 E2 | E2 B2 B2 A2 | G2 F2 E2 D2 | E2 F2 G2 A2 |\nB6 E2 | E2 B2 B2 A2 | G2 F2 E2 D2 | E2 F2 G2 A2 |\nB6 B2 | c2 A2 B2 c2 | d2 e2 B2 A2 | G2 E2 F2 G2 |\nA4 G2 A2 | B4 c2 B2 | B2 A2 G2 F2 | E4 G F E2 |\nA4 G2 A2 | B2 c2 d2 e2 | B2 A2 G2 F2 | E6 E2 |\nE6 E2 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmc2hfzsaowndgz7",
+  "title": "Lampaan polska",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmc2HFZsaoWndGz7uwC9tZJenKVegE9b5ACqoxeGby9UYf",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/16\nK:Gm clef=treble\nG2 G2 G2 G2 G2 G2 | ^F4 F8 | G2 G2 G2 G4 G2 | A4 A8 |\nB2 B2 B4 B4 | A4 A8 | G2 G2 G4 ^F4 | G4 G8 |\nG2 G2 G2 G2 G2 G2 | ^F4 F8 | G2 G2 G2 G4 G2 | A4 A8 |\nB2 B2 B4 B4 | A4 A8 | G2 G2 G4 ^F4 | G4 G8 |\nd4 d4 d4 | c4 c8 | B2 B2 B4 B4 | A3 A d8 |\nG2 G2 d4 G4 | A2 A2 d4 A4 | B2 B2 A4 ^F4 | G4 G8 |\nd4 d4 d4 | c4 c8 | B2 B2 B4 B4 | A3 A d8 |\nG2 G2 d4 G4 | A2 A2 d4 A4 | B2 B2 A4 ^F4 | G4 G8 |]\n"
+}

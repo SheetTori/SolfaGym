@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmd3fcnzxdtynswa",
+  "title": "Alunda-visan",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmd3fcnzxDtynsWAVeSB8mDUkENb7UDVTH5S1uyMrM3A4S",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:E clef=treble\nB2 B A G A | B2 e d e2 | c2 A c e c | c2 B ^A B2 |\nB e e d e c | c B B A G2 | B2 c A F D | F2 E2 |]\n"
+}

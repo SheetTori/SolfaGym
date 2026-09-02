@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbvxp26b8rctnqg",
+  "title": "The flight of the earls",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbVxP26b8rCtNqGQK5vn4y6M7Pi9C8vz55Vjmb3F5Qw4G",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:F clef=treble\nC2 | F3 G F E D C | c3 d c2 B2 | A2 F2 A G F E |\nD6 E2 | F3 G F E D C | c3 d c2 B2 | A2 G2 F G A =B |\nc6 c2 | d3 B f2 d2 | c3 B A2 c2 | B2 A2 G2 F2 |\nD6 E2 | F3 G F E D C | c3 d c2 B2 | A2 F2 A G F E |\nF6 |]\n"
+}

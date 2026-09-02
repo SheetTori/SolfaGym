@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmcm5hefz83meswa",
+  "title": "Dance from Sj\\aelland",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmcM5hEfZ83mESwaYR3va7Tj2TLgXSPmxXzgEQZCnfVf7h",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:D clef=treble\nd c d c | d2 A2 | d2 f2 | f2 e2 |\ne ^d e d | e2 A2 | B d c e | d4 |\nd c d c | d2 A2 | d2 f2 | f2 e2 |\ne ^d e d | e2 A2 | B d c e | d4 |\nA2 d e | f2 d2 | B2 B c | A4 |\nG2 G A | F2 F G | E2 E F | D4 |\nA2 d e | f2 d2 | B2 B c | A4 |\nG2 G A | F2 F G | E2 E F | D4 |]\n"
+}

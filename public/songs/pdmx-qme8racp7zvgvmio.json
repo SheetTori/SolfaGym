@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qme8racp7zvgvmio",
+  "title": "The Ashplant",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qme8RACP7zvgvmiosrERV4nXVDSD1tCPRPw958HvGmHTKA",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Dm clef=treble\nd G G G d c B c | d G G G F G B c | d2 d c d f g a | b g f d c2 B c |\nd G G G d c B c | d G G G F G B c | d2 d c d f g a | b g f d c2 B c |\nd2 b d c' d b d | d2 b d d c B c | d2 b d c' b g a | b g f d c2 B c |\nd2 b d c' d b d | d2 b d d c B c | d f g a b2 g a | b g f d c2 B c |\nd4 |]\n"
+}

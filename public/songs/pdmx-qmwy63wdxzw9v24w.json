@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmwy63wdxzw9v24w",
+  "title": "Song from M\\ahren",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmWy63WDxZW9v24wb4iNJvc7AALV4rcwbUCaut4udj5NDA",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:G clef=treble\nG2 G2 B2 | A3 A A2 | G2 G2 B2 | A4 |\nz2 G2 G2 B2 | A3 A A2 | G2 G2 B2 | A4 |\nz2 c2 c2 d2 | B3 B B2 | A2 G2 A2 | G4 |]\n"
+}

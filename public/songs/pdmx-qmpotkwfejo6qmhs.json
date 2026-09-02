@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpotkwfejo6qmhs",
+  "title": "Mulhair's Jig",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPoTkwfEJo6QmHsZtmb4gg7wWzemC9CfiFckG7819uN9X",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Em clef=treble\nE | E D E G2 A | B e B d B d | e d B G A B |\nA B A A G E | E D E G2 A | B e B d B d | e d B G A B |\nA G F G2 B | d2 d d e f | g f e f d B | A B A A B d |\ne g f e2 f | g2 e f e d | e d B g f g | e d B A G A |\nB G G G2 E |]\n"
+}

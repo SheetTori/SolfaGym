@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmfnmcwkci1v97r5",
+  "title": "The foggy foggy dew",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmfNMcwkci1v97r5c7hrfvX9sct2dRAPgbrE8PtEEKQ5Re",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 79,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nd2 | g2 g g b2 b b | e2 e e a3 d | d2 f f a2 c'2 |\nb2 g4 d d | g g g g b2 b b | e3 e a2 g g | f2 d2 e2 f2 |\ng6 d2 | d3 f a3 c' | b2 g2 d4 | z d d d c'3 c' |\nb6 d d | g g g g b2 b b | e2 e2 a2 g g | f f d d e e f f |\ng6 |]\n"
+}

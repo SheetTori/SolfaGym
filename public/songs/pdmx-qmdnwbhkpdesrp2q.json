@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdnwbhkpdesrp2q",
+  "title": "Kullerullvisa",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdNwbHKpdeSrp2Q9kZ3MXNusAQYpzuJQMqQQjHFEAs7nx",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 70,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Bb clef=treble\nF2 | B3 F B2 c2 | d4 B c d e | f2 f g f2 e2 |\nd4 b2 a2 | g3 f e2 d2 | c2 b2 a2 g2 | f4 =e f g e |\nf4 z2 F2 | B3 F B2 c2 | d4 B c d e | f2 f g f2 e2 |\nd4 b2 a2 | g3 f e2 d2 | c2 b2 a2 g2 | f4 =e f g e |\nf4 | z2 B d | d2 b2 b c' b a | b2 d2 e2 f2 |\ng b g e f g f d | B4 d e d c | c2 e2 g2 a g | f2 c2 e f e d |\nB12 | z2 B d | d2 b2 b c' b a | b2 d2 e2 f2 |\ng b g e f g f d | B4 d e d c | c2 e2 g2 a g | f2 c2 e f e d |\nB12 |]\n"
+}

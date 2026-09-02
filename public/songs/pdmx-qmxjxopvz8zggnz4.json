@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxjxopvz8zggnz4",
+  "title": "Katyusha",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXJXopVZ8ZgGnz4c82tSUzLuuNVE8ib7YwuXnkQnj17ku",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:Em clef=treble\nE3 F | G3 E | G G F E | F2 B,2 |\nF3 G | A3 F | A A G F | E4 |\nB2 e2 | d2 e d | c c B A | B2 E2 |\nz c2 A | B3 G | A A G F | E4 |\nB2 e2 | d2 e d | c c B A | B2 E2 |\nz c2 A | B3 G | A A G F | E4 |]\n"
+}

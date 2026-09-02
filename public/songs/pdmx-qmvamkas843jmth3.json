@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmvamkas843jmth3",
+  "title": "The job of journey work",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmVAMKAS843Jmth3BB84PtFBby4GhnGMyYNJ3a7sQFcWKW",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:D clef=treble\nf e | d c A G F G A B | c A B G A2 f e | d2 c A B G A F |\nG B A F D E F G | A B A F G F E F | D2 D E F2 G2 | A2 d2 c d e f |\nd2 d d d2 | f e | d c A G F G A B | c A B G A2 f e |\nd2 c A B G A F | G B A F D E F G | A B A F G F E F | D2 D E F2 G2 |\nA2 d2 c d e f | d2 d d d2 | d e | f2 e f g f e f |\nd c A G A2 d e | f2 e f g f e f | d3 c A2 f g | a g f a g f e f |\nd c d e f2 e c | d c A G F G A B | c A B G A2 f e | d2 c A B G A F |\nG B A F D E F G | A B A F G F E F | D2 D E F2 G2 | A2 d2 c d e f d2 d d d2 |\nd e | f2 e f g f e f | d c A G A2 d e | f2 e f g f e f |\nd3 c A2 f g | a g f a g f e f | d c d e f2 e c | d c A G F G A B |\nc A B G A2 f e | d2 c A B G A F | G B A F D E F G | A B A F G F E F |\nD2 D E F2 G2 | A2 d2 c d e f d2 d d d2 |]\n"
+}

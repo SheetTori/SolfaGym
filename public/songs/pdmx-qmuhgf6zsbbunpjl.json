@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmuhgf6zsbbunpjl",
+  "title": "Tie the bonnet",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmUHGF6zSbBunpjLjRo1mMjfSov3nUUqSTa1r2u2AoyD6v",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 71,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Bm clef=treble\na b =c A2 A g f d e c | A2 A =c B G G B | A2 A g f d e f | g f g e d B G B |\na2 a f g f e d | =c A e A c A c e | a2 a f g f e f | g f g e d B G B |\na2 a f g f e d | =c A e A c A c e | a f g e f d e f | g f g e d B G B |]\n"
+}

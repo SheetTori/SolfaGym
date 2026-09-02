@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdzrpmfcqogmm7f",
+  "title": "The Atholl Highlanders",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdZRPMfCQoGmm7FKuCXT9cbXSMnnK42Kr43KpmaCC9oBK",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:A clef=treble\ne2 e e c A | e c A B c d | e2 e e c A | B c d c B A |\ne2 e e c A | e c A B c d | e a e f e d | c d B A2 A |\ne2 e e c A | e c A B c d | e2 e e c A | B c d c B A |\ne2 e e c A | e c A B c d | e a e f e d | c d B A2 A |\nA c e A c e | A d f A d f | A c e A c e | B c d c B A |\nA c e A c e | A d f A d f | e a e f e d | c d B A2 A |\nA c e A c e | A d f A d f | A c e A c e | B c d c B A |\nA c e A c e | A d f A d f | e a e f e d | c d B A2 A |\na2 e e d c | a2 e e d c | a2 e e d c | B c d c B A |\na2 e e d c | a2 e e d c | e a e f e d | c d B A2 A |\na2 e e d c | a2 e e d c | a2 e e d c | B c d c B A |\na2 e e d c | a2 e e d c | e a e f e d | c d B A2 A |\nc A c c A c | d B d d B d | c A c c A c | B =G B B G B |\nc A c c A c | d B d d B d | e a e f e d | c d B A3 |\nc A c c A c | d B d d B d | c A c c A c | B =G B B G B |\nc A c c A c | d B d d B d | e a e f e d | c d B A3 |]\n"
+}

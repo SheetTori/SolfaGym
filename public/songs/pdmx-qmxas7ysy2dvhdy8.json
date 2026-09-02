@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxas7ysy2dvhdy8",
+  "title": "Scottish 1900",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXAs7ySY2dVhdy8585yWSDVwaUyK6HXA6eB1hJWtpTJP9",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 63,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Eb clef=treble\nF2 G =A B2 c2 | d2 f d c4 | e G e G e4 | d F d F c2 F F |\nF2 G =A B2 c2 | d2 f d c4 | f2 d B =A2 F A | B2 B2 B4 |\nF2 G =A B2 c2 | d2 f d c4 | e G e G e4 | d F d F c2 F F |\nF2 G =A B2 c2 | d2 f d c4 | f2 d B =A2 F A | B2 B2 B4 |\nd2 B2 F G F G | F2 D F B4 | e2 e c d2 d B | c d c B G2 F2 |\nd2 B2 F G F G | F2 D F B4 | e2 c =A F2 G A | B2 B2 B4 |\nd2 B2 F G F G | F2 D F B4 | e2 e c d2 d B | c d c B G2 F2 |\nd2 B2 F G F G | F2 D F B4 | e2 c =A F2 G A | B2 B2 B4 |\nB2 e2 G2 B2 | E G B G e4 | d c F G A4 | c B E F G4 |\nB2 e2 G2 B2 | c2 c =B c4 | B e d c B A G F | E2 G2 E4 |]\n"
+}

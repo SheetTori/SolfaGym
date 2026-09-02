@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmupmt2hwqbqnck3",
+  "title": "Shalom shaverim",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmUPmT2HwQBQncK3uCYmbjMKdDc12XYMmzM8LThDpdnD3p",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nB,2 | E2 E F G2 E2 | G2 G A B2 B2 | e6 d2 |\nB6 B2 | e2 B A G2 A2 | B2 G F E2 B,2 | E6 F G |\nG6 |]\n"
+}

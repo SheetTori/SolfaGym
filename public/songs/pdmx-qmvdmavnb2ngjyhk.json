@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmvdmavnb2ngjyhk",
+  "title": "the Cotillion",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmVDMavNb2NgJYHk9F4rHksUanJBta3aC7ZZVE26YGhjmZ",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nG4 d4 | B2 A B G2 A B | c2 B2 A2 G2 | F G A F D3 D |\nE4 F4 | G F G A G2 c2 | B2 A G A2 G F | G4 G4 |\nG4 d4 | B2 A B G2 A B | c2 B2 A2 G2 | F G A F D3 D |\nE4 F4 | G F G A G2 c2 | B2 A G A2 G F | G4 G4 |\nd e d c B2 d2 | d e d c B2 d2 | e2 d2 e2 f2 | g4 d2 e f |\ng2 f e d2 c B | e2 d c B2 A B | c2 B2 A2 G2 | F2 E F D2 D2 |\nE4 F4 | G F G A G2 c2 | B2 A G A2 G F | G4 G4 |\nd e d c B2 d2 | d e d c B2 d2 | e2 d2 e2 f2 | g4 d2 e f |\ng2 f e d2 c B | e2 d c B2 A B | c2 B2 A2 G2 | F2 E F D2 D2 |\nE4 F4 | G F G A G2 c2 | B2 A G A2 G F | G4 G4 |]\n"
+}

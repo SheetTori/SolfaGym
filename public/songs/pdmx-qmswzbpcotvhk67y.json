@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmswzbpcotvhk67y",
+  "title": "The Periwig",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmSwZBpcotVhK67YwURqz7NQBoL8DL8r4YXbgoup8dTC8s",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 79,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/16\nK:G clef=treble\nB2 | g6 b2 a2 g2 f2 a2 | g2 f2 e2 g2 d2 B2 B4 | g6 b2 a2 g2 f2 a2 |\ng2 e2 f2 ^d2 e e e2 g4 | g6 b2 a2 g2 f2 a2 | g2 f2 e2 g2 d2 B2 B2 d2 | g2 g2 g2 b2 a2 g2 f2 a2 |\ng2 e2 f2 ^d2 e e e2 g4 | d2 B2 B B B2 d2 B2 B2 g2 | e2 B2 B2 A2 G2 E2 E2 g2 | d2 B2 B B B2 d2 B2 B2 a2 |\ng2 e2 f2 ^d2 e e e2 g4 | d2 B2 B B B2 d2 B2 B2 g2 | e2 B2 B2 A2 G2 E2 E2 F2 | G2 A2 B2 c2 d2 B2 B2 a2 |\ng2 e2 f2 ^d2 e e e2 g4 | g6 b2 a2 g2 f2 a2 | g2 f2 e2 g2 d2 B2 B4 | g6 b2 a2 g2 f2 a2 |\ng2 e2 f2 ^d2 e e e2 g4 | g6 b2 a2 g2 f2 a2 | g2 f2 e2 g2 d2 B2 B2 d2 | g2 g2 g2 b2 a2 g2 f2 a2 |\ng2 e2 f2 ^d2 e e e2 g4 | d2 B2 B B B2 d2 B2 B2 g2 | e2 B2 B2 A2 G2 E2 E2 g2 | d2 B2 B B B2 d2 B2 B2 a2 |\ng2 e2 f2 ^d2 e e e2 g4 | d2 B2 B B B2 d2 B2 B2 g2 | e2 B2 B2 A2 G2 E2 E2 F2 | G2 A2 B2 c2 d2 B2 B2 a2 |\ng2 e2 f2 ^d2 e e e2 g4 |]\n"
+}

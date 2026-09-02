@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdeug4migx8kcwg",
+  "title": "Shepherd's Hey",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdEug4migx8kCwGnu3EMZdnBWhcx7F2ptVYNu86aXxU8A",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\nG2 A2 | B3 c d3 B | c4 c4 | B3 c d3 B |\nA4 A4 | B3 c d3 B | c4 B3 c | d4 D4 |\nG4 | G2 A2 | B3 c d3 B | c4 c4 |\nB3 c d3 B | A4 A4 | B3 c d3 B | c4 B3 c |\nd4 D4 | G4 | G2 A2 | B4 G4 |\nc4 c3 A | B4 G4 | A8 | B3 c d3 B |\nc4 B3 c | d4 D4 | G4 | G2 A2 |\nB4 G4 | c4 c3 A | B4 G4 | A8 |\nB3 c d3 B | c4 B3 c | d4 D4 | G4 |]\n"
+}

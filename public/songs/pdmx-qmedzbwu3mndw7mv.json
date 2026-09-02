@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmedzbwu3mndw7mv",
+  "title": "Busty Fields",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeDZBwu3mnDw7mVAs9H3Uwy87vFTvBrkn2RSFK7Lw8fzA",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 64,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Em clef=treble\nd | B2 B B2 B | B2 B B2 B | B2 B c2 c |\nB3 z2 d | B2 B B2 B | B2 B B2 A | G2 G F2 D |\nE3 z2 B | B B B B B B | B2 B B2 B | B2 B c2 c |\nB3 z2 d | B2 B B2 B | B2 B B2 A | G2 G F2 D |\nE3 D E F | G2 G A2 F | G2 z D D D | E3 F E D |\nE3 z2 A | A A A A2 A | A2 z G G G | F3 E E E |\nD2 z G G G | G2 G F2 F | E2 A A A A | A A A G2 A |\nF3 D D D | d d d d2 d | d3 D E F | G3 A G F |\nG3 | z2 B3 B3 | c B A B3 | G G G F2 F |\nE3 |]\n"
+}

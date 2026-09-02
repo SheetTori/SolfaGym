@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmvundos15fhcb4n",
+  "title": "When Johnny Comes Marching Home",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmVUndos15FHCb4NtocCUtRoWuWUE15UqTTLPTqkiMN9C7",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Am clef=treble\nE | E A A A2 B | c2 B c2 A | G4 G E |\nG4 G A | E A A A2 B | c2 B c2 d | e4 e c |\ne4 e c | e2 e e d c | d2 d d2 B | c2 c c B A |\nB2 B B c d | e3 d3 | c3 B2 E | E A A A2 G |\nA3 A2 |]\n"
+}

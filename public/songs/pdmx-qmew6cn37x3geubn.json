@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmew6cn37x3geubn",
+  "title": "Gyvataras",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmew6cN37X3GEubNPpzWDRUY71Ano5nNdXMaLtnFQYfG4b",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\nd2 d2 e d c2 | d2 d2 d4 | d2 d2 e d c2 | d2 A2 A3 B |\nA2 B2 c2 d2 | f2 f2 f3 e | d2 c2 B2 A2 | G4 G4 |\nd2 d2 e d c2 | d2 d2 d4 | d2 d2 e d c2 | d2 A2 A3 B |\nA2 B2 c2 d2 | f2 f2 f3 e | d2 c2 B2 A2 | G4 G4 |\nG2 d2 d2 e2 | d8 | G2 d2 d2 e2 | d8 |\nd4 e4 | d4 c4 | d2 c2 B2 A2 | G4 G4 |\nG2 d2 d2 e2 | d8 | G2 d2 d2 e2 | d8 |\nd4 e4 | d4 c4 | d2 c2 B2 A2 | G4 G4 |]\n"
+}

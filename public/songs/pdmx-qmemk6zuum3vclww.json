@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmemk6zuum3vclww",
+  "title": "Trip to Highgate A",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeMK6zuUm3VCLwwFqvZ5c7CazDxcSmCvNF5digdsgdtYf",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nG | G2 B B2 d | d2 g g2 d | e d c B A G |\nF G A A2 G | G2 B B2 d | d2 g g2 d | e d c B2 A |\nG3 G2 | G | G2 B B2 d | d2 g g2 d |\ne d c B A G | F G A A2 G | G2 B B2 d | d2 g g2 d |\ne d c B2 A | G3 G2 | d | d2 D D2 c |\nc2 C C2 c | B2 A G F G | A D D D2 d | d2 D D2 c |\nc2 C C2 c | B A G A G F | G3 G2 | d |\nd2 D D2 c | c2 C C2 c | B2 A G F G | A D D D2 d |\nd2 D D2 c | c2 C C2 c | B A G A G F | G3 G2 |]\n"
+}

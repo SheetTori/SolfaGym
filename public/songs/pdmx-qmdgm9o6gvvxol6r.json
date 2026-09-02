@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdgm9o6gvvxol6r",
+  "title": "Anniversary Reel",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdGm9o6gvvXoL6RRkR2BeD2qqv4VHTSzy2ad17akNQoWd",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 70,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Bb clef=treble\nF | B2 d f b f d f | g a b g f d B d | e f g e d e f d |\nc d c B A F G A | B2 d f b f d f | g a b g f d B d | e f g e d e f d |\nc B c d B2 B | f | b2 b a b f d f | b2 b a b f d f |\ne f g e d e f d | c d c B A c c f | b2 b a b f d f | b2 b a b f d f |\ne f g e d e f d | c B c d B2 B |]\n"
+}

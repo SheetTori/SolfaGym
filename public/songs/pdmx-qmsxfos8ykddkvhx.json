@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmsxfos8ykddkvhx",
+  "title": "Scan Testers No 2",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmSxFoS8ykDDkvhxWcJxLUrv23TcdDsAU5hirXnmNyJ7Jd",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nB c | d2 d d d2 d2 | d2 ^c2 =c2 B2 | A3 B A2 G2 |\nF6 D E | F2 E F G2 F G | A2 d4 c B | A2 G2 F2 E2 |\nD6 | B c | d2 d d d2 d2 | d2 ^c2 =c2 B2 |\nA3 B A2 G2 | F6 D E | F2 E F G2 F G | A2 d4 c B |\nA2 G2 F2 E2 | D6 | B c | d2 G2 B2 A B |\nc2 E2 A3 B | c2 e2 d2 c2 | B4 B3 c | d2 G2 B2 A B |\nc2 E2 A3 B | c2 e c B2 A2 | G6 | B c |\nd2 G2 B2 A B | c2 E2 A3 B | c2 e2 d2 c2 | B4 B3 c |\nd2 G2 B2 A B | c2 E2 A3 B | c2 e c B2 A2 | G6 |]\n"
+}

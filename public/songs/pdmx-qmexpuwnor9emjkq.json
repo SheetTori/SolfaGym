@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmexpuwnor9emjkq",
+  "title": "Just as the Tide Was Flowing",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeXPuWnor9eMjkQQpXy5hzSCUAk3UrjZvnNmRZbUdvP2U",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nB A | G2 E2 E3 D | G2 G2 A2 G A | B c d2 B2 A G |\nE2 F2 G2 B A | G2 E2 E3 D | G2 G2 A2 G A | B A B d c B A G |\nE2 F2 G2 | B A | G2 E2 E3 D | G2 G2 A2 G A |\nB c d2 B2 A G | E2 F2 G2 B A | G2 E2 E3 D | G2 G2 A2 G A |\nB A B d c B A G | E2 F2 G2 | B c | d2 d2 d2 B c |\nd2 d2 e2 B c | d2 B2 B A G A | B A G F E2 D2 | G2 G2 E3 D |\nG2 G2 A2 G A | B A B d c B A G | E2 F2 G2 | B c |\nd2 d2 d2 B c | d2 d2 e2 B c | d2 B2 B A G A | B A G F E2 D2 |\nG2 G2 E3 D | G2 G2 A2 G A | B A B d c B A G | E2 F2 G2 |]\n"
+}

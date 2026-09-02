@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtfu3tpqrrn7bfj",
+  "title": "Y March Glas - The Grey Horse",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTFu3tPQrrN7BfjyPzNrX5ds9SHEGNDtXqm61K8cTUNyG",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:D clef=treble\nA A A2 | A3 A | B2 G2 | F2 A2 |\nA2 A A | A3 A | B2 G G | F2 A2 |\nD E F E | D D D2 | E F G F | E E E2 |\nF G A2 | B2 A2 | D E F2 | G2 F2 |\nD E F E | D D D2 |]\n"
+}

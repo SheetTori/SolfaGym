@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmebkczedwcxzfoq",
+  "title": "the Alewife and her Barrel",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeBKCZEDWcxZfoQycYr4iwPDqXVzBaBmjsgbCW7R6YPV3",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 79,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:G clef=treble\nD | G2 G B A G A B | G2 G B d e d B | G2 G B A G A B |\nG E D E G A G D | G2 G B A G A B | G2 G B d e d B | G2 G B A G A B |\nd B G B d e d B | d e g e a g f d | e f g e a f g2 | d e g e a g f d |\ne d B d e f g2 | d e g e a g f d | e f g e a f g2 | d e g e a g f d |\ne d B d e f g2 |]\n"
+}

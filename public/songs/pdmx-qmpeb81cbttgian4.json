@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpeb81cbttgian4",
+  "title": "Tickle her Leg (with the Barley Straw).",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPEB81CBtTGian4oxVedQnv5RMHRakVDpHE8rmdEgHGZp",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nD F F F E F | D2 B, B, C D | B, E E E F D | C3 A, B, C |\nD3 E3 | F3 d2 d | B A F F E F | D2 B, B,2 C |\nD F F F E F | D2 B, B, C D | B, E E E F D | C3 A, B, C |\nD3 E3 | F3 d2 d | B A F F E F | D2 B, F d B |\nD F F F E F | D2 B, B, C D | B, E E E F D | C3 A, B, C |\nD3 E3 | F3 d2 d | B A F F E F | F F d B |\nA2 F F d B | A2 F F E F | D2 B, B, d B | A2 F F d B |\nA2 F F d B | d c B c B A | B3 c | d c B c B A |\nB2 A F B c | d c B c B A | B3 B2 C | d c B c B A |\nB2 A F2 E | F ^G A B2 c | B3 d3 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmsjqttvroiynytx",
+  "title": "Breuddwyd y Wrach",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmSJQTtvRoiyNytXDgm9wLtnYnG4jZULPpqW9vVnMszo2B",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:9/8\nL:1/8\nK:C clef=treble\nc e c e2 f g e c | c e c e2 c d B G | c e c e2 f g e c | e g e f d B c3 |\nc e c e2 f g e c | c e c e2 c d B G | c e c e2 f g e c | e g e f d B c3 |\nG B G B2 c d B G | e d e B2 c d B G | G B G B2 c d B G | e g e f e d c3 |\nc e c e2 f g e c | c e c e2 c d B G | c e c e2 f g e c | e g e f d B c3 |\nG B G B2 c d B G | e d e B2 c d B G | G B G B2 c d B G | e g e f e d c3 |]\n"
+}

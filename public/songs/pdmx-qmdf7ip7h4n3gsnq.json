@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdf7ip7h4n3gsnq",
+  "title": "Canci\\'on",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmdf7iP7h4N3gSNq3PRsSuNr33NawpHKzgPvkE6esaz9FJ",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 62,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:Dm clef=treble\nD E F E F G | A2 A2 A B | G2 E2 G A | F2 D2 |\nz2 D E F E F G | A2 A2 A B | G2 E2 G A | F2 D2 A A |\nc2 B2 d e | d2 A4 | G ^F G F F A | G2 F4 |\nE ^D E D E F | E2 D4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmr1qpm28qrg1q1m",
+  "title": "When sick is it tea you want?",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmR1qpm28qRg1q1m4GyV4kFpPL2bpUVsWXRo5DHv4sspcr",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nA d d d c B | A B A A F A | A d d d2 e | f d B B2 A |\nA d d d c B | A B A A F A | d f d e g e | f d d d2 |\nz A d d d c B | A B A A F A | A d d d2 e | f d B B2 A |\nA d d d c B | A B A A F A | d f d e g e | f d d d2 |\nz a f d d c d | B G G G2 g | b g e e d e | c A A A2 A |\nA d d d c B | A B A A F A | d f d e g e | f d d d2 |\nz A d d d c B | A B A A F A | A d d d2 e | f d B B2 A |\nA d d d c B | A B A A F A | d f d e g e | f d d d2 |\nz a f d d c d | B G G G2 g | b g e e d e | c A A A2 A |\nA d d d c B | A B A A F A | d f d e g e | f d d d2 |]\n"
+}

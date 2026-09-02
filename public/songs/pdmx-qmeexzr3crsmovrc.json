@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmeexzr3crsmovrc",
+  "title": "Let the Bottle Circulate",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeEXZr3CrSMoVRCyn7Yx9PagkXQLZSuk4gQggy2fA1xTB",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 71,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/2\nL:1/8\nK:Bm clef=treble\ne | f2 e d e2 A A | f2 e d B A B B | f2 e d e2 A A |\nd B G B A A A A | f2 e d e2 A A | f2 e d B A B B | f2 e d e2 A A |\nd B G B A A A A | A A A B d2 A d | B A B c d2 G B | A A A B d2 A e |\ng2 e a B A B B | A A A B d2 A d | B A B c d2 G B | A A A B d2 A e |\ng2 e a B A B B |]\n"
+}

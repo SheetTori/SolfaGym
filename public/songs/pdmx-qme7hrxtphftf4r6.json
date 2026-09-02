@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qme7hrxtphftf4r6",
+  "title": "Still still still",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qme7HrxtPHFtf4R6RJnKqQT9DuHXcvZBMD1gdMee8RXgUy",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 60,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:C clef=treble\nG2 c2 | E2 G2 | C2 C E | D2 D F |\nB,2 B, D | C4 | z2 C2 | D2 D E |\nF2 D2 | E2 E F | G2 E2 | D2 D E |\nF2 D2 | E2 E F | G2 E2 | G2 c2 |\nE2 G2 | C2 C E | D2 D F | B,2 B, D |\nC4 |]\n"
+}

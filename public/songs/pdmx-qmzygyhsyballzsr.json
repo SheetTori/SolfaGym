@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmzygyhsyballzsr",
+  "title": "Tam Lin",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmZyGyhsYbALLZSrkntqyHbG9699kYxydAysuZwF1csA3R",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Am clef=treble\nE2 A E c E A E | F2 A F c F A F | G2 B G d G B G | c B A G E A A G |\nE2 A E c E A E | F2 A F c F A F | G2 B G d G B G | c B A G E A A2 |\nE2 A E c E A E | F2 A F c F A F | G2 B G d G B G | c B A G E A A G |\nE2 A E c E A E | F2 A F c F A F | G2 B G d G B G | c B A G E A A2 |\na e e2 c e A e | a e e2 c e A e | g d d2 B d d2 | g d d2 g a b g |\na e e2 c e A e | a e e2 c e A E | F3 E F G A B | c A B G E A A2 |\na e e2 c e A e | a e e2 c e A e | g d d2 B d d2 | g d d2 g a b g |\na e e2 c e A e | a e e2 c e A E | F3 E F G A B | c A B G E A A2 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmsydhnrghu9uwwp",
+  "title": "Sweet nightingale",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmSYdHnrGHu9Uwwp3nwdFnvyAZUgTXpseWmgn4JXyG5q5L",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:C clef=treble\nG G | c3 c G2 | c4 d f | e2 e2 d2 |\ne4 c e | g2 e2 g2 | f2 e2 d2 | c8 |\nz2 e f | g2 g2 e2 | f4 e f | g2 c2 d2 |\nG3 A B2 | c2 d2 e2 | f2 g2 a2 | g3 f e2 |\nf3 e d2 | e3 d c2 | d4 G G | c2 e2 g2 |\nf2 e2 d2 | c10 |]\n"
+}

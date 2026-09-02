@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxwdyyhm9nxxobb",
+  "title": "A visit to Ireland",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXwDyYHm9nXxoBbvF2r3A3dp3jjFbp2r6p4Hks8HX8gGz",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/16\nK:G clef=treble\nB2 | d2 e2 d2 d2 B2 G2 | B2 d2 d2 d2 e2 f2 | g2 f2 e2 d2 c2 B2 |\nc2 A2 A2 A4 B c | d2 e2 d2 d2 B2 G2 | B2 d2 d2 d2 e2 f2 | g2 f2 g2 A2 B2 c2 |\nB2 G2 G2 G4 | B2 | d2 e2 d2 d2 B2 G2 | B2 d2 d2 d2 e2 f2 |\ng2 f2 e2 d2 c2 B2 | c2 A2 A2 A4 B c | d2 e2 d2 d2 B2 G2 | B2 d2 d2 d2 e2 f2 |\ng2 f2 g2 A2 B2 c2 | B2 G2 G2 G4 | d2 | g2 f2 g2 a2 g2 a2 |\nb2 a2 g2 f2 e2 d2 | g2 f2 e2 d2 c2 B2 | c2 A2 A2 A4 d2 | g2 f2 g2 a2 g2 a2 |\nb2 a2 g2 f2 e2 d2 | g2 f2 g2 A2 B2 c2 | B2 G2 G2 G4 | B2 |\nd2 e2 d2 d2 B2 G2 | B2 d2 d2 d2 e2 f2 | g2 f2 e2 d2 c2 B2 | c2 A2 A2 A4 B c |\nd2 e2 d2 d2 B2 G2 | B2 d2 d2 d2 e2 f2 | g2 f2 g2 A2 B2 c2 | B2 G2 G2 G4 |\nd2 | g2 f2 g2 a2 g2 a2 | b2 a2 g2 f2 e2 d2 | g2 f2 e2 d2 c2 B2 |\nc2 A2 A2 A4 d2 | g2 f2 g2 a2 g2 a2 | b2 a2 g2 f2 e2 d2 | g2 f2 g2 A2 B2 c2 |\nB2 G2 G2 G4 |]\n"
+}

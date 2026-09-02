@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmvyv3qggjuitdaz",
+  "title": "Come and Find the Quiet Center",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmVYv3qggJuiTdAZAMc3TuYhqt63arKNrBRxk3ZX3QF8Vo",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/16\nK:D clef=treble\nd2 d2 | e4 d4 f2 f2 | e2 d2 B4 d2 d2 | B4 A4 B2 d2 |\nd8 | d2 d2 | e4 d4 f2 f2 | e2 d2 B4 d2 d2 |\nB4 A4 B2 d2 | d8 | d2 f2 | a4 a4 b2 a2 |\nf4 d4 d2 f2 | a4 d4 f e d2 | B8 b2 a2 | f4 d4 f2 f2 |\ne2 d2 B4 d2 d2 | B4 A4 B2 d2 | d8 |]\n"
+}

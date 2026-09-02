@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qma5qricsnqqsuzz",
+  "title": "Andro 2",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qma5QRicsNqqsUZziJrq9f5ukePQhF1DPWfb4cGGQtf3C9",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Am clef=treble\nA2 e2 e2 d e | f3 e d c B c | d2 B2 e2 d c | B c A B c3 B |\nA2 e2 e2 d e | f3 e d c B c | d2 B2 e2 d c | B A c B A4 |\nA2 e2 e2 d e | f3 e d c B c | d2 B2 e2 d c | B c A B c3 B |\nA2 e2 e2 d e | f3 e d c B c | d2 B2 e2 d c | B A c B A4 |\nA2 A2 B2 c B | A2 A2 B2 B c | d2 B2 e2 d c | B c A B c3 B |\nA2 A2 B2 c B | A2 A2 B2 B c | d2 B2 e2 d c | B A c B A4 |\nA2 e2 e2 d e | f3 e d c B c | d2 B2 e2 d c | B c A B c3 B |\nA2 e2 e2 d e | f3 e d c B c | d2 B2 e2 d c | B A c B A4 |\nA2 A2 B2 c B | A2 A2 B2 B c | d2 B2 e2 d c | B c A B c3 B |\nA2 A2 B2 c B | A2 A2 B2 B c | d2 B2 e2 d c | B A c B A4 |]\n"
+}

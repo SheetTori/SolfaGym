@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmprpmojkojyqy4q",
+  "title": "Lavender's Blue",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPrPmoJKoJYQy4qQ1gZwfu3wx1U2L9rMrx2fEEVRyxwkH",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:F clef=treble\nG2 =B2 c2 | d2 c =B A G | A2 D2 D2 | A6 |\nG2 =B2 c2 | d2 c =B A G | A2 D2 D2 | G6 |\n=B2 G2 G2 | c2 =B A G ^F | A2 D2 D2 | A6 |\nG2 =B2 c2 | d2 c =B A G | A2 D2 D2 | G6 |\n=B2 G2 G2 | c2 =B A G ^F | A2 D2 D2 | A6 |\nG2 =B2 c2 | d2 c =B A G | A2 D2 D2 | G6 |\nF2 c2 c2 | c2 B A G F | F2 d2 d2 | d6 |\nF2 c2 c2 | c2 B A G F | B2 A2 G2 | F6 |\nA2 F2 A2 | c2 B A G F | G2 C2 G2 | G6 |\nF2 c2 c2 | c2 B A G F | B2 A2 G2 | F6 |\nA2 F2 A2 | c2 B A G F | G2 C2 G2 | G6 |\nF2 c2 c2 | c2 B A G F | B2 A2 G2 | F6 |]\n"
+}

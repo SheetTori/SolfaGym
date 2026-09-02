@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmp51gynryice3zl",
+  "title": "The Minstrel Boy",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmP51gyNRYiCE3ZLJTWn3qpNmVhhNxQZEUJrnbYNeBmtXo",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/8\nK:G clef=treble\nD | G3 A | c B A G | B2 d2 |\ng2 f g | e2 d2 | B c d B | A4 |\nG2 D2 | G3 A | c B A G | B2 d2 |\ng2 f g | e2 d2 | B c d B | A4 |\nG2 d2 | g2 f2 | e2 f g | f2 e2 |\nd3 d | e3 B | B2 e2 | e2 f2 |\ng3 g | G3 A | c B A G | B2 d2 |\ng2 f g | e2 d2 | B c d B | A4 |\nG4 |]\n"
+}

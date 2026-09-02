@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmnnqsjbwaas1pqi",
+  "title": "Men of Harlech",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmNNQSjBwaAs1PQiK3yEiHT5gW3YnMjKMZcosuEtSqk8oA",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nG3 F E3 F | G2 A2 B2 G2 | c2 B2 A2 G2 | F2 E2 F2 D2 |\nG3 F E3 F | G2 A2 B e3 | d2 B2 A3 G | G8 |\nG3 F E3 F | G2 A2 B2 G2 | c2 B2 A2 G2 | F2 E2 F2 D2 |\nG3 F E3 F | G2 A2 B e3 | d2 B2 A3 G | G8 |\nA3 G F3 G | A2 A2 A4 | d3 c B3 c | d2 d2 d3 d |\nd3 c B3 c | d3 c B3 c | d e d c B A B c | d2 d2 d4 |\ne2 e2 d2 d2 | c2 c2 B2 B2 | A B c B A2 G2 | F2 E2 F2 D2 |\nG3 F E3 F | G2 A2 B2 e2 | d B3 A3 G | G8 |]\n"
+}

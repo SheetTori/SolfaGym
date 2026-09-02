@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtkx1borhk5d8sf",
+  "title": "Kol Dodi",
+  "source": "PDMX — cc-zero",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTkx1BoRhk5d8SFDjBu1EW6EREJXiKJ4Sz8MKrmakmjSc",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "cc-zero",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 57,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:Am clef=treble\nA,2 A, G, A,4 | A,2 A, G, A,4 | A,2 B, C D2 C B, | C2 B,2 A,4 |\nA,2 A, G, A,4 | A,2 A, G, A,4 | A,2 B, C D2 C B, | C2 B,2 A,4 |\nA,2 E2 E2 E2 | D2 D2 C B, A,2 | B,2 C2 D2 C B, | C2 D2 E4 |\nA,2 E2 E2 E2 | D2 D2 C B, A,2 | B,2 C2 D2 C B, | C2 B,2 A,4 |\nA,2 A, G, A,4 | A,2 A, G, A,4 | A,2 B, C D2 C B, | C2 B,2 A,4 |\nA,2 E2 E2 E2 | D2 D2 C B, A,2 | B,2 C2 D2 C B, | C2 D2 E4 |\nA,2 E2 E2 E2 | D2 D2 C B, A,2 | B,2 C2 D2 C B, | C2 B,2 A,4 |]\n"
+}

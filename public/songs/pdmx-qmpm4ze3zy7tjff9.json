@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmpm4ze3zy7tjff9",
+  "title": "Styggen p\\aa l\\aaven",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmPm4ZE3zy7tjFf9Quv4Pd4mqv3AZYvw9RyGsxtNxq48dv",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:F clef=treble\nC4 F3 A c4 c4 | B3 A G3 A B4 B4 | C4 E3 G B4 B4 | A3 G F3 G A4 A4 |\nC4 F3 A c4 c4 | B3 A G3 A B4 B4 | c4 e3 d c3 B A3 G | F4 F4 F4 |\nz4 C4 F3 A c4 c4 | B3 A G3 A B4 B4 | C4 E3 G B4 B4 | A3 G F3 G A4 A4 |\nC4 F3 A c4 c4 | B3 A G3 A B4 B4 | c4 e3 d c3 B A3 G | F4 F4 F4 |\nz4 C4 A4 C2 A2 C2 A2 | A4 G4 G3 ^F G4 | G4 G3 A B3 B A3 G | G3 F A3 c f8 |\nC4 A4 C2 A2 C2 A2 | A4 G4 G3 ^F G4 | c4 e3 d c3 B A3 G | F4 F4 F4 |\nz4 C4 A4 C2 A2 C2 A2 | A4 G4 G3 ^F G4 | G4 G3 A B3 B A3 G | G3 F A3 c f8 |\nC4 A4 C2 A2 C2 A2 | A4 G4 G3 ^F G4 | c4 e3 d c3 B A3 G | F4 F4 F4 |]\n"
+}

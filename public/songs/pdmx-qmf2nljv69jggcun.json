@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmf2nljv69jggcun",
+  "title": "Fekete mély vízen",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmf2NLJv69jgGcuntmiCoBWKVw4Pvwv4Kx78PkoAwdigbF",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Am clef=treble\ne e e e2 c | e3 e | z2 d d d d2 c | B3 B |\nz2 c c c d2 c | c3 c | z2 e e e e2 c | A3 |\nz3 e e e e2 c | e3 e | z2 d d d d2 c | B3 B |\nz2 c c c d2 c | B3 B | z2 e e e e2 c | A3 |\nz3 e3 e2 c | e3 e | z2 e e e e2 c | B3 B |\nz2 d2 c B3 | d d d d2 c | B3 B | z2 c c d c3 |\ne e e e2 c | A3 |]\n"
+}

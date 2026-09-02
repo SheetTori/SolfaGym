@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmd1u4rqt5juv7w6",
+  "title": "Rakes of Kildare",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmd1u4RQT5JUv7W6Lz5gy8WepjWYyfJrLQK8PQYGEeDgHE",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Am clef=treble\nG | E A A A G A | B c d e2 ^f | g3 e ^f e |\nd B A G ^F G | E A A A G A | B c d e2 ^f | g3 e d B |\nA3 A2 | G | E A A A G A | B c d e2 ^f |\ng3 e ^f e | d B A G ^F G | E A A A G A | B c d e2 ^f |\ng3 e d B | A3 A2 | a | a e a a e a |\na g a b2 a | g3 e g e | d B A G2 a | a e a a e a |\na g a b2 a | g3 e d B | A3 A2 | a |\na e a a e a | a g a b2 a | g3 e g e | d B G B A G |\nE A A A G A | B c d e2 ^f | g3 e d B | A3 A2 |\nG | E A A A G A | B c d e2 ^f | g3 e ^f e |\nd B A G ^F G | E A A A G A | B c d e2 ^f | g3 e d B |\nA3 A2 | a | a e a a e a | a g a b2 a |\ng3 e g e | d B A G2 a | a e a a e a | a g a b2 a |\ng3 e d B | A3 A2 | a | a e a a e a |\na g a b2 a | g3 e g e | d B G B A G | E A A A G A |\nB c d e2 ^f | g3 e d B | A3 A2 |]\n"
+}

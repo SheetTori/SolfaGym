@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmbdeq9gnxlrvp3g",
+  "title": "The miller of Glanmire",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmbdEQ9gnxLRvp3GtQEGp8mHQkxmrw3zX7auSgGtru9sVp",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 9,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:A clef=treble\n=G | E A A E A A | B3 =G2 A | B e e e d B |\nd e f =g a g | e a a a =g e | d B =G G2 A | B e e d B =G |\nB A A A2 | =G | E A A E A A | B3 =G2 A |\nB e e e d B | d e f =g a g | e a a a =g e | d B =G G2 A |\nB e e d B =G | B A A A2 | d | e a a a =g e |\nd B =G G2 A | B e e e d B | d e f =g a g | e a a a =g e |\nd B =G G2 A | B e e d B =G | B A A A2 | =G |\nE A A E A A | B3 =G2 A | B e e e d B | d e f =g a g |\ne a a a =g e | d B =G G2 A | B e e d B =G | B A A A2 |\nd | e a a a =g e | d B =G G2 A | B e e e d B |\nd e f =g a g | e a a a =g e | d B =G G2 A | B e e d B =G |\nB A A A2 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxfekqmgkuay4ms",
+  "title": "Napoleon med sin h\\aer",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXFeKQmgKUAy4mSGfqMcLp4FR8F7umEWaUtUCUVXfJHPo",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:G clef=treble\nD2 | G3 G G3 G B4 G3 G | A4 A3 A A4 z2 B2 | c3 c c3 c c4 d3 c |\nB4 B3 B B4 z2 D2 | G3 G G3 G B4 G3 F | E3 E E3 E c4 B3 A | G3 G G3 G F4 E3 F |\nG4 G3 G G4 |]\n"
+}

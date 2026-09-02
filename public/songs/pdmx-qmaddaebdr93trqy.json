@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmaddaebdr93trqy",
+  "title": "Thomas The Rhymer",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmadDAEBDR93trqYvewGJyH7KaRXj1pUFxxs2G6cs4dhk1",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/2\nL:1/8\nK:Dm clef=treble\nA2 d2 e2 | f4 e2 d2 c2 d2 | A4 A2 A2 d2 e2 | f4 e2 d2 f2 g2 |\na4 a2 A2 d2 e2 | f4 e2 d2 c2 d2 | A4 d3 e f2 e2 | d4 d2 c2 A =B c2 |\nd4 d2 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmu8bkxsbu3dwfat",
+  "title": "Bransle des pois",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmU8BKXsBu3DwfAT6XMEA8EmEyZh3gU2EGeyYA7C34CT6p",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Am clef=treble\nc4 c2 d2 | e4 e2 e2 | f2 e2 d2 d2 | e4 A4 |\nc3 B c2 d2 | e4 e2 e2 | f2 e2 d2 d2 | e4 A4 |\nA2 B2 G4 | A2 B2 c2 A2 | A2 B2 c2 d2 | c2 B2 A4 |\nA2 B2 G4 | A2 B2 c2 A2 | A2 B2 c2 d2 | c2 B2 A4 |]\n"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmtneek86ohfdbvq",
+  "title": "The Whiskey Man",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmTneek86oHFdbvqbScQ5ZTpK3RgDhyVFM3Zz9HrHVXFoF",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 9,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:A clef=treble\na2 | A4 A =G3 A4 A3 f | =g3 e d2 g2 | e3 d e f =g2 a4 a3 d |\ne f =g2 d3 B A4 A2 | a2 | A4 A =G3 A4 A3 f | =g3 e d2 g2 |\ne3 d e f =g2 a4 a3 d | e f =g2 d3 B A4 A2 | B2 | A a3 a4 e a3 a3 e |\n=g3 a g f e2 d3 B =G3 g | e3 d e f =g2 a4 a3 g | e f =g2 d3 B A4 A2 | B2 |\nA a3 a4 e a3 a3 e | =g3 a g f e2 d3 B =G3 g | e3 d e f =g2 a4 a3 g | e f =g2 d3 B A4 A2 |]\n"
+}

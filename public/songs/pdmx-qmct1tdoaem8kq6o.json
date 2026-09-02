@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmct1tdoaem8kq6o",
+  "title": "The Man in the Moon",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "Qmct1tdoaem8Kq6ocdWCGkj2hyM5jcUd4iSiGrut16GYHT",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:3/4\nL:1/8\nK:G clef=treble\nD2 | G3 A G2 | F2 E2 D2 | G2 A2 B2 |\nc4 B c | d4 c2 | B2 c2 A2 | G6 |\nG4 | D2 | G3 A G2 | F2 E2 D2 |\nG2 A2 B2 | c4 B c | d4 c2 | B2 c2 A2 |\nG6 | G4 | B c | d6 |\nd6 | c2 A2 B2 | c6 | B3 A B c |\nd2 B2 G2 | E2 F2 G2 | A2 F2 D2 | G3 A G2 |\nF2 E2 D2 | G2 A2 B2 | c4 B c | d4 c2 |\nB2 c2 A2 | G6 | G4 |]\n"
+}

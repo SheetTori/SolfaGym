@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmdoaqhzxnnvpq5d",
+  "title": "Triad in L Major",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmdoaQhZxNnVpQ5DdyLu4AX3psGAWwbYRN33rK6PtGsJhG",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nA | d c d A2 G F2 D D E D E2 E =c B c E2 D D2 A | d =c B c B A B A G F E D E2 E c B c E2 D D2 A | d c d A2 G F2 D D E D E2 E =c B c E2 D D2 A |\nd =c B c B A B A G F E D E2 E c B c E2 D D2 g | f2 d d c d f2 d d c d e2 =c c B c e2 c c B c | f2 d d c d f2 d d c d e2 e a2 g f2 d d2 g | f2 d d c d f2 d d c d e2 =c c B c e2 c c B c |\nf e f g f g a f a g f e f e d =c A G A d c d2 |]\n"
+}

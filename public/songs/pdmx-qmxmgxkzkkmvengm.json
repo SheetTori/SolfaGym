@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxmgxkzkkmvengm",
+  "title": "My Lord Cutts Delight",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXMGxKzkKMVeNgma2jxMVfD3V7tJ4e7dk7PT8YnZ3Qnza",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nd e | d2 G2 G2 A2 | B6 A B | c d c B A B A G |\nF G A2 A2 d e | d2 G2 G2 A2 | B6 A B | c B A G F G A F |\nG6 | d e | d2 G2 G2 A2 | B6 A B |\nc d c B A B A G | F G A2 A2 d e | d2 G2 G2 A2 | B6 A B |\nc B A G F G A F | G6 | A B | A2 D2 D2 E2 |\nF6 A B | A2 D2 G2 A2 | B6 B c | B2 B2 e2 B2 |\nc6 c B | A B A G F G A F | G2 E2 E2 B c | B2 B2 e2 B2 |\nc6 B c | A2 A2 d2 A2 | B6 d e | d2 d2 g2 d2 |\ne d c B A2 d2 | e d c B c B A G | G6 |]\n"
+}

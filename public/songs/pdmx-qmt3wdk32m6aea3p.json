@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmt3wdk32m6aea3p",
+  "title": "Cameronian Rant",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmT3wdK32M6AEA3pASNsmEbpz6vWeySrFtLhe8bE4FKx4y",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 3,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "minor",
+  "tonicMidi": 74,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:Dm clef=treble\nf2 | c2 F2 F F F2 c2 F2 A2 f2 | c2 F2 F F F2 c4 A2 c2 | =B2 G2 G G G2 B2 G2 A2 G2 |\n=B2 G2 G G G2 B4 A2 | f2 | c2 F2 F F F2 c2 F2 A2 f2 | c2 F2 F F F2 c4 A2 c2 |\n=B2 G2 G G G2 B2 G2 A2 G2 | =B2 G2 G G G2 B4 A2 | c2 | F2 f2 f2 g2 f2 d2 c2 A2 |\nF2 f2 f2 g2 f2 d2 c2 A2 | G2 g2 g2 a2 g2 f2 e2 d2 | G2 g2 g2 a2 g2 f2 e2 d2 | F2 f2 f2 g2 f2 d2 c2 A2 |\nF2 f2 f2 g2 f2 d2 c2 A2 | e f g2 d2 f2 e f g2 d2 f2 | e f g2 d2 f2 e4 d2 |]\n"
+}

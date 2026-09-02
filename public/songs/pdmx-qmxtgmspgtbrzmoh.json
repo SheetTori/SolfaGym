@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmxtgmspgtbrzmoh",
+  "title": "The Smith's a Gallant Fireman",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmXtGMspgtbrZMohXKN44nozV6iYYiW55oUVYSoH5N2mdU",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 9,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 69,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:A clef=treble\nD4 D3 F A A3 A3 F | A3 B d3 A F4 E3 D | E4 E3 =G B B3 B3 A | d3 f e3 d B4 B d3 |\nD4 D3 F A A3 A3 F | A3 B d3 A F4 E3 D | =G3 B G B3 F3 A F A3 | E3 F =G3 A B4 A4 |\nd3 e f3 e d d3 d3 A | B3 A d3 A F4 E3 D | e4 e3 f e4 e3 f | =g3 f e3 d B4 A4 |\nd3 e f3 e d4 d3 A | B3 A d3 A F4 E3 D | =G3 B G B3 F3 A F A3 | E3 F =G3 A B4 A4 |]\n"
+}

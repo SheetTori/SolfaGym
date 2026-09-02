@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmeegmdyubc6btmd",
+  "title": "Pas de quatre de Luxey",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmeEGMdYUBc6bTmdi3eK9xy3Fk9Jiqn9PL49veJZ7Zb1vD",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 72,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/16\nK:C clef=treble\ne4 d4 c4 G4 | c2 d2 e2 g2 f e d2 e2 c2 | e4 d4 c4 G4 | c2 d2 e2 g2 f e d2 c4 |\nc2 d2 e2 d2 c2 d2 e4 | d2 e2 f2 e2 f2 g2 e2 d2 | c2 d2 e2 d2 c2 d2 e4 | d2 e2 f2 e2 f2 g2 c4 |]\n"
+}

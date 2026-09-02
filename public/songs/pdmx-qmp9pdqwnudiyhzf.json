@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmp9pdqwnudiyhzf",
+  "title": "Aunt Hessy's White Horse",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmP9PdQWnuDiyhZfZ5BrGxWSAxyp8FoezUdiTyHPcWQkGP",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 67,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:4/4\nL:1/8\nK:G clef=treble\nD2 | G2 A2 B2 c2 | d d d2 d2 B c | d d d2 d2 B c |\nd d d2 d2 D2 | G2 A2 B2 c2 | d d d2 d2 B c | d d2 d c B A2 |\nG4 G2 | D2 | G2 A2 B2 c2 | d d d2 d2 B c |\nd d d2 d2 B c | d d d2 d2 D2 | G2 A2 B2 c2 | d d d2 d2 B c |\nd d2 d c B A2 | G4 G2 | z2 g g2 f f2 =f2 | e4 |\nz4 g g2 g f2 e2 | d4 | z4 d d2 d e2 =f2 | f4 |\nz4 d d2 d c B A2 | G4 | z4 g g2 f f2 =f2 | e4 |\nz4 g g2 g f2 e2 | d4 | z4 d d2 d e2 =f2 | f4 |\nz4 d d2 d c B A2 | G4 |]\n"
+}
