@@ -1,8 +1,16 @@
-import { beatsPerBar, countInBeatsFor, noteEvents, resolveChordBeats, type ParsedSong } from './abc'
+import {
+  beatsPerBar,
+  countInBeatsFor,
+  resolveChordBeats,
+  tiedDurationInTraversal,
+  traversalOrder,
+  type ParsedSong,
+} from './abc'
 import { chordMidi, tonicChordMidi } from './chords'
 import type { ChordEvent } from './schema'
 import type { Key, Mode } from './solfa'
 import { toMidi } from './pitch'
+import { transposerBetween } from './transpose'
 
 /**
  * 再生の「いつ・どの音を」を決める部分。Tone.js に触れない純粋関数なので、
@@ -50,17 +58,35 @@ export function buildPlaybackPlan(input: PlanInput): PlaybackPlan {
   const countIn = countInBeatsFor(song)
   const tonicMidi = toMidi(targetKey.tonic)
 
-  const melody: PlannedNote[] = noteEvents(song, originalKey, targetKey).map((n) => ({
-    index: n.index,
-    midi: n.midi,
-    startBeat: n.timeBeats + countIn,
-    durationBeats: n.durationBeats,
-  }))
+  // 繰り返しは譜面上では展開せず、走査の順序としてだけ開く
+  const traversal = traversalOrder(song)
+  const move = transposerBetween(originalKey.tonic, targetKey.tonic)
+
+  const melody: PlannedNote[] = []
+  let beat = countIn
+
+  for (let t = 0; t < traversal.length; t++) {
+    const el = song.elements[traversal[t]]
+    if (el.kind === 'bar') continue
+
+    // タイの継続は時間だけ進めて、音としては前の音符に含める
+    if (el.kind === 'note' && el.soundingIndex !== null) {
+      melody.push({
+        // 譜面上の通し番号のまま。繰り返すと同じ index が複数回現れるが、
+        // カーソルは「その譜面上の音符を光らせる」だけなので変更は要らない
+        index: el.soundingIndex,
+        midi: toMidi(move(el.pitch!)),
+        startBeat: beat,
+        durationBeats: tiedDurationInTraversal(song, traversal, t) * 4,
+      })
+    }
+    beat += el.duration * 4
+  }
 
   const musicEnd = melody.reduce((max, n) => Math.max(max, n.startBeat + n.durationBeats), countIn)
 
   const accompaniment = chords.length
-    ? planChords(song, chords, tonicMidi, mode, countIn, musicEnd)
+    ? planChords(song, chords, tonicMidi, mode, countIn, musicEnd, traversal)
     : // 和音を持たない曲は主音のドローンで支える
       [
         {
@@ -80,8 +106,9 @@ function planChords(
   mode: Mode,
   countIn: number,
   musicEnd: number,
+  traversal: readonly number[],
 ): PlannedChord[] {
-  const resolved = resolveChordBeats(song, chords)
+  const resolved = resolveChordBeats(song, chords, traversal)
     .map((c) => ({ ...c, startBeat: c.timeBeats + countIn }))
     .sort((a, b) => a.startBeat - b.startBeat)
 

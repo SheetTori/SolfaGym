@@ -223,16 +223,89 @@ export function soundingToElementIndex(song: ParsedSong): number[] {
   return out
 }
 
-/**
- * 繰り返し記号を含むか。
- *
- * 現状の再生は要素列を一度なぞるだけで繰り返しを展開しないため、
- * 繰り返しがあると「譜面は2回、音は1回」とずれる。データ検証で弾く。
- */
+/** 繰り返し記号（`|:` `:|` `::`）を含むか */
 export function hasRepeats(song: ParsedSong): boolean {
-  return song.elements.some(
-    (e) => e.kind === 'bar' && (e.type.includes('repeat') || e.startEnding !== undefined),
-  )
+  return song.elements.some((e) => e.kind === 'bar' && e.type.includes('repeat'))
+}
+
+/**
+ * ヴォルタ（1番括弧・2番括弧）を含むか。
+ *
+ * 単純な繰り返しは走査で扱えるが、ヴォルタは周回数による分岐が要る。
+ * 今は未対応なので、含む曲はデータ検証で弾く。
+ */
+export function hasVoltas(song: ParsedSong): boolean {
+  return song.elements.some((e) => e.kind === 'bar' && e.startEnding !== undefined)
+}
+
+/**
+ * 再生時にたどる要素インデックスの列。
+ *
+ * 繰り返しを**譜面上は展開せず**、走査の順序としてだけ開く。こうすると
+ * 譜面は実際の楽譜どおり短いまま、再生とカーソルは繰り返しに追従する。
+ *
+ * 規則:
+ *  - `|:` はそこから先を「繰り返す区間の先頭」にする
+ *  - `:|` は初回のみ区間の先頭へ戻る。2回目は素通りする
+ *  - `::` は「戻る」と「新しい区間の先頭」を兼ねる
+ *  - `|:` が無いまま `:|` に出会ったら曲頭へ戻る（記譜の慣習どおり）
+ */
+export function traversalOrder(song: ParsedSong): number[] {
+  const out: number[] = []
+  const consumed = new Set<number>()
+  let sectionStart = 0
+  let i = 0
+  // 壊れた繰り返し構造で無限ループしないための保険
+  const limit = song.elements.length * 8 + 64
+
+  while (i < song.elements.length) {
+    if (out.length > limit) throw new Error('繰り返しの構造を解決できない')
+    out.push(i)
+    const el = song.elements[i]
+
+    if (el.kind === 'bar') {
+      if (el.type === 'bar_left_repeat') {
+        sectionStart = i + 1
+      } else if (el.type === 'bar_right_repeat' || el.type === 'bar_dbl_repeat') {
+        if (!consumed.has(i)) {
+          consumed.add(i)
+          i = sectionStart
+          continue
+        }
+        // 2周目。`::` はここから次の区間が始まる
+        if (el.type === 'bar_dbl_repeat') sectionStart = i + 1
+      }
+    }
+    i++
+  }
+  return out
+}
+
+/**
+ * 走査上の位置 t から始まるタイの合計長（全音符単位）。
+ *
+ * 繰り返しをまたぐタイは想定しないが、走査の順序で見ているので
+ * 同じ音符が2周目に現れても正しく数えられる。
+ */
+export function tiedDurationInTraversal(
+  song: ParsedSong,
+  traversal: readonly number[],
+  t: number,
+): number {
+  let total = 0
+  for (let k = t; k < traversal.length; k++) {
+    const e = song.elements[traversal[k]]
+    if (e.kind === 'bar') continue
+    if (k === t) {
+      total += e.duration
+      if (!e.startTie) break
+      continue
+    }
+    if (e.kind !== 'note') break
+    total += e.duration
+    if (!e.startTie) break
+  }
+  return total
 }
 
 export interface SolfaAnalysis {
@@ -479,48 +552,95 @@ export function countInBeatsFor(song: ParsedSong): number {
   return perBar + ((perBar - pickupBeats(song)) % perBar)
 }
 
-/**
- * 小節番号 → その小節の開始位置（拍）。伴奏和音を置く位置の算出に使う。
- * 弱起の不完全小節は 0 番、最初の完全小節が 1 番。
- */
-export function barStartBeats(song: ParsedSong): Map<number, number> {
-  const map = new Map<number, number>()
-  let barNumber = pickupBeats(song) > 0 ? 0 : 1
-  let beat = 0
-  let seenNote = false
-  map.set(barNumber, 0)
-
-  for (const el of song.elements) {
-    if (el.kind === 'bar') {
-      // 曲頭の反復記号など、音符より前の小節線は数えない
-      if (!seenNote) continue
-      barNumber++
-      map.set(barNumber, beat)
-      continue
-    }
-    seenNote = true
-    beat += el.duration * 4
-  }
-  // 曲末の小節線が作る空の小節は捨てる
-  if (map.get(barNumber) === beat) map.delete(barNumber)
-  return map
+export interface BarOccurrence {
+  /** 譜面上の小節番号。弱起の不完全小節は 0 番、最初の完全小節が 1 番 */
+  bar: number
+  /** 再生上の開始位置（拍）。繰り返しがあれば同じ小節が複数回現れる */
+  startBeat: number
 }
 
-/** 伴奏和音の位置（拍）を解決する。範囲外の小節を指していたら例外 */
+/**
+ * 走査順に見た小節の出現。伴奏和音を置く位置の算出に使う。
+ *
+ * 繰り返しがあると **同じ譜面上の小節が複数回鳴る**ので、Map ではなく
+ * 出現の配列を返す。和音は譜面上の小節に紐づくので、その全出現で鳴る。
+ */
+/**
+ * 各要素が譜面上の何小節目に属するか、およびその小節の先頭かどうか。
+ *
+ * **小節番号は譜面上の位置で決まる**。走査の途中で数えると、繰り返しの
+ * 2周目で番号が増え続けてしまい、譜面上の小節に紐づけた和音と対応しなくなる。
+ */
+function barLayout(song: ParsedSong): { barOf: number[]; isFirstOfBar: boolean[] } {
+  const barOf = new Array<number>(song.elements.length).fill(0)
+  const isFirstOfBar = new Array<boolean>(song.elements.length).fill(false)
+  let barNumber = pickupBeats(song) > 0 ? 0 : 1
+  let seenNote = false
+  let expectingFirst = true
+
+  for (let i = 0; i < song.elements.length; i++) {
+    const el = song.elements[i]
+    if (el.kind === 'bar') {
+      barOf[i] = barNumber
+      // 曲頭の反復記号など、音符より前の小節線は数えない
+      if (seenNote) {
+        barNumber++
+        expectingFirst = true
+      }
+      continue
+    }
+    barOf[i] = barNumber
+    if (expectingFirst) {
+      isFirstOfBar[i] = true
+      expectingFirst = false
+    }
+    seenNote = true
+  }
+  return { barOf, isFirstOfBar }
+}
+
+export function barOccurrences(song: ParsedSong, traversal?: readonly number[]): BarOccurrence[] {
+  const order = traversal ?? traversalOrder(song)
+  const { barOf, isFirstOfBar } = barLayout(song)
+  const occurrences: BarOccurrence[] = []
+  let beat = 0
+
+  for (const index of order) {
+    const el = song.elements[index]
+    // 小節線そのものは時間を進めない
+    if (el.kind === 'bar') continue
+    // 「その小節の最初の音」に来るたびに1回の出現とする。
+    // 繰り返しで同じ小節に戻ったときも、ここで正しく新しい出現になる
+    if (isFirstOfBar[index]) occurrences.push({ bar: barOf[index], startBeat: beat })
+    beat += el.duration * 4
+  }
+  return occurrences
+}
+
+/**
+ * 伴奏和音の位置（拍）を解決する。
+ * 繰り返しがあれば、その小節が鳴るたびに和音も鳴る。
+ */
 export function resolveChordBeats(
   song: ParsedSong,
   chords: ReadonlyArray<{ bar: number; beat: number; degree: string }>,
+  traversal?: readonly number[],
 ): Array<{ timeBeats: number; degree: string }> {
-  const starts = barStartBeats(song)
+  const occurrences = barOccurrences(song, traversal)
   const perBar = beatsPerBar(song)
-  return chords.map((c) => {
-    const start = starts.get(c.bar)
-    if (start === undefined) {
+  const knownBars = new Set(occurrences.map((o) => o.bar))
+
+  const out: Array<{ timeBeats: number; degree: string }> = []
+  for (const c of chords) {
+    if (!knownBars.has(c.bar)) {
       throw new Error(`和音が存在しない小節を指している: bar=${c.bar}`)
     }
     if (c.beat >= perBar) {
       throw new Error(`和音の拍が小節をはみ出している: bar=${c.bar} beat=${c.beat}`)
     }
-    return { timeBeats: start + c.beat, degree: c.degree }
-  })
+    for (const o of occurrences) {
+      if (o.bar === c.bar) out.push({ timeBeats: o.startBeat + c.beat, degree: c.degree })
+    }
+  }
+  return out.sort((a, b) => a.timeBeats - b.timeBeats)
 }

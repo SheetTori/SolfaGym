@@ -1,6 +1,6 @@
 import {
   analyzeSolfa,
-  hasRepeats,
+  hasVoltas,
   parseAbc,
   resolveChordBeats,
   type ParsedSong,
@@ -38,9 +38,9 @@ export function analyzeSong(meta: Song): AnalyzedSong {
   const distinct: string[] = []
   for (const s of syllables) if (!distinct.includes(s)) distinct.push(s)
 
-  // 再生は繰り返しを展開しないので、譜面と音がずれる前にここで弾く
-  if (hasRepeats(parsed)) {
-    throw new Error('繰り返し記号は未対応。小節を書き下すこと')
+  // 単純な繰り返しは走査で扱えるが、ヴォルタは周回数による分岐が要る
+  if (hasVoltas(parsed)) {
+    throw new Error('ヴォルタ（1番/2番括弧）は未対応')
   }
 
   // 和音の位置が曲の中に収まっているかをここで確かめる
