@@ -1,0 +1,52 @@
+{
+  "id": "pattern-do-mi-so-la-2",
+  "title": "練習 do-mi-so-la ②",
+  "source": "練習パターン（本アプリ作成・CC0）",
+  "mode": "major",
+  "tonicMidi": 60,
+  "baseBpm": 92,
+  "unit": "kodaly",
+  "chords": [
+    {
+      "bar": 1,
+      "beat": 0,
+      "degree": "I"
+    },
+    {
+      "bar": 2,
+      "beat": 0,
+      "degree": "I"
+    },
+    {
+      "bar": 3,
+      "beat": 0,
+      "degree": "vi"
+    },
+    {
+      "bar": 4,
+      "beat": 0,
+      "degree": "I"
+    },
+    {
+      "bar": 5,
+      "beat": 0,
+      "degree": "I"
+    },
+    {
+      "bar": 6,
+      "beat": 0,
+      "degree": "I"
+    },
+    {
+      "bar": 7,
+      "beat": 0,
+      "degree": "I"
+    },
+    {
+      "bar": 8,
+      "beat": 0,
+      "degree": "I"
+    }
+  ],
+  "abc": "X:1\nT:練習 do-mi-so-la ②\nM:2/4\nL:1/8\nK:C clef=treble\nC C E E | G2 G2 | A A G G | E4 |\nG G E E | C C E E | G2 E2 | C4 |]\n"
+}

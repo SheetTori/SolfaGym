@@ -12,7 +12,8 @@
     "lint": "oxlint",
     "format": "prettier --write .",
     "build:songs": "tsx scripts/build-songs.ts",
-    "import:convert": "tsx scripts/convert-import.ts"
+    "import:convert": "tsx scripts/convert-import.ts",
+    "make:patterns": "tsx scripts/make-patterns.ts"
   },
   "dependencies": {
     "abcjs": "^6.7.0",

@@ -1,6 +1,45 @@
 {
-  "generatedAt": "2026-09-02T10:13:23.901Z",
+  "generatedAt": "2026-09-02T10:18:00.126Z",
   "songs": [
+    {
+      "id": "pattern-so-mi-1",
+      "title": "練習 so-mi ①",
+      "source": "練習パターン（本アプリ作成・CC0）",
+      "mode": "major",
+      "unit": "kodaly",
+      "level": 1,
+      "hasChords": true,
+      "syllables": [
+        "so",
+        "mi"
+      ]
+    },
+    {
+      "id": "pattern-so-mi-2",
+      "title": "練習 so-mi ②",
+      "source": "練習パターン（本アプリ作成・CC0）",
+      "mode": "major",
+      "unit": "kodaly",
+      "level": 1,
+      "hasChords": true,
+      "syllables": [
+        "so",
+        "mi"
+      ]
+    },
+    {
+      "id": "pattern-so-mi-3",
+      "title": "練習 so-mi ③",
+      "source": "練習パターン（本アプリ作成・CC0）",
+      "mode": "major",
+      "unit": "kodaly",
+      "level": 1,
+      "hasChords": true,
+      "syllables": [
+        "so",
+        "mi"
+      ]
+    },
     {
       "id": "rain-rain-go-away",
       "title": "レイン・レイン・ゴー・アウェイ",
@@ -13,6 +52,93 @@
       "syllables": [
         "so",
         "mi"
+      ]
+    },
+    {
+      "id": "pattern-so-mi-la-1",
+      "title": "練習 so-mi-la ①",
+      "source": "練習パターン（本アプリ作成・CC0）",
+      "mode": "major",
+      "unit": "kodaly",
+      "level": 2,
+      "hasChords": true,
+      "syllables": [
+        "so",
+        "la",
+        "mi"
+      ]
+    },
+    {
+      "id": "pattern-so-mi-la-2",
+      "title": "練習 so-mi-la ②",
+      "source": "練習パターン（本アプリ作成・CC0）",
+      "mode": "major",
+      "unit": "kodaly",
+      "level": 2,
+      "hasChords": true,
+      "syllables": [
+        "la",
+        "so",
+        "mi"
+      ]
+    },
+    {
+      "id": "pattern-so-mi-la-3",
+      "title": "練習 so-mi-la ③",
+      "source": "練習パターン（本アプリ作成・CC0）",
+      "mode": "major",
+      "unit": "kodaly",
+      "level": 2,
+      "hasChords": true,
+      "syllables": [
+        "so",
+        "la",
+        "mi"
+      ]
+    },
+    {
+      "id": "pattern-do-mi-so-la-1",
+      "title": "練習 do-mi-so-la ①",
+      "source": "練習パターン（本アプリ作成・CC0）",
+      "mode": "major",
+      "unit": "kodaly",
+      "level": 3,
+      "hasChords": true,
+      "syllables": [
+        "do",
+        "mi",
+        "so",
+        "la"
+      ]
+    },
+    {
+      "id": "pattern-do-mi-so-la-2",
+      "title": "練習 do-mi-so-la ②",
+      "source": "練習パターン（本アプリ作成・CC0）",
+      "mode": "major",
+      "unit": "kodaly",
+      "level": 3,
+      "hasChords": true,
+      "syllables": [
+        "do",
+        "mi",
+        "so",
+        "la"
+      ]
+    },
+    {
+      "id": "pattern-do-mi-so-la-3",
+      "title": "練習 do-mi-so-la ③",
+      "source": "練習パターン（本アプリ作成・CC0）",
+      "mode": "major",
+      "unit": "kodaly",
+      "level": 3,
+      "hasChords": true,
+      "syllables": [
+        "do",
+        "mi",
+        "so",
+        "la"
       ]
     },
     {

@@ -1,0 +1,52 @@
+{
+  "id": "pattern-so-mi-1",
+  "title": "練習 so-mi ①",
+  "source": "練習パターン（本アプリ作成・CC0）",
+  "mode": "major",
+  "tonicMidi": 60,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [
+    {
+      "bar": 1,
+      "beat": 0,
+      "degree": "I"
+    },
+    {
+      "bar": 2,
+      "beat": 0,
+      "degree": "I"
+    },
+    {
+      "bar": 3,
+      "beat": 0,
+      "degree": "I"
+    },
+    {
+      "bar": 4,
+      "beat": 0,
+      "degree": "I"
+    },
+    {
+      "bar": 5,
+      "beat": 0,
+      "degree": "I"
+    },
+    {
+      "bar": 6,
+      "beat": 0,
+      "degree": "I"
+    },
+    {
+      "bar": 7,
+      "beat": 0,
+      "degree": "I"
+    },
+    {
+      "bar": 8,
+      "beat": 0,
+      "degree": "I"
+    }
+  ],
+  "abc": "X:1\nT:練習 so-mi ①\nM:2/4\nL:1/8\nK:C clef=treble\nG2 G2 | E2 G2 | G2 E2 | G4 |\nG2 G2 | E2 G2 | G2 E2 | E4 |]\n"
+}
