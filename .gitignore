@@ -11,3 +11,6 @@ scripts/import/*.xml
 scripts/import/*.ly
 scripts/import/mutopia_candidates.tsv
 scripts/import/mutopia_report.tsv
+scripts/import/chordtest.musicxml
+scripts/import/*.mxl
+scripts/import/pdmx_report.tsv

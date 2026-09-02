@@ -20,7 +20,7 @@ import tempfile
 from dataclasses import dataclass, asdict, field
 from pathlib import Path
 
-from music21 import bar, chord, converter, key, meter, note, stream
+from music21 import bar, chord, converter, harmony, key, meter, note, pitch, roman, stream
 
 STEP_INDEX = {name: i for i, name in enumerate("CDEFGAB")}
 
@@ -126,6 +126,63 @@ def pick_melody_part(score: stream.Score) -> tuple[stream.Part, bool]:
     return part, False
 
 
+# --- コード記号 -------------------------------------------------------------
+
+
+def extract_chords(
+    part: stream.Part, tonic_midi: int, mode: str, pickup_bars: int
+) -> list[dict]:
+    """MusicXML の <harmony> を度数表記に直す。
+
+    音名のまま持つと移調が効かないので、必ずローマ数字にする。
+    転回形は落として基本形の三和音・七の和音にまとめる——伴奏は
+    和声の支えとして鳴らすだけで、低音の動きまでは要らない。
+    """
+    symbols = list(part.recurse().getElementsByClass(harmony.ChordSymbol))
+    if not symbols:
+        return []
+
+    tonic = pitch.Pitch(midi=tonic_midi)
+    home = key.Key(tonic.name, mode)
+
+    out: list[dict] = []
+    seen: set[tuple[int, float]] = set()
+    for cs in symbols:
+        try:
+            rn = roman.romanNumeralFromChord(cs, home)
+        except Exception:
+            continue
+
+        figure = rn.romanNumeralAlone
+        if not figure:
+            continue
+        if rn.quality == "diminished":
+            figure += "°"
+        elif rn.quality == "augmented":
+            figure += "+"
+        if rn.seventh is not None:
+            figure += "7"
+
+        measure_number = cs.measureNumber
+        if measure_number is None:
+            continue
+        # 曲データの小節番号は「弱起が 0、最初の完全小節が 1」。
+        # music21 は弱起も含めて 1 から数えるので、弱起の分だけ引く
+        bar = measure_number - pickup_bars
+        beat = float(cs.beat) - 1 if cs.beat is not None else 0.0
+        if bar < 0 or beat < 0:
+            continue
+
+        # 同じ位置に複数の記号があれば最初のものだけ採る
+        at = (bar, beat)
+        if at in seen:
+            continue
+        seen.add(at)
+        out.append({"bar": bar, "beat": beat, "degree": figure})
+
+    return out
+
+
 # --- 要素の取り出し ---------------------------------------------------------
 
 
@@ -195,6 +252,12 @@ def extract(path: Path, source: str, license_name: str, source_url: str | None) 
             elements.append({"kind": "bar", "type": "repeat-start"})
 
         for el in measure.notesAndRests:
+            # ChordSymbol は music21 では chord.Chord のサブクラス。
+            # 鳴る音ではなく上に書かれたコード記号なので、先に外す。
+            # これを外さないと、リードシート（＝コード付きの単旋律）が
+            # 丸ごと「和音を含む」として弾かれる
+            if isinstance(el, harmony.Harmony):
+                continue
             if isinstance(el, chord.Chord):
                 raise Unsupported("和音を含む（単旋律のみ対応）")
             if isinstance(el, note.Rest):
@@ -234,6 +297,12 @@ def extract(path: Path, source: str, license_name: str, source_url: str | None) 
 
 
     guess = guess_key(sounding, score)
+
+    # 弱起なら最初の小節が 0 番。music21 の小節番号を曲データの規約に合わせる
+    first = measures[0]
+    pickup_bars = 1 if first.duration.quarterLength < ts.barDuration.quarterLength else 0
+    chords = extract_chords(part, guess.tonic_midi, guess.mode, pickup_bars)
+
     title = (score.metadata.title if score.metadata else None) or path.stem
 
     return Extracted(
@@ -244,7 +313,7 @@ def extract(path: Path, source: str, license_name: str, source_url: str | None) 
         mode=guess.mode,
         baseBpm=96,
         elements=elements,
-        chords=[],
+        chords=chords,
         provenance={
             "source": source,
             "sourceId": path.stem,
@@ -255,7 +324,7 @@ def extract(path: Path, source: str, license_name: str, source_url: str | None) 
             "keyDecidedBy": guess.decided_by,
             "keyAgreesWithAnalysis": guess.agrees_with_analysis,
             "skylineUsed": skyline_used,
-            "chordsFromSource": False,
+            "chordsFromSource": bool(chords),
         },
     )
 
