@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
-import { Link, useParams } from 'react-router'
+import { Link, useParams, useSearchParams } from 'react-router'
 import { renderAbcSource, soundingToElementIndex } from '../core/abc'
 import { buildPlaybackPlan } from '../core/playback'
 import { pitchName, toMidi } from '../core/pitch'
@@ -35,9 +35,11 @@ interface StepDef {
   variant: 'rhythm' | 'pitch'
   melody: boolean
   accompaniment: boolean
+  /** 伴奏だけを頼りに歌うステップ。和音を持たない曲では出さない */
+  accompanimentOnly?: boolean
 }
 
-const STEPS: StepDef[] = [
+const ALL_STEPS: StepDef[] = [
   {
     title: '調を聴く',
     hint: 'do-mi-so が1音ずつ鳴り、1拍おいて三音同時に響く（短調は la-do-mi）。この高さと響きを調のセンターとして掴む。',
@@ -65,6 +67,7 @@ const STEPS: StepDef[] = [
     variant: 'rhythm',
     melody: false,
     accompaniment: true,
+    accompanimentOnly: true,
   },
   {
     title: '楽譜を見て歌う',
@@ -75,8 +78,21 @@ const STEPS: StepDef[] = [
   },
 ]
 
+/**
+ * ステップは曲ごとに組み立てる。
+ *
+ * コード進行を持たない曲では「伴奏で歌う」を出さない。根拠のないドローンを
+ * 鳴らすより、そのステップ自体を畳むほうが筋が通る（5ステップが4ステップになる）。
+ */
+function buildSteps(hasChords: boolean): StepDef[] {
+  return hasChords ? ALL_STEPS : ALL_STEPS.filter((s) => !s.accompanimentOnly)
+}
+
 export function Practice() {
   const { id } = useParams<{ id: string }>()
+  // ランダム出題で開いたときは、曲名から旋律が割れないよう Step 4 まで伏せる
+  const [searchParams] = useSearchParams()
+  const blind = searchParams.get('blind') === '1'
   const { store, update, vocalRange } = useStore()
 
   const [analyzed, setAnalyzed] = useState<AnalyzedSong | null>(null)
@@ -143,6 +159,12 @@ export function Practice() {
     }
   }, [])
 
+  // コード進行を持たない曲では「伴奏で歌う」を出さない
+  const steps = useMemo(
+    () => buildSteps((analyzed?.meta.chords.length ?? 0) > 0),
+    [analyzed],
+  )
+
   const derived = useMemo(() => {
     if (!analyzed || !choice) return null
     const targetKey: Key = choice.key
@@ -188,7 +210,7 @@ export function Practice() {
 
   const play = useCallback(async () => {
     if (!analyzed || !derived) return
-    const def = STEPS[step]
+    const def = steps[step]
     setPlaying(true)
     setError(null)
 
@@ -225,7 +247,7 @@ export function Practice() {
       setError(`音を鳴らせませんでした: ${(e as Error).message}`)
       setPlaying(false)
     }
-  }, [analyzed, derived, step, tempoRatio, store.settings.metronome])
+  }, [analyzed, derived, step, steps, tempoRatio, store.settings.metronome])
 
   const changeStep = (next: number) => {
     stop()
@@ -246,9 +268,10 @@ export function Practice() {
     return <p className="p-4 text-slate-500">読み込み中…</p>
   }
 
-  const def = STEPS[step]
+  const def = steps[step]
   const progress = progressOf(store, analyzed.meta.id)
-  const showKey = step === STEPS.length - 1
+  // キーと曲名は最後のステップで初めて明かす
+  const revealed = step === steps.length - 1
 
   return (
     <div className="mx-auto max-w-3xl p-4 pb-24">
@@ -256,12 +279,30 @@ export function Practice() {
         <Link to="/" className="text-sm text-sky-600 hover:underline dark:text-sky-400">
           ← 曲一覧
         </Link>
-        <h1 className="mt-1 text-xl font-semibold">{analyzed.meta.title}</h1>
-        <p className="text-xs text-slate-500">{analyzed.meta.source}</p>
+        {blind && !revealed ? (
+          <>
+            <h1 className="mt-1 text-xl font-semibold text-slate-400 dark:text-slate-500">
+              Lv{analyzed.level} の曲
+            </h1>
+            <p className="text-xs text-slate-500">
+              曲名は最後のステップで明かされます（曲名から旋律が分かってしまうため）
+            </p>
+          </>
+        ) : (
+          <>
+            <h1 className="mt-1 text-xl font-semibold">{analyzed.meta.title}</h1>
+            <p className="text-xs text-slate-500">
+              {analyzed.meta.titleEn && analyzed.meta.titleEn !== analyzed.meta.title
+                ? `${analyzed.meta.titleEn} · `
+                : ''}
+              {analyzed.meta.source}
+            </p>
+          </>
+        )}
       </header>
 
       <nav className="mb-4 flex flex-wrap gap-1">
-        {STEPS.map((s, i) => (
+        {steps.map((s, i) => (
           <button
             key={s.title}
             type="button"
@@ -348,12 +389,12 @@ export function Practice() {
       </div>
 
       <p className="mb-6 text-xs text-slate-400">
-        {showKey
+        {revealed
           ? `キー: ${analyzed.meta.mode === 'major' ? 'do' : 'la'} = ${pitchName(choice.key.tonic).replace(/-?\d+$/, '')}`
           : 'キーは曲を開くたびにランダムに変わります（Step 4 で判明）'}
       </p>
 
-      {step === STEPS.length - 1 && (
+      {revealed && (
         <button
           type="button"
           onClick={() => update((s) => markCompleted(s, analyzed.meta.id))}

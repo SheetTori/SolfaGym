@@ -1,5 +1,6 @@
 import { Suspense, lazy } from 'react'
 import { HashRouter, Link, Route, Routes } from 'react-router'
+import { Credits } from './screens/Credits'
 import { Settings } from './screens/Settings'
 import { SongList } from './screens/SongList'
 import { StoreProvider } from './store'
@@ -22,12 +23,14 @@ export function App() {
               <Link to="/" className="font-semibold tracking-tight">
                 SolfaGym
               </Link>
-              <Link
-                to="/settings"
-                className="text-sm text-slate-500 hover:text-sky-600 dark:hover:text-sky-400"
-              >
-                設定
-              </Link>
+              <nav className="flex gap-4 text-sm text-slate-500">
+                <Link to="/credits" className="hover:text-sky-600 dark:hover:text-sky-400">
+                  出典
+                </Link>
+                <Link to="/settings" className="hover:text-sky-600 dark:hover:text-sky-400">
+                  設定
+                </Link>
+              </nav>
             </div>
           </header>
           <Suspense fallback={<p className="p-4 text-slate-500">読み込み中…</p>}>
@@ -35,6 +38,7 @@ export function App() {
               <Route path="/" element={<SongList />} />
               <Route path="/practice/:id" element={<Practice />} />
               <Route path="/settings" element={<Settings />} />
+              <Route path="/credits" element={<Credits />} />
               <Route path="*" element={<SongList />} />
             </Routes>
           </Suspense>
