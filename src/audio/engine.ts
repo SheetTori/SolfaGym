@@ -97,7 +97,10 @@ class AudioEngine {
   private readonly tone: Tone
   private readonly melody: ToneNS.PolySynth
   private readonly accompaniment: ToneNS.PolySynth
-  private readonly click: ToneNS.MembraneSynth
+  /** 小節頭 */
+  private readonly clickAccent: ToneNS.NoiseSynth
+  /** それ以外の拍 */
+  private readonly clickBeat: ToneNS.NoiseSynth
   private current: InternalPlayback | null = null
 
   constructor(tone: Tone) {
@@ -115,10 +118,29 @@ class AudioEngine {
     }).toDestination()
     this.accompaniment.volume.value = -18
 
-    this.click = new tone.MembraneSynth({
-      envelope: { attack: 0.001, decay: 0.12, sustain: 0, release: 0.02 },
+    // メトロノームは機械式のような「カチッ」にする。
+    // 音程のあるシンセ（MembraneSynth 等）で高い音を鳴らすと、倍音が
+    // 揃っているぶん耳に刺さる。白色ノイズを狭い帯域に絞って一瞬で
+    // 減衰させると、木を叩いたような角の取れた打点になる。
+    this.clickAccent = this.createClick(2000, -9)
+    this.clickBeat = this.createClick(1150, -15)
+  }
+
+  /** 帯域を絞ったノイズの一撃。周波数が高いほど硬い音になる */
+  private createClick(frequencyHz: number, volumeDb: number): ToneNS.NoiseSynth {
+    // バンドパスなので低域の膨らみも高域の刺さりも同時に落ちる
+    const filter = new this.tone.Filter({
+      type: 'bandpass',
+      frequency: frequencyHz,
+      Q: 1.8,
     }).toDestination()
-    this.click.volume.value = -12
+
+    const synth = new this.tone.NoiseSynth({
+      noise: { type: 'white' },
+      envelope: { attack: 0.001, decay: 0.018, sustain: 0, release: 0.01 },
+    }).connect(filter)
+    synth.volume.value = volumeDb
+    return synth
   }
 
   /**
@@ -216,8 +238,8 @@ class AudioEngine {
         (time) => {
           const beat = Math.round(transport.getTicksAtTime(time) / ppq)
           if (!opts.metronome && beat >= plan.countInBeats) return
-          const accent = isDownbeat(beat, plan.beatsPerBar)
-          this.click.triggerAttackRelease(accent ? 'C3' : 'C2', '32n', time)
+          const click = isDownbeat(beat, plan.beatsPerBar) ? this.clickAccent : this.clickBeat
+          click.triggerAttackRelease('64n', time)
         },
         '4n',
         0,
