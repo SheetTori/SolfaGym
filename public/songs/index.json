@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T15:12:36.674Z",
+  "generatedAt": "2026-09-02T10:04:17.984Z",
   "songs": [
     {
       "id": "rain-rain-go-away",
@@ -9,6 +9,7 @@
       "mode": "major",
       "unit": "kodaly",
       "level": 1,
+      "hasChords": true,
       "syllables": [
         "so",
         "mi"
@@ -22,6 +23,7 @@
       "mode": "major",
       "unit": "kodaly",
       "level": 4,
+      "hasChords": true,
       "syllables": [
         "do",
         "re",
@@ -36,6 +38,7 @@
       "mode": "major",
       "unit": "kodaly",
       "level": 4,
+      "hasChords": true,
       "syllables": [
         "mi",
         "re",
@@ -50,6 +53,7 @@
       "mode": "major",
       "unit": "kodaly",
       "level": 4,
+      "hasChords": true,
       "syllables": [
         "mi",
         "re",
@@ -64,6 +68,7 @@
       "mode": "major",
       "unit": "kodaly",
       "level": 5,
+      "hasChords": true,
       "syllables": [
         "so",
         "do",
@@ -79,6 +84,7 @@
       "mode": "major",
       "unit": "kodaly",
       "level": 6,
+      "hasChords": true,
       "syllables": [
         "do",
         "re",
@@ -96,12 +102,30 @@
       "mode": "major",
       "unit": "kodaly",
       "level": 6,
+      "hasChords": true,
       "syllables": [
         "so",
         "mi",
         "fa",
         "re",
         "do"
+      ]
+    },
+    {
+      "id": "mutopia-thehollyandtheivy",
+      "title": "Holly and the Ivy, The",
+      "source": "Mutopia — Public Domain",
+      "mode": "major",
+      "unit": "kodaly",
+      "level": 6,
+      "hasChords": false,
+      "syllables": [
+        "do",
+        "la",
+        "so",
+        "mi",
+        "fa",
+        "re"
       ]
     },
     {
@@ -112,6 +136,7 @@
       "mode": "major",
       "unit": "kodaly",
       "level": 6,
+      "hasChords": true,
       "syllables": [
         "mi",
         "fa",
@@ -128,6 +153,7 @@
       "mode": "major",
       "unit": "kodaly",
       "level": 6,
+      "hasChords": true,
       "syllables": [
         "do",
         "so",
@@ -138,12 +164,103 @@
       ]
     },
     {
+      "id": "mutopia-j95000-banzai-bushi",
+      "title": "Banza-Bushi",
+      "source": "Mutopia — Public Domain",
+      "mode": "minor",
+      "unit": "kodaly",
+      "level": 7,
+      "hasChords": false,
+      "syllables": [
+        "la",
+        "so",
+        "ti",
+        "mi",
+        "re",
+        "do"
+      ]
+    },
+    {
+      "id": "mutopia-j95000-yanresohoi",
+      "title": "Yanreso Hoi",
+      "source": "Mutopia — Public Domain",
+      "mode": "minor",
+      "unit": "kodaly",
+      "level": 7,
+      "hasChords": false,
+      "syllables": [
+        "so",
+        "la",
+        "mi",
+        "ti",
+        "re",
+        "do"
+      ]
+    },
+    {
+      "id": "mutopia-j95002-noue-bushi",
+      "title": "Noue Bushi",
+      "source": "Mutopia — Public Domain",
+      "mode": "minor",
+      "unit": "kodaly",
+      "level": 7,
+      "hasChords": false,
+      "syllables": [
+        "so",
+        "ti",
+        "la",
+        "mi",
+        "re",
+        "do"
+      ]
+    },
+    {
+      "id": "mutopia-bistdubeimir",
+      "title": "Aria Bist Du Bei Mir",
+      "source": "Mutopia — Public Domain",
+      "mode": "major",
+      "unit": "kodaly",
+      "level": 8,
+      "hasChords": false,
+      "syllables": [
+        "so",
+        "do",
+        "re",
+        "ti",
+        "fa",
+        "mi",
+        "fi",
+        "la",
+        "ta",
+        "si",
+        "di"
+      ]
+    },
+    {
+      "id": "mutopia-j95014-soushi-bushi",
+      "title": "Soushi-Bushi",
+      "source": "Mutopia — Public Domain",
+      "mode": "major",
+      "unit": "kodaly",
+      "level": 8,
+      "hasChords": false,
+      "syllables": [
+        "fa",
+        "so",
+        "la",
+        "re",
+        "do",
+        "ta"
+      ]
+    },
+    {
       "id": "sakura-sakura",
       "title": "さくらさくら（冒頭）",
       "source": "日本古謡・作曲者不詳（パブリックドメイン）",
       "mode": "minor",
       "unit": "japanese",
       "level": 7,
+      "hasChords": false,
       "syllables": [
         "la",
         "ti",

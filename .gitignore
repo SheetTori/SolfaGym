@@ -4,3 +4,10 @@ dist
 .DS_Store
 .vscode/*
 !.vscode/extensions.json
+
+# 取り込み作業の中間物（コーパスの clone やアーカイブ）
+scripts/import/.venv
+scripts/import/*.xml
+scripts/import/*.ly
+scripts/import/mutopia_candidates.tsv
+scripts/import/mutopia_report.tsv

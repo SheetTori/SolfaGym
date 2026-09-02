@@ -230,9 +230,11 @@ describe('スキーマ', () => {
     expect(importedSongSchema.safeParse(valid).success).toBe(true)
   })
 
-  it('id の形式を強制する', () => {
-    expect(importedSongSchema.safeParse({ ...valid, id: 'Bad Id' }).success).toBe(false)
-    expect(importedSongSchema.safeParse({ ...valid, id: 'good-id-2' }).success).toBe(true)
+  it('出典側の id はそのまま受ける（正規化は変換側の仕事）', () => {
+    // 出典の命名は選べないので、中間表現では形を強制しない。
+    // 曲データの id への正規化は scripts/convert-import.ts が行う
+    expect(importedSongSchema.safeParse({ ...valid, id: 'BWV_846.ly' }).success).toBe(true)
+    expect(importedSongSchema.safeParse({ ...valid, id: '' }).success).toBe(false)
   })
 
   it('範囲外の音高を弾く', () => {

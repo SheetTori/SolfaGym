@@ -1,0 +1,1268 @@
+{
+  "id": "mutopia-avemaria",
+  "title": "Ave Maria: Meditation on the First Prelude of J. S. Bach",
+  "meter": {
+    "num": 4,
+    "den": 4
+  },
+  "tonicMidi": 72,
+  "mode": "major",
+  "baseBpm": 96,
+  "elements": [
+    {
+      "kind": "rest",
+      "ql": 4.0
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "rest",
+      "ql": 4.0
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "rest",
+      "ql": 4.0
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "rest",
+      "ql": 4.0
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "rest",
+      "ql": 4.0
+    },
+    {
+      "kind": "note",
+      "step": 5,
+      "alter": 0,
+      "octave": 4,
+      "ql": 4.0,
+      "tie": null
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 6,
+      "alter": -1,
+      "octave": 4,
+      "ql": 3.0,
+      "tie": null
+    },
+    {
+      "kind": "rest",
+      "ql": 0.5
+    },
+    {
+      "kind": "note",
+      "step": 6,
+      "alter": -1,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 0,
+      "alter": 0,
+      "octave": 5,
+      "ql": 3.0,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 4,
+      "alter": 0,
+      "octave": 4,
+      "ql": 1.0,
+      "tie": null
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 5,
+      "alter": 0,
+      "octave": 4,
+      "ql": 2.0,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 5,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "rest",
+      "ql": 0.5
+    },
+    {
+      "kind": "rest",
+      "ql": 1.0
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 1,
+      "alter": 0,
+      "octave": 5,
+      "ql": 2.0,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 1,
+      "alter": 0,
+      "octave": 5,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 1,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 2,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 3,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 4,
+      "alter": 0,
+      "octave": 4,
+      "ql": 1.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 5,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 4,
+      "alter": 0,
+      "octave": 4,
+      "ql": 1.0,
+      "tie": null
+    },
+    {
+      "kind": "rest",
+      "ql": 1.0
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 0,
+      "alter": 0,
+      "octave": 5,
+      "ql": 2.0,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 0,
+      "alter": 0,
+      "octave": 5,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 0,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 1,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 2,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 3,
+      "alter": 0,
+      "octave": 4,
+      "ql": 1.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 4,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 3,
+      "alter": 0,
+      "octave": 4,
+      "ql": 1.0,
+      "tie": null
+    },
+    {
+      "kind": "rest",
+      "ql": 1.0
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 3,
+      "alter": 0,
+      "octave": 5,
+      "ql": 2.0,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 3,
+      "alter": 0,
+      "octave": 5,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 3,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 4,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 5,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 6,
+      "alter": 0,
+      "octave": 4,
+      "ql": 1.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 5,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 4,
+      "alter": 0,
+      "octave": 4,
+      "ql": 1.0,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 1,
+      "alter": 0,
+      "octave": 4,
+      "ql": 1.0,
+      "tie": null
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 2,
+      "alter": 0,
+      "octave": 4,
+      "ql": 2.0,
+      "tie": null
+    },
+    {
+      "kind": "rest",
+      "ql": 1.0
+    },
+    {
+      "kind": "note",
+      "step": 4,
+      "alter": 0,
+      "octave": 4,
+      "ql": 1.0,
+      "tie": null
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 5,
+      "alter": 0,
+      "octave": 4,
+      "ql": 2.0,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 5,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 5,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 6,
+      "alter": -1,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 0,
+      "alter": 0,
+      "octave": 5,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 1,
+      "alter": 0,
+      "octave": 5,
+      "ql": 1.75,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 1,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.25,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 1,
+      "alter": 0,
+      "octave": 4,
+      "ql": 1.0,
+      "tie": null
+    },
+    {
+      "kind": "rest",
+      "ql": 1.0
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 4,
+      "alter": 0,
+      "octave": 4,
+      "ql": 2.0,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 4,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 4,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 5,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 6,
+      "alter": -1,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 0,
+      "alter": 0,
+      "octave": 5,
+      "ql": 2.0,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 0,
+      "alter": 0,
+      "octave": 4,
+      "ql": 1.0,
+      "tie": null
+    },
+    {
+      "kind": "rest",
+      "ql": 1.0
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 3,
+      "alter": 0,
+      "octave": 4,
+      "ql": 2.0,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 3,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 3,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 4,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 5,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 6,
+      "alter": -1,
+      "octave": 4,
+      "ql": 2.0,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 6,
+      "alter": -1,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 6,
+      "alter": -1,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 0,
+      "alter": 0,
+      "octave": 5,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 1,
+      "alter": 0,
+      "octave": 5,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 2,
+      "alter": 0,
+      "octave": 5,
+      "ql": 1.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 1,
+      "alter": 0,
+      "octave": 5,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 0,
+      "alter": 0,
+      "octave": 5,
+      "ql": 1.0,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 4,
+      "alter": 0,
+      "octave": 4,
+      "ql": 1.0,
+      "tie": null
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 5,
+      "alter": 0,
+      "octave": 4,
+      "ql": 2.0,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 5,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "rest",
+      "ql": 0.5
+    },
+    {
+      "kind": "rest",
+      "ql": 1.0
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 0,
+      "alter": 0,
+      "octave": 5,
+      "ql": 2.0,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 5,
+      "alter": 0,
+      "octave": 4,
+      "ql": 1.75,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 5,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.25,
+      "tie": null
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 1,
+      "alter": 0,
+      "octave": 5,
+      "ql": 2.0,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 1,
+      "alter": 0,
+      "octave": 4,
+      "ql": 1.0,
+      "tie": null
+    },
+    {
+      "kind": "rest",
+      "ql": 1.0
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 1,
+      "alter": 0,
+      "octave": 5,
+      "ql": 2.0,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 3,
+      "alter": 0,
+      "octave": 4,
+      "ql": 1.75,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 1,
+      "alter": 0,
+      "octave": 5,
+      "ql": 0.25,
+      "tie": null
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 3,
+      "alter": 0,
+      "octave": 5,
+      "ql": 2.0,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 5,
+      "alter": -1,
+      "octave": 4,
+      "ql": 1.0,
+      "tie": null
+    },
+    {
+      "kind": "rest",
+      "ql": 0.75
+    },
+    {
+      "kind": "note",
+      "step": 3,
+      "alter": 0,
+      "octave": 5,
+      "ql": 0.25,
+      "tie": null
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 3,
+      "alter": 0,
+      "octave": 5,
+      "ql": 2.0,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 4,
+      "alter": 0,
+      "octave": 4,
+      "ql": 1.0,
+      "tie": null
+    },
+    {
+      "kind": "rest",
+      "ql": 1.0
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 4,
+      "alter": 0,
+      "octave": 4,
+      "ql": 2.0,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 4,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 4,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 3,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 2,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 0,
+      "alter": 0,
+      "octave": 5,
+      "ql": 1.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 5,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 3,
+      "alter": 0,
+      "octave": 4,
+      "ql": 1.0,
+      "tie": null
+    },
+    {
+      "kind": "rest",
+      "ql": 1.0
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 6,
+      "alter": -1,
+      "octave": 4,
+      "ql": 2.0,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 6,
+      "alter": -1,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 6,
+      "alter": -1,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 5,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 4,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 4,
+      "alter": 0,
+      "octave": 5,
+      "ql": 1.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 2,
+      "alter": 0,
+      "octave": 5,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 0,
+      "alter": 0,
+      "octave": 5,
+      "ql": 1.0,
+      "tie": null
+    },
+    {
+      "kind": "rest",
+      "ql": 1.0
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 1,
+      "alter": 0,
+      "octave": 5,
+      "ql": 2.0,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 1,
+      "alter": 0,
+      "octave": 5,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 1,
+      "alter": 0,
+      "octave": 5,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 2,
+      "alter": 0,
+      "octave": 5,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 3,
+      "alter": 0,
+      "octave": 5,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 5,
+      "alter": 0,
+      "octave": 5,
+      "ql": 2.0,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 5,
+      "alter": 0,
+      "octave": 5,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 3,
+      "alter": 0,
+      "octave": 5,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 0,
+      "alter": 0,
+      "octave": 5,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 5,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 4,
+      "alter": 0,
+      "octave": 4,
+      "ql": 2.0,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 4,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 1,
+      "alter": 0,
+      "octave": 5,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 2,
+      "alter": 0,
+      "octave": 5,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 1,
+      "alter": 0,
+      "octave": 5,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 0,
+      "alter": 0,
+      "octave": 5,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 4,
+      "alter": 0,
+      "octave": 5,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 2,
+      "alter": 0,
+      "octave": 5,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 0,
+      "alter": 0,
+      "octave": 5,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 6,
+      "alter": -1,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 4,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 2,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "note",
+      "step": 0,
+      "alter": 0,
+      "octave": 4,
+      "ql": 0.5,
+      "tie": null
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 3,
+      "alter": 0,
+      "octave": 4,
+      "ql": 4.0,
+      "tie": null
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 3,
+      "alter": 0,
+      "octave": 4,
+      "ql": 2.0,
+      "tie": null
+    },
+    {
+      "kind": "rest",
+      "ql": 2.0
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 0,
+      "alter": 0,
+      "octave": 5,
+      "ql": 4.0,
+      "tie": null
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "note",
+      "step": 0,
+      "alter": 0,
+      "octave": 5,
+      "ql": 3.0,
+      "tie": null
+    },
+    {
+      "kind": "rest",
+      "ql": 1.0
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "rest",
+      "ql": 4.0
+    },
+    {
+      "kind": "bar",
+      "type": "normal"
+    },
+    {
+      "kind": "rest",
+      "ql": 4.0
+    },
+    {
+      "kind": "bar",
+      "type": "final"
+    },
+    {
+      "kind": "rest",
+      "ql": 4.0
+    },
+    {
+      "kind": "bar",
+      "type": "final"
+    }
+  ],
+  "chords": [],
+  "provenance": {
+    "source": "Mutopia",
+    "sourceId": "AveMaria",
+    "sourceUrl": "https://www.mutopiaproject.org/",
+    "license": "Public Domain",
+    "spellingInferred": false,
+    "keyConfidence": 0.9581421382574439,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "titleEn": null,
+  "language": null
+}

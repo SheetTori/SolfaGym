@@ -1,0 +1,12 @@
+[project]
+name = "solfagym-import"
+version = "0.1.0"
+description = "外部コーパスから単旋律を取り込み、中間 JSON に落とす"
+requires-python = ">=3.11"
+dependencies = [
+    "music21>=10.5.0",
+    "python-ly>=0.9.9",
+]
+
+[tool.uv]
+package = false

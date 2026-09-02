@@ -19,6 +19,30 @@ export const chordEventSchema = z.object({
   degree: z.string().min(1),
 })
 
+/**
+ * 曲の出どころ。数百曲を全数目視できないので、機械が自分で
+ * レビューキューを作れるよう、怪しさの手がかりを残しておく。
+ */
+export const provenanceSchema = z.object({
+  source: z.string().min(1),
+  sourceId: z.string().optional(),
+  sourceUrl: z.string().nullable().optional(),
+  license: z.string().min(1),
+  /** 音名の綴りが推定か。true なら Di/Ra が入れ替わりうる */
+  spellingInferred: z.boolean().default(false),
+  keyConfidence: z.number().nullable().default(null),
+  /** 長短の判定に使った音程（半音）。null は手がかりが無かった */
+  keyDecidedBy: z.number().nullable().default(null),
+  /** music21 の調推定と一致したか。false ならレビュー対象 */
+  keyAgreesWithAnalysis: z.boolean().default(false),
+  /** 多声を潰して旋律を取ったか */
+  skylineUsed: z.boolean().default(false),
+  /** コード進行が出典に由来するか。false なら Step 3 を出さない */
+  chordsFromSource: z.boolean().default(false),
+})
+
+export type Provenance = z.infer<typeof provenanceSchema>
+
 export const songSchema = z.object({
   id: z
     .string()
@@ -26,8 +50,12 @@ export const songSchema = z.object({
     .regex(/^[a-z0-9-]+$/, 'id は英小文字・数字・ハイフンのみ'),
   title: z.string().min(1),
   titleEn: z.string().optional(),
+  /** 原題の言語。一覧のタグに使う */
+  language: z.string().length(2).optional(),
   /** 出典と権利の根拠。「Scottish traditional」「岡野貞一 (d.1941)」など */
   source: z.string().min(1),
+  /** 取り込み由来の曲だけが持つ。手入力の曲は省略できる */
+  provenance: provenanceSchema.optional(),
   mode: modeSchema,
   /**
    * 原調の主音の MIDI。長調なら do、短調なら la。
@@ -55,8 +83,11 @@ export const songIndexEntrySchema = z.object({
   source: z.string(),
   mode: modeSchema,
   unit: unitSchema,
+  language: z.string().length(2).optional(),
   /** 曲中の階名から自動算出したレベル */
   level: z.number().int().min(1).max(8),
+  /** 伴奏で歌う Step を出すか。コード進行を持たない曲では出さない */
+  hasChords: z.boolean().default(false),
   /** 曲に現れる階名（重複なし、出現順） */
   syllables: z.array(z.string()),
 })

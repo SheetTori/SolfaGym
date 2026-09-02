@@ -67,7 +67,11 @@ export function toIndexEntry(a: AnalyzedSong): SongIndexEntry {
     source: a.meta.source,
     mode: a.meta.mode,
     unit: a.meta.unit,
+    language: a.meta.language,
     level: a.level,
+    // コード進行を持たない曲は「伴奏で歌う」ステップを出さない。
+    // 根拠のないドローンを鳴らすより、そのステップ自体を畳むほうが筋が通る
+    hasChords: a.meta.chords.length > 0,
     syllables: a.distinctSyllables,
   }
 }

@@ -1,7 +1,7 @@
 import { z } from 'zod'
 import { renderAbcSource, type ParsedElement, type ParsedSong } from './abc'
 import { toMidi, type Pitch, type Step } from './pitch'
-import { modeSchema } from './schema'
+import { modeSchema, provenanceSchema } from './schema'
 import type { Key } from './solfa'
 import { spellTonic } from './transpose'
 
@@ -46,29 +46,12 @@ export const importedElementSchema = z.discriminatedUnion('kind', [
   importedBarSchema,
 ])
 
-export const provenanceSchema = z.object({
-  source: z.string().min(1),
-  sourceId: z.string().min(1),
-  sourceUrl: z.string().optional(),
-  license: z.string().min(1),
-  /** music21 の pitch.spellingIsInferred がひとつでも true なら true。要人手確認 */
-  spellingInferred: z.boolean().default(false),
-  /** 調推定の確信度 */
-  keyConfidence: z.number().min(0).max(1).nullable().default(null),
-  /** 多声を潰して最高音を取った場合は true。旋律が怪しい */
-  skylineUsed: z.boolean().default(false),
-  /** コード記号が出典に由来するか。false なら Step 3 を出さない */
-  chordsFromSource: z.boolean().default(false),
-})
-
 export const importedSongSchema = z.object({
-  id: z
-    .string()
-    .min(1)
-    .regex(/^[a-z0-9-]+$/, 'id は英小文字・数字・ハイフンのみ'),
+  /** 出典側の命名をそのまま受ける。曲データの id への正規化は変換側の仕事 */
+  id: z.string().min(1),
   title: z.string().min(1),
-  titleEn: z.string().optional(),
-  language: z.string().length(2).optional(),
+  titleEn: z.string().nullish(),
+  language: z.string().length(2).nullish(),
   meter: z.object({ num: z.number().int().positive(), den: z.number().int().positive() }),
   /** 原調の主音の MIDI。長調なら do、短調なら la */
   tonicMidi: z.number().int().min(21).max(108),
