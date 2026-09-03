@@ -1,39 +1,42 @@
 import { describe, expect, it } from 'vitest'
-import { barQuarterLength, rebar, type ImportedSong } from '../../src/core/abcSource'
+import {
+  barQuarterLength,
+  importedSongSchema,
+  rebar,
+  type ImportedSong,
+} from '../../src/core/abcSource'
 
-/** 音価だけ与えて、最小の取り込み曲を組み立てる */
+/**
+ * 音価だけ与えて、最小の取り込み曲を組み立てる。
+ * スキーマを通すことで、テスト側の作り物が本物の形から外れないようにする。
+ */
 function song(
   meter: { num: number; den: number },
   spec: Array<number | 'bar' | 'repeat-start' | 'repeat-end'>,
 ): ImportedSong {
-  return {
+  return importedSongSchema.parse({
     id: 'x',
     title: 'x',
-    titleEn: null,
-    language: null,
     meter,
     tonicMidi: 60,
     mode: 'major',
-    baseBpm: 96,
     elements: spec.map((s) =>
       typeof s === 'number'
-        ? ({ kind: 'note', step: 0, alter: 0, octave: 4, ql: s, tie: null } as const)
-        : s === 'bar'
-          ? ({ kind: 'bar', type: 'normal' } as const)
-          : ({ kind: 'bar', type: s } as const),
+        ? { kind: 'note', step: 0, alter: 0, octave: 4, ql: s }
+        : { kind: 'bar', type: s === 'bar' ? 'normal' : s },
     ),
     chords: [],
     provenance: {
       source: 'hand',
-      sourceId: 'x',
-      sourceUrl: 'x',
       license: 'PD',
       spellingInferred: false,
-      keyConfidence: 1,
+      keyConfidence: null,
+      keyDecidedBy: null,
+      keyAgreesWithAnalysis: true,
       skylineUsed: false,
       chordsFromSource: false,
     },
-  } as ImportedSong
+  })
 }
 
 /** 引き直した結果の各小節の長さ */
