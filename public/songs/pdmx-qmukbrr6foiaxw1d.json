@@ -19,5 +19,5 @@
   "baseBpm": 96,
   "unit": "kodaly",
   "chords": [],
-  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nF A D F A D | G F G E F G | F A D F A D | G E D D3 |\nF A D F A D | G F G E F G | f e d =c A F | G E D D3 |\nF A D F A D | G F G E F G | F A D F A D | G E D D3 |\nF A D F A D | G F G E F G | f e d =c A F | G E D D3 |\nA d d d e d | =c A B c A G | A d d d e d | =c A B c3 |\nA d d d e d | =c A B c d e | f e d =c A F | G E D D3 |\nA d d d e d | =c A B c A G | A d d d e d | =c A B c3 |\nA d d d e d | =c A B c d e | f e d =c A F | G E D D3 |]\n"
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nFAD FAD | GFG EFG | FAD FAD | GED D3 |\nFAD FAD | GFG EFG | fed =cAF | GED D3 |\nFAD FAD | GFG EFG | FAD FAD | GED D3 |\nFAD FAD | GFG EFG | fed =cAF | GED D3 |\nAdd ded | =cAB cAG | Add ded | =cAB c3 |\nAdd ded | =cAB cde | fed =cAF | GED D3 |\nAdd ded | =cAB cAG | Add ded | =cAB c3 |\nAdd ded | =cAB cde | fed =cAF | GED D3 |]\n"
 }

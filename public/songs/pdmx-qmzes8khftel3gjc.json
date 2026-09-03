@@ -19,5 +19,5 @@
   "baseBpm": 96,
   "unit": "kodaly",
   "chords": [],
-  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nE A A E A A | B A B G2 A | B e e e d B | d B A G E D |\nE A A E A A | B A B G2 A | B e e e d B | d B A A2 D |\nE A A E A A | B A B G2 A | B e e e d B | d B A G E D |\nE A A E A A | B A B G2 A | B e e e d B | d B A A2 d |\ne a a a g e | d B A G2 A | B e e e d B | d e f g f g |\ne a a a g e | d B A G2 A | B e e e d B | d B A A2 d |\ne a a a g e | d B A G2 A | B e e e d B | d e f g f g |\ne a a a g e | d B A G2 A | B e e e d B | d B A A2 d |]\n"
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nEAA EAA | BAB G2 A | Bee edB | dBA GED |\nEAA EAA | BAB G2 A | Bee edB | dBA A2 D |\nEAA EAA | BAB G2 A | Bee edB | dBA GED |\nEAA EAA | BAB G2 A | Bee edB | dBA A2 d |\neaa age | dBA G2 A | Bee edB | def gfg |\neaa age | dBA G2 A | Bee edB | dBA A2 d |\neaa age | dBA G2 A | Bee edB | def gfg |\neaa age | dBA G2 A | Bee edB | dBA A2 d |]\n"
 }

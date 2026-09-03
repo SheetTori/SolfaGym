@@ -19,5 +19,5 @@
   "baseBpm": 96,
   "unit": "kodaly",
   "chords": [],
-  "abc": "X:1\nM:6/8\nL:1/8\nK:Am clef=treble\nB | c A d c A G | E3 G A B | c A d c A G |\nE A A A2 B | c A d c A G | E3 G A B | c d e ^f e d |\nc A A A2 | B | c A d c A G | E3 G A B |\nc A d c A G | E A A A2 B | c A d c A G | E3 G A B |\nc d e ^f e d | c A A A2 | ^f | g3 g e d |\nc A B c2 d | e2 a a g e | e d ^c d e ^f | g3 g e d |\nc A B c d e | ^f e d c A G | E A A A2 | ^f |\ng3 g e d | c A B c2 d | e2 a a g e | e d ^c d e ^f |\ng3 g e d | c A B c d e | ^f e d c A G | E A A A2 |]\n"
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Am clef=treble\nB | cAd cAG | E3 GAB | cAd cAG |\nEAA A2 B | cAd cAG | E3 GAB | cde ^fed |\ncAA A2 B | cAd cAG | E3 GAB | cAd cAG |\nEAA A2 B | cAd cAG | E3 GAB | cde ^fed |\ncAA A2 ^f | g3 ged | cAB c2 d | e2 a age |\ned^c de^f | g3 ged | cAB cde | ^fed cAG |\nEAA A2 ^f | g3 ged | cAB c2 d | e2 a age |\ned^c de^f | g3 ged | cAB cde | ^fed cAG |\nEAA A2 |]\n"
 }

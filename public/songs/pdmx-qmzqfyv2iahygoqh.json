@@ -19,5 +19,5 @@
   "baseBpm": 96,
   "unit": "kodaly",
   "chords": [],
-  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\nd c | B c d B G A B G | D2 D2 G2 G2 | F G A B c d c B |\nA D F A d e d c | B c d B G A B G | D2 D2 G2 G2 | F G A B c A F A |\nG2 B2 G2 | d c | B c d B G A B G | D2 D2 G2 G2 |\nF G A B c d c B | A D F A d e d c | B c d B G A B G | D2 D2 G2 G2 |\nF G A B c A F A | G2 B2 G2 | B d | g2 g2 a g f e |\nd f f g f3 A | f f2 g f d e f | g a g f g2 B d | g2 g2 a g f e |\nd f f g f3 A | f f2 g f d e f | g a g f g2 | B d |\ng2 g2 a g f e | d f f g f3 A | f f2 g f d e f | g a g f g2 B d |\ng2 g2 a g f e | d f f g f3 A | f f2 g f d e f | g a g f g2 |]\n"
+  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\ndc | BcdB GABG | D2D2 G2G2 | FGAB cdcB |\nADFA dedc | BcdB GABG | D2D2 G2G2 | FGAB cAFA |\nG2B2 G2dc | BcdB GABG | D2D2 G2G2 | FGAB cdcB |\nADFA dedc | BcdB GABG | D2D2 G2G2 | FGAB cAFA |\nG2B2 G2Bd | g2g2 agfe | dffg f3A | ff2g fdef |\ngagf g2Bd | g2g2 agfe | dffg f3A | ff2g fdef |\ngagf g2Bd | g2g2 agfe | dffg f3A | ff2g fdef |\ngagf g2Bd | g2g2 agfe | dffg f3A | ff2g fdef |\ngagf g2 |]\n"
 }

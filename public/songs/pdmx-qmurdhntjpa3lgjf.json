@@ -19,5 +19,5 @@
   "baseBpm": 96,
   "unit": "kodaly",
   "chords": [],
-  "abc": "X:1\nM:4/4\nL:1/8\nK:A clef=treble\ne | A2 A B A B c d | e f e c e a g a | A2 A B A B c A |\nF B B A G A B c | A2 A B A B c d | e f e c e a g a | f g a g f e d c |\nB c B A G B B e | c e e f e c A B | c e e f e a g a | c e e f e c A c |\nE B B A G A B d | c e e f e c A B | c e e f e a g a | f g a g f e d c |\nB c B A G B B e | e | A2 A B A B c d | e f e c e a g a |\nA2 A B A B c A | F B B A G A B c | A2 A B A B c d | e f e c e a g a |\nf g a g f e d c | B c B A G B B e | c e e f e c A B | c e e f e a g a |\nc e e f e c A c | E B B A G A B d | c e e f e c A B | c e e f e a g a |\nf g a f e c B A | G B e d c A A |]\n"
+  "abc": "X:1\nM:4/4\nL:1/8\nK:A clef=treble\ne | A2 AB AB cd | ef ec ea ga | A2 AB AB cA |\nFB BA GA Bc | A2 AB AB cd | ef ec ea ga | fg ag fe dc |\nBc BA GB Be | ce ef ec AB | ce ef ea ga | ce ef ec Ac |\nEB BA GA Bd | ce ef ec AB | ce ef ea ga | fg ag fe dc |\nBc BA GB Be | e A2 A BA Bc | de fe ce ag | a A2 A BA Bc |\nAF BB AG AB | c A2 A BA Bc | de fe ce ag | af ga gf ed |\ncB cB AG BB | ec ee fe cA | Bc ee fe ag | ac ee fe cA |\ncE BB AG AB | dc ee fe cA | Bc ee fe ag | af ga fe cB |\nAG Be dc AA |]\n"
 }

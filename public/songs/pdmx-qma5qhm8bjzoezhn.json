@@ -19,5 +19,5 @@
   "baseBpm": 96,
   "unit": "kodaly",
   "chords": [],
-  "abc": "X:1\nM:6/8\nL:1/8\nK:Am clef=treble\ne A A B A A | e A A A B d | e A A B A B | d B G G B d |\ne A A B A A | e A A A G E | G A B d2 e | d B A A3 |\ne A A B A A | e A A A B d | e A A B A B | d B G G B d |\ne A A B A A | e A A A G E | G A B d2 e | d B A A3 |\na b a g2 e | d B G G B d | a b a g2 e | d B d e3 |\na b a g2 e | d B G A G E | G A B d2 e | d B A A3 |\na b a g2 e | d B G G B d | a b a g2 e | d B d e3 |\na b a g2 e | d B G A G E | G A B d2 e | d B A A3 |]\n"
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Am clef=treble\neAA BAA | eAA ABd | eAA BAB | dBG GBd |\neAA BAA | eAA AGE | GAB d2 e | dBA A3 |\neAA BAA | eAA ABd | eAA BAB | dBG GBd |\neAA BAA | eAA AGE | GAB d2 e | dBA A3 |\naba g2 e | dBG GBd | aba g2 e | dBd e3 |\naba g2 e | dBG AGE | GAB d2 e | dBA A3 |\naba g2 e | dBG GBd | aba g2 e | dBd e3 |\naba g2 e | dBG AGE | GAB d2 e | dBA A3 |]\n"
 }

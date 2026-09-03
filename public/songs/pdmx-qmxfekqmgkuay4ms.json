@@ -19,5 +19,5 @@
   "baseBpm": 96,
   "unit": "kodaly",
   "chords": [],
-  "abc": "X:1\nM:4/4\nL:1/16\nK:G clef=treble\nD2 | G3 G G3 G B4 G3 G | A4 A3 A A4 z2 B2 | c3 c c3 c c4 d3 c |\nB4 B3 B B4 z2 D2 | G3 G G3 G B4 G3 F | E3 E E3 E c4 B3 A | G3 G G3 G F4 E3 F |\nG4 G3 G G4 |]\n"
+  "abc": "X:1\nM:4/4\nL:1/16\nK:G clef=treble\nD2 | G3G G3G B4 G3G | A4 A3A A4 z2 B2 | c3c c3c c4 d3c |\nB4 B3B B4 z2 D2 | G3G G3G B4 G3F | E3E E3E c4 B3A | G3G G3G F4 E3F |\nG4 G3G G4 |]\n"
 }

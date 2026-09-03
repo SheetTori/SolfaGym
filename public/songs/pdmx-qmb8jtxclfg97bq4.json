@@ -19,5 +19,5 @@
   "baseBpm": 96,
   "unit": "kodaly",
   "chords": [],
-  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nd | g f g e g e | d B G A G E | D G G F G A |\nB G B A2 d | g f g a g e | d B G A G E | D G G F G A |\nB G G G2 | d | g f g e g e | d B G A G E |\nD G G F G A | B G B A2 d | g f g a g e | d B G A G E |\nD G G F G A | B G G G2 | d | e d d g d d |\ne d d g d d | e d d g f g | e d B A2 d | g f g a g e |\nd B G A G E | D G G F G A | B G G G2 | d |\ne d d g d d | e d d g d d | e d d g f g | e d B A2 d |\ng f g a g e | d B G A G E | D G G F G A | B G G G2 |]\n"
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nd | gfg ege | dBG AGE | DGG FGA |\nBGB A2 d | gfg age | dBG AGE | DGG FGA |\nBGG G2 d | gfg ege | dBG AGE | DGG FGA |\nBGB A2 d | gfg age | dBG AGE | DGG FGA |\nBGG G2 d | edd gdd | edd gdd | edd gfg |\nedB A2 d | gfg age | dBG AGE | DGG FGA |\nBGG G2 d | edd gdd | edd gdd | edd gfg |\nedB A2 d | gfg age | dBG AGE | DGG FGA |\nBGG G2 |]\n"
 }

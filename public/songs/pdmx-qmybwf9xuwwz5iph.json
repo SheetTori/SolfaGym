@@ -19,5 +19,5 @@
   "baseBpm": 96,
   "unit": "kodaly",
   "chords": [],
-  "abc": "X:1\nM:6/8\nL:1/8\nK:Em clef=treble\nE G E G2 A | B2 e d B G | A2 B c B A | B A G F E D |\nE G E G2 A | B2 e d B G | A2 B c B A | B G E E2 |\nz E G E G2 A | B2 e d B G | A2 B c B A | B A G F E D |\nE G E G2 A | B2 e d B G | A2 B c B A | B G E E2 |\nz e2 f g2 e | f a g f e d | e2 f g2 e | f e d e3 |\ne2 f g2 e | f a g f e d | e2 B B2 A | B G E E2 |\nz e2 f g2 e | f a g f e d | e2 f g2 e | f e d e3 |\ne2 f g2 e | f a g f e d | e2 B B2 A | B G E E2 |]\n"
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Em clef=treble\nEGE G2 A | B2 e dBG | A2 B cBA | BAG FED |\nEGE G2 A | B2 e dBG | A2 B cBA | BGE E2 z |\nEGE G2 A | B2 e dBG | A2 B cBA | BAG FED |\nEGE G2 A | B2 e dBG | A2 B cBA | BGE E2 z |\ne2 f g2 e | fag fed | e2 f g2 e | fed e3 |\ne2 f g2 e | fag fed | e2 B B2 A | BGE E2 z |\ne2 f g2 e | fag fed | e2 f g2 e | fed e3 |\ne2 f g2 e | fag fed | e2 B B2 A | BGE E2 |]\n"
 }

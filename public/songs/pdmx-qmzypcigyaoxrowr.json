@@ -1,0 +1,23 @@
+{
+  "id": "pdmx-qmzypcigyaoxrowr",
+  "title": "Branle de la Montarde",
+  "source": "PDMX — publicdomain",
+  "provenance": {
+    "source": "PDMX",
+    "sourceId": "QmZYpCigYAoXRowrYVgJXSCsEFbyNQTpq6GPDYJMoyy3DF",
+    "sourceUrl": "https://zenodo.org/records/14648209",
+    "license": "publicdomain",
+    "spellingInferred": false,
+    "keyConfidence": null,
+    "keyDecidedBy": 4,
+    "keyAgreesWithAnalysis": false,
+    "skylineUsed": false,
+    "chordsFromSource": false
+  },
+  "mode": "major",
+  "tonicMidi": 65,
+  "baseBpm": 96,
+  "unit": "kodaly",
+  "chords": [],
+  "abc": "X:1\nM:8/2\nL:1/4\nK:F clef=treble\nG2 A2 B2 G2 c2 A2 B2 G2 | G2 G2 G2 G2 F2 E2 D2 C2 | G2 A2 B2 G2 c2 A2 B2 G2 | F2 G F E2 D C C2 D B, C2 z2 |\nG2 A2 B2 G2 c2 A2 B2 G2 | G2 G2 G2 G2 F2 E2 D2 C2 | G2 A2 B2 G2 c2 A2 B2 G2 | F2 G F E2 D C C2 D B, C2 z2 |\nc2 d c B2 A2 B2 G2 F4 | c2 d c B2 A2 B2 G2 F4 |]\n"
+}

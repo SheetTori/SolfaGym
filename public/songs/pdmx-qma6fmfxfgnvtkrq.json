@@ -19,5 +19,5 @@
   "baseBpm": 96,
   "unit": "kodaly",
   "chords": [],
-  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nd | c A A A2 G | F A A A2 d | c A B c A G |\nA B c d f d | c A A A2 G | F A A A2 g | f e d c A G |\nA B c d2 | d | c A A A2 G | F A A A2 d |\nc A B c A G | A B c d f d | c A A A2 G | F A A A2 g |\nf e d c A G | A B c d2 | g | f g f e f e |\nd e d c d e | f a g e d c | e d d d2 g | f g f e f e |\nd e d c d e | f e d c A G | A B c d2 | d |\nc A A A2 G | F A A A2 d | c A B c A G | A B c d f d |\nc A A A2 G | F A A A2 g | f e d c A G | A B c d2 |\ng | f g f e f e | d e d c d e | f a g e d c |\ne d d d2 g | f g f e f e | d e d c d e | f e d c A G |\nA B c d2 |]\n"
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nd | cAA A2 G | FAA A2 d | cAB cAG |\nABc dfd | cAA A2 G | FAA A2 g | fed cAG |\nABc d2 d | cAA A2 G | FAA A2 d | cAB cAG |\nABc dfd | cAA A2 G | FAA A2 g | fed cAG |\nABc d2 g | fgf efe | ded cde | fag edc |\nedd d2 g | fgf efe | ded cde | fed cAG |\nABc d2 d | cAA A2 G | FAA A2 d | cAB cAG |\nABc dfd | cAA A2 G | FAA A2 g | fed cAG |\nABc d2 g | fgf efe | ded cde | fag edc |\nedd d2 g | fgf efe | ded cde | fed cAG |\nABc d2 |]\n"
 }

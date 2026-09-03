@@ -3,6 +3,7 @@ import { join } from 'node:path'
 import {
   emitAbc,
   importedSongSchema,
+  rebar,
   trimTrailingSilence,
   type ImportedSong,
 } from '../src/core/abcSource'
@@ -65,7 +66,9 @@ function slugify(text: string): string {
 
 function main() {
   mkdirSync(SONGS_DIR, { recursive: true })
-  const files = readdirSync(IMPORT_DIR).filter((f) => f.endsWith('.json')).sort()
+  const files = readdirSync(IMPORT_DIR)
+    .filter((f) => f.endsWith('.json'))
+    .sort()
 
   const rows: Row[] = []
   const seen = new Map<string, string>()
@@ -86,10 +89,23 @@ function main() {
     }
 
     // 曲末の無音を落としてから検証する。出典によって付いたり付かなかったりする
-    const imported: ImportedSong = {
+    const trimmed: ImportedSong = {
       ...parsed.data,
       elements: trimTrailingSilence(parsed.data.elements),
     }
+
+    // 小節線の位置が崩れている楽譜が多いので、拍子どおりに引き直してから検証する
+    const imported = rebar(trimmed)
+    if (!imported) {
+      rows.push({
+        id: trimmed.id,
+        title: trimmed.title,
+        status: 'rejected',
+        detail: `meter-mismatch（小節線を拍子 ${trimmed.meter.num}/${trimmed.meter.den} に合わせて引き直せない）`,
+      })
+      continue
+    }
+
     let result: ValidationResult
     try {
       result = validateImported(imported)
@@ -224,9 +240,7 @@ function writeReport(rows: Row[], kept: number, total: number) {
     '',
     '| 件数 | 理由 |',
     '|---:|---|',
-    ...[...reasons.entries()]
-      .sort((a, b) => b[1] - a[1])
-      .map(([code, n]) => `| ${n} | ${code} |`),
+    ...[...reasons.entries()].sort((a, b) => b[1] - a[1]).map(([code, n]) => `| ${n} | ${code} |`),
     '',
     '## 通過した曲',
     '',

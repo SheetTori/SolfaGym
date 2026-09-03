@@ -19,5 +19,5 @@
   "baseBpm": 96,
   "unit": "kodaly",
   "chords": [],
-  "abc": "X:1\nM:6/8\nL:1/8\nK:C clef=treble\nB A | G c c c B c | G c c e2 c | G c c c B c |\nd A A A B c | G c c c B c | G c c e2 c | c3 B A B |\nd c c c | B A | G c c c B c | G c c e2 c |\nG c c c B c | d A A A B c | G c c c B c | G c c e2 c |\nc3 B A B | d c c c | z G | c e g g e g |\na g f e d e | c e g g e g | a g e d2 e | c e g g e g |\na g f e d e | c3 B A B | d c c c | z G |\nc e g g e g | a g f e d e | c e g g e g | a g e d2 e |\nc e g g e g | a g f e d e | c3 B A B | d c c c |]\n"
+  "abc": "X:1\nM:6/8\nL:1/8\nK:C clef=treble\nBA | Gcc cBc | Gcc e2 c | Gcc cBc |\ndAA ABc | Gcc cBc | Gcc e2 c | c3 BAB |\ndcc cBA | Gcc cBc | Gcc e2 c | Gcc cBc |\ndAA ABc | Gcc cBc | Gcc e2 c | c3 BAB |\ndcc c z G | ceg geg | agf ede | ceg geg |\nage d2 e | ceg geg | agf ede | c3 BAB |\ndcc c z G | ceg geg | agf ede | ceg geg |\nage d2 e | ceg geg | agf ede | c3 BAB |\ndcc c |]\n"
 }

@@ -19,5 +19,5 @@
   "baseBpm": 96,
   "unit": "kodaly",
   "chords": [],
-  "abc": "X:1\nM:6/8\nL:1/8\nK:Am clef=treble\nA B A A G E | E D E G3 | A B A A G E | c2 d e c A |\nA B A A G E | E D E G3 | c d e g e d | c A A A3 |\nA B A A G E | E D E G3 | A B A A G E | c2 d e c A |\nA B A A G E | E D E G3 | c d e g e d | c A A A3 |\nz6 c d e g2 a | g e a g e d | c d e g e g | g e g a2 B |\nc d e g2 a | g e a g e d | c d e f e d | c A G A3 |\nA B A A G E | E D E G3 | A B A A G E | c2 d e c A |\nA B A A G E | E D E G3 | c d e g e d | c A A A3 |\nz6 c d e g2 a | g e a g e d | c d e g e g | g e g a2 B |\nc d e g2 a | g e a g e d | c d e f e d | c A G A3 |]\n"
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Am clef=treble\nABA AGE | EDE G3 | ABA AGE | c2 d ecA |\nABA AGE | EDE G3 | cde ged | cAA A3 |\nABA AGE | EDE G3 | ABA AGE | c2 d ecA |\nABA AGE | EDE G3 | cde ged | cAA A3 |\nz6 | cde g2 a | gea ged | cde geg |\ngeg a2 B | cde g2 a | gea ged | cde fed |\ncAG A3 | ABA AGE | EDE G3 | ABA AGE |\nc2 d ecA | ABA AGE | EDE G3 | cde ged |\ncAA A3 | z6 | cde g2 a | gea ged |\ncde geg | geg a2 B | cde g2 a | gea ged |\ncde fed | cAG A3 |]\n"
 }

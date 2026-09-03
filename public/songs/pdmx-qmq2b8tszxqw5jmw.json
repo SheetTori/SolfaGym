@@ -19,5 +19,5 @@
   "baseBpm": 96,
   "unit": "kodaly",
   "chords": [],
-  "abc": "X:1\nM:2/4\nL:1/16\nK:Dm clef=treble\ng g g2 g2 | g2 g2 g2 g2 | g2 g2 g3 f | f _e g f f4 |\nz2 g g g2 g2 | g2 g2 g2 g2 | g2 g2 g3 f | f _e g f f4 |\nz2 b b b b2 a | a a2 g g g2 f | f _e g f f e e d | d3 B d _e f2 |\nf _e g f f e e d | d8 | f _e g f f e e d | d3 B d _e f2 |\nf _e g f f e e d | d8 | f _e g f f e e d | d3 B d _e f2 |\nf _e g f f e e d | d8 | f _e g f f e e d | d3 B d _e f2 |\nf _e g f f e e d | d8 |]\n"
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Dm clef=treble\nggg2 g2 | g2g2 g2g2 | g2g2 g3f | f_egf f4 |\nz2 gg g2g2 | g2g2 g2g2 | g2g2 g3f | f_egf f4 |\nz2 bb bb2a | aa2g gg2f | f_egf feed | d3B d_ef2 |\nf_egf feed | d8 | f_egf feed | d3B d_ef2 |\nf_egf feed | d8 | f_egf feed | d3B d_ef2 |\nf_egf feed | d8 | f_egf feed | d3B d_ef2 |\nf_egf feed | d8 |]\n"
 }

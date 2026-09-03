@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T13:03:57.219Z",
+  "generatedAt": "2026-09-03T03:47:29.297Z",
   "songs": [
     {
       "id": "pattern-so-mi-1",
@@ -350,22 +350,6 @@
       ]
     },
     {
-      "id": "pdmx-qmagah8nw4sts9tt",
-      "title": "Amazing grace",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 5,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "mi",
-        "re",
-        "la"
-      ]
-    },
-    {
       "id": "pdmx-qmahfouhdfanfdis",
       "title": "Taps",
       "source": "PDMX — publicdomain",
@@ -428,38 +412,6 @@
       ]
     },
     {
-      "id": "pdmx-qmc31cypwerszgsd",
-      "title": "Uncloudy Day",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 5,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "do",
-        "mi",
-        "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmcd4s76yp4yp1h4",
-      "title": "Down in the willow gardens",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 5,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "mi",
-        "re",
-        "la"
-      ]
-    },
-    {
       "id": "pdmx-qmcj5ew6mphq5hdq",
       "title": "Mississippi Sawyer - 14",
       "source": "PDMX — publicdomain",
@@ -507,22 +459,6 @@
       ]
     },
     {
-      "id": "pdmx-qmddfqkcnpr3lntf",
-      "title": "Crawdad Song",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 5,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "mi",
-        "la",
-        "so",
-        "re"
-      ]
-    },
-    {
       "id": "pdmx-qmdmkuxagqkr1zhs",
       "title": "Uncle Joe (Miss McLeod's Reel)",
       "source": "PDMX — publicdomain",
@@ -535,22 +471,6 @@
         "re",
         "do",
         "so",
-        "la"
-      ]
-    },
-    {
-      "id": "pdmx-qme1ln86aphkypew",
-      "title": "Exercise - Farmer in the Dell",
-      "source": "PDMX — cc-zero",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 5,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "mi",
         "la"
       ]
     },
@@ -667,22 +587,6 @@
       ]
     },
     {
-      "id": "pdmx-qmra6tkjddijosva",
-      "title": "Candy man",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 5,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "mi",
-        "la",
-        "do",
-        "re"
-      ]
-    },
-    {
       "id": "pdmx-qmrrkc2bwbrvlpek",
       "title": "Auld lang syne",
       "source": "PDMX — publicdomain",
@@ -696,22 +600,6 @@
         "mi",
         "la",
         "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmrutjrrk19gmkjy",
-      "title": "Oh freedom",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 5,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "do",
-        "re",
-        "mi"
       ]
     },
     {
@@ -776,22 +664,6 @@
         "do",
         "mi",
         "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmuqrqcidhssep5g",
-      "title": "Cindy (004)",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 5,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "mi",
-        "re",
-        "do"
       ]
     },
     {
@@ -909,23 +781,6 @@
       ]
     },
     {
-      "id": "mutopia-thehollyandtheivy",
-      "title": "Holly and the Ivy, The",
-      "source": "Mutopia — Public Domain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "la",
-        "so",
-        "mi",
-        "fa",
-        "re"
-      ]
-    },
-    {
       "id": "ode-to-joy",
       "title": "歓喜の歌（交響曲第9番 第4楽章）",
       "titleEn": "Ode to Joy",
@@ -1012,24 +867,6 @@
         "do",
         "ti",
         "re"
-      ]
-    },
-    {
-      "id": "pdmx-qma2nwwyjhv17ksc",
-      "title": "Og-Laoc na Rann",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "fa",
-        "mi",
-        "ti",
-        "la"
       ]
     },
     {
@@ -1175,24 +1012,6 @@
       ]
     },
     {
-      "id": "pdmx-qma7nicg346eejvg",
-      "title": "Marken er mejet",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "so",
-        "mi",
-        "la",
-        "re",
-        "fa",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qma8tiixxsbyglh4",
       "title": "Maggie in the Woods",
       "source": "PDMX — publicdomain",
@@ -1282,24 +1101,6 @@
       ]
     },
     {
-      "id": "pdmx-qmaatn7y8n3nmjjj",
-      "title": "The boys of Comanore",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "fa",
-        "mi",
-        "re",
-        "do",
-        "ti",
-        "la"
-      ]
-    },
-    {
       "id": "pdmx-qmab8bzdanuloqof",
       "title": "With all my heart",
       "source": "PDMX — publicdomain",
@@ -1314,23 +1115,6 @@
         "so",
         "la",
         "fa",
-        "mi"
-      ]
-    },
-    {
-      "id": "pdmx-qmabscraegr9nfrt",
-      "title": "Ballinasloe Jig",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "re",
-        "so",
-        "la",
-        "fa",
-        "do",
         "mi"
       ]
     },
@@ -1350,42 +1134,6 @@
         "ti",
         "do",
         "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmaceg3xuvrktkn3",
-      "title": "Je veit ei lita jente",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "mi",
-        "la",
-        "fa",
-        "ti",
-        "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmacm1mvj8zqb4pt",
-      "title": "Mary Ann",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "so",
-        "do",
-        "re",
-        "fa",
-        "ti",
-        "la"
       ]
     },
     {
@@ -1601,24 +1349,6 @@
       ]
     },
     {
-      "id": "pdmx-qmah77zrujlvy94m",
-      "title": "Kiss me sweetheart",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "fa",
-        "mi",
-        "do",
-        "re",
-        "la",
-        "so",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qmaiu17gax4hojyo",
       "title": "Hal en bergenkermis",
       "source": "PDMX — publicdomain",
@@ -1673,24 +1403,6 @@
       ]
     },
     {
-      "id": "pdmx-qmajwc5m1icvbtwe",
-      "title": "Gathering Peascods",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "mi",
-        "fa",
-        "la",
-        "re",
-        "do",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qmakeltbramanfou",
       "title": "Te Kieldrecht",
       "source": "PDMX — publicdomain",
@@ -1709,24 +1421,6 @@
       ]
     },
     {
-      "id": "pdmx-qmakibwybdzek2b6",
-      "title": "Argyll Is My Name",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "ti",
-        "mi",
-        "re",
-        "fa",
-        "la"
-      ]
-    },
-    {
       "id": "pdmx-qmakpmndvh6dtf94",
       "title": "Barney Brallaghan",
       "source": "PDMX — publicdomain",
@@ -1742,24 +1436,6 @@
         "re",
         "ti",
         "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmambcyrhroggxvj",
-      "title": "Branle de Bourgogne",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "re",
-        "do",
-        "so",
-        "fa",
-        "ti",
-        "la"
       ]
     },
     {
@@ -1919,24 +1595,6 @@
       ]
     },
     {
-      "id": "pdmx-qmarsnh9npj9jctm",
-      "title": "E Apri la Finestra",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "mi",
-        "ti",
-        "la",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmarxmvgv8yf7umw",
       "title": "Davy (Davy) Knick - Knack",
       "source": "PDMX — publicdomain",
@@ -1951,24 +1609,6 @@
         "re",
         "mi",
         "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmas43pnvnbrit8a",
-      "title": "Cirkus-polka",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "ti",
-        "la",
-        "so",
-        "mi",
-        "fa",
-        "re"
       ]
     },
     {
@@ -2076,23 +1716,6 @@
         "la",
         "fa",
         "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmatnip68g4v2dzb",
-      "title": "Kum ba yah",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "mi",
-        "so",
-        "la",
-        "fa",
-        "re"
       ]
     },
     {
@@ -2256,23 +1879,6 @@
       ]
     },
     {
-      "id": "pdmx-qmawjld5telyaufk",
-      "title": "The humors of Ballydehob",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "fa",
-        "mi",
-        "do",
-        "re",
-        "la"
-      ]
-    },
-    {
       "id": "pdmx-qmaxbg4iazk2vugn",
       "title": "Tommy Peoples",
       "source": "PDMX — publicdomain",
@@ -2341,24 +1947,6 @@
         "la",
         "fa",
         "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmaxqkuacwq4lec3",
-      "title": "Bourrée patinée",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "la",
-        "ti",
-        "re",
-        "mi",
-        "fa",
-        "so"
       ]
     },
     {
@@ -2466,24 +2054,6 @@
       ]
     },
     {
-      "id": "pdmx-qmaz9wbdqeukz2dt",
-      "title": "Old Grey Mare",
-      "source": "PDMX — cc-zero",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "mi",
-        "ti",
-        "la",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmazbruvgou7rtdd",
       "title": "Bourrée d'Arleuf",
       "source": "PDMX — publicdomain",
@@ -2574,23 +2144,6 @@
       ]
     },
     {
-      "id": "pdmx-qmb1urrrvmb6dw7p",
-      "title": "Barney O'Neill",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "la",
-        "so",
-        "mi",
-        "re",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmb2smy8ekamctj5",
       "title": "Blow the man down",
       "source": "PDMX — publicdomain",
@@ -2609,24 +2162,6 @@
       ]
     },
     {
-      "id": "pdmx-qmb2zdxdmvzd7lrr",
-      "title": "An Bhanaltra",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "ti",
-        "la",
-        "mi",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmb3hgayfrevpk7f",
       "title": "Lei courdello",
       "source": "PDMX — publicdomain",
@@ -2642,24 +2177,6 @@
         "fa",
         "ti",
         "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmb4z1yswczsinx4",
-      "title": "Don't be teasing",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "so",
-        "mi",
-        "do",
-        "ti",
-        "re",
-        "fa"
       ]
     },
     {
@@ -2752,23 +2269,6 @@
       ]
     },
     {
-      "id": "pdmx-qmb84pjdpnwafd43",
-      "title": "Ar Eirinn",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "re",
-        "mi",
-        "so",
-        "la",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmb8jtxclfg97bq4",
       "title": "The Blackthorn Stick",
       "source": "PDMX — publicdomain",
@@ -2835,24 +2335,6 @@
         "re",
         "mi",
         "la",
-        "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmbajeafcswlmbvs",
-      "title": "Les trois bons droles",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "ti",
-        "do",
-        "mi",
-        "re",
         "fa"
       ]
     },
@@ -2942,23 +2424,6 @@
         "so",
         "fa",
         "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmbbcrqd6i3c8k7h",
-      "title": "Vallafield",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "mi",
-        "la",
-        "ti",
-        "re"
       ]
     },
     {
@@ -3119,24 +2584,6 @@
       ]
     },
     {
-      "id": "pdmx-qmbdfdbjvlnmuha7",
-      "title": "Corn Rigs",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "mi",
-        "ti",
-        "la",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmbdtbpynp1jp2i7",
       "title": "Old King Cole",
       "source": "PDMX — publicdomain",
@@ -3167,24 +2614,6 @@
         "ti",
         "so",
         "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmbekgje7gnvbmcx",
-      "title": "Bourrée",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "fa",
-        "so",
-        "la",
-        "re",
-        "do",
-        "ti"
       ]
     },
     {
@@ -3220,24 +2649,6 @@
         "re",
         "ti",
         "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmbeupe7tfppdmau",
-      "title": "Les Moutons",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "fa",
-        "mi",
-        "do",
-        "re",
-        "la",
-        "ti"
       ]
     },
     {
@@ -3365,41 +2776,6 @@
       ]
     },
     {
-      "id": "pdmx-qmbgyjbjqibclnry",
-      "title": "She'll Be Coming Round The Mountain (dulcimer)",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "do",
-        "mi",
-        "re",
-        "fa",
-        "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmbhsfeusxt5sefy",
-      "title": "Loch Lomond",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "do",
-        "re",
-        "mi",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmbhudldaldzzsd1",
       "title": "Is Iomaidh Coiscéim Fada",
       "source": "PDMX — publicdomain",
@@ -3466,24 +2842,6 @@
         "mi",
         "fa",
         "so"
-      ]
-    },
-    {
-      "id": "pdmx-qmbi4kbcdcmhvv2s",
-      "title": "Ash Grove",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "mi",
-        "fa",
-        "re",
-        "ti",
-        "la"
       ]
     },
     {
@@ -3594,23 +2952,6 @@
       ]
     },
     {
-      "id": "pdmx-qmbk1pt2qwj4po4z",
-      "title": "Whisky in the Jar",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "so",
-        "la",
-        "ti",
-        "do",
-        "re"
-      ]
-    },
-    {
       "id": "pdmx-qmbk4rvd9qngebdw",
       "title": "Dyma Gariad - Here is Love",
       "source": "PDMX — publicdomain",
@@ -3625,24 +2966,6 @@
         "la",
         "do",
         "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmbkgqqshh79ptop",
-      "title": "Whiskey in the jar",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "mi",
-        "do",
-        "ti",
-        "re",
-        "fa"
       ]
     },
     {
@@ -3930,24 +3253,6 @@
       ]
     },
     {
-      "id": "pdmx-qmbqexd9gqwwzalf",
-      "title": "Georgia Railroad",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "re",
-        "mi",
-        "do",
-        "la",
-        "so",
-        "ti",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmbqfbxkfbstryjt",
       "title": "Go to the Devil and shake yourself",
       "source": "PDMX — publicdomain",
@@ -4084,41 +3389,6 @@
         "so",
         "do",
         "re",
-        "ti",
-        "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmbs5rouhmemp7zc",
-      "title": "Rondeau d'Ernest Lurdes 2",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "do",
-        "so",
-        "la",
-        "re",
-        "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmbs8od7p7wj63a1",
-      "title": "Ballincollig in the morning",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "fa",
-        "so",
-        "re",
-        "do",
         "ti",
         "la"
       ]
@@ -4316,24 +3586,6 @@
       ]
     },
     {
-      "id": "pdmx-qmbvgzqabe97goyk",
-      "title": "Oh no John",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "fa",
-        "mi",
-        "ti",
-        "la"
-      ]
-    },
-    {
       "id": "pdmx-qmbvwcsk9oigx7on",
       "title": "Three Around Three",
       "source": "PDMX — publicdomain",
@@ -4437,24 +3689,6 @@
         "mi",
         "re",
         "fa",
-        "la",
-        "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmbxs9kagcvvczmq",
-      "title": "Montanyes del canigo",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "re",
-        "mi",
-        "fa",
-        "so",
         "la",
         "ti"
       ]
@@ -4602,42 +3836,6 @@
       ]
     },
     {
-      "id": "pdmx-qmbzsfqjvbvdlan9",
-      "title": "Whiskey in the jar",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "mi",
-        "ti",
-        "do",
-        "fa",
-        "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmc1rf5affypjjr4",
-      "title": "Le petit bossu",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "do",
-        "re",
-        "mi",
-        "fa",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qmc4crhkjfpq3qt5",
       "title": "The Happy Meeting",
       "source": "PDMX — publicdomain",
@@ -4651,24 +3849,6 @@
         "do",
         "la",
         "ti",
-        "re",
-        "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmc4gqsujikh8ajb",
-      "title": "The Spalpeen Fanach",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "ti",
-        "la",
-        "so",
-        "mi",
         "re",
         "fa"
       ]
@@ -4866,24 +4046,6 @@
       ]
     },
     {
-      "id": "pdmx-qmcabo2pbmhvc9dz",
-      "title": "Can Wassel",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "mi",
-        "do",
-        "la",
-        "fa",
-        "re",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qmcadthazvcbjzyc",
       "title": "Morgonstund",
       "source": "PDMX — publicdomain",
@@ -4916,24 +4078,6 @@
         "do",
         "re",
         "la",
-        "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmcaqwnemgnmfzr4",
-      "title": "O'Dwyer's reel",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "fa",
-        "mi",
-        "so",
-        "do",
-        "la",
-        "re",
         "ti"
       ]
     },
@@ -5027,24 +4171,6 @@
       ]
     },
     {
-      "id": "pdmx-qmcdcmtm74zbfdpc",
-      "title": "Carnevale di Venezia",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "fa",
-        "mi",
-        "re",
-        "do",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qmcddk9wkkalbcu7",
       "title": "How are you Kitty?",
       "source": "PDMX — publicdomain",
@@ -5060,41 +4186,6 @@
         "re",
         "fa",
         "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmcdgufkv8vjms38",
-      "title": "An Cailín Gaelach",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "re",
-        "mi",
-        "fa",
-        "so",
-        "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmcdjccykbo5mxct",
-      "title": "Girl with the Blue Dress On",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "fa",
-        "so",
-        "re",
-        "do",
-        "ti",
-        "la"
       ]
     },
     {
@@ -5165,24 +4256,6 @@
         "so",
         "la",
         "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmcf1tjjucuvcbwb",
-      "title": "The dairy maid",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "re",
-        "do",
-        "ti",
-        "so",
-        "la",
-        "mi",
-        "fa"
       ]
     },
     {
@@ -5272,24 +4345,6 @@
         "fa",
         "so",
         "la",
-        "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmchtejdtak4gneo",
-      "title": "Renfro Valley - 111",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "re",
-        "do",
-        "so",
-        "la",
-        "fa",
         "ti"
       ]
     },
@@ -5416,24 +4471,6 @@
         "la",
         "re",
         "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmcjihjhhqr4gpr7",
-      "title": "?",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "fa",
-        "so",
-        "do",
-        "re",
-        "ti",
-        "la"
       ]
     },
     {
@@ -6016,24 +5053,6 @@
       ]
     },
     {
-      "id": "pdmx-qmd1njxy1ramrjml",
-      "title": "The field of flowers",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "re",
-        "do",
-        "ti",
-        "la",
-        "so",
-        "mi",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmd2sskpybfiuq1j",
       "title": "Gort met stroop",
       "source": "PDMX — publicdomain",
@@ -6158,22 +5177,6 @@
       ]
     },
     {
-      "id": "pdmx-qmd4noqudnfoaqbq",
-      "title": "De Kolom",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "mi",
-        "re",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmd5nty8fbufgqae",
       "title": "Harper's Frolic",
       "source": "PDMX — publicdomain",
@@ -6282,24 +5285,6 @@
       ]
     },
     {
-      "id": "pdmx-qmd8hjstrq7xaghl",
-      "title": "Tzena Tzena",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "mi",
-        "so",
-        "fa",
-        "re",
-        "la",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qmd8smsafq98dbzc",
       "title": "Wild mountain thyme",
       "source": "PDMX — publicdomain",
@@ -6388,23 +5373,6 @@
       ]
     },
     {
-      "id": "pdmx-qmdbbmvwn9s7pmbm",
-      "title": "Down in the valley",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "mi",
-        "ti",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmdbfncvj9sibe18",
       "title": "We Wish You a Merry Christmas",
       "source": "PDMX — publicdomain",
@@ -6419,23 +5387,6 @@
         "ti",
         "la",
         "mi",
-        "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmdce2wrcqw4n3yy",
-      "title": "Brothen i'r Buarth",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "re",
-        "mi",
-        "ti",
-        "so",
         "fa"
       ]
     },
@@ -6541,58 +5492,6 @@
         "fa",
         "re",
         "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmdfk74ipmhbxnzk",
-      "title": "Go to the Well for Water.",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "mi",
-        "re",
-        "do",
-        "la",
-        "fa",
-        "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmdfkmhscche4ovq",
-      "title": "The merry maiden",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "la",
-        "so",
-        "mi",
-        "re",
-        "ti",
-        "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmdfkyutgfjrgzjh",
-      "title": "John Henry",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "la",
-        "so",
-        "mi",
-        "fa"
       ]
     },
     {
@@ -6734,60 +5633,6 @@
         "la",
         "so",
         "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmdik9urfztae5qu",
-      "title": "Bourrée d'Armes",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "mi",
-        "fa",
-        "ti",
-        "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmdivev2msprk9kw",
-      "title": "Vieni sul mar",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "re",
-        "do",
-        "la",
-        "fa",
-        "so",
-        "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmdjkqsovlzv2ahe",
-      "title": "When you go home",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "ti",
-        "so",
-        "la",
-        "fa",
-        "re",
-        "mi"
       ]
     },
     {
@@ -6984,24 +5829,6 @@
       ]
     },
     {
-      "id": "pdmx-qmdotjp1ctgjzg85",
-      "title": "Exercise - Cielito Lindo",
-      "source": "PDMX — cc-zero",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "la",
-        "ti",
-        "so",
-        "fa",
-        "re",
-        "mi"
-      ]
-    },
-    {
       "id": "pdmx-qmdpcv4zfcpy8az6",
       "title": "Country Waltz",
       "source": "PDMX — publicdomain",
@@ -7071,24 +5898,6 @@
         "so",
         "fa",
         "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmdqsy8q4iv6hbeu",
-      "title": "All Praise to Saint Patrick",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "mi",
-        "fa",
-        "la",
-        "ti"
       ]
     },
     {
@@ -7269,24 +6078,6 @@
       ]
     },
     {
-      "id": "pdmx-qmdvmxv8b17lfrpk",
-      "title": "Der Morgenstern ist aufgegangen",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "mi",
-        "do",
-        "re",
-        "fa",
-        "ti",
-        "la"
-      ]
-    },
-    {
       "id": "pdmx-qmdwdjfhfky3m2xg",
       "title": "Cahiramee",
       "source": "PDMX — publicdomain",
@@ -7338,23 +6129,6 @@
         "ti",
         "fa",
         "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmdxqx2mykzyz22b",
-      "title": "Canu Cwnsela (Wassail Song) (Mari Lwyd)",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "la",
-        "do",
-        "ti",
-        "re",
-        "so"
       ]
     },
     {
@@ -7428,24 +6202,6 @@
       ]
     },
     {
-      "id": "pdmx-qmdygvtzzulsfepu",
-      "title": "La balancelle",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "ti",
-        "re",
-        "mi",
-        "fa",
-        "la"
-      ]
-    },
-    {
       "id": "pdmx-qmdyu28kqzpn9kwh",
       "title": "Streets of Laredo",
       "source": "PDMX — publicdomain",
@@ -7478,24 +6234,6 @@
         "la",
         "ti",
         "do"
-      ]
-    },
-    {
-      "id": "pdmx-qmdzwvedehady33h",
-      "title": "Home on the range",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "mi",
-        "ti",
-        "la",
-        "fa"
       ]
     },
     {
@@ -7764,24 +6502,6 @@
       ]
     },
     {
-      "id": "pdmx-qme8eysxvj6r9aei",
-      "title": "Petronella",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "so",
-        "re",
-        "do",
-        "ti",
-        "la",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qme8uhodkwmggjgl",
       "title": "Llanthony Abbey",
       "source": "PDMX — publicdomain",
@@ -7941,40 +6661,6 @@
       ]
     },
     {
-      "id": "pdmx-qmebqstjtzkkxjqc",
-      "title": "Bourrée du gagne-pain",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "fa",
-        "so",
-        "la",
-        "re",
-        "do"
-      ]
-    },
-    {
-      "id": "pdmx-qmebycdkwtu2txzp",
-      "title": "Drink to Me Only with Thine Eyes",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "fa",
-        "so",
-        "re",
-        "do",
-        "la"
-      ]
-    },
-    {
       "id": "pdmx-qmecbrnshyhve44x",
       "title": "Biwmares March",
       "source": "PDMX — publicdomain",
@@ -8059,23 +6745,6 @@
       ]
     },
     {
-      "id": "pdmx-qmeehbcx6ggzxzdb",
-      "title": "De Snijdersbank",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "mi",
-        "so",
-        "la",
-        "fa",
-        "re"
-      ]
-    },
-    {
       "id": "pdmx-qmeemnzmrwjvlbb4",
       "title": "Crusader's march",
       "source": "PDMX — publicdomain",
@@ -8142,24 +6811,6 @@
         "la",
         "re",
         "do"
-      ]
-    },
-    {
-      "id": "pdmx-qmef4ouc8pbhum1n",
-      "title": "Iron Legs",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "fa",
-        "mi",
-        "re",
-        "do",
-        "la",
-        "ti"
       ]
     },
     {
@@ -8234,24 +6885,6 @@
       ]
     },
     {
-      "id": "pdmx-qmeg2zptz3pz4wcw",
-      "title": "All For Me Grog",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "re",
-        "do",
-        "ti",
-        "la",
-        "so",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmegwfhatlsna1lq",
       "title": "Lei courdelo",
       "source": "PDMX — publicdomain",
@@ -8301,24 +6934,6 @@
         "so",
         "fa",
         "mi",
-        "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmeile2scs5bgm9y",
-      "title": "Beautiful Beautiful Brown Eyes",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "do",
-        "re",
-        "fa",
-        "so",
-        "la",
         "ti"
       ]
     },
@@ -8387,23 +7002,6 @@
         "so",
         "do",
         "ti",
-        "re",
-        "mi",
-        "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmekvmytr3kvmqnc",
-      "title": "Sergt. Cahill's favorite",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "do",
         "re",
         "mi",
         "fa"
@@ -8565,24 +7163,6 @@
       ]
     },
     {
-      "id": "pdmx-qmeowdw8tspkk8bq",
-      "title": "The Sweets of May",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "fa",
-        "mi",
-        "re",
-        "do",
-        "ti",
-        "la"
-      ]
-    },
-    {
       "id": "pdmx-qmepkumnxjxgseob",
       "title": "Harlequin Air",
       "source": "PDMX — publicdomain",
@@ -8636,59 +7216,6 @@
       ]
     },
     {
-      "id": "pdmx-qmeqcnf6ebkfkmmm",
-      "title": "Bourrée d'Arleuf",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "ti",
-        "do",
-        "mi",
-        "re",
-        "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmeqdaahwzbmeyjh",
-      "title": "I'll neither spin nor weave",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "fa",
-        "mi",
-        "re",
-        "do",
-        "ti",
-        "so",
-        "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmeqnvhrwxgxbuut",
-      "title": "Acres of clams",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "mi",
-        "re",
-        "la",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qmeqsznnog3j8was",
       "title": "Hunting the hare",
       "source": "PDMX — publicdomain",
@@ -8725,23 +7252,6 @@
       ]
     },
     {
-      "id": "pdmx-qmerzjsfvqa5sj86",
-      "title": "Alouette",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "re",
-        "mi",
-        "so",
-        "fa",
-        "la"
-      ]
-    },
-    {
       "id": "pdmx-qmet5qgrvtioh3ar",
       "title": "Galloway House",
       "source": "PDMX — publicdomain",
@@ -8775,24 +7285,6 @@
         "fa",
         "la",
         "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmeuk9b6gb34s6p5",
-      "title": "The mooncoin jig",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "re",
-        "do",
-        "ti",
-        "la",
-        "so",
-        "fa",
-        "mi"
       ]
     },
     {
@@ -8865,23 +7357,6 @@
         "mi",
         "re",
         "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmevs3wvgjpyeqhg",
-      "title": "La bergère de Coulandon",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "fa",
-        "mi",
-        "re",
-        "so",
-        "do",
-        "ti"
       ]
     },
     {
@@ -9042,24 +7517,6 @@
         "la",
         "so",
         "fa",
-        "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmexuudqzdtkxsgm",
-      "title": "the Sailor at the Bow",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "so",
-        "mi",
-        "re",
-        "fa",
-        "la",
         "ti"
       ]
     },
@@ -9516,24 +7973,6 @@
       ]
     },
     {
-      "id": "pdmx-qmfcs7x56go2nkya",
-      "title": "The Kilfinane jig",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "la",
-        "so",
-        "mi",
-        "ti",
-        "fa",
-        "re"
-      ]
-    },
-    {
       "id": "pdmx-qmfctyifzdu4piww",
       "title": "Thanksgiving Pie",
       "source": "PDMX — publicdomain",
@@ -9567,24 +8006,6 @@
         "ti",
         "fa",
         "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmfdh4iqh9ngwtko",
-      "title": "The Bantry lasses",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "so",
-        "do",
-        "fa",
-        "re",
-        "la",
-        "ti"
       ]
     },
     {
@@ -9706,24 +8127,6 @@
         "re",
         "ti",
         "la",
-        "mi",
-        "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmfhvzjnasgxperm",
-      "title": "Prince Eugene",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "ti",
-        "la",
-        "so",
-        "re",
         "mi",
         "fa"
       ]
@@ -10175,24 +8578,6 @@
       ]
     },
     {
-      "id": "pdmx-qmnct97ebg17gkt3",
-      "title": "Belly Wassail",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "re",
-        "mi",
-        "fa",
-        "so",
-        "la",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qmndwqjwyfa3pb8u",
       "title": "The Mason's Apron (A70)",
       "source": "PDMX — publicdomain",
@@ -10281,24 +8666,6 @@
       ]
     },
     {
-      "id": "pdmx-qmnfxfqsq7ygxgd3",
-      "title": "What ails you?",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "mi",
-        "ti",
-        "la",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmnhibpkemhavah5",
       "title": "Church Hill",
       "source": "PDMX — publicdomain",
@@ -10335,24 +8702,6 @@
       ]
     },
     {
-      "id": "pdmx-qmnkuhpoe3ggpdaa",
-      "title": "Red Wing",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "mi",
-        "fa",
-        "la",
-        "re",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qmnlp3rdz8zlff8x",
       "title": "The fisherman's widow",
       "source": "PDMX — publicdomain",
@@ -10368,23 +8717,6 @@
         "ti",
         "la",
         "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmnlx7u9uusofxby",
-      "title": "Raglan Road",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "re",
-        "mi",
-        "so",
-        "la",
-        "fa"
       ]
     },
     {
@@ -10421,24 +8753,6 @@
         "fa",
         "re",
         "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmnmugsudi8ey7pm",
-      "title": "Getting Upstairs - Hinton",
-      "source": "PDMX — cc-zero",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "fa",
-        "mi",
-        "do",
-        "ti",
-        "re",
-        "la"
       ]
     },
     {
@@ -10514,24 +8828,6 @@
       ]
     },
     {
-      "id": "pdmx-qmnpjq7xttryscvn",
-      "title": "Shandon bells",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "so",
-        "mi",
-        "do",
-        "re",
-        "ti",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmnr8r4g3mjydxte",
       "title": "Exercise - The Itsy Bitsy Spider",
       "source": "PDMX — cc-zero",
@@ -10562,24 +8858,6 @@
         "do",
         "la",
         "ti",
-        "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmnrvznx7m5gmuau",
-      "title": "Morpeth Rant",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "ti",
-        "do",
-        "fa",
-        "mi",
         "re"
       ]
     },
@@ -10672,24 +8950,6 @@
       ]
     },
     {
-      "id": "pdmx-qmntd6j7kwd7met8",
-      "title": "Se min kjole",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "re",
-        "ti",
-        "la",
-        "mi",
-        "so",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmnucgehuy5pozts",
       "title": "Strikkevise",
       "source": "PDMX — publicdomain",
@@ -10721,24 +8981,6 @@
         "la",
         "re",
         "do"
-      ]
-    },
-    {
-      "id": "pdmx-qmnuyvimsw1z75kc",
-      "title": "Farandole de Lantosque",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "fa",
-        "so",
-        "la",
-        "re",
-        "do",
-        "ti"
       ]
     },
     {
@@ -10796,42 +9038,6 @@
       ]
     },
     {
-      "id": "pdmx-qmnxr8m5s12sdwcr",
-      "title": "Bourrée",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "ti",
-        "la",
-        "re",
-        "fa",
-        "mi"
-      ]
-    },
-    {
-      "id": "pdmx-qmnyaos83otbuqvx",
-      "title": "In Babilone: Bass",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "mi",
-        "la",
-        "re",
-        "fa",
-        "so",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qmnyeasgd3gvcvn1",
       "title": "Harpers Frolick",
       "source": "PDMX — publicdomain",
@@ -10847,24 +9053,6 @@
         "ti",
         "re",
         "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmnyffuug9ukgymj",
-      "title": "The humors of Cavan",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "la",
-        "mi",
-        "fa",
-        "ti",
-        "re"
       ]
     },
     {
@@ -10956,24 +9144,6 @@
       ]
     },
     {
-      "id": "pdmx-qmp1bacmjv6psrkb",
-      "title": "John Brown's Body",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "mi",
-        "do",
-        "re",
-        "la",
-        "ti",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmp4zxooxwoaqtg2",
       "title": "Russian folksong",
       "source": "PDMX — publicdomain",
@@ -11061,24 +9231,6 @@
       ]
     },
     {
-      "id": "pdmx-qmp8fvfselwitrd4",
-      "title": "Lord Franklin",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "mi",
-        "la",
-        "fa",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qmp8hxxxgpaotjmf",
       "title": "John White's mother",
       "source": "PDMX — publicdomain",
@@ -11094,41 +9246,6 @@
         "ti",
         "la",
         "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmp8uvzbjy7y5m4z",
-      "title": "On top of old Smokey",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "mi",
-        "so",
-        "la",
-        "fa",
-        "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmp9zsy9iz4cqnxx",
-      "title": "When Cloe",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "so",
-        "mi",
-        "re",
-        "fa",
-        "la",
-        "ti"
       ]
     },
     {
@@ -11221,40 +9338,6 @@
       ]
     },
     {
-      "id": "pdmx-qmpcjuqi3sur7gue",
-      "title": "Pay Me My Money Down",
-      "source": "PDMX — cc-zero",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "mi",
-        "fa",
-        "re",
-        "do"
-      ]
-    },
-    {
-      "id": "pdmx-qmpcwwdvp53zdb4d",
-      "title": "The flowers of Dungarvan",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "fa",
-        "so",
-        "mi",
-        "do",
-        "la",
-        "re",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qmpdtemvjaebf6j1",
       "title": "Herleg ein sommardag",
       "source": "PDMX — publicdomain",
@@ -11305,22 +9388,6 @@
         "fa",
         "re",
         "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmpf6iyjclu81poj",
-      "title": "Everybody loves Saturday night",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "re",
-        "mi",
-        "so",
-        "fa"
       ]
     },
     {
@@ -11660,23 +9727,6 @@
       ]
     },
     {
-      "id": "pdmx-qmpmrxm5kjhv8wd9",
-      "title": "Whisky in the Jar",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "so",
-        "la",
-        "ti",
-        "do",
-        "re"
-      ]
-    },
-    {
       "id": "pdmx-qmpmzjdtxyjptth9",
       "title": "The gentle maiden",
       "source": "PDMX — publicdomain",
@@ -11911,24 +9961,6 @@
       ]
     },
     {
-      "id": "pdmx-qmpq6qppdgxnary9",
-      "title": "Venosc",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "ti",
-        "la",
-        "so",
-        "re",
-        "mi",
-        "fa",
-        "do"
-      ]
-    },
-    {
       "id": "pdmx-qmpqfn67ygy5lkqm",
       "title": "Bourrée de Creuse",
       "source": "PDMX — publicdomain",
@@ -12068,24 +10100,6 @@
       ]
     },
     {
-      "id": "pdmx-qmpt6u3gswvmsga2",
-      "title": "Mount Hills",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "mi",
-        "re",
-        "ti",
-        "fa",
-        "la"
-      ]
-    },
-    {
       "id": "pdmx-qmptdpxw68xktn6g",
       "title": "Clemetine",
       "source": "PDMX — publicdomain",
@@ -12121,24 +10135,6 @@
       ]
     },
     {
-      "id": "pdmx-qmpujjpcwajzw5zv",
-      "title": "En passant par la Lorraine",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "so",
-        "la",
-        "fa",
-        "mi",
-        "re",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qmpuohsueywpin3b",
       "title": "Vinne vinne n\\ostegarn",
       "source": "PDMX — publicdomain",
@@ -12153,24 +10149,6 @@
         "mi",
         "re",
         "do"
-      ]
-    },
-    {
-      "id": "pdmx-qmpuue9fpezpuay2",
-      "title": "Endearing Young Charms",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "re",
-        "do",
-        "so",
-        "fa",
-        "la",
-        "ti"
       ]
     },
     {
@@ -12207,42 +10185,6 @@
         "fa",
         "mi",
         "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmpvygbzgtuwilt4",
-      "title": "Whiskey in the Jar",
-      "source": "PDMX — cc-zero",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "mi",
-        "ti",
-        "do",
-        "re",
-        "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmpwbutcjkekx6xm",
-      "title": "The South Wind",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "fa",
-        "mi",
-        "re",
-        "do",
-        "so",
-        "la",
-        "ti"
       ]
     },
     {
@@ -12388,23 +10330,6 @@
       ]
     },
     {
-      "id": "pdmx-qmpzyb1lsxalaprv",
-      "title": "Raglan Road",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "re",
-        "mi",
-        "so",
-        "la",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmq1rvjxrzhxsjtj",
       "title": "La dame du Poivre",
       "source": "PDMX — publicdomain",
@@ -12458,23 +10383,6 @@
       ]
     },
     {
-      "id": "pdmx-qmq6oqzxsffafrs8",
-      "title": "Drink To Me Only With Thine Eyes",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "fa",
-        "so",
-        "re",
-        "do",
-        "la"
-      ]
-    },
-    {
       "id": "pdmx-qmq6sckfd7estppe",
       "title": "The vicar of Bray",
       "source": "PDMX — publicdomain",
@@ -12525,23 +10433,6 @@
         "mi",
         "do",
         "ti",
-        "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmqaongt7lefzppq",
-      "title": "Valse à 5 temps",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "ti",
-        "re",
-        "mi",
         "fa"
       ]
     },
@@ -12897,24 +10788,6 @@
       ]
     },
     {
-      "id": "pdmx-qmqjmj1bj1swzcp1",
-      "title": "The Duke of Atholl's Reel",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "fa",
-        "so",
-        "do",
-        "re",
-        "la",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qmqkxd6xrsertbvc",
       "title": "Linhope Loup",
       "source": "PDMX — publicdomain",
@@ -13072,23 +10945,6 @@
       ]
     },
     {
-      "id": "pdmx-qmqoq3jgf1y9szdg",
-      "title": "Boholla Jig",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "re",
-        "so",
-        "la",
-        "fa",
-        "do",
-        "mi"
-      ]
-    },
-    {
       "id": "pdmx-qmqpuj7grbxlm4m7",
       "title": "Roselil og hendes moder",
       "source": "PDMX — publicdomain",
@@ -13227,24 +11083,6 @@
         "re",
         "ti",
         "do"
-      ]
-    },
-    {
-      "id": "pdmx-qmqspjtd9zndks43",
-      "title": "Tarpaulin Jacket",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "mi",
-        "re",
-        "la",
-        "fa",
-        "ti"
       ]
     },
     {
@@ -13425,24 +11263,6 @@
       ]
     },
     {
-      "id": "pdmx-qmqxgytzzx6kbkgw",
-      "title": "Langt ud' i skoven",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "fa",
-        "re",
-        "do",
-        "ti",
-        "la",
-        "so"
-      ]
-    },
-    {
       "id": "pdmx-qmqxmfkemlapmmt8",
       "title": "Scottiche des Causses",
       "source": "PDMX — publicdomain",
@@ -13457,23 +11277,6 @@
         "do",
         "re",
         "mi",
-        "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmqyeqvangvh2py5",
-      "title": "Cotton-Eyed Joe - 13",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "re",
-        "mi",
-        "so",
-        "la",
         "fa"
       ]
     },
@@ -13986,24 +11789,6 @@
       ]
     },
     {
-      "id": "pdmx-qmrhz1zwmg5brmn4",
-      "title": "Bour\\'ee",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "fa",
-        "so",
-        "la",
-        "do",
-        "ti",
-        "re"
-      ]
-    },
-    {
       "id": "pdmx-qmrj92wggq8kaeyh",
       "title": "Italian tune",
       "source": "PDMX — publicdomain",
@@ -14051,24 +11836,6 @@
         "la",
         "re",
         "do"
-      ]
-    },
-    {
-      "id": "pdmx-qmrlxq26uhroo5e2",
-      "title": "Cowboy's Jig",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "re",
-        "do",
-        "so",
-        "la",
-        "ti",
-        "fa"
       ]
     },
     {
@@ -14158,24 +11925,6 @@
         "la",
         "fa",
         "mi"
-      ]
-    },
-    {
-      "id": "pdmx-qmro5gtxuvcqptdw",
-      "title": "L'anneau tombé dans l'eau",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "mi",
-        "fa",
-        "la",
-        "ti"
       ]
     },
     {
@@ -14336,24 +12085,6 @@
       ]
     },
     {
-      "id": "pdmx-qmrqgufnnkg3y4zc",
-      "title": "Mazurka",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "ti",
-        "mi",
-        "re",
-        "fa",
-        "la"
-      ]
-    },
-    {
       "id": "pdmx-qmrss9akh4fftrwj",
       "title": "Rosy Finn's Favorite",
       "source": "PDMX — publicdomain",
@@ -14498,24 +12229,6 @@
       ]
     },
     {
-      "id": "pdmx-qmrvgr3tvtcvaqsu",
-      "title": "the Wind-Baby.",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "ti",
-        "do",
-        "re",
-        "mi",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmrvhuhbjvtbagta",
       "title": "Mon",
       "source": "PDMX — publicdomain",
@@ -14636,23 +12349,6 @@
         "do",
         "ti",
         "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmrza983eoav8uw6",
-      "title": "You Are My Sunshine",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "mi",
-        "fa",
-        "la"
       ]
     },
     {
@@ -14797,40 +12493,6 @@
       ]
     },
     {
-      "id": "pdmx-qmsakuwacrschixn",
-      "title": "Amigos",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "fa",
-        "so",
-        "la",
-        "re",
-        "do"
-      ]
-    },
-    {
-      "id": "pdmx-qmsbxzhqjde2bysf",
-      "title": "Goin' down that road",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "mi",
-        "la",
-        "re",
-        "do",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmscwbdlfpxcnktw",
       "title": "Soldiers Joy",
       "source": "PDMX — publicdomain",
@@ -14881,24 +12543,6 @@
         "fa",
         "so",
         "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmsdtnja1hs6zvs8",
-      "title": "Gathering Peascods",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "mi",
-        "fa",
-        "la",
-        "re",
-        "do",
-        "ti"
       ]
     },
     {
@@ -14953,23 +12597,6 @@
         "mi",
         "re",
         "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmsfjmb2k5jzgmzt",
-      "title": "La belle ressuscitée",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "mi",
-        "fa",
-        "la"
       ]
     },
     {
@@ -15041,23 +12668,6 @@
         "re",
         "so",
         "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmsjkpog9gsz5zzt",
-      "title": "Gar\\c{c}ons de la Montagne",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "fa",
-        "mi",
-        "la",
-        "re",
-        "do"
       ]
     },
     {
@@ -15203,24 +12813,6 @@
       ]
     },
     {
-      "id": "pdmx-qmspzhrscpvebl5m",
-      "title": "Soltrall",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "mi",
-        "re",
-        "ti",
-        "do",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmssb4tujfx7qs5z",
       "title": "Blaydon Races",
       "source": "PDMX — publicdomain",
@@ -15310,42 +12902,6 @@
       ]
     },
     {
-      "id": "pdmx-qmsufge5dhnqv3p2",
-      "title": "La Péronnelle",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "re",
-        "mi",
-        "la",
-        "ti",
-        "so",
-        "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmsuvm5eh41rlefu",
-      "title": "Tommy Reck's polka",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "mi",
-        "fa",
-        "re",
-        "ti",
-        "la"
-      ]
-    },
-    {
       "id": "pdmx-qmsuwmahfceeudqz",
       "title": "Blackthorn Stick",
       "source": "PDMX — publicdomain",
@@ -15415,42 +12971,6 @@
       ]
     },
     {
-      "id": "pdmx-qmsxeb2qbchhujxk",
-      "title": "Going to the Well for Water",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "ti",
-        "la",
-        "so",
-        "mi",
-        "re",
-        "do",
-        "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmsydhnrghu9uwwp",
-      "title": "Sweet nightingale",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "fa",
-        "mi",
-        "la",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qmsz4fy77sc8rkjb",
       "title": "Castell Caernarfon",
       "source": "PDMX — publicdomain",
@@ -15465,24 +12985,6 @@
         "la",
         "re",
         "ti",
-        "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmsznlrnrzareshx",
-      "title": "St Marc - Lei gràci de St Marc",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "ti",
-        "do",
-        "re",
-        "mi",
         "fa"
       ]
     },
@@ -15554,24 +13056,6 @@
         "re",
         "mi",
         "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmt3cnw9ydshhzdr",
-      "title": "Bríd Óg Ní Mhaille",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "re",
-        "mi",
-        "fa",
-        "so",
-        "la",
-        "ti"
       ]
     },
     {
@@ -15663,24 +13147,6 @@
       ]
     },
     {
-      "id": "pdmx-qmtabarbsrkr94xk",
-      "title": "le rondo du tambour",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "so",
-        "la",
-        "ti",
-        "fa",
-        "mi",
-        "re"
-      ]
-    },
-    {
       "id": "pdmx-qmtbqfxddmyij9gb",
       "title": "Up Jumped The Devil",
       "source": "PDMX — publicdomain",
@@ -15714,24 +13180,6 @@
         "ti",
         "do",
         "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmtbwwtuygjcftje",
-      "title": "Whiskey in the jar",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "mi",
-        "ti",
-        "do",
-        "re",
-        "fa"
       ]
     },
     {
@@ -15839,24 +13287,6 @@
         "mi",
         "fa",
         "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmtdsdhcncokaqxi",
-      "title": "Open the door for three",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "fa",
-        "mi",
-        "re",
-        "ti",
-        "la"
       ]
     },
     {
@@ -16035,24 +13465,6 @@
       ]
     },
     {
-      "id": "pdmx-qmtkfvawvguu1anv",
-      "title": "The Water is Wide",
-      "source": "PDMX — cc-zero",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "mi",
-        "la",
-        "ti",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmtkkigdnewvbgcf",
       "title": "The Rakes Of Mallow",
       "source": "PDMX — publicdomain",
@@ -16143,24 +13555,6 @@
       ]
     },
     {
-      "id": "pdmx-qmtnaz32wha6aw3g",
-      "title": "Valse des po\\eles",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "re",
-        "mi",
-        "fa",
-        "do",
-        "so",
-        "la",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qmtnnywj1enmwc6h",
       "title": "L'Arquenniere",
       "source": "PDMX — cc-zero",
@@ -16176,23 +13570,6 @@
         "re",
         "fa",
         "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmtov9lpju7namen",
-      "title": "The Raggle Taggle Gypsies",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "so",
-        "do",
-        "la",
-        "re",
-        "fa"
       ]
     },
     {
@@ -16315,23 +13692,6 @@
         "mi",
         "ti",
         "do"
-      ]
-    },
-    {
-      "id": "pdmx-qmtvrfp4vgntkugd",
-      "title": "Mary Ann",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "so",
-        "do",
-        "re",
-        "fa",
-        "ti"
       ]
     },
     {
@@ -16594,24 +13954,6 @@
         "re",
         "do",
         "ti",
-        "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmu4kfdiy9e49hrx",
-      "title": "Mens mannen var ute etter \\ol",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "mi",
-        "ti",
-        "re",
-        "fa",
         "la"
       ]
     },
@@ -17074,23 +14416,6 @@
       ]
     },
     {
-      "id": "pdmx-qmunew8sa9pfqji5",
-      "title": "Picking of Sticks",
-      "source": "PDMX — cc-zero",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "mi",
-        "fa",
-        "so",
-        "re",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qmunqm3swyhnh6we",
       "title": "Air de la Gauotte",
       "source": "PDMX — publicdomain",
@@ -17124,23 +14449,6 @@
         "mi",
         "re",
         "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmuphimx8g1ueqxh",
-      "title": "Lei cièucle",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "mi",
-        "fa",
-        "la"
       ]
     },
     {
@@ -17268,24 +14576,6 @@
       ]
     },
     {
-      "id": "pdmx-qmus4z5tlk2714xw",
-      "title": "She'll Be Coming Round The Mountain",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "do",
-        "mi",
-        "re",
-        "fa",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qmusonkeuyf7yeg4",
       "title": "Fillettes de Libourne",
       "source": "PDMX — publicdomain",
@@ -17407,24 +14697,6 @@
       ]
     },
     {
-      "id": "pdmx-qmuy3zqxgvusmhhy",
-      "title": "Father Jack Walsh",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "re",
-        "mi",
-        "ti",
-        "so",
-        "la",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmuyerluwec3p27x",
       "title": "Salmon Tails Up the Water",
       "source": "PDMX — publicdomain",
@@ -17531,23 +14803,6 @@
       ]
     },
     {
-      "id": "pdmx-qmv5eskuxzfjteo9",
-      "title": "Leezie Lindsay",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "mi",
-        "la",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qmv8cmyoidreuvap",
       "title": "A night at the fair",
       "source": "PDMX — publicdomain",
@@ -17601,24 +14856,6 @@
       ]
     },
     {
-      "id": "pdmx-qmv9laaek3te8vfo",
-      "title": "The marine's hymn",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "mi",
-        "so",
-        "fa",
-        "re",
-        "ti",
-        "la"
-      ]
-    },
-    {
       "id": "pdmx-qmv9mkr68qmfh3cd",
       "title": "Ap Siencyn",
       "source": "PDMX — publicdomain",
@@ -17652,24 +14889,6 @@
         "so",
         "fa",
         "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmvbqy9ypfk7u1ar",
-      "title": "Pwy Fydd Yma ymhen Can Mlynedd",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "re",
-        "mi",
-        "la",
-        "so",
-        "ti",
-        "fa"
       ]
     },
     {
@@ -17742,57 +14961,6 @@
         "do",
         "ti",
         "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmveb883iae38gzw",
-      "title": "Six Nights Drunk",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "re",
-        "mi",
-        "so",
-        "la",
-        "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmvedbttdnxv5cgv",
-      "title": "Carol for Twelfth Day",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "re",
-        "mi",
-        "so",
-        "la",
-        "fa",
-        "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmveg6apv4ztjpfj",
-      "title": "Rondeau d'Ernest Lurdes 1",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "mi",
-        "fa",
-        "re",
-        "do"
       ]
     },
     {
@@ -17885,24 +15053,6 @@
       ]
     },
     {
-      "id": "pdmx-qmvk5knzsxhwu5ff",
-      "title": "Shenandoah",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "mi",
-        "fa",
-        "la",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qmvlww7cynwsrwbe",
       "title": "Sir Philip McHugh",
       "source": "PDMX — publicdomain",
@@ -17988,24 +15138,6 @@
         "la",
         "re",
         "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmvnvu868omwxs3k",
-      "title": "To brude om en brudgom",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "mi",
-        "re",
-        "fa",
-        "ti",
-        "la"
       ]
     },
     {
@@ -18168,42 +15300,6 @@
       ]
     },
     {
-      "id": "pdmx-qmvu71jzrrhdc84t",
-      "title": "Polka des Landes",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "ti",
-        "la",
-        "so",
-        "mi",
-        "re",
-        "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmvvedj3mywgqghc",
-      "title": "He's got the whole world in his hand",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "mi",
-        "do",
-        "la",
-        "fa",
-        "re",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qmvvxv7g41jhd3w8",
       "title": "Norsk dans",
       "source": "PDMX — publicdomain",
@@ -18240,42 +15336,6 @@
       ]
     },
     {
-      "id": "pdmx-qmvwruvbvv2evap9",
-      "title": "Turkey in the Straw",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "re",
-        "do",
-        "ti",
-        "fa",
-        "so",
-        "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmvwuche6fedvqzr",
-      "title": "The highlander",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "fa",
-        "mi",
-        "re",
-        "so",
-        "la",
-        "ti",
-        "do"
-      ]
-    },
-    {
       "id": "pdmx-qmvxdqznx9jwnvcs",
       "title": "Brighton Camp",
       "source": "PDMX — publicdomain",
@@ -18309,24 +15369,6 @@
         "fa",
         "la",
         "so"
-      ]
-    },
-    {
-      "id": "pdmx-qmvz9gajhfpbk9vc",
-      "title": "Horch was kommt von drau\\ssen rein",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "re",
-        "mi",
-        "fa",
-        "so",
-        "la",
-        "ti"
       ]
     },
     {
@@ -18523,24 +15565,6 @@
         "so",
         "fa",
         "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmwfmnabzhkfw7od",
-      "title": "Home on the Range",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "mi",
-        "ti",
-        "la",
-        "fa"
       ]
     },
     {
@@ -18803,24 +15827,6 @@
       ]
     },
     {
-      "id": "pdmx-qmwmwarwaryvz1tk",
-      "title": "Double Kisses",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "do",
-        "so",
-        "re",
-        "la",
-        "fa",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qmwmxydbnqq8b45p",
       "title": "The Sailors Are All At The Bar",
       "source": "PDMX — publicdomain",
@@ -18941,24 +15947,6 @@
       ]
     },
     {
-      "id": "pdmx-qmwqdv7tmk6gg8te",
-      "title": "Wyres Ned Pugh - Fair Ellen Pugh",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "fa",
-        "mi",
-        "re",
-        "do",
-        "ti",
-        "la"
-      ]
-    },
-    {
       "id": "pdmx-qmwqjwdpnrb2v1ae",
       "title": "I do not incline",
       "source": "PDMX — publicdomain",
@@ -19010,24 +15998,6 @@
         "ti",
         "la",
         "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmwrwxwlwxfnlkjv",
-      "title": "G-Dur-Schleuniger 1",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "mi",
-        "re",
-        "ti",
-        "fa",
-        "la"
       ]
     },
     {
@@ -19206,42 +16176,6 @@
       ]
     },
     {
-      "id": "pdmx-qmwydosn81iyrqh3",
-      "title": "The bashful maid",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "mi",
-        "do",
-        "la",
-        "fa",
-        "re",
-        "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmwyvdnuxvkuvzhm",
-      "title": "En yndig og frydefuld sommertid",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "mi",
-        "fa",
-        "re",
-        "do",
-        "ti",
-        "la"
-      ]
-    },
-    {
       "id": "pdmx-qmwztxzbjjwskmwn",
       "title": "The green fields of America",
       "source": "PDMX — publicdomain",
@@ -19311,24 +16245,6 @@
       ]
     },
     {
-      "id": "pdmx-qmx3mxbaavhbuwju",
-      "title": "Matilda",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "mi",
-        "so",
-        "fa",
-        "la",
-        "ti",
-        "re"
-      ]
-    },
-    {
       "id": "pdmx-qmx45aigqdumt87i",
       "title": "The maid at the well",
       "source": "PDMX — publicdomain",
@@ -19378,41 +16294,6 @@
         "re",
         "do",
         "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmx718fnygaarzbr",
-      "title": "The Earl of Mansfield",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "re",
-        "do",
-        "so",
-        "fa",
-        "ti",
-        "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmx8bqqkcvf4oxwn",
-      "title": "Underjordisk melodi",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "re",
-        "so",
-        "mi",
-        "fa",
-        "ti"
       ]
     },
     {
@@ -19638,23 +16519,6 @@
         "fa",
         "re",
         "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmxk3m8cv6swedmn",
-      "title": "Captain Horne",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "re",
-        "mi",
-        "so",
-        "la",
-        "fa"
       ]
     },
     {
@@ -19889,23 +16753,6 @@
       ]
     },
     {
-      "id": "pdmx-qmxv666nr37hcuuw",
-      "title": "Nun wollen wir singen das Abendlied",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "fa",
-        "mi",
-        "la",
-        "re",
-        "do"
-      ]
-    },
-    {
       "id": "pdmx-qmxvduu73yelkutr",
       "title": "The admiral's hornpipe",
       "source": "PDMX — publicdomain",
@@ -19974,24 +16821,6 @@
       ]
     },
     {
-      "id": "pdmx-qmxwflxyz2dutdmc",
-      "title": "Prince Eugene",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "ti",
-        "la",
-        "so",
-        "re",
-        "mi",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmxwnectff1q4xa7",
       "title": "The Outlandish Knight",
       "source": "PDMX — publicdomain",
@@ -20042,24 +16871,6 @@
         "la",
         "mi",
         "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmxylfxtzn1fsfeu",
-      "title": "Hoffedd Syr Watcyn - Sir Watcyn's Fancy",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "mi",
-        "fa",
-        "re",
-        "ti",
-        "la"
       ]
     },
     {
@@ -20114,24 +16925,6 @@
         "ti",
         "fa",
         "mi"
-      ]
-    },
-    {
-      "id": "pdmx-qmxz7flxwkf6gwwy",
-      "title": "Bour\\'ee de la Chapelotte",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "fa",
-        "so",
-        "la",
-        "ti",
-        "do",
-        "re"
       ]
     },
     {
@@ -20235,24 +17028,6 @@
         "do",
         "fa",
         "so"
-      ]
-    },
-    {
-      "id": "pdmx-qmy7cwu9zuvsmuy4",
-      "title": "Gentle Maiden",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "ti",
-        "la",
-        "fa",
-        "mi"
       ]
     },
     {
@@ -20428,42 +17203,6 @@
         "ti",
         "fa",
         "mi",
-        "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmyerwvwvjvnrnpe",
-      "title": "Bourrée des Gars",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "mi",
-        "re",
-        "fa",
-        "ti",
-        "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmyeteqxyakatsq8",
-      "title": "Valse des Montagnes",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "so",
-        "fa",
-        "re",
-        "do",
-        "ti",
         "la"
       ]
     },
@@ -20694,24 +17433,6 @@
       ]
     },
     {
-      "id": "pdmx-qmyqfzrijfyojout",
-      "title": "The maid of Kinsale",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "mi",
-        "la",
-        "ti",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmyr5dkkut5iyubj",
       "title": "Ffigysbren (Clod)",
       "source": "PDMX — publicdomain",
@@ -20817,23 +17538,6 @@
       ]
     },
     {
-      "id": "pdmx-qmytzbsd7qdtgcod",
-      "title": "The Sally Gardens",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "re",
-        "mi",
-        "so",
-        "la",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qmyub4qrbftfhz9b",
       "title": "Trarira der Sommertag ist da!",
       "source": "PDMX — publicdomain",
@@ -20921,24 +17625,6 @@
         "so",
         "fa",
         "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmyxssr5jzggbxbj",
-      "title": "Scottiche",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "fa",
-        "so",
-        "la",
-        "ti",
-        "do",
-        "re"
       ]
     },
     {
@@ -21175,40 +17861,6 @@
       ]
     },
     {
-      "id": "pdmx-qmz7sgpmqeppznrz",
-      "title": "Vallafield",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "mi",
-        "la",
-        "ti",
-        "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmz8ocpixcppmixf",
-      "title": "Angels We Have Heard On High",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "so",
-        "fa",
-        "re",
-        "do",
-        "la"
-      ]
-    },
-    {
       "id": "pdmx-qmz9gvklyik2zb6g",
       "title": "Jimmy O'Brien's jig",
       "source": "PDMX — publicdomain",
@@ -21440,24 +18092,6 @@
       ]
     },
     {
-      "id": "pdmx-qmzes3gimdjs76hv",
-      "title": "Banks of the Ohio - 105",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "mi",
-        "ti",
-        "re",
-        "fa",
-        "so",
-        "la"
-      ]
-    },
-    {
       "id": "pdmx-qmzes8khftel3gjc",
       "title": "Ballinasloe Jig",
       "source": "PDMX — publicdomain",
@@ -21472,24 +18106,6 @@
         "fa",
         "do",
         "mi"
-      ]
-    },
-    {
-      "id": "pdmx-qmzfc8esrwuzzewy",
-      "title": "Mon pauvre amant",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "ti",
-        "do",
-        "re",
-        "mi",
-        "fa"
       ]
     },
     {
@@ -21546,24 +18162,6 @@
       ]
     },
     {
-      "id": "pdmx-qmzh76djasb4bhy5",
-      "title": "Le grand projet",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "do",
-        "so",
-        "fa",
-        "re",
-        "ti",
-        "la"
-      ]
-    },
-    {
       "id": "pdmx-qmzj5swk2gafrf5r",
       "title": "The priest's leap",
       "source": "PDMX — publicdomain",
@@ -21615,24 +18213,6 @@
         "ti",
         "la",
         "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmznjpmtvjrzb5oj",
-      "title": "La Bour\\'ee des Dindes",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 6,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "ti",
-        "do",
-        "re",
-        "mi",
-        "fa"
       ]
     },
     {
@@ -21814,20 +18394,20 @@
       ]
     },
     {
-      "id": "pdmx-qmzytecrwgukxyzh",
-      "title": "Kom kom fager ungersven",
+      "id": "pdmx-qmzypcigyaoxrowr",
+      "title": "Branle de la Montarde",
       "source": "PDMX — publicdomain",
       "mode": "major",
       "unit": "kodaly",
       "level": 6,
       "hasChords": false,
       "syllables": [
-        "do",
-        "so",
-        "fa",
-        "mi",
-        "ti",
         "re",
+        "mi",
+        "fa",
+        "so",
+        "do",
+        "ti",
         "la"
       ]
     },
@@ -22123,24 +18703,6 @@
       ]
     },
     {
-      "id": "pdmx-qmalo6w5wmrcst8m",
-      "title": "Astridin vals",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "la",
-        "ti",
-        "do",
-        "re",
-        "so",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmamrfjgvqh9z7hd",
       "title": "La Passado",
       "source": "PDMX — publicdomain",
@@ -22187,39 +18749,6 @@
         "do",
         "la",
         "so",
-        "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmanpccvhx1sbydb",
-      "title": "Le maitre de maison",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "mi",
-        "re",
-        "do",
-        "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmaqwxjmspmg1yhj",
-      "title": "Tamm-Kreiz",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "mi",
-        "fa",
-        "re",
-        "do",
         "ti"
       ]
     },
@@ -22464,24 +18993,6 @@
       ]
     },
     {
-      "id": "pdmx-qmbgqkztgd9ghetd",
-      "title": "Ffarwel i Langyfelach Lon",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "la",
-        "ti",
-        "so",
-        "mi",
-        "fa",
-        "re"
-      ]
-    },
-    {
       "id": "pdmx-qmbixgewalpzrnmh",
       "title": "En Dro",
       "source": "PDMX — publicdomain",
@@ -22553,42 +19064,6 @@
       ]
     },
     {
-      "id": "pdmx-qmbm1laepzlh1qev",
-      "title": "Bransle des pois",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "re",
-        "mi",
-        "fa",
-        "la",
-        "ti",
-        "so"
-      ]
-    },
-    {
-      "id": "pdmx-qmboxfjp5ldkgwfb",
-      "title": "The Foggy Dew",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "so",
-        "la",
-        "re",
-        "ti",
-        "do",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmbpbcnezsett6rl",
       "title": "La fille dans la tour",
       "source": "PDMX — publicdomain",
@@ -22641,39 +19116,6 @@
       ]
     },
     {
-      "id": "pdmx-qmbuij8dwybpj82g",
-      "title": "Marry Me Now",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "mi",
-        "la",
-        "do",
-        "re",
-        "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmbzua5t4rstqu5r",
-      "title": "Skye Boat Song",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "do",
-        "re",
-        "mi"
-      ]
-    },
-    {
       "id": "pdmx-qmc5e5yg7hfaaecj",
       "title": "Dronning Dagmar",
       "source": "PDMX — publicdomain",
@@ -22689,42 +19131,6 @@
         "do",
         "so",
         "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmc8ko1bmgxvmmt5",
-      "title": "Brian Borouhme",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "do",
-        "ti",
-        "la",
-        "re",
-        "so",
-        "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmcdnkbrojxyfxjf",
-      "title": "O Come O Come Emmanuel",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "do",
-        "mi",
-        "re",
-        "fa",
-        "ti",
-        "so"
       ]
     },
     {
@@ -23056,22 +19462,6 @@
       ]
     },
     {
-      "id": "pdmx-qmdfks57gruqud6f",
-      "title": "La preso de Lleida",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "la",
-        "do",
-        "ti",
-        "re"
-      ]
-    },
-    {
       "id": "pdmx-qmdgicugx3ibzl1g",
       "title": "Swedish Waltz",
       "source": "PDMX — publicdomain",
@@ -23316,24 +19706,6 @@
       ]
     },
     {
-      "id": "pdmx-qmdz9q3vhrphdzub",
-      "title": "The northern road",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "so",
-        "fa",
-        "mi",
-        "re",
-        "la",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qme8racp7zvgvmio",
       "title": "The Ashplant",
       "source": "PDMX — publicdomain",
@@ -23400,24 +19772,6 @@
         "so",
         "fa",
         "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmedzbwu3mndw7mv",
-      "title": "Busty Fields",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "mi",
-        "fa",
-        "re",
-        "do",
-        "ti",
-        "la"
       ]
     },
     {
@@ -23560,77 +19914,6 @@
       ]
     },
     {
-      "id": "pdmx-qmesix1a71jdck9q",
-      "title": "Kristallen den fina",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "ti",
-        "do",
-        "re",
-        "mi",
-        "fa",
-        "so"
-      ]
-    },
-    {
-      "id": "pdmx-qmewx1bce5wrn5h3",
-      "title": "Naked and Bare",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "ti",
-        "do",
-        "re",
-        "mi",
-        "la",
-        "so"
-      ]
-    },
-    {
-      "id": "pdmx-qmexxi2gkq7fraiw",
-      "title": "Harmonika",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "re",
-        "do",
-        "ti",
-        "la",
-        "so",
-        "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmeytkwvcm7y1uwr",
-      "title": "Es sang gut Spielmann",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "do",
-        "ti",
-        "mi",
-        "re",
-        "so",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmeyvgvohubkrqfk",
       "title": "Olli mulla aarre kallis",
       "source": "PDMX — publicdomain",
@@ -23678,24 +19961,6 @@
         "re",
         "do",
         "so"
-      ]
-    },
-    {
-      "id": "pdmx-qmf7gwnkcmyus1t7",
-      "title": "The highway to Kilkenny",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "ti",
-        "so",
-        "mi",
-        "re",
-        "fa",
-        "la"
       ]
     },
     {
@@ -23785,23 +20050,6 @@
       ]
     },
     {
-      "id": "pdmx-qmfvqwr52xzyluos",
-      "title": "Balquidder Lasses",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "re",
-        "do",
-        "ti",
-        "la",
-        "so"
-      ]
-    },
-    {
       "id": "pdmx-qmfzxfwh24lqkwmn",
       "title": "Gathering red roses",
       "source": "PDMX — publicdomain",
@@ -23871,41 +20119,6 @@
       ]
     },
     {
-      "id": "pdmx-qmnrajz2be7sztrg",
-      "title": "the Tailor and the Mouse",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "do",
-        "la",
-        "so",
-        "ti",
-        "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmnrhm9jyvovfqm6",
-      "title": "How much has she got?",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "mi",
-        "re",
-        "do",
-        "ti",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmnt2nbnpw8vyo3j",
       "title": "The banks of Lough Gowna",
       "source": "PDMX — publicdomain",
@@ -23939,24 +20152,6 @@
         "re",
         "do",
         "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmnxbvupn6rwcof8",
-      "title": "Star of the County Down",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "ti",
-        "la",
-        "so",
-        "re",
-        "mi",
-        "fa"
       ]
     },
     {
@@ -24536,24 +20731,6 @@
       ]
     },
     {
-      "id": "pdmx-qmq9ur6kgqguubyv",
-      "title": "Emma",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "do",
-        "mi",
-        "ti",
-        "re",
-        "so",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmqbgna5dggz2bcr",
       "title": "New Rigged Ship [3] Da",
       "source": "PDMX — publicdomain",
@@ -24726,23 +20903,6 @@
       ]
     },
     {
-      "id": "pdmx-qmrafikcbxdzye7e",
-      "title": "La Belle Jardiniere",
-      "source": "PDMX — cc-zero",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "ti",
-        "so",
-        "la",
-        "re",
-        "mi"
-      ]
-    },
-    {
       "id": "pdmx-qmrc9zkdupzkkldu",
       "title": "Schneck im Haus",
       "source": "PDMX — publicdomain",
@@ -24788,24 +20948,6 @@
         "do",
         "so",
         "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmrrkqw2yafkv83r",
-      "title": "White House Blues",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "mi",
-        "do",
-        "re",
-        "ti",
-        "so",
-        "fa"
       ]
     },
     {
@@ -24880,23 +21022,6 @@
       ]
     },
     {
-      "id": "pdmx-qms4fgt2usea9van",
-      "title": "J'ai vu le loup",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "ti",
-        "la",
-        "so",
-        "re",
-        "mi"
-      ]
-    },
-    {
       "id": "pdmx-qms7qsxoblxapu64",
       "title": "Sanglek",
       "source": "PDMX — publicdomain",
@@ -24930,24 +21055,6 @@
       ]
     },
     {
-      "id": "pdmx-qmshde11piegdfum",
-      "title": "Plainte des papetiers",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "la",
-        "do",
-        "re",
-        "ti",
-        "so",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmsjzs5fwxhjgzny",
       "title": "When Johnny Comes Marching Home",
       "source": "PDMX — publicdomain",
@@ -24962,22 +21069,6 @@
         "do",
         "so",
         "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmskd5zm7kndinpv",
-      "title": "Skye Boat Song",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "do",
-        "re",
-        "mi"
       ]
     },
     {
@@ -25148,41 +21239,6 @@
         "do",
         "re",
         "mi"
-      ]
-    },
-    {
-      "id": "pdmx-qmtlks8anj28hpql",
-      "title": "Lou plang de Nosto Damo",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "re",
-        "fa",
-        "do",
-        "so",
-        "la",
-        "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmtm7pwrjswqlm1c",
-      "title": "Pretty Little Dog",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "so",
-        "la",
-        "re",
-        "do",
-        "ti"
       ]
     },
     {
@@ -25468,23 +21524,6 @@
       ]
     },
     {
-      "id": "pdmx-qmum3pyue7msd8k1",
-      "title": "The Haggis",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "la",
-        "do",
-        "re",
-        "ti",
-        "so"
-      ]
-    },
-    {
       "id": "pdmx-qmun54c6xnh6stvn",
       "title": "The Heights of Dargai",
       "source": "PDMX — publicdomain",
@@ -25498,23 +21537,6 @@
         "ti",
         "do",
         "fa",
-        "re",
-        "so"
-      ]
-    },
-    {
-      "id": "pdmx-qmup2i2xftpknx1p",
-      "title": "Das Moorsoldatenlied",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "mi",
-        "do",
-        "ti",
         "re",
         "so"
       ]
@@ -25728,41 +21750,6 @@
       ]
     },
     {
-      "id": "pdmx-qmw8ancfoz8owycw",
-      "title": "Ye Jacobites by name",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "ti",
-        "so",
-        "mi",
-        "do",
-        "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmw91q44mghvgxud",
-      "title": "Tim the thatcher",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "la",
-        "ti",
-        "do",
-        "re",
-        "so",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmw9dl56anqskbzk",
       "title": "More luck to us",
       "source": "PDMX — publicdomain",
@@ -25778,24 +21765,6 @@
         "la",
         "fa",
         "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmwcr64pgvdfwxdj",
-      "title": "Gwerz maro Pontcallec",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "la",
-        "ti",
-        "do",
-        "re",
-        "so",
-        "fa"
       ]
     },
     {
@@ -25935,24 +21904,6 @@
         "mi",
         "re",
         "do",
-        "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmx5hka5vmtxxvds",
-      "title": "Christmas Day Ida Morning",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "do",
-        "re",
-        "ti",
-        "so",
-        "la",
         "fa"
       ]
     },
@@ -26148,24 +22099,6 @@
       ]
     },
     {
-      "id": "pdmx-qmxorp6wdd58wcmd",
-      "title": "Andro",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "so",
-        "ti",
-        "do",
-        "mi",
-        "re",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmxqkz1ep71cnwr2",
       "title": "Avant-deux violette",
       "source": "PDMX — publicdomain",
@@ -26179,23 +22112,6 @@
         "do",
         "ti",
         "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmxt7vgbjt7puhj3",
-      "title": "Willy O'Winsbury",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "ti",
-        "do",
-        "re",
-        "mi"
       ]
     },
     {
@@ -26215,23 +22131,6 @@
       ]
     },
     {
-      "id": "pdmx-qmxufvke51lawucw",
-      "title": "Tour",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "la",
-        "ti",
-        "do",
-        "so",
-        "re"
-      ]
-    },
-    {
       "id": "pdmx-qmxwhuk9atunbfvk",
       "title": "Huron Carol",
       "source": "PDMX — publicdomain",
@@ -26245,24 +22144,6 @@
         "ti",
         "do",
         "re",
-        "so",
-        "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmxwv87ghpkdabj1",
-      "title": "A Mover and Shaker",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "do",
-        "re",
-        "mi",
-        "ti",
         "so",
         "fa"
       ]
@@ -26357,23 +22238,6 @@
       ]
     },
     {
-      "id": "pdmx-qmyzhaas6spieuwe",
-      "title": "Dydd Gwyl Ddewi - St. David's Day",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "ti",
-        "do",
-        "re",
-        "mi"
-      ]
-    },
-    {
       "id": "pdmx-qmz5exyuqskfgedp",
       "title": "Nonesuch",
       "source": "PDMX — publicdomain",
@@ -26387,23 +22251,6 @@
         "re",
         "ti",
         "la",
-        "so"
-      ]
-    },
-    {
-      "id": "pdmx-qmz7rdy4e2zrwic7",
-      "title": "Es kommt ein Schiff geladen",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "ti",
-        "do",
-        "re",
-        "mi",
         "so"
       ]
     },
@@ -26489,22 +22336,6 @@
         "fa",
         "ti",
         "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmzlh3xfguel93mu",
-      "title": "Ar Fore Dydd Nadolig - On Christmas Morning",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 7,
-      "hasChords": false,
-      "syllables": [
-        "re",
-        "mi",
-        "do",
-        "la",
-        "ti"
       ]
     },
     {
@@ -26672,24 +22503,6 @@
       ]
     },
     {
-      "id": "pdmx-qma5nk4kpfgz33aa",
-      "title": "Ductie",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "ta",
-        "la",
-        "re",
-        "fa",
-        "so",
-        "mi"
-      ]
-    },
-    {
       "id": "pdmx-qma9enlm6hpdwxwt",
       "title": "Sarabande",
       "source": "PDMX — publicdomain",
@@ -26764,24 +22577,6 @@
       ]
     },
     {
-      "id": "pdmx-qmaaqjbxx38tdxiu",
-      "title": "Kitty Magee",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "so",
-        "mi",
-        "re",
-        "fa",
-        "ta",
-        "la"
-      ]
-    },
-    {
       "id": "pdmx-qmaauegi7f5cmxsc",
       "title": "Greensleeves",
       "source": "PDMX — publicdomain",
@@ -26798,24 +22593,6 @@
         "ti",
         "so",
         "si",
-        "fi"
-      ]
-    },
-    {
-      "id": "pdmx-qmaav3c1qeswyzlw",
-      "title": "Miss Grant's jig",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "mi",
-        "la",
-        "ti",
-        "do",
-        "re",
         "fi"
       ]
     },
@@ -26893,48 +22670,6 @@
         "so",
         "ti",
         "fi"
-      ]
-    },
-    {
-      "id": "pdmx-qmacpfhibhaamws4",
-      "title": "Letkis Jenka",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "ri",
-        "fa",
-        "re",
-        "di",
-        "la",
-        "ti",
-        "do",
-        "si",
-        "fi",
-        "so",
-        "li"
-      ]
-    },
-    {
-      "id": "pdmx-qmacyf2fpywowk4n",
-      "title": "Bourrée à huit",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "fi",
-        "re",
-        "mi",
-        "fa",
-        "do",
-        "ti",
-        "la"
       ]
     },
     {
@@ -27203,24 +22938,6 @@
       ]
     },
     {
-      "id": "pdmx-qmakc2yncbbb4wv9",
-      "title": "La boulangère del pallars",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "fa",
-        "so",
-        "la",
-        "ta",
-        "do",
-        "re",
-        "ma"
-      ]
-    },
-    {
       "id": "pdmx-qmalnu1w6xbij1qy",
       "title": "Bergers et barons",
       "source": "PDMX — publicdomain",
@@ -27333,26 +23050,6 @@
       ]
     },
     {
-      "id": "pdmx-qmanldmqmhb5b1ws",
-      "title": "Henry Martin",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "mi",
-        "re",
-        "do",
-        "ti",
-        "lo",
-        "so",
-        "fi",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmanqvhyjtpwtjcn",
       "title": "The jolly josker",
       "source": "PDMX — publicdomain",
@@ -27461,24 +23158,6 @@
       ]
     },
     {
-      "id": "pdmx-qmaubwjoh8b7rzeg",
-      "title": "Bourrée à six de Briantes",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "fa",
-        "do",
-        "la",
-        "so",
-        "ta",
-        "re",
-        "mi"
-      ]
-    },
-    {
       "id": "pdmx-qmaucvkzq6fipnj1",
       "title": "The Morning Dew",
       "source": "PDMX — publicdomain",
@@ -27494,24 +23173,6 @@
         "so",
         "do",
         "fi"
-      ]
-    },
-    {
-      "id": "pdmx-qmauqtsxig5e7y3q",
-      "title": "The Flowers Of The Forest",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "do",
-        "mi",
-        "fa",
-        "re",
-        "ta"
       ]
     },
     {
@@ -27533,24 +23194,6 @@
       ]
     },
     {
-      "id": "pdmx-qmavdnuciicbzy1x",
-      "title": "Tourdion0",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "ti",
-        "la",
-        "re",
-        "so",
-        "fi",
-        "mi"
-      ]
-    },
-    {
       "id": "pdmx-qmawrfvuntmxdb3l",
       "title": "Beamish's goat",
       "source": "PDMX — publicdomain",
@@ -27566,26 +23209,6 @@
         "fi",
         "mi",
         "do"
-      ]
-    },
-    {
-      "id": "pdmx-qmawrvxt55f8lfyk",
-      "title": "Bear Dance",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "re",
-        "mi",
-        "la",
-        "ti",
-        "so",
-        "ta",
-        "fa",
-        "si"
       ]
     },
     {
@@ -27769,44 +23392,6 @@
         "re",
         "so",
         "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmb8bef9ohddwjku",
-      "title": "Gesegn dich Laub",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "do",
-        "re",
-        "mi",
-        "fa",
-        "so",
-        "ti",
-        "si"
-      ]
-    },
-    {
-      "id": "pdmx-qmbacjbldw888vqu",
-      "title": "Scottiche",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "re",
-        "do",
-        "fa",
-        "ti",
-        "la",
-        "so",
-        "fi"
       ]
     },
     {
@@ -28013,25 +23598,6 @@
       ]
     },
     {
-      "id": "pdmx-qmbfe1vd17we4vx3",
-      "title": "Bolt the door",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "fa",
-        "mi",
-        "do",
-        "la",
-        "ti",
-        "re",
-        "fi"
-      ]
-    },
-    {
       "id": "pdmx-qmbgqxejpv5cjrdr",
       "title": "Reel O' Tulloch",
       "source": "PDMX — publicdomain",
@@ -28083,25 +23649,6 @@
         "do",
         "re",
         "mi"
-      ]
-    },
-    {
-      "id": "pdmx-qmbhfckskxqzmyu1",
-      "title": "Danso de la souco (St Marc)",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "so",
-        "ta",
-        "do",
-        "re",
-        "fa",
-        "mi",
-        "di"
       ]
     },
     {
@@ -28198,24 +23745,6 @@
       ]
     },
     {
-      "id": "pdmx-qmbkgtxu6wrhgskh",
-      "title": "Walking with the King",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "fa",
-        "ta",
-        "la",
-        "so",
-        "re",
-        "ma",
-        "do"
-      ]
-    },
-    {
       "id": "pdmx-qmbkz5bxu9pktt99",
       "title": "Gilderoy",
       "source": "PDMX — publicdomain",
@@ -28270,42 +23799,6 @@
       ]
     },
     {
-      "id": "pdmx-qmbletowuljgwdsi",
-      "title": "Hughie Rory MacKinnon",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "so",
-        "fa",
-        "mi",
-        "do",
-        "re",
-        "ta"
-      ]
-    },
-    {
-      "id": "pdmx-qmbmhtc8jg9pu1qw",
-      "title": "Scarborough Fair",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "mi",
-        "ti",
-        "do",
-        "so",
-        "fi",
-        "re"
-      ]
-    },
-    {
       "id": "pdmx-qmbnskkz8t9dgswh",
       "title": "I'm the boy for bewitching them",
       "source": "PDMX — publicdomain",
@@ -28339,24 +23832,6 @@
         "fi",
         "do",
         "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmbnzuossokzrtbk",
-      "title": "Tais-toi",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "re",
-        "mi",
-        "do",
-        "ti",
-        "la",
-        "so",
-        "fi"
       ]
     },
     {
@@ -28636,25 +24111,6 @@
       ]
     },
     {
-      "id": "pdmx-qmbwbv3r6pvu5phv",
-      "title": "P\\adraic Mac Giollarn\\'ath",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "ta",
-        "fa",
-        "mi",
-        "re",
-        "ti",
-        "la"
-      ]
-    },
-    {
       "id": "pdmx-qmbwcyk4xg4flcx4",
       "title": "The Lilting Banshee",
       "source": "PDMX — cc-zero",
@@ -28763,26 +24219,6 @@
       ]
     },
     {
-      "id": "pdmx-qmbyycdsyarbupms",
-      "title": "Je veit ei lita jente",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "ti",
-        "do",
-        "mi",
-        "re",
-        "fi",
-        "si",
-        "so",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmbz4lwkn9j5khm7",
       "title": "Staten Island hornpipe",
       "source": "PDMX — publicdomain",
@@ -28857,24 +24293,6 @@
       ]
     },
     {
-      "id": "pdmx-qmc3v934xfcpjrgg",
-      "title": "House of the Rising Sun",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "la",
-        "ti",
-        "do",
-        "re",
-        "ri",
-        "so"
-      ]
-    },
-    {
       "id": "pdmx-qmc4wcehut4d234a",
       "title": "Breeches Mary",
       "source": "PDMX — publicdomain",
@@ -28915,25 +24333,6 @@
       ]
     },
     {
-      "id": "pdmx-qmc7q54wbhcvbs59",
-      "title": "Tzena Tzena",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "mi",
-        "so",
-        "fa",
-        "re",
-        "la",
-        "ti",
-        "si"
-      ]
-    },
-    {
       "id": "pdmx-qmc8kzi9wdagr9fy",
       "title": "Ffarwel i'r Marian",
       "source": "PDMX — publicdomain",
@@ -28951,43 +24350,6 @@
         "re",
         "fa",
         "so"
-      ]
-    },
-    {
-      "id": "pdmx-qmc9bemxmbdnxedb",
-      "title": "The bunch of roses",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "re",
-        "do",
-        "ti",
-        "la",
-        "so",
-        "si",
-        "fi"
-      ]
-    },
-    {
-      "id": "pdmx-qmca7zqwysyryuea",
-      "title": "Es geht ein dunkle Wolk' herein",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "mi",
-        "re",
-        "ti",
-        "do",
-        "so",
-        "fi"
       ]
     },
     {
@@ -29025,61 +24387,6 @@
         "la",
         "ti",
         "fi"
-      ]
-    },
-    {
-      "id": "pdmx-qmcb6pgvgwvks8ks",
-      "title": "Dram: Kvarten",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "si",
-        "la",
-        "ti",
-        "re",
-        "do",
-        "so",
-        "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmcbbe78tdk6pm21",
-      "title": "Marche du roi Malbrouck",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "fa",
-        "la",
-        "so",
-        "ta",
-        "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmcbbugndoqtmvsh",
-      "title": "Once I had a sweetheart",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "di",
-        "ti",
-        "la",
-        "so",
-        "fi",
-        "re",
-        "do"
       ]
     },
     {
@@ -29455,24 +24762,6 @@
       ]
     },
     {
-      "id": "pdmx-qmcpsrhx2rbdze7g",
-      "title": "Fandango de Salamanca",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "si",
-        "mi",
-        "ti",
-        "do",
-        "re",
-        "fi"
-      ]
-    },
-    {
       "id": "pdmx-qmcqyupbdsfcw92p",
       "title": "the Farmer's Daughter",
       "source": "PDMX — publicdomain",
@@ -29506,42 +24795,6 @@
         "re",
         "fi",
         "so"
-      ]
-    },
-    {
-      "id": "pdmx-qmcroqzuwqcbdgfm",
-      "title": "Child of my heart",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "ta",
-        "re",
-        "do",
-        "so",
-        "fa",
-        "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmcrovcgffutmmnq",
-      "title": "A whack at the wigs",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "fa",
-        "re",
-        "do",
-        "la",
-        "ta",
-        "ti",
-        "mi"
       ]
     },
     {
@@ -29635,24 +24888,6 @@
       ]
     },
     {
-      "id": "pdmx-qmcuagc63dpfg2gh",
-      "title": "Old Mountain Dew",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "mi",
-        "la",
-        "fa",
-        "ta"
-      ]
-    },
-    {
       "id": "pdmx-qmcuyhwumd3kdij6",
       "title": "Mo Ghile Mear",
       "source": "PDMX — publicdomain",
@@ -29686,43 +24921,6 @@
         "re",
         "do",
         "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmcvosuebfxrcyyy",
-      "title": "Keep Your Feet Still",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "di",
-        "re",
-        "mi",
-        "fi",
-        "ti",
-        "la",
-        "si",
-        "do"
-      ]
-    },
-    {
-      "id": "pdmx-qmcvytdhhtuk9qup",
-      "title": "Ductia",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "ta",
-        "fa",
-        "re",
-        "mi",
-        "do"
       ]
     },
     {
@@ -29778,26 +24976,6 @@
         "so",
         "ti",
         "do"
-      ]
-    },
-    {
-      "id": "pdmx-qmd14eleacavatxs",
-      "title": "Lou plesi dei damo",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "fa",
-        "la",
-        "so",
-        "mi",
-        "re",
-        "ta",
-        "fi",
-        "ti"
       ]
     },
     {
@@ -30022,25 +25200,6 @@
         "mi",
         "so",
         "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmd7wez3rjvfaxum",
-      "title": "Secoundo marcho dòu Rei Rene",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "ta",
-        "la",
-        "fa",
-        "mi",
-        "re",
-        "si"
       ]
     },
     {
@@ -30491,21 +25650,22 @@
       ]
     },
     {
-      "id": "pdmx-qmdjrwpada4bldlq",
-      "title": "Frosty Morning",
+      "id": "pdmx-qmdjvptnrf99zhtj",
+      "title": "Air du branle couppé appellé Aridan.",
       "source": "PDMX — publicdomain",
-      "mode": "minor",
+      "mode": "major",
       "unit": "kodaly",
       "level": 8,
       "hasChords": false,
       "syllables": [
-        "so",
         "mi",
+        "fa",
+        "so",
         "la",
-        "ti",
-        "do",
         "re",
-        "fi"
+        "do",
+        "ta",
+        "ra"
       ]
     },
     {
@@ -30657,44 +25817,6 @@
       ]
     },
     {
-      "id": "pdmx-qmdnvv8lssqfrf9y",
-      "title": "The Peacock's Feather",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "re",
-        "do",
-        "la",
-        "ti",
-        "so",
-        "fi",
-        "di"
-      ]
-    },
-    {
-      "id": "pdmx-qmdnwbhkpdesrp2q",
-      "title": "Kullerullvisa",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "mi",
-        "fa",
-        "la",
-        "ti",
-        "fi"
-      ]
-    },
-    {
       "id": "pdmx-qmdnzpswrj7ovrxw",
       "title": "Moll In the Wad",
       "source": "PDMX — publicdomain",
@@ -30710,42 +25832,6 @@
         "mi",
         "re",
         "do"
-      ]
-    },
-    {
-      "id": "pdmx-qmdo9yhwenemcktk",
-      "title": "Cossack's lament",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "re",
-        "la",
-        "do",
-        "ti",
-        "si"
-      ]
-    },
-    {
-      "id": "pdmx-qmdoaqhzxnnvpq5d",
-      "title": "Triad in L Major",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "ti",
-        "fa",
-        "mi",
-        "re",
-        "ta",
-        "la"
       ]
     },
     {
@@ -30970,26 +26056,6 @@
       ]
     },
     {
-      "id": "pdmx-qmdymdnuajdisrni",
-      "title": "Midnight in Moscow",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "do",
-        "mi",
-        "re",
-        "ti",
-        "so",
-        "fa",
-        "fi",
-        "si"
-      ]
-    },
-    {
       "id": "pdmx-qmdzrpmfcqogmm7f",
       "title": "The Atholl Highlanders",
       "source": "PDMX — publicdomain",
@@ -31120,25 +26186,6 @@
       ]
     },
     {
-      "id": "pdmx-qme3soyrgpzddqdy",
-      "title": "Waiting for Nancy / Sandy Boys",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "re",
-        "mi",
-        "fa",
-        "do",
-        "ti",
-        "ta"
-      ]
-    },
-    {
       "id": "pdmx-qme4yzd98c4vwhqq",
       "title": "Shortnin' Bread (001)",
       "source": "PDMX — publicdomain",
@@ -31262,24 +26309,6 @@
       ]
     },
     {
-      "id": "pdmx-qmeav637kedtwxd9",
-      "title": "Kvarten",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "si",
-        "la",
-        "ti",
-        "re",
-        "do",
-        "so"
-      ]
-    },
-    {
       "id": "pdmx-qmeavwgbtchppqja",
       "title": "Blanchland Races",
       "source": "PDMX — publicdomain",
@@ -31385,27 +26414,6 @@
         "ti",
         "la",
         "mi",
-        "fa",
-        "re",
-        "fi"
-      ]
-    },
-    {
-      "id": "pdmx-qmehrwrgsx7g8wez",
-      "title": "Jeg lagde meg s\\aa silde",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "ri",
-        "mi",
-        "si",
-        "la",
-        "do",
-        "ti",
-        "so",
         "fa",
         "re",
         "fi"
@@ -31525,42 +26533,6 @@
       ]
     },
     {
-      "id": "pdmx-qmen62vddoaevkhu",
-      "title": "via folk process from Henry Purcell - The Hole in the Wall",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "fa",
-        "so",
-        "re",
-        "do",
-        "ti",
-        "la",
-        "si"
-      ]
-    },
-    {
-      "id": "pdmx-qmeqlibtffdme4cf",
-      "title": "Rondeau de Lagardère 2",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "re",
-        "do",
-        "fa",
-        "mi",
-        "ta"
-      ]
-    },
-    {
       "id": "pdmx-qmeqvwrkcjgyutgg",
       "title": "Green sleeves",
       "source": "PDMX — publicdomain",
@@ -31578,24 +26550,6 @@
         "si",
         "fi",
         "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmete9ikp5zxqxj7",
-      "title": "Wassail Song 159",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "mi",
-        "do",
-        "ti",
-        "so",
-        "re",
-        "fi"
       ]
     },
     {
@@ -31845,24 +26799,6 @@
       ]
     },
     {
-      "id": "pdmx-qmezeefyptsnwqh3",
-      "title": "Jan Klaassen",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "fa",
-        "ta",
-        "la",
-        "re",
-        "mi",
-        "so"
-      ]
-    },
-    {
       "id": "pdmx-qmezhq4dglmwnwqv",
       "title": "My mind will never be aisy",
       "source": "PDMX — publicdomain",
@@ -31915,24 +26851,6 @@
         "la",
         "do",
         "fi"
-      ]
-    },
-    {
-      "id": "pdmx-qmf551rsihegidvp",
-      "title": "The Sprite's tune",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "ta",
-        "la",
-        "so",
-        "fa",
-        "mi",
-        "re"
       ]
     },
     {
@@ -31994,25 +26912,6 @@
       ]
     },
     {
-      "id": "pdmx-qmffgvuaz7cddxmh",
-      "title": "Kingsbury Jig",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "mi",
-        "do",
-        "re",
-        "ti",
-        "fa",
-        "fi",
-        "la"
-      ]
-    },
-    {
       "id": "pdmx-qmffjvagqynxfuek",
       "title": "Drops of brandy",
       "source": "PDMX — publicdomain",
@@ -32046,25 +26945,6 @@
         "mi",
         "do",
         "ta"
-      ]
-    },
-    {
-      "id": "pdmx-qmffzqbrruylbcoh",
-      "title": "Mr Wilson's Hornpipe",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "ti",
-        "la",
-        "fa",
-        "mi",
-        "re",
-        "di"
       ]
     },
     {
@@ -32124,24 +27004,6 @@
       ]
     },
     {
-      "id": "pdmx-qmfm2jbgmkszqsbv",
-      "title": "Chanson à boire",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "re",
-        "mi",
-        "so",
-        "fa",
-        "la",
-        "ta",
-        "do"
-      ]
-    },
-    {
       "id": "pdmx-qmfmszyqyvnsot6b",
       "title": "Mustalainen",
       "source": "PDMX — publicdomain",
@@ -32194,24 +27056,6 @@
         "ti",
         "do",
         "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmfqckncwq9gujfu",
-      "title": "Swallowtail Jig - Violon",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "ti",
-        "do",
-        "la",
-        "mi",
-        "re",
-        "so",
-        "fi"
       ]
     },
     {
@@ -32358,24 +27202,6 @@
         "ti",
         "do",
         "so",
-        "fi"
-      ]
-    },
-    {
-      "id": "pdmx-qmnd7q2t17vrg2c4",
-      "title": "Oidche mhath leibh",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "ti",
-        "mi",
-        "so",
-        "re",
-        "do",
         "fi"
       ]
     },
@@ -32639,25 +27465,6 @@
       ]
     },
     {
-      "id": "pdmx-qmnsghfjtuiebmkr",
-      "title": "Avant-Deux Lucie",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "mi",
-        "fa",
-        "re",
-        "la",
-        "ti",
-        "fi"
-      ]
-    },
-    {
       "id": "pdmx-qmntlcv42y1xpptc",
       "title": "Le vieillard et la vieille dame",
       "source": "PDMX — publicdomain",
@@ -32707,29 +27514,6 @@
         "re",
         "do",
         "la",
-        "si"
-      ]
-    },
-    {
-      "id": "pdmx-qmntxkzrdb7f64mb",
-      "title": "Letkis Jenka (Dm)",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "re",
-        "di",
-        "ma",
-        "do",
-        "ti",
-        "so",
-        "la",
-        "ta",
-        "fi",
-        "mi",
-        "fa",
         "si"
       ]
     },
@@ -32989,26 +27773,6 @@
       ]
     },
     {
-      "id": "pdmx-qmpaujqgxulzkcpn",
-      "title": "Greensleeves",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "do",
-        "re",
-        "mi",
-        "fa",
-        "ti",
-        "so",
-        "si",
-        "fi"
-      ]
-    },
-    {
       "id": "pdmx-qmpb5trotwgkvkmh",
       "title": "Scarborough Fair",
       "source": "PDMX — publicdomain",
@@ -33024,26 +27788,6 @@
         "do",
         "so",
         "fi"
-      ]
-    },
-    {
-      "id": "pdmx-qmpcbnoea7fbbkwe",
-      "title": "Les poules huppées",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "do",
-        "ti",
-        "mi",
-        "fi",
-        "so",
-        "re",
-        "fa",
-        "si"
       ]
     },
     {
@@ -33136,24 +27880,6 @@
         "re",
         "mi",
         "si"
-      ]
-    },
-    {
-      "id": "pdmx-qmpeb81cbttgian4",
-      "title": "Tickle her Leg (with the Barley Straw).",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "mi",
-        "re",
-        "la",
-        "ti",
-        "so",
-        "fi"
       ]
     },
     {
@@ -33323,23 +28049,6 @@
       ]
     },
     {
-      "id": "pdmx-qmpiwwvohfghbje7",
-      "title": "Connaughtman's Rambles (D major / B minor)",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "ta",
-        "la",
-        "fa",
-        "re",
-        "so"
-      ]
-    },
-    {
       "id": "pdmx-qmpjd6xkdfrcr2o3",
       "title": "En fumant ma pipe",
       "source": "PDMX — publicdomain",
@@ -33391,24 +28100,6 @@
         "ta",
         "do",
         "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmpl352uxnxgvg7i",
-      "title": "Reynardine",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "mi",
-        "fa",
-        "la",
-        "ta"
       ]
     },
     {
@@ -33557,26 +28248,6 @@
         "ti",
         "so",
         "di",
-        "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmppwqumgfmskfk9",
-      "title": "Coleraine",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "re",
-        "mi",
-        "la",
-        "ti",
-        "do",
-        "si",
-        "so",
-        "fi",
         "fa"
       ]
     },
@@ -33765,24 +28436,6 @@
         "so",
         "mi",
         "di"
-      ]
-    },
-    {
-      "id": "pdmx-qmpvcr6umyr65rcg",
-      "title": "En kort en lang",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "fa",
-        "la",
-        "mi",
-        "re",
-        "ta",
-        "so"
       ]
     },
     {
@@ -33981,23 +28634,6 @@
         "so",
         "la",
         "ta"
-      ]
-    },
-    {
-      "id": "pdmx-qmq2v2jbkpsypkpg",
-      "title": "Sakura",
-      "source": "PDMX — cc-zero",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "re",
-        "mi",
-        "fa",
-        "ta",
-        "la",
-        "so"
       ]
     },
     {
@@ -34317,24 +28953,6 @@
       ]
     },
     {
-      "id": "pdmx-qmqjtq4wg2jcqiwk",
-      "title": "The Rakes of Kildare",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "la",
-        "so",
-        "ti",
-        "do",
-        "re",
-        "fi"
-      ]
-    },
-    {
       "id": "pdmx-qmqkb5bjmdbftpyj",
       "title": "Air du branle couppé nommé Pinagay.",
       "source": "PDMX — publicdomain",
@@ -34443,25 +29061,6 @@
         "do",
         "fi",
         "si"
-      ]
-    },
-    {
-      "id": "pdmx-qmqt7qpzuvbwxbps",
-      "title": "Lannigan's ball",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "ti",
-        "do",
-        "re",
-        "mi",
-        "fi",
-        "so",
-        "fa"
       ]
     },
     {
@@ -34613,26 +29212,6 @@
       ]
     },
     {
-      "id": "pdmx-qmqwrxjsyculaksk",
-      "title": "Anonymous - Greensleeves",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "do",
-        "re",
-        "mi",
-        "fa",
-        "ti",
-        "so",
-        "si",
-        "fi"
-      ]
-    },
-    {
       "id": "pdmx-qmqxgssy6ubw1qyx",
       "title": "Banish Misfortune",
       "source": "PDMX — publicdomain",
@@ -34690,23 +29269,6 @@
       ]
     },
     {
-      "id": "pdmx-qmr2j1kswfhjpkfd",
-      "title": "Corrandes",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "di",
-        "re",
-        "ta",
-        "do",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qmr2zuz7rmd8w2tk",
       "title": "Nos Galan (Mon) - New Years Eve",
       "source": "PDMX — publicdomain",
@@ -34740,25 +29302,6 @@
         "mi",
         "re",
         "ta"
-      ]
-    },
-    {
-      "id": "pdmx-qmr5mj51p9frw8kp",
-      "title": "The Leaving of Liverpool",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "re",
-        "mi",
-        "so",
-        "fa",
-        "la",
-        "ti",
-        "fi"
       ]
     },
     {
@@ -34832,24 +29375,6 @@
         "ta",
         "la",
         "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmrabps9df2jq2vy",
-      "title": "Orielton House tune 4 cut time",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "re",
-        "do",
-        "so",
-        "ti",
-        "fi",
-        "la",
-        "mi"
       ]
     },
     {
@@ -35036,29 +29561,6 @@
       ]
     },
     {
-      "id": "pdmx-qmrhjjkfiu65laxv",
-      "title": "Letkis Jenka (Gm)",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "re",
-        "di",
-        "ma",
-        "do",
-        "ti",
-        "so",
-        "la",
-        "ta",
-        "fi",
-        "mi",
-        "fa",
-        "si"
-      ]
-    },
-    {
       "id": "pdmx-qmrihoyush2zgbl9",
       "title": "Spring Garden",
       "source": "PDMX — publicdomain",
@@ -35208,44 +29710,6 @@
       ]
     },
     {
-      "id": "pdmx-qmrnwqbcisqs4mjj",
-      "title": "Peace I give you",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "do",
-        "ti",
-        "mi",
-        "re",
-        "so",
-        "fa",
-        "si"
-      ]
-    },
-    {
-      "id": "pdmx-qmrpb4ytzbuwlgjs",
-      "title": "Fecuresc Fecuresc",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "fi",
-        "so",
-        "mi",
-        "do",
-        "re",
-        "fa",
-        "ti",
-        "la"
-      ]
-    },
-    {
       "id": "pdmx-qmrpkm6derplvkfk",
       "title": "The Oyster",
       "source": "PDMX — cc-zero",
@@ -35300,42 +29764,6 @@
       ]
     },
     {
-      "id": "pdmx-qmrq8twg6sda6gpy",
-      "title": "Litl-Ola mann",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "ta",
-        "la",
-        "so",
-        "fa",
-        "re",
-        "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmrqayahhqyewu7c",
-      "title": "Avant-deux de Chateaubriant 2",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "la",
-        "so",
-        "fa",
-        "ta",
-        "mi",
-        "re"
-      ]
-    },
-    {
       "id": "pdmx-qmrqqrvb99pfww3l",
       "title": "Dever the Dancer",
       "source": "PDMX — publicdomain",
@@ -35372,44 +29800,6 @@
         "fi",
         "si",
         "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmrrtogusbbtamqd",
-      "title": "Can Wassel",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "re",
-        "ti",
-        "so",
-        "mi",
-        "do",
-        "la",
-        "fi"
-      ]
-    },
-    {
-      "id": "pdmx-qmrt3vl1yy9rqhxp",
-      "title": "Rope Waltz",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "fa",
-        "mi",
-        "fi",
-        "do",
-        "ti",
-        "di",
-        "re",
-        "la"
       ]
     },
     {
@@ -35504,25 +29894,6 @@
       ]
     },
     {
-      "id": "pdmx-qmrvvtyxl1lqko4m",
-      "title": "Bolt the door",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "fa",
-        "mi",
-        "do",
-        "la",
-        "ti",
-        "re",
-        "fi"
-      ]
-    },
-    {
       "id": "pdmx-qmrxba3gq4t9bd1y",
       "title": "Silver Spear",
       "source": "PDMX — publicdomain",
@@ -35538,24 +29909,6 @@
         "fa",
         "so",
         "mi"
-      ]
-    },
-    {
-      "id": "pdmx-qmrxd8dckeatnnfw",
-      "title": "the Hag at the Churn",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "fa",
-        "do",
-        "ta",
-        "re",
-        "mi",
-        "la"
       ]
     },
     {
@@ -35651,25 +30004,6 @@
         "mi",
         "ta",
         "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmrzume85ykckhwk",
-      "title": "All around my hat",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "re",
-        "ti",
-        "mi",
-        "fa",
-        "so",
-        "la",
-        "fi"
       ]
     },
     {
@@ -35824,42 +30158,6 @@
       ]
     },
     {
-      "id": "pdmx-qmscgnmytpn8sbep",
-      "title": "A Fig For A Kiss",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "mi",
-        "la",
-        "re",
-        "ti",
-        "so",
-        "fi"
-      ]
-    },
-    {
-      "id": "pdmx-qmscyvhscmmactbp",
-      "title": "The Deadly wars",
-      "source": "PDMX — cc-zero",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "ti",
-        "re",
-        "mi",
-        "fi",
-        "do"
-      ]
-    },
-    {
       "id": "pdmx-qmsdy76ef1rqytst",
       "title": "House of the Rising Sun",
       "source": "PDMX — publicdomain",
@@ -35930,25 +30228,6 @@
         "fa",
         "la",
         "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmsgcpxkplf1ddew",
-      "title": "While Shepherds Watched Their Flocks",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "mi",
-        "re",
-        "fa",
-        "so",
-        "fi",
-        "la",
-        "ti"
       ]
     },
     {
@@ -36190,44 +30469,6 @@
       ]
     },
     {
-      "id": "pdmx-qmsynhtt9lklz1na",
-      "title": "The glens of Mayo",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "so",
-        "mi",
-        "do",
-        "re",
-        "fa",
-        "ti",
-        "fi"
-      ]
-    },
-    {
-      "id": "pdmx-qmszgwk9vfhtlrbn",
-      "title": "Down the Brae",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "so",
-        "la",
-        "ti",
-        "do",
-        "re",
-        "di",
-        "fi"
-      ]
-    },
-    {
       "id": "pdmx-qmszrfwlt37qcnvt",
       "title": "I Love my Jean",
       "source": "PDMX — publicdomain",
@@ -36242,24 +30483,6 @@
         "re",
         "ta",
         "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmt1exekau7qqgka",
-      "title": "Heydaze",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "ti",
-        "do",
-        "mi",
-        "re",
-        "so",
-        "fi"
       ]
     },
     {
@@ -36338,23 +30561,6 @@
       ]
     },
     {
-      "id": "pdmx-qmt8kraa4mppthvj",
-      "title": "Ballinasloe Jig",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "ta",
-        "fa",
-        "la"
-      ]
-    },
-    {
       "id": "pdmx-qmtabzwhk5zwa9h8",
       "title": "da Auld Stoer's Back Again",
       "source": "PDMX — publicdomain",
@@ -36390,24 +30596,6 @@
         "mi",
         "fi",
         "di"
-      ]
-    },
-    {
-      "id": "pdmx-qmtb6r81nwtd5ewk",
-      "title": "Sl\\uunce Gree",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "fa",
-        "do",
-        "so",
-        "la",
-        "mi",
-        "re",
-        "ta"
       ]
     },
     {
@@ -36484,39 +30672,6 @@
       ]
     },
     {
-      "id": "pdmx-qmtgnv8x8mfud1sg",
-      "title": "What Wondrous Love",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "ta",
-        "re",
-        "fa",
-        "so",
-        "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmth76hymrcfqlb3",
-      "title": "Folia",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "ti",
-        "si",
-        "do",
-        "re"
-      ]
-    },
-    {
       "id": "pdmx-qmtior36bzabvqxa",
       "title": "Air du branle couppé appellé Charlotte.",
       "source": "PDMX — publicdomain",
@@ -36530,24 +30685,6 @@
         "re",
         "mi",
         "ti",
-        "fi"
-      ]
-    },
-    {
-      "id": "pdmx-qmtjpendbcayk6hx",
-      "title": "Vassr\\aafela",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "re",
-        "do",
-        "ti",
-        "so",
-        "la",
         "fi"
       ]
     },
@@ -36567,25 +30704,6 @@
         "mi",
         "ra",
         "do"
-      ]
-    },
-    {
-      "id": "pdmx-qmtkxyeprgknpbnh",
-      "title": "Hull's Victory",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "mi",
-        "re",
-        "ti",
-        "la",
-        "fa",
-        "fi"
       ]
     },
     {
@@ -36638,44 +30756,6 @@
         "ti",
         "so",
         "si"
-      ]
-    },
-    {
-      "id": "pdmx-qmtpixh9b3tew9vo",
-      "title": "Le Valet rusé",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "fa",
-        "la",
-        "do",
-        "re",
-        "ti",
-        "so",
-        "ta"
-      ]
-    },
-    {
-      "id": "pdmx-qmtpqqqcjkdztqb4",
-      "title": "The 92nd The / Marquis of Huntly's Highlanders",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "fi",
-        "mi",
-        "la",
-        "di",
-        "ti",
-        "so",
-        "re",
-        "si",
-        "do"
       ]
     },
     {
@@ -37040,44 +31120,6 @@
       ]
     },
     {
-      "id": "pdmx-qmudao8qq4wf9mmh",
-      "title": "Viel Freuden mit sich bringet",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "fa",
-        "mi",
-        "re",
-        "do",
-        "ti",
-        "la",
-        "fi"
-      ]
-    },
-    {
-      "id": "pdmx-qmudomjib7vcxrky",
-      "title": "Stagshaw Bank Fair",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "fa",
-        "mi",
-        "do",
-        "re",
-        "fi",
-        "la",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qmuekgytgmfmrlcj",
       "title": "What Child Is This? (Greensleeves)",
       "source": "PDMX — publicdomain",
@@ -37094,24 +31136,6 @@
         "ti",
         "so",
         "fi"
-      ]
-    },
-    {
-      "id": "pdmx-qmueogtgrmtdxcyw",
-      "title": "Bal Plinn",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "re",
-        "mi",
-        "fa",
-        "do",
-        "ta",
-        "so"
       ]
     },
     {
@@ -37166,25 +31190,6 @@
         "mi",
         "do",
         "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmuijumqvj8g2bdj",
-      "title": "Bouree de la Brande d'Ardentes",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "fi",
-        "re",
-        "so",
-        "di",
-        "ti",
-        "mi",
-        "do"
       ]
     },
     {
@@ -37370,43 +31375,6 @@
         "re",
         "fa",
         "so"
-      ]
-    },
-    {
-      "id": "pdmx-qmuqhzebokuzvr7s",
-      "title": "Vrolijke kermis",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "fa",
-        "so",
-        "la",
-        "re",
-        "do",
-        "ti",
-        "fi"
-      ]
-    },
-    {
-      "id": "pdmx-qmurbsctjvfevt9b",
-      "title": "Swedish folk song",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "la",
-        "ti",
-        "do",
-        "re",
-        "fa",
-        "si"
       ]
     },
     {
@@ -37705,25 +31673,6 @@
       ]
     },
     {
-      "id": "pdmx-qmvfc7nyaqgkgy5h",
-      "title": "Hyd y Frwynen - The Length of the Rush",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "mi",
-        "re",
-        "do",
-        "ti",
-        "si",
-        "fa",
-        "so"
-      ]
-    },
-    {
       "id": "pdmx-qmvfh19wqnkno6o5",
       "title": "B\\aansull",
       "source": "PDMX — publicdomain",
@@ -37779,27 +31728,6 @@
       ]
     },
     {
-      "id": "pdmx-qmviphkg3gue39rh",
-      "title": "Romance",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "re",
-        "do",
-        "ti",
-        "la",
-        "so",
-        "fa",
-        "si",
-        "di",
-        "fi"
-      ]
-    },
-    {
       "id": "pdmx-qmvjpmx1jbeqpxem",
       "title": "La Cavalleria de Napoles con dos Clarines",
       "source": "PDMX — publicdomain",
@@ -37838,25 +31766,6 @@
       ]
     },
     {
-      "id": "pdmx-qmvkd21gbbgynene",
-      "title": "Ellis' jig",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "re",
-        "mi",
-        "fa",
-        "ti",
-        "la",
-        "ta"
-      ]
-    },
-    {
       "id": "pdmx-qmvlepzmjrcadoxy",
       "title": "Ap Siencyn",
       "source": "PDMX — publicdomain",
@@ -37872,25 +31781,6 @@
         "fi",
         "mi",
         "la"
-      ]
-    },
-    {
-      "id": "pdmx-qmvlruxuohgoxv1z",
-      "title": "Arnold's Circle",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "fa",
-        "fi",
-        "so",
-        "la",
-        "do",
-        "re",
-        "ti"
       ]
     },
     {
@@ -37927,24 +31817,6 @@
         "la",
         "ta",
         "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmvsyh4gjtkydpgx",
-      "title": "La moisson",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "mi",
-        "fa",
-        "re",
-        "ti",
-        "fi"
       ]
     },
     {
@@ -38112,27 +31984,6 @@
         "re",
         "la",
         "ti",
-        "fi"
-      ]
-    },
-    {
-      "id": "pdmx-qmvzenpndkp8p927",
-      "title": "Romance",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "re",
-        "do",
-        "ti",
-        "la",
-        "so",
-        "fa",
-        "si",
-        "di",
         "fi"
       ]
     },
@@ -38401,24 +32252,6 @@
         "re",
         "la",
         "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmwemuamp4ayjj9v",
-      "title": "Jomfru i hindeham",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "do",
-        "re",
-        "fa",
-        "so",
-        "mi",
-        "ta"
       ]
     },
     {
@@ -38719,25 +32552,6 @@
       ]
     },
     {
-      "id": "pdmx-qmwwuphsaqg9zblm",
-      "title": "JÄzus Sirds litÄnija (3)",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "so",
-        "mi",
-        "fa",
-        "re",
-        "ti",
-        "do",
-        "si"
-      ]
-    },
-    {
       "id": "pdmx-qmwxhwwmz58vvvcm",
       "title": "Balquhidder Lasses",
       "source": "PDMX — publicdomain",
@@ -38793,25 +32607,6 @@
       ]
     },
     {
-      "id": "pdmx-qmx3rbbkj9aogkrg",
-      "title": "V\\armlandsvisan",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "la",
-        "ti",
-        "do",
-        "re",
-        "si",
-        "so",
-        "fa"
-      ]
-    },
-    {
       "id": "pdmx-qmx4cw8ymax94mda",
       "title": "Slieve Russel",
       "source": "PDMX — publicdomain",
@@ -38827,6 +32622,24 @@
         "re",
         "fi",
         "so"
+      ]
+    },
+    {
+      "id": "pdmx-qmx8myxqfnahuaef",
+      "title": "Branle de Malte.",
+      "source": "PDMX — publicdomain",
+      "mode": "major",
+      "unit": "kodaly",
+      "level": 8,
+      "hasChords": false,
+      "syllables": [
+        "do",
+        "ti",
+        "re",
+        "mi",
+        "la",
+        "so",
+        "fi"
       ]
     },
     {
@@ -38867,24 +32680,6 @@
       ]
     },
     {
-      "id": "pdmx-qmxaowgeghddatbu",
-      "title": "The Flowers Of The Forest",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "la",
-        "do",
-        "mi",
-        "fa",
-        "re",
-        "ta"
-      ]
-    },
-    {
       "id": "pdmx-qmxas7ysy2dvhdy8",
       "title": "Scottish 1900",
       "source": "PDMX — publicdomain",
@@ -38920,26 +32715,6 @@
         "do",
         "ta",
         "mi"
-      ]
-    },
-    {
-      "id": "pdmx-qmxb4xm9eaqqymkf",
-      "title": "Untitled",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "so",
-        "fa",
-        "re",
-        "mi",
-        "di",
-        "ti",
-        "do",
-        "ta"
       ]
     },
     {
@@ -38995,23 +32770,6 @@
         "so",
         "fi",
         "fa"
-      ]
-    },
-    {
-      "id": "pdmx-qmxeqjwbm9b4mysy",
-      "title": "Menschtertaler Martala",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "fa",
-        "la",
-        "do",
-        "ta",
-        "so",
-        "re"
       ]
     },
     {
@@ -39088,26 +32846,6 @@
       ]
     },
     {
-      "id": "pdmx-qmxixsa2nuqmbbwo",
-      "title": "Dark eyes",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "ri",
-        "mi",
-        "fa",
-        "la",
-        "si",
-        "ti",
-        "do",
-        "re",
-        "di"
-      ]
-    },
-    {
       "id": "pdmx-qmxkdzsbdrp5vfxw",
       "title": "Scarce of Tatties",
       "source": "PDMX — publicdomain",
@@ -39122,25 +32860,6 @@
         "ta",
         "fa",
         "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmxkfdo26xxubzyv",
-      "title": "Jeuenctid Cymru",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "ti",
-        "do",
-        "so",
-        "mi",
-        "re",
-        "si",
-        "fa"
       ]
     },
     {
@@ -39366,24 +33085,6 @@
       ]
     },
     {
-      "id": "pdmx-qmxyjt31ctnvlfz1",
-      "title": "Moll in the wad",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "ta",
-        "la",
-        "so",
-        "fa",
-        "mi",
-        "re",
-        "do"
-      ]
-    },
-    {
       "id": "pdmx-qmy3jkshjayhmncu",
       "title": "Na\\vsliukas",
       "source": "PDMX — publicdomain",
@@ -39401,25 +33102,6 @@
       ]
     },
     {
-      "id": "pdmx-qmy4rmybmrs3zmyj",
-      "title": "Exercise - Red River Valley",
-      "source": "PDMX — cc-zero",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "do",
-        "mi",
-        "re",
-        "la",
-        "fa",
-        "lo",
-        "ti"
-      ]
-    },
-    {
       "id": "pdmx-qmy6kiuoaotmzxeo",
       "title": "Limu limu lima",
       "source": "PDMX — publicdomain",
@@ -39434,25 +33116,6 @@
         "ti",
         "do",
         "si"
-      ]
-    },
-    {
-      "id": "pdmx-qmy6mp4bngw2yybw",
-      "title": "Si god afton och god kv\\all",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "so",
-        "fa",
-        "mi",
-        "re",
-        "do",
-        "ti",
-        "fi",
-        "la"
       ]
     },
     {
@@ -39546,24 +33209,6 @@
         "so",
         "ta",
         "ti"
-      ]
-    },
-    {
-      "id": "pdmx-qmyfegprn3tnzcf4",
-      "title": "Billy McCormick",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "la",
-        "ti",
-        "re",
-        "so",
-        "fi",
-        "do"
       ]
     },
     {
@@ -39749,23 +33394,6 @@
       ]
     },
     {
-      "id": "pdmx-qmyygra9v3nrvpex",
-      "title": "Meidans",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "mi",
-        "la",
-        "ti",
-        "do",
-        "si",
-        "re"
-      ]
-    },
-    {
       "id": "pdmx-qmyzl3mpcpmv4kjm",
       "title": "Muirland Willie",
       "source": "PDMX — publicdomain",
@@ -39856,27 +33484,6 @@
         "so",
         "mi",
         "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmzamzzgebwn6mnp",
-      "title": "Kadril van Putte",
-      "source": "PDMX — publicdomain",
-      "mode": "major",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "do",
-        "ti",
-        "la",
-        "so",
-        "si",
-        "re",
-        "mi",
-        "fi",
-        "fa",
-        "ta"
       ]
     },
     {
@@ -40212,24 +33819,6 @@
         "si",
         "fa",
         "re"
-      ]
-    },
-    {
-      "id": "pdmx-qmzwztnr3bqwjww3",
-      "title": "Marche des Rois",
-      "source": "PDMX — publicdomain",
-      "mode": "minor",
-      "unit": "kodaly",
-      "level": 8,
-      "hasChords": false,
-      "syllables": [
-        "la",
-        "mi",
-        "ta",
-        "do",
-        "re",
-        "fa",
-        "si"
       ]
     },
     {

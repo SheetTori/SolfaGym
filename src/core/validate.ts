@@ -99,6 +99,18 @@ export function validateImported(
     add('tuplet', `音価 ${odd.ql} を ABC で表せない（連符）`)
   }
 
+  // 拍子記号と小節の中身が食い違う楽譜が実際にある（PDMX で 14%）。
+  // 「4/4 と書いてあるのに 1 小節が 3 拍しかない」たぐいで、どちらが正しいかは
+  // 機械には決められない。放置すると拍子から拍数を数えるメトロノームと
+  // 小節線がずれ、単位長も過剰に細かくなって譜面が読めなくなる。
+  const badBar = findMeterMismatch(imported)
+  if (badBar) {
+    add(
+      'meter-mismatch',
+      `${badBar.bar} 小節目の中身が ${badBar.actual} 拍で、拍子 ${imported.meter.num}/${imported.meter.den}（${badBar.expected} 拍）と合わない`,
+    )
+  }
+
   // --- 規模 ---
   const bars = new Set(barOccurrences(parsed).map((o) => o.bar)).size
   if (bars < limits.minBars) add('too-short', `${bars} 小節（下限 ${limits.minBars}）`)
@@ -133,13 +145,16 @@ export function validateImported(
   }
   const leapRatio = midis.length > 1 ? leaps / (midis.length - 1) : 0
   if (leapRatio > limits.maxLeapRatio) {
-    add('leaps', `6度以上の跳躍が ${(leapRatio * 100).toFixed(0)}%（上限 ${limits.maxLeapRatio * 100}%）`)
+    add(
+      'leaps',
+      `6度以上の跳躍が ${(leapRatio * 100).toFixed(0)}%（上限 ${limits.maxLeapRatio * 100}%）`,
+    )
   }
 
   // --- 調と階名 ---
   const key = importedKey(imported)
   const lastMidi = midis[midis.length - 1]
-  if (((lastMidi - imported.tonicMidi) % 12 + 12) % 12 !== 0) {
+  if ((((lastMidi - imported.tonicMidi) % 12) + 12) % 12 !== 0) {
     // 最終音を主音とする方式なので、ここがずれるのは抽出のバグ
     add('tonic-mismatch', '最終音が主音と一致しない')
   }
@@ -185,4 +200,54 @@ export function validateImported(
       syllables: [...new Set(syllables)],
     },
   }
+}
+
+/** 4分音符を 1 としたときの 1 小節の長さ */
+function barQuarterLength(meter: { num: number; den: number }): number {
+  return (4 * meter.num) / meter.den
+}
+
+/**
+ * 小節の中身が拍子と合わない最初の小節を返す。合っていれば null。
+ *
+ * 弱起（最初の小節）と、繰り返しの都合で欠ける最終小節は短くてよい。
+ * 途中の小節が長さ違いなら、その楽譜は拍子記号と矛盾している。
+ */
+function findMeterMismatch(
+  imported: ImportedSong,
+): { bar: number; actual: number; expected: number } | null {
+  const expected = barQuarterLength(imported.meter)
+  const filled: number[] = []
+  let current = 0
+  for (const el of imported.elements) {
+    if (el.kind === 'bar') {
+      filled.push(current)
+      current = 0
+    } else {
+      current += el.ql
+    }
+  }
+  filled.push(current)
+
+  // 要素列の先頭・末尾に小節線があると長さ 0 の幻の小節ができる。
+  // 落としておかないと、弱起の免除がその幻に吸われて本物の第 1 小節が弾かれる。
+  let from = 0
+  let to = filled.length - 1
+  while (from <= to && filled[from] === 0) from++
+  while (to >= from && filled[to] === 0) to--
+
+  // 弱起の長さ。第 1 小節が足りていなければそれが弱起
+  const pickup = from <= to && filled[from] < expected - 1e-9 ? filled[from] : 0
+
+  for (let i = from; i <= to; i++) {
+    const diff = filled[i] - expected
+    if (Math.abs(diff) < 1e-9) continue
+    // 弱起（最初）と、それを補う欠けた最終小節は短くてよい
+    if ((i === from || i === to) && diff < 0) continue
+    // 段落や繰り返しの切れ目では、弱起と足して 1 小節になる短い小節が入る。
+    // これは正しい記譜なので通す
+    if (pickup > 0 && Math.abs(filled[i] + pickup - expected) < 1e-9) continue
+    return { bar: i - from + 1, actual: filled[i], expected }
+  }
+  return null
 }

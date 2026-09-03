@@ -19,5 +19,5 @@
   "baseBpm": 96,
   "unit": "kodaly",
   "chords": [],
-  "abc": "X:1\nM:6/8\nL:1/8\nK:Em clef=treble\nB, E F G F E | C E F G F E | ^C E F G F E | F A F D F A |\nB, E F G F E | C E F G F E | F A F D F A | A G F E D C |\nB, E F G F E | C E F G F E | ^C E F G F E | F A F D F A |\nB, E F G F E | C E F G F E | F A F D F A | A G F E2 B, |\nE G B e B G | A B c B G E | C E G B, E G | G F E ^D E F |\nE G B e B G | A B c B G E | C E G B, E G | F E ^D E2 B, |\nE G B e B G | A B c B G E | C E G B, E G | G F E ^D E F |\nB, E F G F E | C E F G F E | F A F D F A | A G F E3 |]\n"
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Em clef=treble\nB,EF GFE | CEF GFE | ^CEF GFE | FAF DFA |\nB,EF GFE | CEF GFE | FAF DFA | AGF EDC |\nB,EF GFE | CEF GFE | ^CEF GFE | FAF DFA |\nB,EF GFE | CEF GFE | FAF DFA | AGF E2 B, |\nEGB eBG | ABc BGE | CEG B,EG | GFE ^DEF |\nEGB eBG | ABc BGE | CEG B,EG | FE^D E2 B, |\nEGB eBG | ABc BGE | CEG B,EG | GFE ^DEF |\nB,EF GFE | CEF GFE | FAF DFA | AGF E3 |]\n"
 }

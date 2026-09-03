@@ -19,5 +19,5 @@
   "baseBpm": 96,
   "unit": "kodaly",
   "chords": [],
-  "abc": "X:1\nM:12/8\nL:1/8\nK:Em clef=treble\nE,,2 B,, B,,2 A,, B,,2 ^C, D,3 | F,,2 A,, A,, B,, A,, D,,2 E,, F,, E,, D,, | E,,2 B,, B,,2 A,, B,,2 ^C, D,3 | ^C, D, C, B,,2 A,, B,,2 E,, E,,3 |\nE,,2 B,, B,,2 A,, B,,2 ^C, D,3 | F,,2 A,, A,, B,, A,, D,,2 E,, F,, E,, D,, | E,,2 B,, B,,2 A,, B,,2 ^C, D,3 | ^C, D, C, B,,2 A,, B,,2 E,, E,,3 |\nE,2 F, G, F, E, D,2 B,, B,, ^C, D, | ^C,2 A,, A,, B,, C, D,2 B,, B,,3 | E,2 F, G, F, E, D,2 B,, B,, ^C, D, | ^C, D, C, B,,2 A,, B,,2 E,, E,,3 |\nE,2 F, G, F, E, D,2 B,, B,, ^C, D, | ^C,2 A,, A,, B,, C, D,2 B,, B,,3 | E,2 F, G, F, E, D,2 B,, B,, ^C, D, | ^C, D, C, B,,2 A,, B,,2 E,, E,,3 |]\n"
+  "abc": "X:1\nM:12/8\nL:1/8\nK:Em clef=treble\nE,,2 B,, B,,2 A,, B,,2 ^C, D,3 | F,,2 A,, A,,B,,A,, D,,2 E,, F,,E,,D,, | E,,2 B,, B,,2 A,, B,,2 ^C, D,3 | ^C,D,C, B,,2 A,, B,,2 E,, E,,3 |\nE,,2 B,, B,,2 A,, B,,2 ^C, D,3 | F,,2 A,, A,,B,,A,, D,,2 E,, F,,E,,D,, | E,,2 B,, B,,2 A,, B,,2 ^C, D,3 | ^C,D,C, B,,2 A,, B,,2 E,, E,,3 |\nE,2 F, G,F,E, D,2 B,, B,,^C,D, | ^C,2 A,, A,,B,,C, D,2 B,, B,,3 | E,2 F, G,F,E, D,2 B,, B,,^C,D, | ^C,D,C, B,,2 A,, B,,2 E,, E,,3 |\nE,2 F, G,F,E, D,2 B,, B,,^C,D, | ^C,2 A,, A,,B,,C, D,2 B,, B,,3 | E,2 F, G,F,E, D,2 B,, B,,^C,D, | ^C,D,C, B,,2 A,, B,,2 E,, E,,3 |]\n"
 }

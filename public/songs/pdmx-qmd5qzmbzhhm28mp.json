@@ -19,5 +19,5 @@
   "baseBpm": 96,
   "unit": "kodaly",
   "chords": [],
-  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nD G G B A B | c A G F G A | D G G B A B | c A F G2 G |\nD G G B A B | c A G F G A | f e d f2 d | c A F G2 |\nz D G G B A B | c A G F G A | D G G B A B | c A F G2 G |\nD G G B A B | c A G F G A | f e d f2 d | c A F G2 |\nz d e f g a g | f e d g2 B | d e f g a g | f e d c A F |\nd e f g a g | f e d g2 d | f e d f2 d | c A F G2 |\nz d e f g a g | f e d g2 B | d e f g a g | f e d c A F |\nd e f g a g | f e d g2 d | f e d f2 d | c A F G2 |]\n"
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nDGG BAB | cAG FGA | DGG BAB | cAF G2 G |\nDGG BAB | cAG FGA | fed f2 d | cAF G2 z |\nDGG BAB | cAG FGA | DGG BAB | cAF G2 G |\nDGG BAB | cAG FGA | fed f2 d | cAF G2 z |\ndef gag | fed g2 B | def gag | fed cAF |\ndef gag | fed g2 d | fed f2 d | cAF G2 z |\ndef gag | fed g2 B | def gag | fed cAF |\ndef gag | fed g2 d | fed f2 d | cAF G2 |]\n"
 }

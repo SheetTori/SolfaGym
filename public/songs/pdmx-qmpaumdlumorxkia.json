@@ -19,5 +19,5 @@
   "baseBpm": 96,
   "unit": "kodaly",
   "chords": [],
-  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\nB A | G F E F G A B d | e g f a g a g e | d c B A G2 B d |\nc B A G E c B A | G F E F G A B d | e g f a g a g e | d c B A B G E F |\nG2 G2 G2 | B A | G F E F G A B d | e g f a g a g e |\nd c B A G2 B d | c B A G E c B A | G F E F G A B d | e g f a g a g e |\nd c B A B G E F | G2 G2 G2 | d c | B d e f g2 f g |\na g f g e d g e | d c B A G2 B d | c B A G E c B A | G F E F G A B d |\ne g f a g a g e | d c B A B G E F | G2 G2 G2 | d c |\nB d e f g2 f g | a g f g e d g e | d c B A G2 B d | c B A G E c B A |\nG F E F G A B d | e g f a g a g e | d c B A B G E F | G2 G2 G2 |]\n"
+  "abc": "X:1\nM:2/4\nL:1/16\nK:G clef=treble\nBA | GFEF GABd | egfa gage | dcBA G2Bd |\ncBAG EcBA | GFEF GABd | egfa gage | dcBA BGEF |\nG2G2 G2BA | GFEF GABd | egfa gage | dcBA G2Bd |\ncBAG EcBA | GFEF GABd | egfa gage | dcBA BGEF |\nG2G2 G2dc | Bdef g2fg | agfg edge | dcBA G2Bd |\ncBAG EcBA | GFEF GABd | egfa gage | dcBA BGEF |\nG2G2 G2dc | Bdef g2fg | agfg edge | dcBA G2Bd |\ncBAG EcBA | GFEF GABd | egfa gage | dcBA BGEF |\nG2G2 G2 |]\n"
 }

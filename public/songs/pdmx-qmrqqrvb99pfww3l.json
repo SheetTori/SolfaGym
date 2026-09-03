@@ -19,5 +19,5 @@
   "baseBpm": 96,
   "unit": "kodaly",
   "chords": [],
-  "abc": "X:1\nM:9/8\nL:1/8\nK:Am clef=treble\nB E E B E ^F G2 A | B E E B A G ^F G A | B E E B E ^F G2 A | B ^c d A B G ^F E D |\nB E E B E ^F G2 A | B E E B A G ^F G A | B E E B E ^F G2 A | B ^c d A B G ^F E D |\nd ^c d =c A ^F G2 A | d ^c d d e ^f g f e | d ^c d =c A ^F G2 A | B ^c d A B G ^F E D |\nB E E B E ^F G2 A | B E E B A G ^F G A | B E E B E ^F G2 A | B ^c d A B G ^F E D |\nd ^c d =c A ^F G2 A | d ^c d d e ^f g f e | a g ^f g f e f2 d | e ^f d c A G ^F G A |]\n"
+  "abc": "X:1\nM:9/8\nL:1/8\nK:Am clef=treble\nBEE BE^F G2 A | BEE BAG ^FGA | BEE BE^F G2 A | B^cd ABG ^FED |\nBEE BE^F G2 A | BEE BAG ^FGA | BEE BE^F G2 A | B^cd ABG ^FED |\nd^cd =cA^F G2 A | d^cd de^f gfe | d^cd =cA^F G2 A | B^cd ABG ^FED |\nBEE BE^F G2 A | BEE BAG ^FGA | BEE BE^F G2 A | B^cd ABG ^FED |\nd^cd =cA^F G2 A | d^cd de^f gfe | ag^f gfe f2 d | e^fd cAG ^FGA |]\n"
 }

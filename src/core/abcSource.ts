@@ -186,3 +186,115 @@ const BAR_TYPES: Record<z.infer<typeof importedBarSchema>['type'], string> = {
   'repeat-end': 'bar_right_repeat',
   'repeat-both': 'bar_dbl_repeat',
 }
+
+/** 4分音符を 1 としたときの 1 小節の長さ */
+export function barQuarterLength(meter: { num: number; den: number }): number {
+  return (4 * meter.num) / meter.den
+}
+
+/**
+ * 小節線を拍子どおりに引き直す。引き直せなければ null。
+ *
+ * 実データには「3/4 の 1 小節が 2.0 + 1.0 に割れている」たぐいの楽譜が多い。
+ * 小節長の最頻値は 96% の曲で拍子と一致しているので、**拍子が正しく
+ * 小節線の位置だけが崩れている**とみなして引き直すのが実態に合う。
+ * 放っておくと譜面の見た目が崩れ、小節を数える処理も狂う。
+ *
+ * ただし繰り返し記号は音楽的な意味を持つので**動かさない**。
+ * 繰り返し記号が小節の途中に来る楽譜は、直しようがないので null を返す。
+ * 音符をまたいで小節線を引く必要がある場合（タイが要る場合）も null を返す。
+ */
+export function rebar(imported: ImportedSong): ImportedSong | null {
+  const expected = barQuarterLength(imported.meter)
+
+  // 「2/2 と書いてあるのに全部の小節が 4 分音符 1 つ分」という楽譜が実在する。
+  // 音価がまるごと 4 倍細かい（または粗い）状態で、小節線を引き直しても
+  // 音価は直らない（単位長が 1/32 のままで譜面が読めない）ので諦める。
+  // 一方、一部の小節だけ長さが違うのは小節線の位置の問題なので引き直せる
+  if (!barLengthsAgreeWithMeter(imported, expected)) return null
+
+  // 弱起の長さ。先頭の小節線を読み飛ばして、最初の小節の中身を測る
+  let head = 0
+  let seenNote = false
+  for (const el of imported.elements) {
+    if (el.kind === 'bar') {
+      if (seenNote) break
+      continue
+    }
+    seenNote = true
+    head += el.ql
+  }
+  const pickup = head > 0 && head < expected - 1e-9 ? head : 0
+
+  const out: ImportedSong['elements'] = []
+  let filled = 0
+  // 現在の小節の目標の長さ。弱起があるぶん最初だけ短い
+  let target = pickup > 0 ? pickup : expected
+
+  for (const el of imported.elements) {
+    if (el.kind === 'bar') {
+      // 終止線・複縦線は再生に影響しないので捨てる。末尾で付け直す。
+      // 繰り返し記号だけは音楽的な意味を持つので位置を保つ
+      if (el.type === 'normal' || el.type === 'double' || el.type === 'final') continue
+
+      if (filled < 1e-9) {
+        // 小節の切れ目にある。直前に引いた小節線を繰り返し記号で置き換える
+        if (out.length > 0 && out[out.length - 1].kind === 'bar') out.pop()
+        out.push(el)
+        target = expected
+        continue
+      }
+      // 小節の途中にある。弱起と足して 1 小節になるなら段落の切れ目として認める
+      if (pickup > 0 && Math.abs(filled + pickup - expected) < 1e-9) {
+        out.push(el)
+        filled = 0
+        target = expected
+        continue
+      }
+      return null // 拍子と辻褄が合わず、動かすこともできない
+    }
+
+    if (el.ql > target - filled + 1e-9) return null // 音符が小節線をまたぐ（タイが要る）
+    out.push(el)
+    filled += el.ql
+    if (target - filled < 1e-9) {
+      out.push({ kind: 'bar', type: 'normal' })
+      filled = 0
+      target = expected
+    }
+  }
+
+  while (out.length > 0 && out[out.length - 1].kind === 'bar') out.pop()
+  if (out.length === 0) return null
+  out.push({ kind: 'bar', type: 'final' })
+
+  return { ...imported, elements: out }
+}
+
+/**
+ * 元データの小節の長さが、拍子と同じ桁に収まっているか。
+ *
+ * どの小節も拍子より短ければ音価が細かすぎ、どの小節も長ければ粗すぎる。
+ * どちらも小節線を引き直しても救えない。
+ */
+function barLengthsAgreeWithMeter(imported: ImportedSong, expected: number): boolean {
+  const fills: number[] = []
+  let current = 0
+  for (const el of imported.elements) {
+    if (el.kind === 'bar') {
+      fills.push(current)
+      current = 0
+    } else {
+      current += el.ql
+    }
+  }
+  fills.push(current)
+
+  const body = fills.filter((f) => f > 0)
+  if (body.length === 0) return false
+  if (Math.max(...body) < expected - 1e-9) return false
+
+  // 先頭と末尾は弱起とその対で短いのが普通なので、下限の判定から外す
+  const inner = body.length > 2 ? body.slice(1, -1) : body
+  return Math.min(...inner) <= expected + 1e-9
+}

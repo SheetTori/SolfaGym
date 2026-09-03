@@ -19,5 +19,5 @@
   "baseBpm": 96,
   "unit": "kodaly",
   "chords": [],
-  "abc": "X:1\nM:2/4\nL:1/16\nK:Dm clef=treble\nA =B c2 B c A2 | d2 d c =B c A2 | A G G F E F D E | F D E2 z2 E2 |\nA =B c2 B c A2 | d2 d c =B c A2 | A G G F F E E D | D C D2 |\nz4 A =B c2 B c A2 | d2 d c =B c A2 | A G G F F E E D | C D E2 |\nz4 A =B c2 B c A2 | d2 d c =B c A2 | A G G F F E E D | D C D2 |\nz4 D E F2 F G A2 | A =B c2 B c A2 | A G G F F E E D | C D E2 z2 D E |\nF2 F G A2 A =B | c2 =B c A2 A G | G F F E E D D C | D8 |]\n"
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Dm clef=treble\nA=Bc2 BcA2 | d2dc =BcA2 | AGGF EFDE | FDE2 z2 E2 |\nA=Bc2 BcA2 | d2dc =BcA2 | AGGF FEED | DCD2 z4 |\nA=Bc2 BcA2 | d2dc =BcA2 | AGGF FEED | CDE2 z4 |\nA=Bc2 BcA2 | d2dc =BcA2 | AGGF FEED | DCD2 z4 |\nDEF2 FGA2 | A=Bc2 BcA2 | AGGF FEED | CDE2 z2 DE |\nF2FG A2A=B | c2=Bc A2AG | GFFE EDDC | D8 |]\n"
 }

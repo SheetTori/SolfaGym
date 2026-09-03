@@ -19,5 +19,5 @@
   "baseBpm": 96,
   "unit": "kodaly",
   "chords": [],
-  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nc | B c A B G E | G A G G B d | e f g d e d |\nB A A A2 c | B c A B G E | G A G G B d | e f g d e c |\nB G G G2 | c | B c A B G E | G A G G B d |\ne f g d e d | B A A A2 c | B c A B G E | G A G G B d |\ne f g d e c | B G G G2 | f | g f g e f g |\nf a g f e d | g f g e f d | e A A A2 c | B c A B G E |\nG A G G B d | e f g d e c | B G G G2 | f |\ng f g e f g | f a g f e d | g f g e f d | e A A A2 c |\nB c A B G E | G A G G B d | e f g d e c | B G G G2 |]\n"
+  "abc": "X:1\nM:6/8\nL:1/8\nK:G clef=treble\nc | BcA BGE | GAG GBd | efg ded |\nBAA A2 c | BcA BGE | GAG GBd | efg dec |\nBGG G2 c | BcA BGE | GAG GBd | efg ded |\nBAA A2 c | BcA BGE | GAG GBd | efg dec |\nBGG G2 f | gfg efg | fag fed | gfg efd |\neAA A2 c | BcA BGE | GAG GBd | efg dec |\nBGG G2 f | gfg efg | fag fed | gfg efd |\neAA A2 c | BcA BGE | GAG GBd | efg dec |\nBGG G2 |]\n"
 }

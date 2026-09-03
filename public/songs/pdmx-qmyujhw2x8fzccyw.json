@@ -19,5 +19,5 @@
   "baseBpm": 96,
   "unit": "kodaly",
   "chords": [],
-  "abc": "X:1\nM:4/4\nL:1/8\nK:A clef=treble\ne2 d e A A A B | =g2 f g B =G B d | e2 d e e d e a | =g e d B B A A A |\ne2 d e A A A B | =g2 f g B =G B d | e2 d e e d e a | =g e d B A3 e |\ne2 d e A A A B | =g2 f g B =G B d | e2 d e e d e a | a2 a =g a e e f |\n=g a g e f d c d | e a a =g a e e a | =g e d B B A A A | a2 a =g a e e f |\n=g a g e f d c d | =g2 a g g e e a | =g e d B A4 | a2 a =g a e e f |\n=g a g e f d c d | e a a =g a e e a | =g e d B B A A A | a2 a =g a e e f |\n=g a g e f d c d | =g2 a g g e e a | =g e d B A4 |]\n"
+  "abc": "X:1\nM:4/4\nL:1/8\nK:A clef=treble\ne2 de AA AB | =g2 fg B=G Bd | e2 de ed ea | =ge dB BA AA |\ne2 de AA AB | =g2 fg B=G Bd | e2 de ed ea | =ge dB A3 e |\ne2 de AA AB | =g2 fg B=G Bd | e2 de ed ea | a2 a=g ae ef |\n=ga ge fd cd | ea a=g ae ea | =ge dB BA AA | a2 a=g ae ef |\n=ga ge fd cd | =g2 ag ge ea | =ge dB A4 | a2 a=g ae ef |\n=ga ge fd cd | ea a=g ae ea | =ge dB BA AA | a2 a=g ae ef |\n=ga ge fd cd | =g2 ag ge ea | =ge dB A4 |]\n"
 }

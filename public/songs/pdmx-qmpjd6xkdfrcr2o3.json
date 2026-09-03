@@ -19,5 +19,5 @@
   "baseBpm": 96,
   "unit": "kodaly",
   "chords": [],
-  "abc": "X:1\nM:2/4\nL:1/16\nK:Am clef=treble\nE2 | A E A B c B c d | e f e c A A B A | G2 B G d G B G |\nG2 B G A2 G2 | A E A B c B c d | e f e c A2 B A | G2 B G d G B G |\nA B c B A2 | E2 | A E A B c B c d | e f e c A A B A |\nG2 B G d G B G | G2 B G A2 G2 | A E A B c B c d | e f e c A2 B A |\nG2 B G d G B G | A B c B A2 | z2 a2 a g e2 e g | a b a g e2 e ^f |\ng2 ^f2 g3 e | d e d B G4 | a2 e2 e2 e g | a b a g e2 e ^f |\ng2 e2 d2 B2 | A B c B A2 | z2 a2 a g e2 e g | a b a g e2 e ^f |\ng2 ^f2 g3 e | d e d B G4 | a2 e2 e2 e g | a b a g e2 e ^f |\ng2 e2 d2 B2 | A B c B A2 |]\n"
+  "abc": "X:1\nM:2/4\nL:1/16\nK:Am clef=treble\nE2 | AEAB cBcd | efec AABA | G2BG dGBG |\nG2BG A2G2 | AEAB cBcd | efec A2BA | G2BG dGBG |\nABcB A2E2 | AEAB cBcd | efec AABA | G2BG dGBG |\nG2BG A2G2 | AEAB cBcd | efec A2BA | G2BG dGBG |\nABcB A2 z2 | a2ag e2eg | abag e2e^f | g2^f2 g3e |\ndedB G4 | a2e2 e2eg | abag e2e^f | g2e2 d2B2 |\nABcB A2 z2 | a2ag e2eg | abag e2e^f | g2^f2 g3e |\ndedB G4 | a2e2 e2eg | abag e2e^f | g2e2 d2B2 |\nABcB A2 |]\n"
 }

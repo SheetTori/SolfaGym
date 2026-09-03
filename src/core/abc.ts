@@ -407,6 +407,20 @@ export interface RenderOptions {
 /** リズム譜で符頭を置く位置: ト音記号の第2間の A */
 const RHYTHM_PITCH: Pitch = { step: 5, alter: 0, octave: 4 }
 
+/** 4分音符。これより短い音符がビームでまとまる */
+const QUARTER = 1 / 4
+
+/**
+ * ビームでひと束にする長さ（全音符を 1 とする）。
+ *
+ * 複合拍子（3/8, 6/8, 9/8, 12/8）は付点4分がひと拍なのでそこで束ね、
+ * それ以外は4分音符ごとに束ねる。
+ */
+function beamGroupLength(meter: { num: number; den: number }): number {
+  if (meter.den >= 8 && meter.num % 3 === 0) return 3 / meter.den
+  return QUARTER
+}
+
 /**
  * ABC 文字列を組み立てる。
  *
@@ -435,31 +449,53 @@ export function renderAbcSource(song: ParsedSong, opts: RenderOptions): string {
 
   const lines: string[] = []
   let music: string[] = []
+  // music[i] を直前の音符に空白なしで繋ぐか。ABC では**空白がビームの切れ目**
+  let beamed: boolean[] = []
   let lyrics: string[] = []
   let barsOnLine = 0
   let barAccidentals = new Map<number, number>()
 
+  // ビームの判定に使う状態
+  const groupLength = beamGroupLength(song.meter)
+  let posInBar = 0
+  let previousGroup: number | null = null
+
+  const push = (token: string, joinToPrevious = false) => {
+    music.push(token)
+    beamed.push(joinToPrevious && music.length > 1)
+  }
+
   const flush = () => {
     if (music.length === 0) return
-    lines.push(music.join(' '))
+    let line = ''
+    for (let i = 0; i < music.length; i++) {
+      line += (i > 0 && !beamed[i] ? ' ' : '') + music[i]
+    }
+    lines.push(line)
     if (opts.syllables && lyrics.some((s) => s !== '*')) lines.push(`w:${lyrics.join(' ')}`)
     music = []
+    beamed = []
     lyrics = []
     barsOnLine = 0
   }
 
   for (const el of song.elements) {
     if (el.kind === 'bar') {
-      music.push(barText(el))
+      push(barText(el))
       barAccidentals = new Map()
+      posInBar = 0
+      previousGroup = null
       barsOnLine++
       if (barsOnLine >= barsPerLine && el.type !== 'bar_left_repeat') flush()
       continue
     }
 
     if (el.kind === 'rest') {
-      music.push(`z${durationSuffix(el.duration, unit)}`)
+      push(`z${durationSuffix(el.duration, unit)}`)
       lyrics.push('*')
+      // 休符はビームを切る
+      posInBar += el.duration
+      previousGroup = null
       continue
     }
 
@@ -479,8 +515,18 @@ export function renderAbcSource(song: ParsedSong, opts: RenderOptions): string {
       }
     }
 
+    // 4分音符より短い音符だけがビームでまとまる。同じ拍のまとまりに
+    // 入っている連続した音符を、空白なしで繋いでひと束にする
+    const group = Math.floor((posInBar + 1e-9) / groupLength)
+    const beamable = el.duration < QUARTER
+    const joinToPrevious = beamable && previousGroup === group
+
     const tie = el.startTie ? '-' : ''
-    music.push(abcPitchText(shown, accidental) + durationSuffix(el.duration, unit) + tie)
+    push(abcPitchText(shown, accidental) + durationSuffix(el.duration, unit) + tie, joinToPrevious)
+
+    posInBar += el.duration
+    previousGroup = beamable ? group : null
+
     lyrics.push(
       el.soundingIndex !== null && opts.syllables?.[el.soundingIndex]
         ? opts.syllables[el.soundingIndex]

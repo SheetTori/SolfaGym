@@ -19,5 +19,5 @@
   "baseBpm": 96,
   "unit": "kodaly",
   "chords": [],
-  "abc": "X:1\nM:6/8\nL:1/8\nK:Em clef=treble\nE | E B B B A G | F D F A G F | E B B B c d |\nA G F E2 E | E G B B A G | F D F A G F | G A B B c d |\nA G F E2 | E | E B B B A G | F D F A G F |\nE B B B c d | A G F E2 E | E G B B A G | F D F A G F |\nG A B B c d | A G F E2 | B | B e e e f g |\nd c B A G F | E e e e f g | f ^d f e2 e | E e e e f g |\nd c B A G F | G A B B c d | A G F E2 | E |\nE B B B A G | F D F A G F | E B B B c d | A G F E2 E |\nE G B B A G | F D F A G F | G A B B c d | A G F E2 |\nB | B e e e f g | d c B A G F | E e e e f g |\nf ^d f e2 e | E e e e f g | d c B A G F | G A B B c d |\nA G F E2 |]\n"
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Em clef=treble\nE | EBB BAG | FDF AGF | EBB Bcd |\nAGF E2 E | EGB BAG | FDF AGF | GAB Bcd |\nAGF E2 E | EBB BAG | FDF AGF | EBB Bcd |\nAGF E2 E | EGB BAG | FDF AGF | GAB Bcd |\nAGF E2 B | Bee efg | dcB AGF | Eee efg |\nf^df e2 e | Eee efg | dcB AGF | GAB Bcd |\nAGF E2 E | EBB BAG | FDF AGF | EBB Bcd |\nAGF E2 E | EGB BAG | FDF AGF | GAB Bcd |\nAGF E2 B | Bee efg | dcB AGF | Eee efg |\nf^df e2 e | Eee efg | dcB AGF | GAB Bcd |\nAGF E2 |]\n"
 }

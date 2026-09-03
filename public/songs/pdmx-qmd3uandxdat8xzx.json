@@ -19,5 +19,5 @@
   "baseBpm": 96,
   "unit": "kodaly",
   "chords": [],
-  "abc": "X:1\nM:2/4\nL:1/16\nK:D clef=treble\nA2 | d c e d f4 | f e g f a4 | f a b a f d f a |\na g e c d2 A2 | d c e d f4 | f e g f a4 | f a b a f d f a |\na g e c d2 | A2 | d c e d f4 | f e g f a4 |\nf a b a f d f a | a g e c d2 A2 | d c e d f4 | f e g f a4 |\nf a b a f d f a | a g e c d2 | A2 | A F A c B G B d |\nc d e c d e f d | A F A c B G B d | c d e c d2 d2 | A F A c B G B d |\nc d e c d e f d | A F A c B G B d | c d e c d2 | A2 |\nA F A c B G B d | c d e c d e f d | A F A c B G B d | c d e c d2 d2 |\nA F A c B G B d | c d e c d e f d | A F A c B G B d | c d e c d2 |]\n"
+  "abc": "X:1\nM:2/4\nL:1/16\nK:D clef=treble\nA2 | dced f4 | fegf a4 | faba fdfa |\nagec d2A2 | dced f4 | fegf a4 | faba fdfa |\nagec d2A2 | dced f4 | fegf a4 | faba fdfa |\nagec d2A2 | dced f4 | fegf a4 | faba fdfa |\nagec d2A2 | AFAc BGBd | cdec defd | AFAc BGBd |\ncdec d2d2 | AFAc BGBd | cdec defd | AFAc BGBd |\ncdec d2A2 | AFAc BGBd | cdec defd | AFAc BGBd |\ncdec d2d2 | AFAc BGBd | cdec defd | AFAc BGBd |\ncdec d2 |]\n"
 }

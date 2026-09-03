@@ -19,5 +19,5 @@
   "baseBpm": 96,
   "unit": "kodaly",
   "chords": [],
-  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nf d d c A A | B G G A2 G | F A A d e f | g f g e a g |\nf d d c A A | B G G A2 G | F A A d e f | g e c d3 |\nf d d c A A | B G G A2 G | F A A d e f | g f g e a g |\nf d d c A A | B G G A2 G | F A A d e f | g e c d3 |\nF A A B A G | F A A B A G | F A A d e f | g f g e a g |\nf d d c A A | B G G A2 G | F A A d e f | g e c d3 |\nF A A B A G | F A A B A G | F A A d e f | g f g e a g |\nf d d c A A | B G G A2 G | F A A d e f | g e c d3 |]\n"
+  "abc": "X:1\nM:6/8\nL:1/8\nK:D clef=treble\nfdd cAA | BGG A2 G | FAA def | gfg eag |\nfdd cAA | BGG A2 G | FAA def | gec d3 |\nfdd cAA | BGG A2 G | FAA def | gfg eag |\nfdd cAA | BGG A2 G | FAA def | gec d3 |\nFAA BAG | FAA BAG | FAA def | gfg eag |\nfdd cAA | BGG A2 G | FAA def | gec d3 |\nFAA BAG | FAA BAG | FAA def | gfg eag |\nfdd cAA | BGG A2 G | FAA def | gec d3 |]\n"
 }

@@ -19,5 +19,5 @@
   "baseBpm": 96,
   "unit": "kodaly",
   "chords": [],
-  "abc": "X:1\nM:6/8\nL:1/8\nK:Em clef=treble\nG2 e d B G | A B G d B G | G2 e d B G | A2 A B G E |\nG2 e d B G | B A B d e f | g f e d B G | A G A B G E |\nG2 e d B G | A B G d B G | G2 e d B G | A2 A B G E |\nG2 e d B G | B A B d e f | g f e d B G | A G A B G E |\ng b g f a f | e g e d e f | g f g a g a | b a b a f d |\ng b g f a f | e g e d e f | g f e d B G | A G A B G E |\ng b g f a f | e g e d e f | g f g a g a | b a b a f d |\ng b g f a f | e g e d e f | g f e d B G | A G A B G E |]\n"
+  "abc": "X:1\nM:6/8\nL:1/8\nK:Em clef=treble\nG2 e dBG | ABG dBG | G2 e dBG | A2 A BGE |\nG2 e dBG | BAB def | gfe dBG | AGA BGE |\nG2 e dBG | ABG dBG | G2 e dBG | A2 A BGE |\nG2 e dBG | BAB def | gfe dBG | AGA BGE |\ngbg faf | ege def | gfg aga | bab afd |\ngbg faf | ege def | gfe dBG | AGA BGE |\ngbg faf | ege def | gfg aga | bab afd |\ngbg faf | ege def | gfe dBG | AGA BGE |]\n"
 }

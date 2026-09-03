@@ -252,3 +252,78 @@ describe('再生イベント', () => {
     expect(events.map((e) => e.index)).toEqual(syllables.map((_, i) => i))
   })
 })
+
+describe('ビーム（連桁）', () => {
+  const key: Key = { tonic: parsePitch('C4'), mode: 'major' }
+  /** ABC では音符間の空白がビームの切れ目。譜面本体の行だけ取り出す */
+  const beams = (abc: string) =>
+    renderAbcSource(parseAbc(abc), {
+      variant: 'rhythm',
+      originalKey: key,
+      targetKey: key,
+      syllables: null,
+    })
+      .split('\n')
+      .filter((l) => l && !/^[XTMLK]:/.test(l))
+      .join(' ')
+
+  it('4/4 の8分音符は拍ごとに2つずつ束ねる', () => {
+    expect(beams('X:1\nM:4/4\nL:1/8\nK:C\nC C D D E E F F |]\n')).toBe('AA AA AA AA |]')
+  })
+
+  it('16分音符は拍ごとに4つずつ束ねる', () => {
+    expect(beams('X:1\nM:4/4\nL:1/16\nK:C\nCCDD EEFF GGAA BBcc |]\n')).toBe(
+      'AAAA AAAA AAAA AAAA |]',
+    )
+  })
+
+  it('複合拍子は付点4分ごとに束ねる', () => {
+    expect(beams('X:1\nM:6/8\nL:1/8\nK:C\nC D E F G A |]\n')).toBe('AAA AAA |]')
+  })
+
+  it('4分音符以上は束ねない', () => {
+    expect(beams('X:1\nM:4/4\nL:1/4\nK:C\nC D E F |]\n')).toBe('A A A A |]')
+  })
+
+  it('休符はビームを切る', () => {
+    expect(beams('X:1\nM:4/4\nL:1/8\nK:C\nC C z2 D D E2 |]\n')).toBe('AA z2 AA A2 |]')
+  })
+
+  it('小節線はビームを切る', () => {
+    expect(beams('X:1\nM:4/4\nL:1/8\nK:C\nC C C C C C C C | D D D D D D D D |]\n')).toBe(
+      'AA AA AA AA | AA AA AA AA |]',
+    )
+  })
+
+  it('付点8分と16分は同じ拍の中で束ねる', () => {
+    expect(beams('X:1\nM:4/4\nL:1/16\nK:C\nC3 D E3 F G3 A B3 c |]\n')).toBe('A3A A3A A3A A3A |]')
+  })
+
+  it('タイがあってもビームは切れない', () => {
+    expect(beams('X:1\nM:4/4\nL:1/8\nK:C\nC C D- D E E F F |]\n')).toBe('AA A-A AA AA |]')
+  })
+
+  it('実音譜でも同じように束ねる', () => {
+    const abc = renderAbcSource(parseAbc('X:1\nM:4/4\nL:1/8\nK:C\nC D E F G A B c |]\n'), {
+      variant: 'pitch',
+      originalKey: key,
+      targetKey: key,
+      syllables: null,
+    })
+    expect(abc).toContain('CD EF GA Bc')
+  })
+
+  it('ビームを入れても読み直した結果は変わらない', () => {
+    const src = 'X:1\nM:4/4\nL:1/8\nK:C\nC C D D E E F F | G2 A A B B c2 |]\n'
+    const rendered = renderAbcSource(parseAbc(src), {
+      variant: 'pitch',
+      originalKey: key,
+      targetKey: key,
+      syllables: null,
+    })
+    const back = parseAbc(rendered)
+    expect(soundingNotes(back).map((n) => pitchName(n.pitch!))).toEqual(
+      soundingNotes(parseAbc(src)).map((n) => pitchName(n.pitch!)),
+    )
+  })
+})

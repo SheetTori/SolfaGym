@@ -19,5 +19,5 @@
   "baseBpm": 96,
   "unit": "kodaly",
   "chords": [],
-  "abc": "X:1\nM:6/8\nL:1/8\nK:E clef=treble\nA2 B c2 A | B2 G A2 F | c A F F A F | c A F F A F |\nA2 B c2 A | B2 G A2 F | B G E E G E | B G E E G E |\nA2 B c2 A | B2 G A2 F | c A F F A F | c A F F A F |\nA2 B c2 A | B2 G A2 F | B G E E G E | B G E E G E |\ne2 c =d2 B | c2 A c =d e | c A F F A F | c A F F A F |\ne2 c =d2 B | c2 A c =d e | B G E E G E | B G E E G E |\ne2 c =d2 B | c2 A c =d e | c A F F A F | c A F F A F |\ne2 c =d2 B | c2 A c =d e | B G E E G E | B G E E G E |]\n"
+  "abc": "X:1\nM:6/8\nL:1/8\nK:E clef=treble\nA2 B c2 A | B2 G A2 F | cAF FAF | cAF FAF |\nA2 B c2 A | B2 G A2 F | BGE EGE | BGE EGE |\nA2 B c2 A | B2 G A2 F | cAF FAF | cAF FAF |\nA2 B c2 A | B2 G A2 F | BGE EGE | BGE EGE |\ne2 c =d2 B | c2 A c=de | cAF FAF | cAF FAF |\ne2 c =d2 B | c2 A c=de | BGE EGE | BGE EGE |\ne2 c =d2 B | c2 A c=de | cAF FAF | cAF FAF |\ne2 c =d2 B | c2 A c=de | BGE EGE | BGE EGE |]\n"
 }
