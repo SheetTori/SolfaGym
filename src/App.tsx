@@ -1,5 +1,6 @@
 import { Suspense, lazy } from 'react'
 import { HashRouter, Link, Route, Routes } from 'react-router'
+import { formatBuildTime } from './core/buildTime'
 import { Credits } from './screens/Credits'
 import { Settings } from './screens/Settings'
 import { SongList } from './screens/SongList'
@@ -42,8 +43,24 @@ export function App() {
               <Route path="*" element={<SongList />} />
             </Routes>
           </Suspense>
+          <BuildStamp />
         </div>
       </HashRouter>
     </StoreProvider>
+  )
+}
+
+/**
+ * いつのビルドを見ているかを出す。
+ * デプロイしたのに変わっていないように見えるとき、キャッシュを疑うか
+ * デプロイの失敗を疑うかをここだけで切り分けられる。
+ */
+function BuildStamp() {
+  const built = formatBuildTime(__BUILD_TIME__)
+  if (!built) return null
+  return (
+    <footer className="mx-auto max-w-3xl px-4 py-6 text-xs text-slate-400 dark:text-slate-600">
+      最終更新 {built}（日本時間）
+    </footer>
   )
 }
