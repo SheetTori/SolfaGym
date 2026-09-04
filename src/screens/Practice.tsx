@@ -157,11 +157,17 @@ export function Practice() {
   // コード進行を持たない曲では「伴奏で歌う」を出さない
   const steps = useMemo(() => buildSteps((analyzed?.meta.chords.length ?? 0) > 0), [analyzed])
 
+  // キーと曲名は最後のステップで初めて明かす
+  const revealed = step === steps.length - 1
+  // 楽譜には T: 行として曲名が出る。ヘッダーだけ伏せても、そこから割れてしまう
+  const hideTitle = blind && !revealed
+
   const derived = useMemo(() => {
     if (!analyzed || !choice) return null
     const targetKey: Key = choice.key
     const parsed = analyzed.parsed
     const syllables = store.settings.showSolfa ? analyzed.syllables : null
+    const title = hideTitle ? `Lv${analyzed.level} の曲` : analyzed.meta.title
 
     return {
       targetKey,
@@ -171,7 +177,7 @@ export function Practice() {
         originalKey: analyzed.originalKey,
         targetKey,
         syllables,
-        title: analyzed.meta.title,
+        title,
         barsPerLine,
       }),
       pitchAbc: renderAbcSource(parsed, {
@@ -179,7 +185,7 @@ export function Practice() {
         originalKey: analyzed.originalKey,
         targetKey,
         syllables,
-        title: analyzed.meta.title,
+        title,
         barsPerLine,
       }),
       soundingToElement: soundingToElementIndex(parsed),
@@ -191,7 +197,7 @@ export function Practice() {
         chords: analyzed.meta.chords,
       }),
     }
-  }, [analyzed, choice, store.settings.showSolfa, barsPerLine])
+  }, [analyzed, choice, store.settings.showSolfa, barsPerLine, hideTitle])
 
   const stop = useCallback(() => {
     handleRef.current?.stop()
@@ -280,8 +286,6 @@ export function Practice() {
   // 速さは曲ごとの基準テンポに対する倍率として持つが、表示と操作は BPM で行う。
   // 「85%」より「82 BPM」のほうが、実際に何拍で歌うのかが分かる。
   const tempo = bpmRange(analyzed.meta.baseBpm, tempoRatio)
-  // キーと曲名は最後のステップで初めて明かす
-  const revealed = step === steps.length - 1
 
   return (
     <div className="mx-auto max-w-3xl p-4 pb-24">
