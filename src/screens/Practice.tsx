@@ -4,6 +4,7 @@ import { renderAbcSource, soundingToElementIndex } from '../core/abc'
 import { buildPlaybackPlan } from '../core/playback'
 import { pitchName, toMidi } from '../core/pitch'
 import type { Key } from '../core/solfa'
+import { bpmRange, ratioFromBpm } from '../core/tempo'
 import { analyzeSong, type AnalyzedSong } from '../core/song'
 import { chooseKey, type ChooseKeyResult } from '../core/transpose'
 import { getEngine, preloadAudio, type PlaybackHandle } from '../audio/engine'
@@ -41,15 +42,8 @@ interface StepDef {
 
 const ALL_STEPS: StepDef[] = [
   {
-    title: '調を聴く',
-    hint: 'do-mi-so が1音ずつ鳴り、1拍おいて三音同時に響く（短調は la-do-mi）。この高さと響きを調のセンターとして掴む。',
-    variant: 'rhythm',
-    melody: false,
-    accompaniment: false,
-  },
-  {
     title: '自力で歌う',
-    hint: 'リズムと階名だけを見て、音の助けなしで歌う。ここが訓練の本体。',
+    hint: 'リズムと階名だけを見て、音の助けなしで歌う。ここが訓練の本体。調を見失ったら「調を鳴らす」で取り直す。',
     variant: 'rhythm',
     melody: false,
     accompaniment: false,
@@ -101,6 +95,7 @@ export function Practice() {
   const [step, setStep] = useState(0)
   const [cursor, setCursor] = useState<number | null>(null)
   const [playing, setPlaying] = useState(false)
+  const [cueing, setCueing] = useState(false)
 
   const handleRef = useRef<PlaybackHandle | null>(null)
   const tempoRatio = store.settings.tempoRatio
@@ -160,10 +155,7 @@ export function Practice() {
   }, [])
 
   // コード進行を持たない曲では「伴奏で歌う」を出さない
-  const steps = useMemo(
-    () => buildSteps((analyzed?.meta.chords.length ?? 0) > 0),
-    [analyzed],
-  )
+  const steps = useMemo(() => buildSteps((analyzed?.meta.chords.length ?? 0) > 0), [analyzed])
 
   const derived = useMemo(() => {
     if (!analyzed || !choice) return null
@@ -219,16 +211,6 @@ export function Practice() {
       // これを外すと自動再生ポリシーにより無音になる。
       const engine = await getEngine()
 
-      if (step === 0) {
-        await engine.playTonicChord(
-          derived.targetTonicMidi,
-          analyzed.meta.mode,
-          analyzed.meta.baseBpm * tempoRatio,
-        )
-        setPlaying(false)
-        return
-      }
-
       handleRef.current = engine.playScore({
         plan: derived.plan,
         baseBpm: analyzed.meta.baseBpm,
@@ -248,6 +230,31 @@ export function Practice() {
       setPlaying(false)
     }
   }, [analyzed, derived, step, steps, tempoRatio, store.settings.metronome])
+
+  /**
+   * 主和音を鳴らす。どのステップからでも押せる。
+   *
+   * 自力で歌っている最中に調のセンターを見失うことがよくあるので、
+   * 「調を聴く」を独立したステップにせず、いつでも聴き直せるボタンにした。
+   */
+  const playTonic = useCallback(async () => {
+    if (!analyzed || !derived) return
+    stop()
+    setCueing(true)
+    setError(null)
+    try {
+      const engine = await getEngine()
+      await engine.playTonicChord(
+        derived.targetTonicMidi,
+        analyzed.meta.mode,
+        analyzed.meta.baseBpm * tempoRatio,
+      )
+    } catch (e) {
+      setError(`音を鳴らせませんでした: ${(e as Error).message}`)
+    } finally {
+      setCueing(false)
+    }
+  }, [analyzed, derived, stop, tempoRatio])
 
   const changeStep = (next: number) => {
     stop()
@@ -270,6 +277,9 @@ export function Practice() {
 
   const def = steps[step]
   const progress = progressOf(store, analyzed.meta.id)
+  // 速さは曲ごとの基準テンポに対する倍率として持つが、表示と操作は BPM で行う。
+  // 「85%」より「82 BPM」のほうが、実際に何拍で歌うのかが分かる。
+  const tempo = bpmRange(analyzed.meta.baseBpm, tempoRatio)
   // キーと曲名は最後のステップで初めて明かす
   const revealed = step === steps.length - 1
 
@@ -340,30 +350,35 @@ export function Practice() {
           onClick={playing ? stop : play}
           className="rounded bg-sky-600 px-4 py-2 font-medium text-white hover:bg-sky-700"
         >
-          {playing ? '停止' : step === 0 ? '調を鳴らす' : '再生'}
+          {playing ? '停止' : '再生'}
         </button>
 
-        {step > 0 && (
-          <label className="flex items-center gap-2 text-sm">
-            <span className="text-slate-500">速さ</span>
-            <input
-              type="range"
-              min={50}
-              max={120}
-              step={5}
-              value={Math.round(tempoRatio * 100)}
-              onChange={(e) => {
-                const ratio = Number(e.target.value) / 100
-                update((s) => ({ ...s, settings: { ...s.settings, tempoRatio: ratio } }))
-                // 再生中でもスケジュール済みのイベントごと追従する
-                handleRef.current?.setTempo(ratio)
-              }}
-            />
-            <span className="w-10 tabular-nums text-slate-500">
-              {Math.round(tempoRatio * 100)}%
-            </span>
-          </label>
-        )}
+        <button
+          type="button"
+          onClick={playTonic}
+          disabled={cueing}
+          className="rounded border border-sky-600 px-3 py-2 text-sm font-medium text-sky-700 hover:bg-sky-50 disabled:opacity-50 dark:text-sky-400 dark:hover:bg-sky-950"
+        >
+          {cueing ? '鳴らしています…' : '調を鳴らす'}
+        </button>
+
+        <label className="flex items-center gap-2 text-sm">
+          <span className="text-slate-500">速さ</span>
+          <input
+            type="range"
+            min={tempo.minBpm}
+            max={tempo.maxBpm}
+            step={2}
+            value={tempo.bpm}
+            onChange={(e) => {
+              const ratio = ratioFromBpm(analyzed.meta.baseBpm, Number(e.target.value))
+              update((s) => ({ ...s, settings: { ...s.settings, tempoRatio: ratio } }))
+              // 再生中でもスケジュール済みのイベントごと追従する
+              handleRef.current?.setTempo(ratio)
+            }}
+          />
+          <span className="w-16 tabular-nums text-slate-500">{tempo.bpm} BPM</span>
+        </label>
 
         <label className="flex items-center gap-1.5 text-sm text-slate-600 dark:text-slate-400">
           <input
@@ -391,7 +406,7 @@ export function Practice() {
       <p className="mb-6 text-xs text-slate-400">
         {revealed
           ? `キー: ${analyzed.meta.mode === 'major' ? 'do' : 'la'} = ${pitchName(choice.key.tonic).replace(/-?\d+$/, '')}`
-          : 'キーは曲を開くたびにランダムに変わります（Step 4 で判明）'}
+          : `キーは曲を開くたびにランダムに変わります（「${steps[steps.length - 1].title}」で判明）`}
       </p>
 
       {revealed && (
